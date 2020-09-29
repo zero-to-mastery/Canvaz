@@ -16,6 +16,8 @@ TBD
 > If you've never made a pull request before, or participated in an open-source project, we recommend taking a look at our [Start Here Guidelines](https://github.com/zero-to-mastery/start-here-guidelines). This repo has everything you need to learn about open-source, with a step-by-step guide to making your very first PR.
 > Once you've got your feet wet, you're ready to come back and dive into Hacktoberfest fun!
 
+> **All discussions around this event can now be had in our #hacktoberfest-2020 channel on Discord!**
+
 1. First up you need to fork (make a copy) of this repo to your Github account.
 2. Clone (download) your fork to your computer
 3. Set your streams so you can sync your clone with the original repo (get the latest updates)
@@ -35,4 +37,7 @@ TBD
 10. Create a pull request to have the changes merged from your fork into the origin
 11. [Tweet about making your first Hacktoberfest pull request](https://ctt.ac/6TNVS)
 
-> Congratulations! You are now one pull request closer to getting that free t-shirt. Repeat steps 4-8 until you have made at least 4 qualifying pull requests. You can check how many qualifying pull requests you have made at <https://hacktoberfest.digitalocean.com/profile> Have Fun and Happy Coding!
+> Congratulations! You are now one pull request closer to getting that free t-shirt. Why not have a go at the [HTML challenge](https://github.com/zero-to-mastery/Keiko-Corp) or the [Python Challenge](https://github.com/zero-to-mastery/ascii-art). You can check how many qualifying pull requests you have made at <https://hacktoberfest.digitalocean.com/profile> Have Fun and Happy Coding!
+
+## Disclaimer
+Zero To Mastery receive no commission or incentives for your participating in either this project or entering the Hacktoberfest event. 
