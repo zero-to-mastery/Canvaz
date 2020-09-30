@@ -3,14 +3,17 @@
 
 body {
   text-align: center;
-	background-color: #828085;
-	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 80 40' width='80' height='40'%3E%3Cpath fill='%23a9f4bb' fill-opacity='0.4' d='M0 40a19.96 19.96 0 0 1 5.9-14.11 20.17 20.17 0 0 1 19.44-5.2A20 20 0 0 1 20.2 40H0zM65.32.75A20.02 20.02 0 0 1 40.8 25.26 20.02 20.02 0 0 1 65.32.76zM.07 0h20.1l-.08.07A20.02 20.02 0 0 1 .75 5.25 20.08 20.08 0 0 1 .07 0zm1.94 40h2.53l4.26-4.24v-9.78A17.96 17.96 0 0 0 2 40zm5.38 0h9.8a17.98 17.98 0 0 0 6.67-16.42L7.4 40zm3.43-15.42v9.17l11.62-11.59c-3.97-.5-8.08.3-11.62 2.42zm32.86-.78A18 18 0 0 0 63.85 3.63L43.68 23.8zm7.2-19.17v9.15L62.43 2.22c-3.96-.5-8.05.3-11.57 2.4zm-3.49 2.72c-4.1 4.1-5.81 9.69-5.13 15.03l6.61-6.6V6.02c-.51.41-1 .85-1.48 1.33zM17.18 0H7.42L3.64 3.78A18 18 0 0 0 17.18 0zM2.08 0c-.01.8.04 1.58.14 2.37L4.59 0H2.07z'%3E%3C/path%3E%3C/svg%3E");
+  background-color: #828085;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 80 40' width='80' height='40'%3E%3Cpath fill='%23a9f4bb' fill-opacity='0.4' d='M0 40a19.96 19.96 0 0 1 5.9-14.11 20.17 20.17 0 0 1 19.44-5.2A20 20 0 0 1 20.2 40H0zM65.32.75A20.02 20.02 0 0 1 40.8 25.26 20.02 20.02 0 0 1 65.32.76zM.07 0h20.1l-.08.07A20.02 20.02 0 0 1 .75 5.25 20.08 20.08 0 0 1 .07 0zm1.94 40h2.53l4.26-4.24v-9.78A17.96 17.96 0 0 0 2 40zm5.38 0h9.8a17.98 17.98 0 0 0 6.67-16.42L7.4 40zm3.43-15.42v9.17l11.62-11.59c-3.97-.5-8.08.3-11.62 2.42zm32.86-.78A18 18 0 0 0 63.85 3.63L43.68 23.8zm7.2-19.17v9.15L62.43 2.22c-3.96-.5-8.05.3-11.57 2.4zm-3.49 2.72c-4.1 4.1-5.81 9.69-5.13 15.03l6.61-6.6V6.02c-.51.41-1 .85-1.48 1.33zM17.18 0H7.42L3.64 3.78A18 18 0 0 0 17.18 0zM2.08 0c-.01.8.04 1.58.14 2.37L4.59 0H2.07z'%3E%3C/path%3E%3C/svg%3E");
   padding: 0;
   margin: 0;
 }
 
 /* Overrides Browser Defaults */
-p, h3, a, ul {
+p,
+h3,
+a,
+ul {
   font-family: 'Shadows Into Light', sans-serif;
   text-decoration: none;
   color: #524b3f;
@@ -23,12 +26,13 @@ p, h3, a, ul {
 .header {
   position: relative;
   top: -10px;
-  background: rgba(27, 242, 127, .5);
+  background: rgba(27, 242, 127, 0.5);
   padding: 2em;
   border-bottom: 1px solid rgba(255, 255, 255, 0.89);
 }
 
-.header h1, h2 {
+.header h1,
+h2 {
   margin: 10px;
   font-family: 'Gloria Hallelujah', cursive;
 }
@@ -62,7 +66,7 @@ h2 {
 }
 
 .flex li {
-  background: rgba(27, 242, 127, .5);
+  background: rgba(27, 242, 127, 0.5);
   border-radius: 10px;
   border: 1.5px solid #ffffffa2;
   margin-top: 20px;
@@ -75,9 +79,9 @@ h2 {
 }
 
 .card {
-  width: calc(100% * (1/2));
+  width: calc(100% * (1 / 2));
   margin: 20px 10px;
-  transition-duration: .5s;
+  transition-duration: 0.5s;
 }
 .card:hover {
   transform: scale(1.02);
@@ -92,7 +96,7 @@ h2 {
   padding: 5px;
   background: #948b7a;
   object-fit: cover;
-  margin-top: 20px /*Extra */
+  margin-top: 20px; /*Extra */
 }
 
 .flex-content {
@@ -117,11 +121,11 @@ h2 {
   color: #524b3f;
   text-transform: capitalize;
   padding: 7px 10px 15px 10px;
-  line-height: 15px
+  line-height: 15px;
 }
 
-.author>a:hover {
-  color: rgb(255, 255, 255)
+.author > a:hover {
+  color: rgb(255, 255, 255);
 }
 
 #footer {
@@ -131,7 +135,7 @@ h2 {
   color: rgb(153, 153, 153);
   font-size: 1.1rem;
   font-family: 'Open Sans', sans-serif;
-  border-top: 1px solid rgba(255, 255, 255, 0.89)
+  border-top: 1px solid rgba(255, 255, 255, 0.89);
 }
 
 /* ============================================= */
@@ -139,23 +143,23 @@ h2 {
 /* ============================================= */
 
 @media only screen and (min-width: 600px) {
-.card {
-  width: calc(100% * (1/3));
-}
+  .card {
+    width: calc(100% * (1 / 3));
+  }
 
-.card img {
-  top: -45px;
-  width: 10vw;
-  height: 10vw;
-}
+  .card img {
+    top: -45px;
+    width: 10vw;
+    height: 10vw;
+  }
 
-.art-title {
-  font-size: 3.0vw;
-  padding-top: 25px;
-}
-.author a {
-  font-size: 2.1vw
-}
+  .art-title {
+    font-size: 3vw;
+    padding-top: 25px;
+  }
+  .author a {
+    font-size: 2.1vw;
+  }
 }
 
 @media only screen and (min-width: 900px) {
@@ -182,6 +186,6 @@ h2 {
     padding-top: 8px;
   }
   .author a {
-    font-size: 1.6vw
+    font-size: 1.6vw;
   }
 }
