@@ -1,0 +1,16 @@
+.container {
+	background: #0d0d0d;
+	margin: 0;
+	height: 100vh;
+	width: 100vw;
+	position: relative;
+}
+
+#canvas {
+	background: #00CFC1;
+	border: 10px solid #AF3800;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
