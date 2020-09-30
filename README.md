@@ -28,7 +28,6 @@ Once you've got your feet wet, you're ready to come back and dive into Hacktober
 
 For more information about Canvas, you can read its [documentation](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API), and do a [tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)!
 
-
 ## How to contribute
 
 1. First up you need to fork (make a copy) of this repo to your Github account.
@@ -37,10 +36,9 @@ For more information about Canvas, you can read its [documentation](https://deve
 
 3. Set your streams so you can sync your clone with the original repo (get the latest updates)
 
-    - `git remote add upstream https://github.com/zero-to-mastery/Canvas-Creations.git`
-    - `git pull upstream master`
-    - The above 2 commands will synchronize your forked version of the project with the actual repository.
-
+   - `git remote add upstream https://github.com/zero-to-mastery/Canvas-Creations.git`
+   - `git pull upstream master`
+   - The above 2 commands will synchronize your forked version of the project with the actual repository.
 
 4. Create a branch
 
@@ -62,17 +60,17 @@ let cards = [
   //  Add your card in this section
   {
     artName: 'welcome robot',
-    pageLink: "./Art/joy/robot.html",
-    imageLink: "./Art/joy/robot.png",
-    author: "Joy",
-    githubLink: "https://github.com/royranger",
-  }
-]
+    pageLink: './Art/joy/robot.html',
+    imageLink: './Art/joy/robot.png',
+    author: 'Joy',
+    githubLink: 'https://github.com/royranger',
+  },
+];
 ```
 
 11. Pull from the upstream again, like we did in step 3. This is to ensure we still have the latest code.
-    - `git pull upstream master`
 
+    - `git pull upstream master`
 
 12. Commit and push the code to your fork
 
@@ -80,11 +78,9 @@ let cards = [
 
 14. [Tweet about making your first Hacktoberfest pull request!](https://ctt.ac/ks767)
 
-
-
-
 > Congratulations! You are now one pull request closer to getting that free t-shirt. Why not have a go at the [HTML challenge](https://github.com/zero-to-mastery/Keiko-Corp) or the [Python Challenge](https://github.com/zero-to-mastery/ascii-art)? You can check how many qualifying pull requests you have made at <https://hacktoberfest.digitalocean.com/profile> .
-Have Fun and Happy Coding!
+> Have Fun and Happy Coding!
 
 ## Disclaimer
+
 Zero To Mastery receives no commission or incentives for your participating in either this project or entering the Hacktoberfest event.
