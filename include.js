@@ -68,7 +68,14 @@ let cards = [
     pageLink: './Art/ravi/index.html',
     imageLink: './Art/ravi/German_Flag.jpg',
     author: 'Ravi',
-    githubLink: 'https://github.com/rav291',
+    githubLink: 'https://github.com/rav291'
+  },
+  {
+    artName: 'the face of doom',
+    pageLink: './Art/velada/index.html',
+    imageLink: './Art/velada/canvas.png',
+    author: 'velada',
+    githubLink: 'https://github.com/annima24'
   },
 ];
 
