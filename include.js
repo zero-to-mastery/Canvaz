@@ -14,16 +14,17 @@ let cards = [
     author: 'ctq3103',
     githubLink: 'https://github.com/ctq3103'
   },
+	{
     artName: 'This is Arttttttt',
     pageLink: './Art/christine-aqui/caqui.html',
-    imageLink: '/Art/christine-aqui/caqui.png',
+    imageLink: './Art/christine-aqui/caqui.png',
     author: 'christine-aqui',
     githubLink: 'https://github.com/christine-aqui'
   },
   {
     artName: 'World of machine learning',
     pageLink: './Art/vivek2509/machine_learning.html',
-    imageLink: '/Art/vivek2509/machine_learning.png',
+    imageLink: './Art/vivek2509/machine_learning.png',
     author: 'Vivek2509',
     githubLink: 'https://github.com/Vivek2509'
   },
@@ -37,20 +38,21 @@ let cards = [
   {
     artName: '3 bouncing balls',
     pageLink: './Art/shamika-kumar/index.html',
-    imageLink: '/Art/shamika-kumar/shamika-art.gif',
+    imageLink: './Art/shamika-kumar/shamika-art.gif',
     author: 'shamika-kumar',
     githubLink: 'https://github.com/shamikakumar'
   },
+	{
     artName: 'Flower',
     pageLink: './Art/Neha/index.html',
-    imageLink: '/Art/Neha/flower.png',
+    imageLink: './Art/Neha/flower.png',
     author: 'Neha',
     githubLink: 'https://github.com/Neha045'
   },
   {
     artName: 'Diamond',
     pageLink: './Art/ab510/diamond.html',
-    imageLink: '/Art/ab510/diamond.png',
+    imageLink: './Art/ab510/diamond.png',
     author: 'ab510',
     githubLink: 'https://github.com/ab510'
   },
