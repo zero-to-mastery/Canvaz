@@ -89,7 +89,7 @@ function init() {
         alert('GameOver!');
         game_over = true;
       }
-    },
+    }
   };
   snake.createSnake();
 
@@ -143,7 +143,7 @@ function getRandomFood() {
   var food = {
     x: foodX,
     y: foodY,
-    color: foodColors[i],
+    color: foodColors[i]
   };
   return food;
 }

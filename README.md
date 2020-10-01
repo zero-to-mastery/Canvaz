@@ -63,8 +63,8 @@ let cards = [
     pageLink: './Art/joy/robot.html',
     imageLink: './Art/joy/robot.png',
     author: 'Joy',
-    githubLink: 'https://github.com/royranger',
-  },
+    githubLink: 'https://github.com/royranger'
+  }
 ];
 ```
 
