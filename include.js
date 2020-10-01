@@ -28,11 +28,19 @@ let cards = [
     githubLink: 'https://github.com/Vivek2509'
   },
   {
+    artName: 'Hacktober Bannner',
+    pageLink: './Art/antonio-trajanovski/index.html',
+    imageLink: './Art/antonio-trajanovski/banner.png',
+    author: 'Antonio Trajanovski',
+    githubLink: 'https://github.com/antoniotrajanovski'
+  },
+  {
     artName: '3 bouncing balls',
     pageLink: './Art/shamika-kumar/index.html',
     imageLink: '/Art/shamika-kumar/shamika-art.gif',
     author: 'shamika-kumar',
-    githubLink: 'https://github.com/shamikakumar',
+    githubLink: 'https://github.com/shamikakumar'
+  },
     artName: 'Flower',
     pageLink: './Art/Neha/index.html',
     imageLink: '/Art/Neha/flower.png',
