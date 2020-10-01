@@ -1,6 +1,13 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'Welocme To Hacktoberfest',
+    pageLink: './Art/Utkarsh2604/index.html',
+    imageLink: './Art/Utkarsh2604/Screenshot.png',
+    author: 'Utkarsh',
+    githubLink: 'https://github.com/Utkarsh2604',
+  },
+  {
     artName: 'welcome robot',
     pageLink: './Art/joy/robot.html',
     imageLink: './Art/joy/robot.png',
