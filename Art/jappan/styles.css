@@ -1,0 +1,7 @@
+#mycanvas {
+  width: 800px;
+  height: 400px;
+  background-image: url('assets/bg.jpg');
+  border: 5px solid orange;
+  margin: 20px;
+}
