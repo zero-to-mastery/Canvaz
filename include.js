@@ -5,21 +5,27 @@ let cards = [
     pageLink: './Art/joy/robot.html',
     imageLink: './Art/joy/robot.png',
     author: 'joy',
-    githubLink: 'https://github.com/royranger',
+    githubLink: 'https://github.com/royranger'
   },
   {
+    artName: 'lollipop',
+    pageLink: './Art/ctq3103/lollipop.html',
+    imageLink: './Art/ctq3103/lollipop.png',
+    author: 'ctq3103',
+    githubLink: 'https://github.com/ctq3103'
+  },
     artName: 'This is Arttttttt',
     pageLink: './Art/christine-aqui/caqui.html',
     imageLink: '/Art/christine-aqui/caqui.png',
     author: 'christine-aqui',
-    githubLink: 'https://github.com/christine-aqui',
+    githubLink: 'https://github.com/christine-aqui'
   },
   {
     artName: 'Flower',
     pageLink: './Art/Neha/index.html',
     imageLink: '/Art/Neha/flower.png',
     author: 'Neha',
-    githubLink: 'https://github.com/Neha045',
+    githubLink: 'https://github.com/Neha045'
   },
 ];
 
