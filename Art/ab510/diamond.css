@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.container {
+  background: white;
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+}
+
+#canvas {
+  background: white;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}

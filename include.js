@@ -48,6 +48,13 @@ let cards = [
     githubLink: 'https://github.com/Neha045'
   },
   {
+    artName: 'Diamond',
+    pageLink: './Art/ab510/diamond.html',
+    imageLink: '/Art/ab510/diamond.png',
+    author: 'ab510',
+    githubLink: 'https://github.com/ab510'
+  },
+  {
     artName: 'The German Flag',
     pageLink: './Art/ravi/index.html',
     imageLink: './Art/ravi/German_Flag.jpg',
