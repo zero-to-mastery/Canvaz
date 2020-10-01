@@ -14,6 +14,13 @@ let cards = [
     author: 'christine-aqui',
     githubLink: 'https://github.com/christine-aqui',
   },
+  {
+    artName: 'Flower',
+    pageLink: './Art/Neha/index.html',
+    imageLink: '/Art/Neha/flower.png',
+    author: 'Neha',
+    githubLink: 'https://github.com/Neha045',
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
