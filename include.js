@@ -7,6 +7,13 @@ let cards = [
     author: 'joy',
     githubLink: 'https://github.com/royranger',
   },
+  {
+    artName: 'This is Arttttttt',
+    pageLink: './Art/christine-aqui/caqui.html',
+    imageLink: '/Art/christine-aqui/caqui.png',
+    author: 'christine-aqui',
+    githubLink: 'https://github.com/christine-aqui',
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
