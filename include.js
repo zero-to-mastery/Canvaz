@@ -105,7 +105,7 @@ let cards = [
     author: 'velada',
     githubLink: 'https://github.com/annima24'
   },
-    {
+  {
     artName: 'Our Indian Flag',
     pageLink: './Art/aman/index.html',
     imageLink: './Art/aman/screenshot.jpg',

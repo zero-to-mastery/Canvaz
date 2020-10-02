@@ -19,7 +19,7 @@ ctx.beginPath();
 ctx.moveTo(270, 150); // pick up "pen," reposition at 300 (horiz), 0 (vert)
 ctx.lineTo(270, 350); // draw straight down (from 300,0) to 200px
 ctx.lineTo(435, 250); // draw up toward right (100 half of 200)
-ctx.fillStyle = "yellow";
-ctx.fill()
+ctx.fillStyle = 'yellow';
+ctx.fill();
 
 // 300, 200
