@@ -169,6 +169,13 @@ let cards = [
     githubLink: 'https://github.com/bhavansh'
   },
   {
+    artName: 'Bouncing Balls',
+    pageLink: './Art/varunv/canva.html',
+    imageLink: './Art/varunv/canva.gif',
+    author: 'Varun V',
+    githubLink: 'https://github.com/VarunV991'
+  },
+  {
     artName: 'Russian Flag',
     pageLink: './Art/AdityaSaroj/index.html',
     imageLink: './Art/AdityaSaroj/russia.png',
