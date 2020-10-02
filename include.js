@@ -343,6 +343,13 @@ let cards = [
     imageLink: './Art/CarmenIancu/funnyhouse.png',
     author: 'Carmen',
     githubLink: 'https://github.com/CarmenIancu'
+  },
+  {
+    artName: 'smiley face',
+	  pageLink: './Art/biancasehn/index.html',
+	  imageLink: './Art/biancasehn/Art.png',
+	  author: 'Bianca',
+	  githubLink: 'https://github.com/biancasehn'
   }
 ];
 
