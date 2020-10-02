@@ -64,6 +64,13 @@ let cards = [
     githubLink: 'https://github.com/Neha045'
   },
   {
+    artName: 'Brazilian Flag',
+    pageLink: './Art/cassio/index.html',
+    imageLink: './Art/cassio/brazil.png',
+    author: 'Cassio Groh',
+    githubLink: 'https://github.com/cassiogroh'
+  },
+  {
     artName: 'Diamond',
     pageLink: './Art/ab510/diamond.html',
     imageLink: './Art/ab510/diamond.png',
