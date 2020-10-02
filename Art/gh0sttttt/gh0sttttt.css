@@ -3,7 +3,7 @@
 }
 
 body {
- background: #222;
+  background: #222;
 }
 
 canvas {
@@ -25,7 +25,7 @@ canvas {
 }
 
 @keyframes gradient {
-  0%{
+  0% {
     background-position: 0% 50%;
   }
   50% {
