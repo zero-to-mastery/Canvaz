@@ -167,7 +167,15 @@ let cards = [
     imageLink: './Art/Bmg/India.png',
     author: 'Bhavansh',
     githubLink: 'https://github.com/bhavansh'
+  },
+  {
+    artName: 'Color Circle Anmination',
+    pageLink: './Art/tranjenny/index.html',
+    imageLink: './Art/tranjenny/theta.gif',
+    author: 'tranjenny',
+    githubLink: 'https://github.com/tranjenny'
   }
+
 ];
 
 // +--------------------------------------------------------------------------------+
@@ -182,14 +190,14 @@ let contents = [];
 Shuffle(cards).forEach((c) => {
   contents.push([
     `<li class="card">` +
-      `<a href='${c.pageLink}' target="_blank">` +
-      `<img class="art-image" src='${c.imageLink}' alt='${c.artName}' />` +
-      `</a>` +
-      `<div class="flex-content">` +
-      `<a href='${c.pageLink}' target="_blank"><h3 class="art-title">${c.artName}</h3></a>` +
-      `<p class='author'><a href="${c.githubLink}" target="_blank"><i class="fab fa-github"></i> ${c.author}</a> </p>` +
-      `</div>` +
-      `</li>`
+    `<a href='${c.pageLink}' target="_blank">` +
+    `<img class="art-image" src='${c.imageLink}' alt='${c.artName}' />` +
+    `</a>` +
+    `<div class="flex-content">` +
+    `<a href='${c.pageLink}' target="_blank"><h3 class="art-title">${c.artName}</h3></a>` +
+    `<p class='author'><a href="${c.githubLink}" target="_blank"><i class="fab fa-github"></i> ${c.author}</a> </p>` +
+    `</div>` +
+    `</li>`
   ]);
 });
 
@@ -197,9 +205,7 @@ document.getElementById('cards').innerHTML = contents.join('');
 
 function Shuffle(o) {
   for (
-    var j, x, i = o.length;
-    i;
-    j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x
+    var j, x, i = o.length; i; j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x
   );
   return o;
 }
