@@ -251,6 +251,13 @@ let cards = [
     imageLink: './Art/Harshil/lightning.PNG',
     author: 'Harshil',
     githubLink: 'https://github.com/funpractice'
+  },
+  {
+    artName: 'Romanian Flag',
+    pageLink: './Art/TigerAsH94/index.html',
+    imageLink: './Art/TigerAsH94/flagRo.png',
+    author: 'TigerAsH94',
+    githubLink: 'https://github.com/TigerAsH94'
   }
 ];
 
