@@ -357,6 +357,13 @@ let cards = [
     imageLink: './Art/hamzazdev/canvas.png',
     author: 'hamzazdev',
     githubLink: 'https://github.com/hamzazdev'
+  },
+  {
+    artName: 'Smiley Face',
+    pageLink: './Art/ZachTheGecko/index.html',
+    imageLink: './Art/ZachTheGecko/img.png',
+    author: 'Zach',
+    githubLink: 'https://github.com/Zach-The-Gecko'
   }
 ];
 
