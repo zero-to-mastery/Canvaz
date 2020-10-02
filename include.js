@@ -346,10 +346,10 @@ let cards = [
   },
   {
     artName: 'smiley face',
-	  pageLink: './Art/biancasehn/index.html',
-	  imageLink: './Art/biancasehn/Art.png',
-	  author: 'Bianca',
-	  githubLink: 'https://github.com/biancasehn'
+    pageLink: './Art/biancasehn/index.html',
+    imageLink: './Art/biancasehn/Art.png',
+    author: 'Bianca',
+    githubLink: 'https://github.com/biancasehn'
   }
 ];
 
