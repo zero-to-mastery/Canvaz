@@ -202,6 +202,13 @@ let cards = [
     imageLink: './Art/handa/geometric.png',
     author: 'Handa',
     githubLink: 'https://github.com/handa26'
+  },
+  {
+    artName: 'Gradient Hello World',
+    pageLink: './Art/mond/index.html',
+    imageLink: './Art/mond/pic.png',
+    author: 'Mond',
+    githubLink: 'https://github.com/monddelmundo'
   }
 ];
 
