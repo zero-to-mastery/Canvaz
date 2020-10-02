@@ -188,6 +188,13 @@ let cards = [
     imageLink: './Art/AdityaSaroj/russia.png',
     author: 'Aditya Kumar Saroj',
     githubLink: 'https://github.com/AdityaSaroj'
+  },
+  {
+    artName: 'Bauhaus Geometric',
+    pageLink: './Art/handa/index.html',
+    imageLink: './Art/handa/geometric.png',
+    author: 'Handa',
+    githubLink: 'https://github.com/handa26'
   }
 ];
 

@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Piazzolla:wght@200&display=swap');
+
+html,
+body {
+  font-family: 'Piazzolla', serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+canvas {
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 800px;
+}
+
+.container {
+  opacity: 0.8;
+}
