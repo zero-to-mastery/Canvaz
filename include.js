@@ -237,6 +237,13 @@ let cards = [
     imageLink: './Art/hmahajan99/hmahajan99.png',
     author: 'hmahajan99',
     githubLink: 'https://github.com/hmahajan99'
+  },
+  {
+    artName: 'Lightning Strikes',
+    pageLink: './Art/Harshil/index.html',
+    imageLink: './Art/Harshil/lightning.PNG',
+    author: 'Harshil',
+    githubLink: 'https://github.com/funpractice'
   }
 ];
 
