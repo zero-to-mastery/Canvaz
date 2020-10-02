@@ -141,19 +141,26 @@ let cards = [
     githubLink: 'https://github.com/gh0sttttt'
   },
   {
-    artName: 'Color Wall Builder',
-    pageLink: './Art/Jamiu/index.html',
-    imageLink: './Art/Jamiu/color.PNG',
-    author: 'Jamiu',
-    githubLink: 'https://github.com/JamiuJimoh'
-  },
+		artName: 'Color Wall Builder',
+		pageLink: './Art/Jamiu/index.html',
+		imageLink: './Art/Jamiu/color.PNG',
+		author: 'Jamiu',
+		githubLink: 'https://github.com/JamiuJimoh'
+	},
   {
     artName: 'Particles ZTM',
     pageLink: './Art/ctq3103/particles-ztm.html',
     imageLink: './Art/ctq3103/particles-ztm.gif',
     author: 'ctq3103',
     githubLink: 'https://github.com/ctq3103'
-  }
+  },
+  {
+		artName: 'Indian Flag',
+		pageLink: './Art/Bmg/index.html',
+		imageLink: './Art/Bmg/India.png',
+		author: 'Bhavansh',
+		githubLink: 'https://github.com/bhavansh'
+	}
 ];
 
 // +--------------------------------------------------------------------------------+
