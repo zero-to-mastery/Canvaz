@@ -85,6 +85,13 @@ let cards = [
     githubLink: 'https://github.com/cassiogroh'
   },
   {
+    artName: 'Blackboard',
+    pageLink: './Art/preity-p/index.html',
+    imageLink: './Art/preity-p/in-motion.gif',
+    author: 'Preity Priya',
+    githubLink: 'https://github.com/preity-p'
+  },
+  {
     artName: 'Diamond',
     pageLink: './Art/ab510/diamond.html',
     imageLink: './Art/ab510/diamond.png',
