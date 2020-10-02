@@ -295,8 +295,14 @@ let cards = [
     imageLink: './Art/TamasKn/assets/draw-facial-hair.png',
     author: 'TamasKn',
     githubLink: 'https://github.com/TamasKn'
+  },
+  {
+    artName: 'Code your life with efforts',
+    pageLink: './Art/Ashutosh/index.html',
+    imageLink: './Art/Ashutosh/code.jpg',
+    author: 'Ashutosh',
+    githubLink: 'https://github.com/Ashutosh00710'
   }
- 
 ];
 
 // +--------------------------------------------------------------------------------+
