@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Circles</title>
+
+    <link rel="stylesheet" type="text/css" href="style.css" />
+
+    <!-- Load the Paper.js library -->
+    <!-- <script type="text/javascript" src="js/paper.js"></script> -->
+    <!-- Define inlined PaperScript associate it with myCanvas -->
+    <script type="text/paperscript" canvas="myCanvas">
+            function getRandomColor() {
+                var letters = '0123456789ABCDEF';
+                var color = '#';
+                for (var i = 0; i < 6; i++) {
+                  color += letters[Math.floor(Math.random() * 16)];
+                }
+                return color;
+              }
+
+              var keyData = {
+                q: {
+                  color: getRandomColor()
+                },
+                w: {
+                  color: getRandomColor()
+                },
+                e: {
+                  color: getRandomColor()
+                },
+                r: {
+                  color: getRandomColor()
+                },
+                t: {
+                  color: getRandomColor()
+                },
+                y: {
+                  color: getRandomColor()
+                },
+                u: {
+                  color: getRandomColor()
+                },
+                i: {
+                  color: getRandomColor()
+                },
+                o: {
+                  color: getRandomColor()
+                },
+                p: {
+                  color: getRandomColor()
+                },
+                a: {
+                  color: getRandomColor()
+                },
+                s: {
+                  color: getRandomColor()
+                },
+                d: {
+                  color: getRandomColor()
+                },
+                f: {
+                  color: getRandomColor()
+                },
+                g: {
+                  color: getRandomColor()
+                },
+                h: {
+                  color: getRandomColor()
+                },
+                j: {
+                  color: getRandomColor()
+                },
+                k: {
+                  color: getRandomColor()
+                },
+                l: {
+                  color: getRandomColor()
+                },
+                z: {
+                  color: getRandomColor()
+                },
+                x: {
+                  color: getRandomColor()
+                },
+                c: {
+                  color: getRandomColor()
+                },
+                v: {
+                  color: getRandomColor()
+                },
+                b: {
+                  color: getRandomColor()
+                },
+                n: {
+                  color: getRandomColor()
+                },
+                m: {
+                  color: getRandomColor()
+                }
+              };
+
+
+      var circles = [];
+
+      function onKeyDown(event) {
+        var maxPoint = new Point(view.size.width, view.size.height);
+        var randomPoint = Point.random();
+        var point = maxPoint * randomPoint;
+        var newCircle = new Path.Circle(point, 500);
+        newCircle.fillColor = keyData[event.key].color;
+
+        circles.push(newCircle);
+      }
+
+      function onFrame(event) {
+        for (var i = 0; i < circles.length; i++) {
+          // console.log(circles[i]);
+          circles[i].fillColor.hue += 1;
+          circles[i].scale(0.9);
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <canvas id="myCanvas" resize></canvas>
+
+    <script type="text/javascript" src="paper-full.js"></script>
+  </body>
+</html>
