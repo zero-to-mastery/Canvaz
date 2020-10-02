@@ -1,6 +1,13 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'Monochromat your Photo',
+    pageLink: './Art/Shashvat/index.html',
+    imageLink: './Art/Shashvat/shashvat-sc.png',
+    author: 'Iamshashvat',
+    githubLink: 'https://github.com/Iamshashvat'
+  },
+  {
     artName: 'Welocme To Hacktoberfest',
     pageLink: './Art/Utkarsh2604/index.html',
     imageLink: './Art/Utkarsh2604/Screenshot.png',
