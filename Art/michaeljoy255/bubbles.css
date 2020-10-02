@@ -5,5 +5,9 @@
 }
 
 #canvas {
-  background-image: linear-gradient(to top, rgb(50, 120, 255) , rgb(130, 200, 255));
+  background-image: linear-gradient(
+    to top,
+    rgb(50, 120, 255),
+    rgb(130, 200, 255)
+  );
 }

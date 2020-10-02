@@ -39,7 +39,7 @@ function draw() {
 
   bubbles.map((bubble) => {
     drawBubble(bubble);
-  })
+  });
 
   moveBubbles();
 }
@@ -60,11 +60,11 @@ function moveBubbles() {
     moveBubblePosX(bubble);
     moveBubblePosY(bubble);
     resetBubblePosition(bubble);
-  })
+  });
 }
 
 function moveBubblePosX(bubble) {
-  bubble.posX += generateRandomNumber(-0.5, 0.5, 2)
+  bubble.posX += generateRandomNumber(-0.5, 0.5, 2);
 }
 
 function moveBubblePosY(bubble) {
@@ -72,7 +72,11 @@ function moveBubblePosY(bubble) {
 }
 
 function resetBubblePosition(bubble) {
-  if (bubble.posY < -50 || bubble.posX > maxCanvasX + 50 || bubble.posX < minCanvasX - 50) {
+  if (
+    bubble.posY < -50 ||
+    bubble.posX > maxCanvasX + 50 ||
+    bubble.posX < minCanvasX - 50
+  ) {
     bubble.posX = getRandomPosX();
     bubble.posY = getRandomPosY();
   }
@@ -90,17 +94,20 @@ function randomIntFromInterval(min, max) {
   return Math.floor(Math.random() * (max - min + 1) + min);
 }
 
-function generateRandomNumber(min, max, decimalPlaces) {  
-  const rand = Math.random() < 0.5 ? ((1-Math.random()) * (max-min) + min) : (Math.random() * (max-min) + min);
+function generateRandomNumber(min, max, decimalPlaces) {
+  const rand =
+    Math.random() < 0.5
+      ? (1 - Math.random()) * (max - min) + min
+      : Math.random() * (max - min) + min;
   const power = Math.pow(10, decimalPlaces);
-  return Math.floor(rand*power) / power;
+  return Math.floor(rand * power) / power;
 }
 
 function randomBubbleColor() {
   const red = randomIntFromInterval(60, 80);
   const green = randomIntFromInterval(180, 220);
   const blue = 255;
-  
+
   const rgb = `rgb(${red},${green},${blue})`;
   return rgb;
 }
