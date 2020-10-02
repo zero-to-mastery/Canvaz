@@ -15,37 +15,37 @@ let isDrawing = false;
 let direction = true;
 
 function drawInTheCanvas(e) {
-	if (!isDrawing) return;
-	console.log(e);
+  if (!isDrawing) return;
+  console.log(e);
 
-	canvasContext.strokeStyle = `hsl(${hue},100%,50%)`;
-	canvasContext.beginPath();
-	canvasContext.moveTo(lastXPoint, lastYPoint);
-	canvasContext.lineTo(e.offsetX, e.offsetY);
-	canvasContext.stroke();
+  canvasContext.strokeStyle = `hsl(${hue},100%,50%)`;
+  canvasContext.beginPath();
+  canvasContext.moveTo(lastXPoint, lastYPoint);
+  canvasContext.lineTo(e.offsetX, e.offsetY);
+  canvasContext.stroke();
 
-	[lastXPoint, lastYPoint] = [e.offsetX, e.offsetY];
-	hue++;
+  [lastXPoint, lastYPoint] = [e.offsetX, e.offsetY];
+  hue++;
 
-	if (hue > 360) {
-		hue = 0;
-	}
-	if (canvasContext.lineWidth > 30 || canvasContext.lineWidth <= 1) {
-		//adjusting hue color direction
-		direction = !direction;
-	}
+  if (hue > 360) {
+    hue = 0;
+  }
+  if (canvasContext.lineWidth > 30 || canvasContext.lineWidth <= 1) {
+    //adjusting hue color direction
+    direction = !direction;
+  }
 
-	if (direction) {
-		canvasContext.lineWidth++;
-	} else {
-		canvasContext.lineWidth--;
-	}
+  if (direction) {
+    canvasContext.lineWidth++;
+  } else {
+    canvasContext.lineWidth--;
+  }
 }
 
 canvas.addEventListener('mousedown', (e) => {
-	console.log('On canvas');
-	isDrawing = true;
-	[lastXPoint, lastYPoint] = [e.offsetX, e.offsetY];
+  console.log('On canvas');
+  isDrawing = true;
+  [lastXPoint, lastYPoint] = [e.offsetX, e.offsetY];
 });
 canvas.addEventListener('mousemove', drawInTheCanvas);
 canvas.addEventListener('mouseout', () => (isDrawing = false));

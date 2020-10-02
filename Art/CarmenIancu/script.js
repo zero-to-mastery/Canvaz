@@ -1,5 +1,5 @@
-const canvas = document.getElementById("myCanvas");
-const context = canvas.getContext("2d");
+const canvas = document.getElementById('myCanvas');
+const context = canvas.getContext('2d');
 
 // the triangle
 context.beginPath();
@@ -14,7 +14,7 @@ context.strokeStyle = '#666666';
 context.stroke();
 
 // the fill color
-context.fillStyle = "#FF0000";
+context.fillStyle = '#FF0000';
 context.fill();
 
 // the rectangle
@@ -31,26 +31,26 @@ context.strokeStyle = '#666666';
 context.stroke();
 
 // the fill color
-context.fillStyle = "#0004ff";
+context.fillStyle = '#0004ff';
 context.fill();
 
 // the left eye
 context.beginPath();
-context.arc(250, 400, 50, 0, Math.PI * 2, true); 
+context.arc(250, 400, 50, 0, Math.PI * 2, true);
 context.stroke();
 
 // the fill color
-context.fillStyle = "#ffffff";
+context.fillStyle = '#ffffff';
 context.fill();
 
 // the left dot
 context.beginPath();
 context.moveTo(270, 420);
-context.arc(270, 420, 10, 0, Math.PI * 2, true); 
+context.arc(270, 420, 10, 0, Math.PI * 2, true);
 context.stroke();
 
 // the fill color
-context.fillStyle = "#000000";
+context.fillStyle = '#000000';
 context.fill();
 
 // the right eye
@@ -59,20 +59,20 @@ context.arc(355, 400, 50, 0, Math.PI * 2, true);
 context.stroke();
 
 // the fill color
-context.fillStyle = "#ffffff";
+context.fillStyle = '#ffffff';
 context.fill();
 
 // the right dot
 context.beginPath();
 context.moveTo(340, 420);
-context.arc(330, 420, 10, 0, Math.PI * 2, true);  
+context.arc(330, 420, 10, 0, Math.PI * 2, true);
 context.stroke();
 
 // the fill color
-context.fillStyle = "#000000";
+context.fillStyle = '#000000';
 context.fill();
 
 // the nose
 context.moveTo(290, 450);
-context.arc(295, 450, 10, 0, Math.PI * 2, true); 
+context.arc(295, 450, 10, 0, Math.PI * 2, true);
 context.stroke();
