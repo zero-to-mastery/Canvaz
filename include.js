@@ -99,6 +99,13 @@ let cards = [
     githubLink: 'https://github.com/annima24'
   },
   {
+    artName: 'My Little Piece of Art',
+    pageLink: './Art/gincos/index.html',
+    imageLink: './Art/gincos/finished.png',
+    author: 'Gincos',
+    githubLink: 'https://github.com/gincos'
+  },
+  {
     artName: 'Hactoberfest2020',
     pageLink: './Art/krittiya-clark/index.html',
     imageLink: './Art/krittiya-clark/Hactoberfest2020.png',
