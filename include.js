@@ -303,11 +303,11 @@ let cards = [
     githubLink: 'https://github.com/Ashutosh00710'
   },
   {
-		artName: 'Multi-coloured liquid Canvas drawing',
-		pageLink: './Art/sanjaysanjel/index.html',
-		imageLink: './Art/sanjaysanjel/assets/canvas-sanjay.PNG',
-		author: 'Sanjay Sanjel',
-		githubLink: 'https://github.com/sanjaysanjel019/'
+    artName: 'Multi-coloured liquid Canvas drawing',
+    pageLink: './Art/sanjaysanjel/index.html',
+    imageLink: './Art/sanjaysanjel/assets/canvas-sanjay.PNG',
+    author: 'Sanjay Sanjel',
+    githubLink: 'https://github.com/sanjaysanjel019/'
   },
   {
     artName: 'Text Canvas',
@@ -318,10 +318,10 @@ let cards = [
   },
   {
     artName: 'Happy Hacktoberfest',
-		pageLink: './Art/SquadTeemo/index.html',
-		imageLink: './Art/SquadTeemo/canvas_joy.jpg',
-		author: 'SquadTeemo',
-		githubLink: 'https://squadteemo.github.io/canvas-joy/'
+    pageLink: './Art/SquadTeemo/index.html',
+    imageLink: './Art/SquadTeemo/canvas_joy.jpg',
+    author: 'SquadTeemo',
+    githubLink: 'https://squadteemo.github.io/canvas-joy/'
   },
   {
     artName: 'Flower Power',
@@ -339,10 +339,10 @@ let cards = [
   },
   {
     artName: 'funny house',
-	  pageLink: './Art/CarmenIancu/index.html',
-	  imageLink: './Art/CarmenIancu/funnyhouse.png',
-	  author: 'Carmen',
-	  githubLink: 'https://github.com/CarmenIancu'
+    pageLink: './Art/CarmenIancu/index.html',
+    imageLink: './Art/CarmenIancu/funnyhouse.png',
+    author: 'Carmen',
+    githubLink: 'https://github.com/CarmenIancu'
   }
 ];
 
