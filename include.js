@@ -92,11 +92,18 @@ let cards = [
     githubLink: 'https://github.com/rav291'
   },
   {
-    artName: 'the face of doom',
+    artName: 'Hactoberfest 2020',
     pageLink: './Art/velada/index.html',
     imageLink: './Art/velada/canvas.png',
     author: 'velada',
     githubLink: 'https://github.com/annima24'
+  },
+  {
+    artName: 'Hactoberfest2020',
+    pageLink: './Art/krittiya-clark/index.html',
+    imageLink: './Art/krittiya-clark/Hactoberfest2020.png',
+    author: 'Krittiya Clark',
+    githubLink: 'https://github.com/krittiyaclark'
   },
   {
     artName: 'Random monochromatic palette',
