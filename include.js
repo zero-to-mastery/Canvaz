@@ -105,6 +105,13 @@ let cards = [
     author: 'velada',
     githubLink: 'https://github.com/annima24'
   },
+    {
+    artName: 'Our Indian Flag',
+    pageLink: './Art/aman/index.html',
+    imageLink: './Art/aman/screenshot.jpg',
+    author: 'aman',
+    githubLink: 'https://github.com/aman339'
+  },
   {
     artName: 'Bubbles',
     pageLink: './Art/michaeljoy255/bubbles.html',
