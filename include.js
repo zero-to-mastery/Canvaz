@@ -142,7 +142,7 @@ let cards = [
   },
   {
     artName: 'smile',
-    pageLink: './Art/gh0sttttt/gh0sttttt',
+    pageLink: './Art/gh0sttttt/gh0sttttt.html',
     imageLink: './Art/gh0sttttt/smile-hacktoberfest.gif',
     author: 'Aaron',
     githubLink: 'https://github.com/gh0sttttt'
