@@ -36,6 +36,13 @@ let cards = [
     githubLink: 'https://github.com/royranger'
   },
   {
+    artName: 'Rainy Day',
+    pageLink: './Art/prakhil-tp/rainyday.html',
+    imageLink: './Art/prakhil-tp/banner.png',
+    author: 'Prakhil TP',
+    githubLink: 'https://github.com/prakhil-tp'
+  },
+  {
     artName: 'ZTM Number One',
     pageLink: './Art/hieutrinh/index.html',
     imageLink: './Art/hieutrinh/zerotomasteryone.png',
