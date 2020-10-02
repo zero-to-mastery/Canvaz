@@ -11,6 +11,4 @@ jw.fillRect(40, 40, 150, 100);
 jw.fillStyle = 'red';
 jw.fillRect(20, 20, 150, 100);
 
-
-
 jw.stroke();
