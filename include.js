@@ -336,6 +336,13 @@ let cards = [
     imageLink: './Art/shubhankar/Capture.PNG',
     author: 'Shubhankar Dwivedi',
     githubLink: 'https://github.com/shubhdwiv12/'
+  },
+  {
+    artName: 'funny house',
+	  pageLink: './CarmenIancu/index.html',
+	  imageLink: './CarmenIancu/funnyhouse.png',
+	  author: 'Carmen',
+	  githubLink: 'https://github.com/CarmenIancu'
   }
 ];
 
