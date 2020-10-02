@@ -15,6 +15,13 @@ let cards = [
     githubLink: 'https://github.com/Utkarsh2604'
   },
   {
+    artName: 'Welocme To Hacktoberfest',
+    pageLink: './Art/shivam/index.html',
+    imageLink: './Art/shivem/loading.PNG',
+    author: 'shivam',
+    githubLink: 'https://github.com/shivam12k'
+  },
+  {
     artName: 'Japan',
     pageLink: './Art/kelvinchan2406/index.html',
     imageLink: './Art/kelvinchan2406/japan.png',
