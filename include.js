@@ -217,6 +217,7 @@ let cards = [
     author: 'Bhavansh',
     githubLink: 'https://github.com/bhavansh'
   },
+
   {
     artName: 'Bouncing Balls',
     pageLink: './Art/varunv/canva.html',
@@ -237,6 +238,13 @@ let cards = [
     imageLink: './Art/handa/geometric.png',
     author: 'Handa',
     githubLink: 'https://github.com/handa26'
+  },
+  {
+    artName: 'Hacktoberfest rocks',
+    pageLink: './Art/cb/index.html',
+    imageLink: './Art/cb/hackto.png',
+    author: 'Chirag',
+    githubLink: 'https://github.com/bagdechirag'
   },
   {
     artName: 'Gradient Hello World',
@@ -273,6 +281,7 @@ let cards = [
     author: 'Harshil',
     githubLink: 'https://github.com/funpractice'
   },
+
   {
     artName: 'Romanian Flag',
     pageLink: './Art/TigerAsH94/index.html',
@@ -287,6 +296,7 @@ let cards = [
     author: 'TamasKn',
     githubLink: 'https://github.com/TamasKn'
   }
+ 
 ];
 
 // +--------------------------------------------------------------------------------+
