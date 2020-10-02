@@ -308,7 +308,14 @@ let cards = [
 		imageLink: './Art/sanjaysanjel/assets/canvas-sanjay.PNG',
 		author: 'Sanjay Sanjel',
 		githubLink: 'https://github.com/sanjaysanjel019/'
-	}
+  },
+  {
+    artName: 'Text Canvas',
+    pageLink: './Art/skycoder/index.html',
+    imageLink: './Art/joy/robot.png',
+    author: 'SkyC0der',
+    githubLink: 'https://github.com/SkyC0der'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
