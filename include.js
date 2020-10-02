@@ -329,6 +329,13 @@ let cards = [
     imageLink: './Art/RedSquirrrel/flover.gif',
     author: 'RedSquirrrel',
     githubLink: 'https://redsquirrrel.github.io/flover-style/'
+  },
+  {
+    artName: 'HackOctber drawing',
+    pageLink: './Art/shubhankar/index.html',
+    imageLink: './Art/shubhankar/Capture.PNG',
+    author: 'Shubhankar Dwivedi',
+    githubLink: 'https://github.com/shubhdwiv12/'
   }
 ];
 
