@@ -118,7 +118,14 @@ let cards = [
     imageLink: './Art/gh0sttttt/smile-hacktoberfest.gif',
     author: 'Aaron',
     githubLink: 'https://github.com/gh0sttttt'
-  }
+  },
+  {
+		artName: 'Color Wall Builder',
+		pageLink: './Art/Jamiu/index.html',
+		imageLink: './Art/Jamiu/color.PNG',
+		author: 'Jamiu',
+		githubLink: 'https://github.com/JamiuJimoh'
+	}
 ];
 
 // +--------------------------------------------------------------------------------+
@@ -131,26 +138,22 @@ let cards = [
 // You don't need to modify this
 let contents = [];
 Shuffle(cards).forEach((c) => {
-  contents.push([
-    `<li class="card">` +
-      `<a href='${c.pageLink}' target="_blank">` +
-      `<img class="art-image" src='${c.imageLink}' alt='${c.artName}' />` +
-      `</a>` +
-      `<div class="flex-content">` +
-      `<a href='${c.pageLink}' target="_blank"><h3 class="art-title">${c.artName}</h3></a>` +
-      `<p class='author'><a href="${c.githubLink}" target="_blank"><i class="fab fa-github"></i> ${c.author}</a> </p>` +
-      `</div>` +
-      `</li>`
-  ]);
+	contents.push([
+		`<li class="card">` +
+			`<a href='${c.pageLink}' target="_blank">` +
+			`<img class="art-image" src='${c.imageLink}' alt='${c.artName}' />` +
+			`</a>` +
+			`<div class="flex-content">` +
+			`<a href='${c.pageLink}' target="_blank"><h3 class="art-title">${c.artName}</h3></a>` +
+			`<p class='author'><a href="${c.githubLink}" target="_blank"><i class="fab fa-github"></i> ${c.author}</a> </p>` +
+			`</div>` +
+			`</li>`
+	]);
 });
 
 document.getElementById('cards').innerHTML = contents.join('');
 
 function Shuffle(o) {
-  for (
-    var j, x, i = o.length;
-    i;
-    j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x
-  );
-  return o;
+	for (var j, x, i = o.length; i; j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
+	return o;
 }
