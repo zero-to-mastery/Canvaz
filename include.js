@@ -120,6 +120,13 @@ let cards = [
     githubLink: 'https://github.com/gincos'
   },
   {
+    artName: 'ZTM Hacktoberfest',
+    pageLink: './Art/sherine/index.html',
+    imageLink: './Art/sherine/ztm.png',
+    author: 'Sherine',
+    githubLink: 'https://github.com/sherinechally'
+  },
+  {
     artName: 'Hactoberfest2020',
     pageLink: './Art/krittiya-clark/index.html',
     imageLink: './Art/krittiya-clark/Hactoberfest2020.png',
