@@ -204,6 +204,14 @@ let cards = [
     githubLink: 'https://github.com/ctq3103'
   },
   {
+    artName: 'Hacktoberfest>Olympics',
+    pageLink: './Art/nnhhiilliisstt/index.html',
+    imageLink: './Art/nnhhiilliisstt/logo.png',
+    author: 'Kumar Aditya',
+    githubLink: 'https://github.com/nnhhiilliisstt'
+  },
+
+  {
     artName: 'Indian Flag',
     pageLink: './Art/Bmg/index.html',
     imageLink: './Art/Bmg/India.png',
