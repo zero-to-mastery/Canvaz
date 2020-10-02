@@ -230,6 +230,13 @@ let cards = [
     imageLink: './Art/tranjenny/theta.gif',
     author: 'tranjenny',
     githubLink: 'https://github.com/tranjenny'
+  },
+  {
+    artName: 'Spiraly Helix',
+    pageLink: './Art/hmahajan99/index.html',
+    imageLink: './Art/hmahajan99/hmahajan99.png',
+    author: 'hmahajan99',
+    githubLink: 'https://github.com/hmahajan99'
   }
 ];
 
