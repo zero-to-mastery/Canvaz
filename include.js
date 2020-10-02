@@ -99,6 +99,13 @@ let cards = [
     githubLink: 'https://github.com/annima24'
   },
   {
+    artName: 'Random monochromatic palette',
+    pageLink: './Art/carls13/index.html',
+    imageLink: './Art/carls13/mono.png',
+    author: 'Carls13',
+    githubLink: 'https://github.com/carls13'
+  },
+  {
     artName: 'Cool cursor',
     pageLink: './Art/ashwin/Cool-cursor.html',
     imageLink: './Art/ashwin/Cool-cursor.png',
