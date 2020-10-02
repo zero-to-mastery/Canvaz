@@ -312,9 +312,16 @@ let cards = [
   {
     artName: 'Text Canvas',
     pageLink: './Art/skycoder/index.html',
-    imageLink: './Art/joy/robot.png',
+    imageLink: './Art/skycoder/think.png',
     author: 'SkyC0der',
     githubLink: 'https://github.com/SkyC0der'
+  },
+  {
+    artName: 'Happy Hacktoberfest',
+		pageLink: './Art/SquadTeemo/index.html',
+		imageLink: './Art/SquadTeemo/canvas_joy.jpg',
+		author: 'SquadTeemo',
+		githubLink: 'https://squadteemo.github.io/canvas-joy/'
   }
 ];
 
