@@ -176,6 +176,13 @@ let cards = [
     githubLink: 'https://github.com/JamiuJimoh'
   },
   {
+    artName: 'Russia Flag',
+    pageLink: './Art/Rohit/index.html',
+    imageLink: './Art/Rohit/russia_flag.jpg',
+    author: 'Rohit Ahuja',
+    githubLink: 'https://github.com/rohit1204'
+  },
+  {
     artName: 'Particles ZTM',
     pageLink: './Art/ctq3103/particles-ztm.html',
     imageLink: './Art/ctq3103/particles-ztm.gif',
