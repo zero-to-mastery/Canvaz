@@ -167,6 +167,13 @@ let cards = [
     imageLink: './Art/Bmg/India.png',
     author: 'Bhavansh',
     githubLink: 'https://github.com/bhavansh'
+  },
+  {
+    artName: 'Russian Flag',
+    pageLink: './Art/AdityaSaroj/index.html',
+    imageLink: './Art/AdityaSaroj/russia.png',
+    author: 'Aditya Kumar Saroj',
+    githubLink: 'https://github.com/AdityaSaroj'
   }
 ];
 
