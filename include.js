@@ -8,16 +8,16 @@ let cards = [
     githubLink: 'https://github.com/Iamshashvat'
   },
   {
-    artName: 'Welocme To Hacktoberfest',
+    artName: 'Welcome To Hacktoberfest',
     pageLink: './Art/Utkarsh2604/index.html',
     imageLink: './Art/Utkarsh2604/Screenshot.png',
     author: 'Utkarsh',
     githubLink: 'https://github.com/Utkarsh2604'
   },
   {
-    artName: 'Welocme To Hacktoberfest',
+    artName: 'Loading Bar',
     pageLink: './Art/shivam/index.html',
-    imageLink: './Art/shivem/loading.PNG',
+    imageLink: './Art/shivam/loading.PNG',
     author: 'shivam',
     githubLink: 'https://github.com/shivam12k'
   },
@@ -339,8 +339,8 @@ let cards = [
   },
   {
     artName: 'funny house',
-	  pageLink: './CarmenIancu/index.html',
-	  imageLink: './CarmenIancu/funnyhouse.png',
+	  pageLink: './Art/CarmenIancu/index.html',
+	  imageLink: './Art/CarmenIancu/funnyhouse.png',
 	  author: 'Carmen',
 	  githubLink: 'https://github.com/CarmenIancu'
   }
