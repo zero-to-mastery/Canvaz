@@ -210,7 +210,6 @@ let cards = [
     author: 'Kumar Aditya',
     githubLink: 'https://github.com/nnhhiilliisstt'
   },
-
   {
     artName: 'Indian Flag',
     pageLink: './Art/Bmg/index.html',
@@ -280,6 +279,13 @@ let cards = [
     imageLink: './Art/TigerAsH94/flagRo.png',
     author: 'TigerAsH94',
     githubLink: 'https://github.com/TigerAsH94'
+  },
+  {
+    artName: 'Draw facial hair on your image',
+    pageLink: './Art/TamasKn/drawing.html',
+    imageLink: './Art/TamasKn/assets/draw-facial-hair.png',
+    author: 'TamasKn',
+    githubLink: 'https://github.com/TamasKn'
   }
 ];
 
