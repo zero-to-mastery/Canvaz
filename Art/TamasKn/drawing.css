@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  text-align: center;
+  padding: 100px 0 20px 0;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+canvas {
+  position: absolute;
+  margin-top: 50px;
+}
+
+.image-wrapper {
+  margin-top: 50px;
+  height: 300px;
+  width: 500px;
+}
+
+img {
+  height: 300px;
+  width: 500px;
+  object-fit: contain;
+}
+
+.picker {
+  display: flex;
+  justify-content: center;
+}
+
+.colors {
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.sizes {
+  height: 25px;
+  width: 25px;
+  margin-right: 7px;
+  cursor: pointer;
+  display: inline-block;
+}

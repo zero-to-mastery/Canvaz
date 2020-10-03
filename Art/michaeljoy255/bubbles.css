@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+#canvas {
+  background-image: linear-gradient(
+    to top,
+    rgb(50, 120, 255),
+    rgb(130, 200, 255)
+  );
+}

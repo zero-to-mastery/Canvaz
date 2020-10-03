@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Fjalla+One);
+
+body {
+  width: 250;
+  height: 450;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+canvas {
+  border: 1px solid rgba(180, 35, 78, 0.14);
+  box-shadow: 0 0 3px rgba(117, 93, 93, 0.05);
+  margin: 30px;
+  border-radius: 10px;
+}
+body {
+  font-family: 'Fjalla One', sans-serif;
+  background: linear-gradient(to bottom, #405166 0%, #656f6f 100%);
+}

@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Hammersmith One', sans-serif;
+  font-style: italic;
+  font-weight: 50;
+}
+
+body {
+  font-size: 18px;
+  color: hsla(210deg, 90%, 89%, 1);
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  text-transform: uppercase;
+  letter-spacing: 0.3em;
+  font-size: clamp(1em, 5vw, 4em);
+  animation: zoom 15000ms ease-in-out infinite alternate;
+}
+
+@keyframes zoom {
+  0% {
+    transform: scale(0.1);
+  }
+  50% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.4);
+  }
+}
+
+h2 {
+  position: absolute;
+  margin-top: 170px;
+  text-transform: uppercase;
+  letter-spacing: 0.3em;
+  font-size: clamp(1em, 5vw, 4em);
+  animation: zoom2 18000ms ease-in-out infinite alternate;
+}
+
+@keyframes zoom2 {
+  0% {
+    transform: scale(0.1);
+  }
+  50% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.2);
+  }
+}
+
+canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  background-color: hsla(240deg, 100%, 100%, 1);
+}
