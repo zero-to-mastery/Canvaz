@@ -372,7 +372,7 @@ let cards = [
     author: 'hamzazdev',
     githubLink: 'https://github.com/hamzazdev'
   },
-    {
+  {
     artName: 'Shapes',
     pageLink: './Art/rashidmakki/index.html',
     imageLink: './Art/rashidmakki/shapes.png',
@@ -392,7 +392,7 @@ let cards = [
     imageLink: './Art/samipPoudel/babyYoda.jpg',
     author: 'Samip Poudel',
     githubLink: 'https://github.com/SamipPoudel58'
-  }
+  },
   {
     artName: 'Sunset Canvas',
     pageLink: './Art/taniyahinduja/index.html',
