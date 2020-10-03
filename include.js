@@ -401,6 +401,13 @@ let cards = [
     githubLink: 'https://github.com/SamipPoudel58'
   },
   {
+    artName: 'Scotland the Brave',
+    pageLink: './Art/rmchardie/index.html',
+    imageLink: './Art/rmchardie/flag.png',
+    author: 'Ross McHardie',
+    githubLink: 'https://github.com/rmchardie'
+  },
+  {
     artName: 'Sunset Canvas',
     pageLink: './Art/taniyahinduja/index.html',
     imageLink: './Art/taniyahinduja/img.png',
