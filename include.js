@@ -1,6 +1,13 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'Pencil Canvas',
+    pageLink: './Art/Giancarl021/index.html',
+    imageLink: './Art/Giancarl021/screenshot.png',
+    author: 'Giancarl021',
+    githubLink: 'https://github.com/Giancarl021'
+  },
+  {
     artName: 'Monochromat your Photo',
     pageLink: './Art/Shashvat/index.html',
     imageLink: './Art/Shashvat/shashvat-sc.png',
