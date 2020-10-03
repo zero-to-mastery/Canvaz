@@ -364,6 +364,13 @@ let cards = [
     imageLink: './Art/hamzazdev/canvas.png',
     author: 'hamzazdev',
     githubLink: 'https://github.com/hamzazdev'
+  },
+    {
+    artName: 'Shapes',
+    pageLink: './Art/rashidmakki/index.html',
+    imageLink: './Art/rashidmakki/shapes.png',
+    author: 'Rashid Makki',
+    githubLink: 'https://github.com/rashidmakki'
   }
 ];
 
