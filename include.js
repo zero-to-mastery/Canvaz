@@ -476,8 +476,14 @@ let cards = [
     imageLink: './Art/divyansh/King.jpg',
     author: 'Divyansh',
     githubLink: 'https://github.com/divyanshrastogi51'
+  },
+  {
+    artName: 'Hackoberfest 2020',
+    pageLink: './Art/WayneMacMavis/index.html',
+    imageLink: './Art/WayneMacMavis/img.png',
+    author: 'Wayne',
+    githubLink: 'https://github.com/WayneMacMavis'
   }
-
 ];
 
 // +--------------------------------------------------------------------------------+
