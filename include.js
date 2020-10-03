@@ -372,6 +372,13 @@ let cards = [
     author: 'hamzazdev',
     githubLink: 'https://github.com/hamzazdev'
   },
+    {
+    artName: 'Shapes',
+    pageLink: './Art/rashidmakki/index.html',
+    imageLink: './Art/rashidmakki/shapes.png',
+    author: 'Rashid Makki',
+    githubLink: 'https://github.com/rashidmakki'
+  },
   {
     artName: 'Smiley Face',
     pageLink: './Art/ZachTheGecko/index.html',
