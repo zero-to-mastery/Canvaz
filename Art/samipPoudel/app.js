@@ -1,6 +1,6 @@
 // select the canvas
-const cvs = document.getElementById("canvas");
-const ctx = cvs.getContext("2d");
+const cvs = document.getElementById('canvas');
+const ctx = cvs.getContext('2d');
 
 // a function to draw circle
 function drawCircle(x, y, r, color) {
@@ -42,7 +42,7 @@ function drawText(text, x, y, size, color) {
 }
 
 function drawLeftEar() {
-  ctx.fillStyle = "#75934E";
+  ctx.fillStyle = '#75934E';
   ctx.beginPath();
   ctx.moveTo(100, 60);
   ctx.bezierCurveTo(100, 150, 250, 150, 250, 150);
@@ -53,7 +53,7 @@ function drawLeftEar() {
 }
 
 function drawInnerLeftEar() {
-  ctx.fillStyle = "#F7B89D";
+  ctx.fillStyle = '#F7B89D';
   ctx.beginPath();
   ctx.moveTo(110, 70);
   ctx.bezierCurveTo(120, 140, 240, 130, 240, 140);
@@ -63,7 +63,7 @@ function drawInnerLeftEar() {
 }
 
 function drawInnerRightEar() {
-  ctx.fillStyle = "#F7B89D";
+  ctx.fillStyle = '#F7B89D';
   ctx.beginPath();
   ctx.moveTo(340, 70);
   ctx.lineTo(490, 70);
@@ -73,7 +73,7 @@ function drawInnerRightEar() {
 }
 
 function drawRightEar() {
-  ctx.fillStyle = "#75934E";
+  ctx.fillStyle = '#75934E';
 
   ctx.beginPath();
   ctx.moveTo(350, 60);
@@ -90,7 +90,7 @@ function drawSmile() {
   ctx.bezierCurveTo(280, 130, 320, 130, 320, 140);
   //   ctx.lineTo(500, 60);
   ctx.lineWidth = 3;
-  ctx.strokeStyle = "#586d3c";
+  ctx.strokeStyle = '#586d3c';
   ctx.stroke();
 }
 
@@ -103,37 +103,37 @@ drawInnerRightEar();
 // drawCircle(330, 80, 20, "black");
 
 // body
-drawRect(210, 180, 180, 180, "#966c53");
+drawRect(210, 180, 180, 180, '#966c53');
 
 // scarf
-drawRect(210, 160, 120, 50, "#6C4D3F");
-drawRect(330, 160, 60, 50, "#775546");
+drawRect(210, 160, 120, 50, '#6C4D3F');
+drawRect(330, 160, 60, 50, '#775546');
 
 //fingers
-drawCircle(180, 280, 25, "#75934E"); //310
-drawCircle(420, 280, 25, "#75934E"); //310
+drawCircle(180, 280, 25, '#75934E'); //310
+drawCircle(420, 280, 25, '#75934E'); //310
 
 // hands
-drawRect(155, 180, 50, 100, "#966c53");
-drawRect(395, 180, 50, 100, "#966c53");
+drawRect(155, 180, 50, 100, '#966c53');
+drawRect(395, 180, 50, 100, '#966c53');
 
 // sleeves
-drawRect(155, 260, 50, 20, "#6C4D3F");
-drawRect(395, 260, 50, 20, "#6C4D3F");
+drawRect(155, 260, 50, 20, '#6C4D3F');
+drawRect(395, 260, 50, 20, '#6C4D3F');
 
 // HEAD
 // >> Skull
-drawEllipse(300, 100, 100, 80, "#75934E");
+drawEllipse(300, 100, 100, 80, '#75934E');
 //nose
-drawCircle(300, 105, 7, "#586d3c");
+drawCircle(300, 105, 7, '#586d3c');
 
 // smile
 drawSmile();
 // >> Left Eye
-drawEllipse(260, 80, 25, 15, "black");
+drawEllipse(260, 80, 25, 15, 'black');
 // >> Right Eye
-drawEllipse(340, 80, 25, 15, "black");
-drawCircle(250, 75, 7, "white");
-drawCircle(330, 75, 7, "white");
+drawEllipse(340, 80, 25, 15, 'black');
+drawCircle(250, 75, 7, 'white');
+drawCircle(330, 75, 7, 'white');
 
-drawText("Baby Yoda", 193, 450, "48px", "#75934E");
+drawText('Baby Yoda', 193, 450, '48px', '#75934E');
