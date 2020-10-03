@@ -406,13 +406,20 @@ let cards = [
     imageLink: './Art/taniyahinduja/img.png',
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
-  }
+  },
   {
     artName: 'Hexagon',
     pageLink: './Art/yashlad681/index.html',
     imageLink: './Art/yashlad681/hexagon.PNG',
     author: 'Yash',
     githubLink: 'https://github.com/yashlad681'
+  },
+  {
+    artName: 'Run For your Life',
+    pageLink: './Art/Lincredible/index.html',
+    imageLink: './Art/Lincredible/complete.png',
+    author: 'Lincredible',
+    githubLink: 'https://github.com/LanguageXange'
   }
 ];
 
