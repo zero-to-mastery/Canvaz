@@ -1,7 +1,7 @@
-const colorPicker = document.getElementById("ytrkptl-color-picker");
-const canvas = document.getElementById("ytrkptl-canvas");
-const ctx = canvas.getContext("2d");
-const animateBtn = document.getElementById("animate-button");
+const colorPicker = document.getElementById('ytrkptl-color-picker');
+const canvas = document.getElementById('ytrkptl-canvas');
+const ctx = canvas.getContext('2d');
+const animateBtn = document.getElementById('animate-button');
 
 // function that will draw y axis on the graph
 function drawYAxis() {
@@ -76,15 +76,15 @@ function drawIntervalsOnYAxis() {
 
 // add some text to the graph
 function addText() {
-  ctx.font = "50px serif";
-  ctx.fillText("Made with ❤️ at ZTM", 20, 160, 360);
-  ctx.fillText("-by Yatrik Patel", 100, 260, 200);
+  ctx.font = '50px serif';
+  ctx.fillText('Made with ❤️ at ZTM', 20, 160, 360);
+  ctx.fillText('-by Yatrik Patel', 100, 260, 200);
 }
 
 // draws the graph displayed on screen
-function drawAGraph(color = "#F8F8F8") {
-  canvas.setAttribute("height", "400px");
-  canvas.setAttribute("width", "400px");
+function drawAGraph(color = '#F8F8F8') {
+  canvas.setAttribute('height', '400px');
+  canvas.setAttribute('width', '400px');
   ctx.fillStyle = `${color}`;
   ctx.fillRect(0, 0, 400, 400);
   drawYAxis();
@@ -99,9 +99,9 @@ function drawAGraph(color = "#F8F8F8") {
 
 // animates the graph
 function animateAGraph() {
-  canvas.setAttribute("height", "400px");
-  canvas.setAttribute("width", "400px");
-  ctx.fillStyle = "#f8f8f8";
+  canvas.setAttribute('height', '400px');
+  canvas.setAttribute('width', '400px');
+  ctx.fillStyle = '#f8f8f8';
   ctx.fillRect(0, 0, 400, 400);
   let arr2 = [
     drawYAxis,
@@ -111,7 +111,7 @@ function animateAGraph() {
     drawOtherVerticalLines,
     drawIntervalsOnXAxis,
     drawIntervalsOnYAxis,
-    addText,
+    addText
   ];
   let i = 0;
   let animate = setInterval(() => {
@@ -133,5 +133,5 @@ function setCanvasBgColor(event) {
 }
 
 // add event listeners
-colorPicker.addEventListener("input", setCanvasBgColor);
-animateBtn.addEventListener("click", animateAGraph);
+colorPicker.addEventListener('input', setCanvasBgColor);
+animateBtn.addEventListener('click', animateAGraph);

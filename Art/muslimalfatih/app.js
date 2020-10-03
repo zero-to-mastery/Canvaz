@@ -1,5 +1,5 @@
 const canvas = document.createElement('canvas'),
-    ctx = canvas.getContext('2d');
+  ctx = canvas.getContext('2d');
 
 document.body.appendChild(canvas);
 
@@ -12,21 +12,20 @@ let opts = {
   height: 100,
   spread: 1.5,
   blurLevel: 0.6,
-  fill: '#bbe5ed',
+  fill: '#bbe5ed'
 };
 
-function render(){
+function render() {
   requestAnimationFrame(render);
 
   var scrollX = -(window.pageXOffset || window.scrollX);
   var scrollY = -(window.pageYOffset || window.scrollY);
-  
-  
-  ctx.globalCompositeOperation = "source-over";
+
+  ctx.globalCompositeOperation = 'source-over';
 
   for (var j = 0, rect; j < rects.length; j++) {
     rect = rects[j];
-    ctx.globalAlpha = rect.opacity; 
+    ctx.globalAlpha = rect.opacity;
     //Math.min( rect.opacity - ( opts.blurLevel ), 1 );
     ctx.beginPath();
     ctx.fillRect(
@@ -39,7 +38,7 @@ function render(){
   }
 
   ctx.globalAlpha = opts.blurLevel;
-  ctx.globalCompositeOperation = "source-in";
+  ctx.globalCompositeOperation = 'source-in';
   ctx.fillRect(0, 0, opts.width, opts.height);
 }
 
@@ -48,11 +47,11 @@ function makeRect(x, y) {
     x,
     y,
     z: opts.spread + Math.random() * (opts.spread - 1),
-    opacity: 0.3 + (Math.random() * 0.7)
-  }
+    opacity: 0.3 + Math.random() * 0.7
+  };
 }
 
-function makeRects(columns, rows){
+function makeRects(columns, rows) {
   var arr = [];
 
   for (var y = 0; y < rows; y++) {
@@ -62,7 +61,7 @@ function makeRects(columns, rows){
       }
     }
   }
-  
+
   return arr;
 }
 
@@ -72,20 +71,20 @@ var resize = function resize() {
   canvas.width = opts.width = window.innerWidth;
   canvas.height = opts.height = window.innerHeight;
   opts.columns = Math.round(
-    document.body.clientWidth * opts.spread / opts.columnWidth
+    (document.body.clientWidth * opts.spread) / opts.columnWidth
   );
   opts.rows = Math.floor(
-    document.body.clientHeight * opts.spread / opts.columnWidth
+    (document.body.clientHeight * opts.spread) / opts.columnWidth
   );
 
   ctx.fillStyle = opts.fill;
-  
+
   rects = makeRects(opts.columns, opts.rows);
 
-  console.log("resize", rects.length, opts);
+  console.log('resize', rects.length, opts);
 };
 
 resize();
-window.addEventListener('resize',resize);
+window.addEventListener('resize', resize);
 
 render();
