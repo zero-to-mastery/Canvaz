@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #3F8DF1;
+  background-color: #3f8df1;
   color: #fff;
   display: flex;
   flex-direction: column;
@@ -18,9 +18,7 @@ h1 {
   color: black;
   background-color: blanchedalmond;
   padding: 10px;
-  
 }
-
 
 #canvas {
   background: #f0f0f0;
