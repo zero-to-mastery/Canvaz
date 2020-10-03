@@ -506,6 +506,13 @@ let cards = [
     githubLink: 'https://github.com/saqlainrasheed'
   },
   {
+    artName: 'Animated Clock',
+    pageLink: './Art/comebackid87/index.html',
+    imageLink: './Art/comebackid87/animated_clock.gif',
+    author: 'comebackid87',
+    githubLink: 'https://github.com/comebackid87'
+  },
+  {
     artName: 'Norwegian flag',
     pageLink: './Art/ttumyr/nflag/nflag.html',
     imageLink: './Art/ttumyr/nflag/nflag.png',
@@ -568,3 +575,4 @@ function Shuffle(o) {
   );
   return o;
 }
+© 2020 GitHub, Inc.
