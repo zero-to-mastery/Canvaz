@@ -158,7 +158,7 @@ let cards = [
     artName: 'Bubbles',
     pageLink: './Art/michaeljoy255/bubbles.html',
     imageLink: './Art/michaeljoy255/bubbles.png',
-    author: 'Michael J',
+    author: 'Michael Joy',
     githubLink: 'https://github.com/michaeljoy255'
   },
   {
