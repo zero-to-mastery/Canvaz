@@ -504,6 +504,13 @@ let cards = [
     imageLink: './Art/saqlain-rasheed/img.png',
     author: 'Saqlain',
     githubLink: 'https://github.com/saqlainrasheed'
+  },
+  {
+    artName: 'Norwegian flag',
+    pageLink: './Art/ttumyr/nflag/nflag.html',
+    imageLink: './Art/ttumyr/nflag/nflag.png',
+    author: 'TTumyr',
+    githubLink: 'https://github.com/TTumyr/'
   }
 ];
 
