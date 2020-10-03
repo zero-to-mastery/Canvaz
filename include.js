@@ -393,6 +393,13 @@ let cards = [
     author: 'Samip Poudel',
     githubLink: 'https://github.com/SamipPoudel58'
   }
+  {
+    artName: 'Sunset Canvas',
+    pageLink: './Art/taniyahinduja/index.html',
+    imageLink: './Art/taniyahinduja/img.png',
+    author: 'Taniya',
+    githubLink: 'https://github.com/taniyahinduja'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
