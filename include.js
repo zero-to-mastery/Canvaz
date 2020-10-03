@@ -463,6 +463,13 @@ let cards = [
     author: 'Yatrik Patel',
     githubLink: 'https://github.com/ytrkptl'
   }
+  {
+    artName: 'fireworks',
+    pageLink: './Art/badger/index.html',
+    imageLink: './Art/badger/sshot.jpg',
+    author: 'mr.badger',
+    githubLink: 'https://github.com/'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
