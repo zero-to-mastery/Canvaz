@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+canvas {
+  border: 5px solid rgba(0, 0, 0, 0.14);
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+  height: 500px;
+  display: flex;
+  background-color: #295a9b;
+  justify-content: center;
+}
