@@ -427,6 +427,13 @@ let cards = [
     imageLink: './Art/etarrosa/ztm-art.png',
     author: 'etarrosa',
     githubLink: 'https://github.com/etarrosa'
+  },
+  {
+    artName: 'Random Circles',
+    pageLink: './Art/Atharva/index.html',
+    imageLink: './Art/Atharva/pic.JPG',
+    author: 'Atharva',
+    githubLink: 'https://github.com/atharv123-wq'
   }
 ];
 
