@@ -504,6 +504,13 @@ let cards = [
     imageLink: './Art/saqlain-rasheed/img.png',
     author: 'Saqlain',
     githubLink: 'https://github.com/saqlainrasheed'
+  },
+  {
+    artName: 'Skeletor Image',
+    pageLink: './Art/giuffrida-canvas/index.html',
+    imageLink: './Art/giuffrida-canvas/skeletor-snapshot.png',
+    author: 'Joe',
+    githubLink: 'https://github.com/joegiuffrida'
   }
 ];
 
