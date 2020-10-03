@@ -90,6 +90,13 @@ let cards = [
     imageLink: './Art/velada/canvas.png',
     author: 'velada',
     githubLink: 'https://github.com/annima24'
+  },
+  {
+    artName: 'Animated Clock',
+    pageLink: './Art/comebackid87/index.html',
+    imageLink: './Art/comebackid87/animated_clock.gif',
+    author: 'comebackid87',
+    githubLink: 'https://github.com/comebackid87'
   }
 ];
 
