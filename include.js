@@ -378,7 +378,13 @@ let cards = [
     imageLink: './Art/ZachTheGecko/img.png',
     author: 'Zach',
     githubLink: 'https://github.com/Zach-The-Gecko'
-  }
+  },{
+    artName: 'Baby Yoda',
+    pageLink: './Art/samipPoudel/index.html',
+    imageLink: './Art/samipPoudel/babyYoda.jpg',
+    author: 'Samip Poudel',
+    githubLink: 'https://github.com/SamipPoudel58'
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
