@@ -8,7 +8,7 @@ var context = canvas.getContext('2d');
 
 var mouse = {
   x: 0,
-  y: 0,
+  y: 0
 };
 
 if (localStorage.getItem('imagecanvas') != null) {
