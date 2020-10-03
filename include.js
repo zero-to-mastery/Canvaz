@@ -407,6 +407,13 @@ let cards = [
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
   }
+  {
+    artName: 'Hexagon',
+    pageLink: './Art/yashlad681/index.html',
+    imageLink: './Art/yashlad681/hexagon.PNG',
+    author: 'Yash',
+    githubLink: 'https://github.com/yashlad681'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
