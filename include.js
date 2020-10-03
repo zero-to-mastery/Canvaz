@@ -1,6 +1,13 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'Patatap-Clone',
+    pageLink: './Art/Ayushi/index.html',
+    imageLink: './Art/Ayushi/Ayushi.png',
+    author: 'Ayushi',
+    githubLink: 'https://github.com/AyuSoni25',
+  },
+  {
     artName: 'Pencil Canvas',
     pageLink: './Art/Giancarl021/index.html',
     imageLink: './Art/Giancarl021/screenshot.png',
