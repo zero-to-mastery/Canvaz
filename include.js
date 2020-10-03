@@ -462,14 +462,22 @@ let cards = [
     imageLink: './Art/ytrkptl/screenshot.png',
     author: 'Yatrik Patel',
     githubLink: 'https://github.com/ytrkptl'
-  }
+  },
   {
     artName: 'fireworks',
     pageLink: './Art/badger/index.html',
     imageLink: './Art/badger/sshot.jpg',
     author: 'mr.badger',
     githubLink: 'https://github.com/'
+  },
+  {
+    artName: "King's Heart",
+    pageLink: './Art/divyansh/index.html',
+    imageLink: './Art/divyansh/King.jpg',
+    author: 'Divyansh',
+    githubLink: 'https://github.com/divyanshrastogi51'
   }
+
 ];
 
 // +--------------------------------------------------------------------------------+
