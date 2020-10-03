@@ -1,13 +1,14 @@
-html, body {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+html,
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
 .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background: #eee;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #eee;
 }
