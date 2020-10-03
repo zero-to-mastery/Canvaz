@@ -448,6 +448,13 @@ let cards = [
     imageLink: './Art/muslimalfatih/pixels-in-motion.png',
     author: 'Muslim',
     githubLink: 'https://github.com/muslimalfatih'
+  },
+  {
+    artName: 'Nepal Flag',
+    pageLink: './Art/shrijaltamrakar/index.html',
+    imageLink: './Art/shrijaltamrakar/nepalFlag.png',
+    author: 'Shrijal',
+    githubLink: 'https://github.com/shrijaltamrakar'
   }
 ];
 
