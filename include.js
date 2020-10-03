@@ -487,7 +487,7 @@ let cards = [
   {
     artName: 'Hackoberfest 2020',
     pageLink: './Art/WayneMacMavis/index.html',
-    imageLink: './Art/WayneMacMavis/img.png',
+    imageLink: './Art/WayneMacMavis/img.gif',
     author: 'Wayne',
     githubLink: 'https://github.com/WayneMacMavis'
   },
