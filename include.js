@@ -158,7 +158,7 @@ let cards = [
     artName: 'Bubbles',
     pageLink: './Art/michaeljoy255/bubbles.html',
     imageLink: './Art/michaeljoy255/bubbles.png',
-    author: 'Michael J',
+    author: 'Michael Joy',
     githubLink: 'https://github.com/michaeljoy255'
   },
   {
@@ -511,6 +511,20 @@ let cards = [
     imageLink: './Art/Rahulm2310/drawpad.gif',
     author: 'Rahulm2310',
     githubLink: 'https://github.com/Rahulm2310'
+  },
+  {
+    artName: 'Zaheer Canvas',
+    pageLink: './Art/ZaheerAbbas/index.html',
+    imageLink: './Art/ZaheerAbbas/ZaheerCanvas.png',
+    author: 'Zaheer Abbas',
+    githubLink: 'https://github.com/nk4456542'
+  },
+  {
+    artName: 'Skeletor Image',
+    pageLink: './Art/giuffrida-canvas/index.html',
+    imageLink: './Art/giuffrida-canvas/skeletor-snapshot.png',
+    author: 'Joe',
+    githubLink: 'https://github.com/joegiuffrida'
   }
 ];
 
