@@ -455,6 +455,13 @@ let cards = [
     imageLink: './Art/shrijaltamrakar/nepalFlag.png',
     author: 'Shrijal',
     githubLink: 'https://github.com/shrijaltamrakar'
+  },
+  {
+    artName: 'Coordinate Graph',
+    pageLink: './Art/ytrkptl/index.html',
+    imageLink: './Art/ytrkptl/screenshot.png',
+    author: 'Yatrik Patel',
+    githubLink: 'https://github.com/ytrkptl'
   }
 ];
 
