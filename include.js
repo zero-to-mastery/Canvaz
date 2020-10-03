@@ -379,6 +379,13 @@ let cards = [
     author: 'Zach',
     githubLink: 'https://github.com/Zach-The-Gecko'
   }
+  {
+    artName: 'Sunset Canvas',
+    pageLink: './Art/taniyahinduja/index.html',
+    imageLink: './Art/taniyahinduja/img.png',
+    author: 'Taniya',
+    githubLink: 'https://github.com/taniyahinduja'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
