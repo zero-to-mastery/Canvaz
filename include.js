@@ -420,6 +420,13 @@ let cards = [
     imageLink: './Art/Lincredible/complete.png',
     author: 'Lincredible',
     githubLink: 'https://github.com/LanguageXange'
+  },
+  {
+     artName: 'ZTM Art',
+    pageLink: './Art/etarrosa/index.html',
+    imageLink: './Art/etarrosa/ztm-art.png',
+    author: 'etarrosa',
+    githubLink: 'https://github.com/etarrosa'
   }
 ];
 
