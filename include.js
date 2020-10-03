@@ -483,6 +483,13 @@ let cards = [
     imageLink: './Art/WayneMacMavis/img.png',
     author: 'Wayne',
     githubLink: 'https://github.com/WayneMacMavis'
+  },
+  {
+    artName: 'Indonesia Flag',
+    pageLink: './Art/Ibrahimsyah/index.html',
+    imageLink: './Art/Ibrahimsyah/Indonesia.png',
+    author: 'Ibrahimsyah',
+    githubLink: 'https://github.com/Ibrahimsyah'
   }
 ];
 
