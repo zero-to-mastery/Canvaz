@@ -506,6 +506,13 @@ let cards = [
     githubLink: 'https://github.com/saqlainrasheed'
   },
   {
+    artName: 'Norwegian flag',
+    pageLink: './Art/ttumyr/nflag/nflag.html',
+    imageLink: './Art/ttumyr/nflag/nflag.png',
+    author: 'TTumyr',
+    githubLink: 'https://github.com/TTumyr/'
+  },
+  {
     artName: 'Drawpad',
     pageLink: './Art/Rahulm2310/index.html',
     imageLink: './Art/Rahulm2310/drawpad.gif',
