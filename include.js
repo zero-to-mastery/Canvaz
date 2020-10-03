@@ -492,6 +492,13 @@ let cards = [
     githubLink: 'https://github.com/WayneMacMavis'
   },
   {
+    artName: 'Stop Sign',
+    pageLink: './Art/small-ac/index.html',
+    imageLink: './Art/small-ac/stop-sign.PNG',
+    author: 'small-ac',
+    githubLink: 'https://github.com/small-ac'
+  },
+  {
     artName: 'Indonesia Flag',
     pageLink: './Art/Ibrahimsyah/index.html',
     imageLink: './Art/Ibrahimsyah/Indonesia.png',
