@@ -422,7 +422,7 @@ let cards = [
     githubLink: 'https://github.com/LanguageXange'
   },
   {
-     artName: 'ZTM Art',
+    artName: 'ZTM Art',
     pageLink: './Art/etarrosa/index.html',
     imageLink: './Art/etarrosa/ztm-art.png',
     author: 'etarrosa',
@@ -434,6 +434,13 @@ let cards = [
     imageLink: './Art/Atharva/pic.JPG',
     author: 'Atharva',
     githubLink: 'https://github.com/atharv123-wq'
+  },
+  {
+    artName: 'Sky',
+    pageLink: './Art/krutik/index.html',
+    imageLink: './Art/krutik/sky.jpeg',
+    author: 'krutik',
+    githubLink: 'https://github.com/krutik20'
   }
 ];
 
