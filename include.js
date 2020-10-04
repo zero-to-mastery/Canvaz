@@ -546,6 +546,12 @@ let cards = [
     imageLink: './Art/giuffrida-canvas/skeletor-snapshot.png',
     author: 'Joe',
     githubLink: 'https://github.com/joegiuffrida'
+  }, {
+    artName: 'Colourful Cube ',
+    pageLink: './Art/ayushi2410/index.html',
+    imageLink: './Art/ayushi2410/ayushi2410.png',
+    author: 'ayushi2410',
+    githubLink: 'https://github.com/ayushi2410'
   }
 ];
 
