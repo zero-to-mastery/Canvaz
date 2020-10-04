@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  background: linear-gradient(to left, #93f9b9, #1d976c);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+canvas {
+  margin-top: 15%;
+  display: flex;
+  border: 1px solid black;
+  background: white;
+}

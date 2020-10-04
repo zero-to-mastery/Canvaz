@@ -1,0 +1,21 @@
+* {
+  --canvas-width: 70;
+  --canvas-height: 35;
+}
+
+html {
+  background: lightpink;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+canvas {
+  width: calc(var(--canvas-width) * 1vmin);
+  height: calc(var(--canvas-height) * 1vmin);
+}
+
+canvas:hover {
+  cursor: all-scroll;
+}

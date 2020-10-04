@@ -1,11 +1,39 @@
 let cards = [
   //  Add your card in this section
   {
-    artName: 'Welocme To Hacktoberfest',
+    artName: 'Patatap-Clone',
+    pageLink: './Art/Ayushi/index.html',
+    imageLink: './Art/Ayushi/Ayushi.png',
+    author: 'Ayushi',
+    githubLink: 'https://github.com/AyuSoni25'
+  },
+  {
+    artName: 'Pencil Canvas',
+    pageLink: './Art/Giancarl021/index.html',
+    imageLink: './Art/Giancarl021/screenshot.png',
+    author: 'Giancarl021',
+    githubLink: 'https://github.com/Giancarl021'
+  },
+  {
+    artName: 'Monochromat your Photo',
+    pageLink: './Art/Shashvat/index.html',
+    imageLink: './Art/Shashvat/shashvat-sc.png',
+    author: 'Iamshashvat',
+    githubLink: 'https://github.com/Iamshashvat'
+  },
+  {
+    artName: 'Welcome To Hacktoberfest',
     pageLink: './Art/Utkarsh2604/index.html',
     imageLink: './Art/Utkarsh2604/Screenshot.png',
     author: 'Utkarsh',
     githubLink: 'https://github.com/Utkarsh2604'
+  },
+  {
+    artName: 'Loading Bar',
+    pageLink: './Art/shivam/index.html',
+    imageLink: './Art/shivam/loading.PNG',
+    author: 'shivam',
+    githubLink: 'https://github.com/shivam12k'
   },
   {
     artName: 'Japan',
@@ -20,6 +48,13 @@ let cards = [
     imageLink: './Art/joy/robot.png',
     author: 'joy',
     githubLink: 'https://github.com/royranger'
+  },
+  {
+    artName: 'Rainy Day',
+    pageLink: './Art/prakhil-tp/rainyday.html',
+    imageLink: './Art/prakhil-tp/banner.png',
+    author: 'Prakhil TP',
+    githubLink: 'https://github.com/prakhil-tp'
   },
   {
     artName: 'ZTM Number One',
@@ -78,6 +113,13 @@ let cards = [
     githubLink: 'https://github.com/cassiogroh'
   },
   {
+    artName: 'Blackboard',
+    pageLink: './Art/preity-p/index.html',
+    imageLink: './Art/preity-p/in-motion.gif',
+    author: 'Preity Priya',
+    githubLink: 'https://github.com/preity-p'
+  },
+  {
     artName: 'Diamond',
     pageLink: './Art/ab510/diamond.html',
     imageLink: './Art/ab510/diamond.png',
@@ -106,10 +148,17 @@ let cards = [
     githubLink: 'https://github.com/annima24'
   },
   {
+    artName: 'Our Indian Flag',
+    pageLink: './Art/aman/index.html',
+    imageLink: './Art/aman/screenshot.jpg',
+    author: 'aman',
+    githubLink: 'https://github.com/aman339'
+  },
+  {
     artName: 'Bubbles',
     pageLink: './Art/michaeljoy255/bubbles.html',
     imageLink: './Art/michaeljoy255/bubbles.png',
-    author: 'Michael J',
+    author: 'Michael Joy',
     githubLink: 'https://github.com/michaeljoy255'
   },
   {
@@ -118,6 +167,13 @@ let cards = [
     imageLink: './Art/gincos/finished.png',
     author: 'Gincos',
     githubLink: 'https://github.com/gincos'
+  },
+  {
+    artName: 'ZTM Hacktoberfest',
+    pageLink: './Art/sherine/index.html',
+    imageLink: './Art/sherine/ztm.png',
+    author: 'Sherine',
+    githubLink: 'https://github.com/sherinechally'
   },
   {
     artName: 'Hactoberfest2020',
@@ -155,11 +211,25 @@ let cards = [
     githubLink: 'https://github.com/JamiuJimoh'
   },
   {
+    artName: 'Russia Flag',
+    pageLink: './Art/Rohit/index.html',
+    imageLink: './Art/Rohit/russia_flag.jpg',
+    author: 'Rohit Ahuja',
+    githubLink: 'https://github.com/rohit1204'
+  },
+  {
     artName: 'Particles ZTM',
     pageLink: './Art/ctq3103/particles-ztm.html',
     imageLink: './Art/ctq3103/particles-ztm.gif',
     author: 'ctq3103',
     githubLink: 'https://github.com/ctq3103'
+  },
+  {
+    artName: 'Hacktoberfest>Olympics',
+    pageLink: './Art/nnhhiilliisstt/index.html',
+    imageLink: './Art/nnhhiilliisstt/logo.png',
+    author: 'Kumar Aditya',
+    githubLink: 'https://github.com/nnhhiilliisstt'
   },
   {
     artName: 'Indian Flag',
@@ -168,12 +238,330 @@ let cards = [
     author: 'Bhavansh',
     githubLink: 'https://github.com/bhavansh'
   },
+
   {
     artName: 'Ball Bouncer',
     pageLink: './Art/prashant-tripathi/index.html',
     imageLink: './Art/prashant-tripathi/bouncingball.png',
     author: 'Prashant Tripathi',
     githubLink: 'https://github.com/prashanttripathii'
+  },
+
+  {
+    artName: 'Bouncing Balls',
+    pageLink: './Art/varunv/canva.html',
+    imageLink: './Art/varunv/canva.gif',
+    author: 'Varun V',
+    githubLink: 'https://github.com/VarunV991'
+  },
+  {
+    artName: 'Russian Flag',
+    pageLink: './Art/AdityaSaroj/index.html',
+    imageLink: './Art/AdityaSaroj/russia.png',
+    author: 'Aditya Kumar Saroj',
+    githubLink: 'https://github.com/AdityaSaroj'
+  },
+  {
+    artName: 'Bauhaus Geometric',
+    pageLink: './Art/handa/index.html',
+    imageLink: './Art/handa/geometric.png',
+    author: 'Handa',
+    githubLink: 'https://github.com/handa26'
+  },
+  {
+    artName: 'Hacktoberfest rocks',
+    pageLink: './Art/cb/index.html',
+    imageLink: './Art/cb/hackto.png',
+    author: 'Chirag',
+    githubLink: 'https://github.com/bagdechirag'
+  },
+  {
+    artName: 'Gradient Hello World',
+    pageLink: './Art/mond/index.html',
+    imageLink: './Art/mond/pic.png',
+    author: 'Mond',
+    githubLink: 'https://github.com/monddelmundo'
+  },
+  {
+    artName: 'Bubble ZTM',
+    pageLink: './Art/ctq3103/bubble-ztm.html',
+    imageLink: './Art/ctq3103/bubble-ztm.gif',
+    author: 'ctq3103',
+    githubLink: 'https://github.com/ctq3103'
+  },
+  {
+    artName: 'Color Circle Anmination',
+    pageLink: './Art/tranjenny/index.html',
+    imageLink: './Art/tranjenny/theta.gif',
+    author: 'tranjenny',
+    githubLink: 'https://github.com/tranjenny'
+  },
+  {
+    artName: 'Spiraly Helix',
+    pageLink: './Art/hmahajan99/index.html',
+    imageLink: './Art/hmahajan99/hmahajan99.png',
+    author: 'hmahajan99',
+    githubLink: 'https://github.com/hmahajan99'
+  },
+  {
+    artName: 'Lightning Strikes',
+    pageLink: './Art/Harshil/index.html',
+    imageLink: './Art/Harshil/lightning.PNG',
+    author: 'Harshil',
+    githubLink: 'https://github.com/funpractice'
+  },
+  {
+    artName: 'Romanian Flag',
+    pageLink: './Art/TigerAsH94/index.html',
+    imageLink: './Art/TigerAsH94/flagRo.png',
+    author: 'TigerAsH94',
+    githubLink: 'https://github.com/TigerAsH94'
+  },
+  {
+    artName: 'Draw facial hair on your image',
+    pageLink: './Art/TamasKn/drawing.html',
+    imageLink: './Art/TamasKn/assets/draw-facial-hair.png',
+    author: 'TamasKn',
+    githubLink: 'https://github.com/TamasKn'
+  },
+  {
+    artName: 'Code your life with efforts',
+    pageLink: './Art/Ashutosh/index.html',
+    imageLink: './Art/Ashutosh/code.jpg',
+    author: 'Ashutosh',
+    githubLink: 'https://github.com/Ashutosh00710'
+  },
+  {
+    artName: 'Multi-coloured liquid Canvas drawing',
+    pageLink: './Art/sanjaysanjel/index.html',
+    imageLink: './Art/sanjaysanjel/assets/canvas-sanjay.PNG',
+    author: 'Sanjay Sanjel',
+    githubLink: 'https://github.com/sanjaysanjel019/'
+  },
+  {
+    artName: 'Text Canvas',
+    pageLink: './Art/skycoder/index.html',
+    imageLink: './Art/skycoder/think.png',
+    author: 'SkyC0der',
+    githubLink: 'https://github.com/SkyC0der'
+  },
+  {
+    artName: 'Happy Hacktoberfest',
+    pageLink: './Art/SquadTeemo/index.html',
+    imageLink: './Art/SquadTeemo/canvas_joy.jpg',
+    author: 'SquadTeemo',
+    githubLink: 'https://squadteemo.github.io/canvas-joy/'
+  },
+  {
+    artName: 'Flower Power',
+    pageLink: './Art/RedSquirrrel/index.html',
+    imageLink: './Art/RedSquirrrel/flover.gif',
+    author: 'RedSquirrrel',
+    githubLink: 'https://redsquirrrel.github.io/flover-style/'
+  },
+  {
+    artName: 'HackOctber drawing',
+    pageLink: './Art/shubhankar/index.html',
+    imageLink: './Art/shubhankar/Capture.PNG',
+    author: 'Shubhankar Dwivedi',
+    githubLink: 'https://github.com/shubhdwiv12/'
+  },
+  {
+    artName: 'funny house',
+    pageLink: './Art/CarmenIancu/index.html',
+    imageLink: './Art/CarmenIancu/funnyhouse.png',
+    author: 'Carmen',
+    githubLink: 'https://github.com/CarmenIancu'
+  },
+  {
+    artName: 'smiley face',
+    pageLink: './Art/biancasehn/index.html',
+    imageLink: './Art/biancasehn/Art.png',
+    author: 'Bianca',
+    githubLink: 'https://github.com/biancasehn'
+  },
+  {
+    artName: 'Random Colours',
+    pageLink: './Art/hamzazdev/index.html',
+    imageLink: './Art/hamzazdev/canvas.png',
+    author: 'hamzazdev',
+    githubLink: 'https://github.com/hamzazdev'
+  },
+  {
+    artName: 'Shapes',
+    pageLink: './Art/rashidmakki/index.html',
+    imageLink: './Art/rashidmakki/shapes.png',
+    author: 'Rashid Makki',
+    githubLink: 'https://github.com/rashidmakki'
+  },
+  {
+    artName: 'Smiley Face',
+    pageLink: './Art/ZachTheGecko/index.html',
+    imageLink: './Art/ZachTheGecko/img.png',
+    author: 'Zach',
+    githubLink: 'https://github.com/Zach-The-Gecko'
+  },
+  {
+    artName: 'Baby Yoda',
+    pageLink: './Art/samipPoudel/index.html',
+    imageLink: './Art/samipPoudel/babyYoda.jpg',
+    author: 'Samip Poudel',
+    githubLink: 'https://github.com/SamipPoudel58'
+  },
+  {
+    artName: 'Scotland the Brave',
+    pageLink: './Art/rmchardie/index.html',
+    imageLink: './Art/rmchardie/flag.png',
+    author: 'Ross McHardie',
+    githubLink: 'https://github.com/rmchardie'
+  },
+  {
+    artName: 'Sunset Canvas',
+    pageLink: './Art/taniyahinduja/index.html',
+    imageLink: './Art/taniyahinduja/img.png',
+    author: 'Taniya',
+    githubLink: 'https://github.com/taniyahinduja'
+  },
+  {
+    artName: 'Hexagon',
+    pageLink: './Art/yashlad681/index.html',
+    imageLink: './Art/yashlad681/hexagon.PNG',
+    author: 'Yash',
+    githubLink: 'https://github.com/yashlad681'
+  },
+  {
+    artName: 'Run For your Life',
+    pageLink: './Art/Lincredible/index.html',
+    imageLink: './Art/Lincredible/complete.png',
+    author: 'Lincredible',
+    githubLink: 'https://github.com/LanguageXange'
+  },
+  {
+    artName: 'ZTM Art',
+    pageLink: './Art/etarrosa/index.html',
+    imageLink: './Art/etarrosa/ztm-art.png',
+    author: 'etarrosa',
+    githubLink: 'https://github.com/etarrosa'
+  },
+  {
+    artName: 'Random Circles',
+    pageLink: './Art/Atharva/index.html',
+    imageLink: './Art/Atharva/pic.JPG',
+    author: 'Atharva',
+    githubLink: 'https://github.com/atharv123-wq'
+  },
+  {
+    artName: 'Sky',
+    pageLink: './Art/krutik/index.html',
+    imageLink: './Art/krutik/sky.jpeg',
+    author: 'krutik',
+    githubLink: 'https://github.com/krutik20'
+  },
+  {
+    artName: 'Pixels in Motion',
+    pageLink: './Art/muslimalfatih/index.html',
+    imageLink: './Art/muslimalfatih/pixels-in-motion.png',
+    author: 'Muslim',
+    githubLink: 'https://github.com/muslimalfatih'
+  },
+  {
+    artName: 'Nepal Flag',
+    pageLink: './Art/shrijaltamrakar/index.html',
+    imageLink: './Art/shrijaltamrakar/nepalFlag.png',
+    author: 'Shrijal',
+    githubLink: 'https://github.com/shrijaltamrakar'
+  },
+  {
+    artName: 'Coordinate Graph',
+    pageLink: './Art/ytrkptl/index.html',
+    imageLink: './Art/ytrkptl/screenshot.png',
+    author: 'Yatrik Patel',
+    githubLink: 'https://github.com/ytrkptl'
+  },
+  {
+    artName: 'fireworks',
+    pageLink: './Art/badger/index.html',
+    imageLink: './Art/badger/sshot.jpg',
+    author: 'mr.badger',
+    githubLink: 'https://github.com/'
+  },
+  {
+    artName: "King's Heart",
+    pageLink: './Art/divyansh/index.html',
+    imageLink: './Art/divyansh/King.jpg',
+    author: 'Divyansh',
+    githubLink: 'https://github.com/divyanshrastogi51'
+  },
+  {
+    artName: 'Hackoberfest 2020',
+    pageLink: './Art/WayneMacMavis/index.html',
+    imageLink: './Art/WayneMacMavis/img.gif',
+    author: 'Wayne',
+    githubLink: 'https://github.com/WayneMacMavis'
+  },
+  {
+    artName: 'Stop Sign',
+    pageLink: './Art/small-ac/index.html',
+    imageLink: './Art/small-ac/stop-sign.PNG',
+    author: 'small-ac',
+    githubLink: 'https://github.com/small-ac'
+  },
+  {
+    artName: 'Indonesia Flag',
+    pageLink: './Art/Ibrahimsyah/index.html',
+    imageLink: './Art/Ibrahimsyah/Indonesia.png',
+    author: 'Ibrahimsyah',
+    githubLink: 'https://github.com/Ibrahimsyah'
+  },
+  {
+    artName: 'Bouncing Balls',
+    pageLink: './Art/saqlain-rasheed/index.html',
+    imageLink: './Art/saqlain-rasheed/img.png',
+    author: 'Saqlain',
+    githubLink: 'https://github.com/saqlainrasheed'
+  },
+  {
+    artName: 'Animated Clock',
+    pageLink: './Art/comebackid87/index.html',
+    imageLink: './Art/comebackid87/animated_clock.gif',
+    author: 'comebackid87',
+    githubLink: 'https://github.com/comebackid87'
+  },
+  {
+    artName: 'Norwegian flag',
+    pageLink: './Art/ttumyr/nflag/nflag.html',
+    imageLink: './Art/ttumyr/nflag/nflag.png',
+    author: 'TTumyr',
+    githubLink: 'https://github.com/TTumyr/'
+  },
+  {
+    artName: 'Drawpad',
+    pageLink: './Art/Rahulm2310/index.html',
+    imageLink: './Art/Rahulm2310/drawpad.gif',
+    author: 'Rahulm2310',
+    githubLink: 'https://github.com/Rahulm2310'
+  },
+  {
+    artName: 'Zaheer Canvas',
+    pageLink: './Art/ZaheerAbbas/index.html',
+    imageLink: './Art/ZaheerAbbas/ZaheerCanvas.png',
+    author: 'Zaheer Abbas',
+    githubLink: 'https://github.com/nk4456542'
+  },
+  {
+    artName: 'Skeletor Image',
+    pageLink: './Art/giuffrida-canvas/index.html',
+    imageLink: './Art/giuffrida-canvas/skeletor-snapshot.png',
+    author: 'Joe',
+    githubLink: 'https://github.com/joegiuffrida'
+  },
+  {
+    artName: 'Pink is sus',
+    pageLink: './Art/sdangoy/canvas-creations.html',
+    imageLink: './Art/sdangoy/sus.png',
+    author: 'Stefan Dangoy',
+    githubLink: 'https://github.com/sdangoy'
+
   }
 ];
 
