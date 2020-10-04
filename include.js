@@ -553,6 +553,13 @@ let cards = [
     imageLink: './Art/sdangoy/sus.png',
     author: 'Stefan Dangoy',
     githubLink: 'https://github.com/sdangoy'
+  }, 
+  {
+    artName: 'Sunrise over the calm sea',
+    pageLink: './Art/adymoko/index.html',
+    imageLink: './Art/adymoko/adymoko-painting.jpg',
+    author: 'AdyMoko',
+    githubLink: 'https://github.com/AdyMoko'
   }
 ];
 
