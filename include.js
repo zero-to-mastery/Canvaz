@@ -561,6 +561,13 @@ let cards = [
     githubLink: 'https://github.com/ayushi2410'
 =======
   },
+  {
+    artName: 'Night Sky',
+    pageLink: './Art/nightSky/index.html',
+    imageLink: './Art/nightSky/img.png',
+    author: 'Taniya',
+    githubLink: 'https://github.com/taniyahinduja'
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
