@@ -176,7 +176,3 @@ ctx.beginPath();
 ctx.stroke();
 ctx.fill();
 ctx.closePath();
-
-// //Stroke Text
-// ctx.font = '50px serif';
-// ctx.strokeText('Hellow world', 50, 90);
