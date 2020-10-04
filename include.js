@@ -546,6 +546,13 @@ let cards = [
     imageLink: './Art/giuffrida-canvas/skeletor-snapshot.png',
     author: 'Joe',
     githubLink: 'https://github.com/joegiuffrida'
+  },
+  {
+    artName: 'Pink is sus',
+    pageLink: './Art/sdangoy/canvas-creations.html',
+    imageLink: './Art/sdangoy/sus.png',
+    author: 'Stefan Dangoy',
+    githubLink: 'https://github.com/sdangoy'
   }
 ];
 
@@ -582,4 +589,3 @@ function Shuffle(o) {
   );
   return o;
 }
-© 2020 GitHub, Inc.
