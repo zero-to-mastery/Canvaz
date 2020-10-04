@@ -240,6 +240,14 @@ let cards = [
   },
 
   {
+    artName: 'Ball Bouncer',
+    pageLink: './Art/prashant-tripathi/index.html',
+    imageLink: './Art/prashant-tripathi/bouncingball.png',
+    author: 'Prashant Tripathi',
+    githubLink: 'https://github.com/prashanttripathii'
+  },
+
+  {
     artName: 'Bouncing Balls',
     pageLink: './Art/varunv/canva.html',
     imageLink: './Art/varunv/canva.gif',
@@ -548,11 +556,32 @@ let cards = [
     githubLink: 'https://github.com/joegiuffrida'
   },
   {
+    artName: 'Argentina',
+    pageLink: './Art/uRi/index.html',
+    imageLink: './Art/uRi/argentina.png',
+    author: 'uRi',
+    githubLink: 'https://github.com/uhayon'
+  },
+  {
     artName: 'Pink is sus',
     pageLink: './Art/sdangoy/canvas-creations.html',
     imageLink: './Art/sdangoy/sus.png',
     author: 'Stefan Dangoy',
     githubLink: 'https://github.com/sdangoy'
+  },
+  {
+    artName: 'Minecraft Creeper Head',
+    pageLink: './Art/f0rSaaa/index.html',
+    imageLink: './Art/f0rSaaa/canvasCreeper.gif',
+    author: 'Ankit Sagar',
+    githubLink: 'https://github.com/f0rSaaa'
+  },
+  {
+    artName: 'Sunrise over the calm sea',
+    pageLink: './Art/adymoko/index.html',
+    imageLink: './Art/adymoko/adymoko-painting.jpg',
+    author: 'AdyMoko',
+    githubLink: 'https://github.com/AdyMoko'
   },
   {
     artName: 'Colourful Cube ',
