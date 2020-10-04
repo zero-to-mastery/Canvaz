@@ -553,6 +553,13 @@ let cards = [
     imageLink: './Art/sdangoy/sus.png',
     author: 'Stefan Dangoy',
     githubLink: 'https://github.com/sdangoy'
+  },
+  {
+    artName: 'Minecraft Creeper Head',
+    pageLink: './Art/f0rSaaa/index.html',
+    imageLink: './Art/f0rSaaa/canvasCreeper.gif',
+    author: 'Ankit Sagar',
+    githubLink: 'https://github.com/f0rSaaa'
   }
 ];
 
