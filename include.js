@@ -504,6 +504,13 @@ let cards = [
     imageLink: './Art/saqlain-rasheed/img.png',
     author: 'Saqlain',
     githubLink: 'https://github.com/saqlainrasheed'
+  },
+  {
+    artName: 'Pink is kinda sus',
+    pageLink: './Art/sdangoy/canvas-creations.html',
+    imageLink: './Art/saqlain-rasheed/sus.png',
+    author: 'Stefan D.',
+    githubLink: 'https://github.com/sdangoy'
   }
 ];
 
