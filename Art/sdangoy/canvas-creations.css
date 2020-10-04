@@ -1,0 +1,16 @@
+@import url('https://fonts.cdnfonts.com/css/vcr-osd-mono');
+
+html {
+  font-family: 'VCR OSD Mono', sans-serif;
+  background-color: black;
+  color: white;
+}
+
+h2.text {
+  margin-left: 250px;
+}
+
+h2.text:first-of-type {
+  margin-top: -190px;
+  margin-bottom: -10px;
+}

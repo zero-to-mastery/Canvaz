@@ -553,7 +553,21 @@ let cards = [
     imageLink: './Art/uRi/argentina.png',
     author: 'uRi',
     githubLink: 'https://github.com/uhayon'
-  }
+  },
+  {
+    artName: 'Pink is sus',
+    pageLink: './Art/sdangoy/canvas-creations.html',
+    imageLink: './Art/sdangoy/sus.png',
+    author: 'Stefan Dangoy',
+    githubLink: 'https://github.com/sdangoy'
+  },
+  {
+    artName: 'Colourful Cube ',
+    pageLink: './Art/ayushi2410/index.html',
+    imageLink: './Art/ayushi2410/ayushi2410.png',
+    author: 'ayushi2410',
+    githubLink: 'https://github.com/ayushi2410'
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
@@ -589,4 +603,3 @@ function Shuffle(o) {
   );
   return o;
 }
-© 2020 GitHub, Inc.
