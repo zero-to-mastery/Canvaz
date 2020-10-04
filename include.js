@@ -158,7 +158,7 @@ let cards = [
     artName: 'Bubbles',
     pageLink: './Art/michaeljoy255/bubbles.html',
     imageLink: './Art/michaeljoy255/bubbles.png',
-    author: 'Michael J',
+    author: 'Michael Joy',
     githubLink: 'https://github.com/michaeljoy255'
   },
   {
@@ -492,6 +492,13 @@ let cards = [
     githubLink: 'https://github.com/WayneMacMavis'
   },
   {
+    artName: 'Stop Sign',
+    pageLink: './Art/small-ac/index.html',
+    imageLink: './Art/small-ac/stop-sign.PNG',
+    author: 'small-ac',
+    githubLink: 'https://github.com/small-ac'
+  },
+  {
     artName: 'Indonesia Flag',
     pageLink: './Art/Ibrahimsyah/index.html',
     imageLink: './Art/Ibrahimsyah/Indonesia.png',
@@ -506,10 +513,45 @@ let cards = [
     githubLink: 'https://github.com/saqlainrasheed'
   },
   {
-    artName: 'Pink is kinda sus',
+    artName: 'Animated Clock',
+    pageLink: './Art/comebackid87/index.html',
+    imageLink: './Art/comebackid87/animated_clock.gif',
+    author: 'comebackid87',
+    githubLink: 'https://github.com/comebackid87'
+  },
+  {
+    artName: 'Norwegian flag',
+    pageLink: './Art/ttumyr/nflag/nflag.html',
+    imageLink: './Art/ttumyr/nflag/nflag.png',
+    author: 'TTumyr',
+    githubLink: 'https://github.com/TTumyr/'
+  },
+  {
+    artName: 'Drawpad',
+    pageLink: './Art/Rahulm2310/index.html',
+    imageLink: './Art/Rahulm2310/drawpad.gif',
+    author: 'Rahulm2310',
+    githubLink: 'https://github.com/Rahulm2310'
+  },
+  {
+    artName: 'Zaheer Canvas',
+    pageLink: './Art/ZaheerAbbas/index.html',
+    imageLink: './Art/ZaheerAbbas/ZaheerCanvas.png',
+    author: 'Zaheer Abbas',
+    githubLink: 'https://github.com/nk4456542'
+  },
+  {
+    artName: 'Skeletor Image',
+    pageLink: './Art/giuffrida-canvas/index.html',
+    imageLink: './Art/giuffrida-canvas/skeletor-snapshot.png',
+    author: 'Joe',
+    githubLink: 'https://github.com/joegiuffrida'
+  },
+  {
+    artName: 'Pink is sus',
     pageLink: './Art/sdangoy/canvas-creations.html',
-    imageLink: './Art/saqlain-rasheed/sus.png',
-    author: 'Stefan D.',
+    imageLink: './Art/sdangoy/sus.png',
+    author: 'Stefan Dangoy',
     githubLink: 'https://github.com/sdangoy'
   }
 ];
@@ -547,3 +589,4 @@ function Shuffle(o) {
   );
   return o;
 }
+© 2020 GitHub, Inc.
