@@ -559,8 +559,14 @@ let cards = [
     imageLink: './Art/ayushi2410/ayushi2410.png',
     author: 'ayushi2410',
     githubLink: 'https://github.com/ayushi2410'
-=======
   },
+  {
+    artName: 'joedag32',
+    pageLink: './Art/joedag32/index.html',
+    imageLink: './Art/joedag32/screenshot.png',
+    author: 'Joe',
+    githubLink: 'https://github.com/joedag32'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
