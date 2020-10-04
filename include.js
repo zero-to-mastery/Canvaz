@@ -567,7 +567,7 @@ let cards = [
     imageLink: './Art/ayushi2410/ayushi2410.png',
     author: 'ayushi2410',
     githubLink: 'https://github.com/ayushi2410'
-  },
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
