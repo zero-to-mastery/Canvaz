@@ -546,6 +546,13 @@ let cards = [
     imageLink: './Art/giuffrida-canvas/skeletor-snapshot.png',
     author: 'Joe',
     githubLink: 'https://github.com/joegiuffrida'
+  },
+  {
+    artName: 'Argentina',
+    pageLink: './Art/uRi/index.html',
+    imageLink: './Art/uRi/argentina.png',
+    author: 'uRi',
+    githubLink: 'https://github.com/uhayon'
   }
 ];
 
