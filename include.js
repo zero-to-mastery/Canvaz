@@ -582,4 +582,3 @@ function Shuffle(o) {
   );
   return o;
 }
-© 2020 GitHub, Inc.
