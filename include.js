@@ -591,6 +591,13 @@ let cards = [
     githubLink: 'https://github.com/ayushi2410'
   },
   {
+    artName: 'joedag32',
+    pageLink: './Art/joedag32/index.html',
+    imageLink: './Art/joedag32/screenshot.png',
+    author: 'Joe',
+    githubLink: 'https://github.com/joedag32'
+  },
+  {
     artName: 'Night Sky',
     pageLink: './Art/nightSky/index.html',
     imageLink: './Art/nightSky/img.png',
