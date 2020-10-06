@@ -540,7 +540,7 @@ let cards = [
     imageLink: './Art/Aisha/galaxy.png',
     author: 'ASH',
     githubLink: 'https://github.com/aishaamir'
-},
+  },
   {
     artName: 'Drawpad',
     pageLink: './Art/Rahulm2310/index.html',
@@ -646,12 +646,33 @@ let cards = [
     author: 'Jon',
     githubLink: 'https://github.com/elcarn23'
   },
-   {
+  {
     artName: 'HTML5CanvasAnimation',
     pageLink: './Art/diana/HTML5CanvasAnimation-main/index.html',
     imageLink: './Art/diana/HTML5CanvasAnimation.PNG',
     author: 'Diana Vilé',
     githubLink: 'https://github.com/dianavile'
+  },
+  {
+    artName: 'Art',
+    pageLink: './Art/matthewdbrock1968/art.html',
+    imageLink: './Art/matthewdbrock1968/art.png',
+    author: 'Matthew D. Brock',
+    githubLink: 'https://github.com/matthewdbrock1968'
+  },
+  {
+    artName: '3D CUBE',
+    pageLink: './Art/kunalprakash1309/index.html',
+    imageLink: './Art/kunalprakash1309/Screenshot.png',
+    author: 'Kunal Prakash',
+    githubLink: 'https://github.com/kunalprakash1309'
+  },
+  {
+    artName: 'Sierpinski triangle',
+    pageLink: './Art/indremak/index.html',
+    imageLink: './Art/indremak/Sierpinski_triangle.png',
+    author: 'Indre Mak',
+    githubLink: 'https://github.com/indremak'
   }
 ];
 
