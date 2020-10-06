@@ -638,6 +638,13 @@ let cards = [
     imageLink: './Art/Aviad198/IsraelFlag.png',
     author: 'Aviad Hitner',
     githubLink: 'https://github.com/aviad198'
+  },
+  {
+    artName: 'Ripple Effect',
+    pageLink: './Art/ripples/index.html',
+    imageLink: './Art/ripples/ripple.png',
+    author: 'Jon',
+    githubLink: 'https://github.com/elcarn23'
   }
 ];
 
