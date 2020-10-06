@@ -652,6 +652,13 @@ let cards = [
     imageLink: './Art/matthewdbrock1968/art.png',
     author: 'Matthew D. Brock',
     githubLink: 'https://github.com/matthewdbrock1968'
+  },
+  {
+    artName: '3D CUBE',
+    pageLink: './Art/kunalprakash1309/index.html',
+    imageLink: './Art/kunalprakash1309/Screenshot.png',
+    author: 'Kunal Prakash',
+    githubLink: 'https://github.com/kunalprakash1309'
   }
 ];
 
