@@ -659,6 +659,13 @@ let cards = [
     imageLink: './Art/kunalprakash1309/Screenshot.png',
     author: 'Kunal Prakash',
     githubLink: 'https://github.com/kunalprakash1309'
+  },
+  {
+    artName: 'Sierpinski triangle',
+    pageLink: './Art/indremak/index.html',
+    imageLink: './Art/indremak/Sierpinski_triangle.png',
+    author: 'Indre Mak',
+    githubLink: 'https://github.com/indremak'
   }
 ];
 
