@@ -645,6 +645,13 @@ let cards = [
     imageLink: './Art/ripples/ripple.png',
     author: 'Jon',
     githubLink: 'https://github.com/elcarn23'
+  },
+  {
+    artName: 'Art',
+    pageLink: './Art/matthewdbrock1968/art.html',
+    imageLink: './Art/matthewdbrock1968/art.png',
+    author: 'Matthew D. Brock',
+    githubLink: 'https://github.com/matthewdbrock1968'
   }
 ];
 
