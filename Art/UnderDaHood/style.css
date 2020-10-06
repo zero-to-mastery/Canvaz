@@ -12,7 +12,7 @@ canvas {
 h1 {
   position: fixed;
   text-align: center;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   color: rgba(0, 0, 0, 0.548);
   border: rgba(0, 0, 0, 0.226) dashed 2px;
   top: 50%;

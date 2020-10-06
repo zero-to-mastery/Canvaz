@@ -2,39 +2,39 @@
 
 window.onload = function () {
   //create HTML5 canvas
-  let object = document.querySelector("canvas");
+  let object = document.querySelector('canvas');
   object.width = window.innerWidth;
   object.height = window.innerHeight;
-  let ctx = object.getContext("2d");
+  let ctx = object.getContext('2d');
 
   //define mouse position on x and y scale
   let mouse = {
     x: undefined,
-    y: undefined,
+    y: undefined
   };
 
   //define radius
   let maxRadius = 50;
 
   //add EventListener: when mouse moves, mouseposition on x and y changes.
-  window.addEventListener("mousemove", function (event) {
+  window.addEventListener('mousemove', function (event) {
     mouse.x = event.x;
     mouse.y = event.y;
   });
 
   //create colorArray with colors used for animation
   let colorArray = [
-    "#150485",
-    "#590995",
-    "#c62a88",
-    "#A569BD",
-    "#03c4a1",
-    "#76ead7",
-    "#c4fb6d",
+    '#150485',
+    '#590995',
+    '#c62a88',
+    '#A569BD',
+    '#03c4a1',
+    '#76ead7',
+    '#c4fb6d'
   ];
 
   //add EventListener: resize the animation
-  window.addEventListener("resize", function () {
+  window.addEventListener('resize', function () {
     object.width = window.innerWidth;
     object.height = window.innerHeight;
     //initiate animation

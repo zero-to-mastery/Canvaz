@@ -1,9 +1,9 @@
-const canvas = document.querySelector("canvas");
+const canvas = document.querySelector('canvas');
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
-var cxt = canvas.getContext("2d");
+var cxt = canvas.getContext('2d');
 
-var colorArray = ["black", "gray"];
+var colorArray = ['black', 'gray'];
 
 class Circle {
   constructor(x, y, dx, dy, radius) {
