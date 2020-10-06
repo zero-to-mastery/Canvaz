@@ -617,6 +617,13 @@ let cards = [
     imageLink: './Art/kirstenbolda/random-circles-w-rectangles.png',
     author: 'Kirsten',
     githubLink: 'https://github.com/KirstenBolda'
+  },
+  {
+    artName: 'Cool Canvas BackGround',
+    pageLink: './Art/UnderDaHood/index.html',
+    imageLink: './Art/UnderDaHood/Thumbnail.gif',
+    author: 'DEV',
+    githubLink: 'https://github.com/UnderDaHood'
   }
 ];
 
