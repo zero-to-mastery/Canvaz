@@ -631,8 +631,14 @@ let cards = [
     imageLink: './Art/UnderDaHood/Thumbnail.gif',
     author: 'DEV',
     githubLink: 'https://github.com/UnderDaHood'
+  },
+  {
+    artName: 'Israel Flag',
+    pageLink: './Art/Aviad198/index.html',
+    imageLink: './Art/Aviad198/IsraelFlag.png',
+    author: 'Aviad Hitner',
+    githubLink: 'https://github.com/aviad198'
   }
-
 ];
 
 // +--------------------------------------------------------------------------------+
