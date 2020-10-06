@@ -645,6 +645,13 @@ let cards = [
     imageLink: './Art/ripples/ripple.png',
     author: 'Jon',
     githubLink: 'https://github.com/elcarn23'
+  },
+   {
+    artName: 'HTML5CanvasAnimation',
+    pageLink: './Art/diana/HTML5CanvasAnimation-main/index.html',
+    imageLink: './Art/diana/HTML5CanvasAnimation.PNG',
+    author: 'Diana Vilé',
+    githubLink: 'https://github.com/dianavile'
   }
 ];
 
