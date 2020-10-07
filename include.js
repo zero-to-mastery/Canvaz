@@ -148,6 +148,13 @@ let cards = [
     githubLink: 'https://github.com/annima24'
   },
   {
+    artName: 'tetris art',
+    pageLink: './Art/thomashewett/index.html',
+    imageLink: './Art/thomashewett/tetris.gif',
+    author: 'thomashewett',
+    githubLink: 'https://github.com/thomashewett'
+  },
+  {
     artName: 'Our Indian Flag',
     pageLink: './Art/aman/index.html',
     imageLink: './Art/aman/screenshot.jpg',
@@ -158,7 +165,7 @@ let cards = [
     artName: 'Bubbles',
     pageLink: './Art/michaeljoy255/bubbles.html',
     imageLink: './Art/michaeljoy255/bubbles.png',
-    author: 'Michael J',
+    author: 'Michael Joy',
     githubLink: 'https://github.com/michaeljoy255'
   },
   {
@@ -237,6 +244,14 @@ let cards = [
     imageLink: './Art/Bmg/India.png',
     author: 'Bhavansh',
     githubLink: 'https://github.com/bhavansh'
+  },
+
+  {
+    artName: 'Ball Bouncer',
+    pageLink: './Art/prashant-tripathi/index.html',
+    imageLink: './Art/prashant-tripathi/bouncingball.png',
+    author: 'Prashant Tripathi',
+    githubLink: 'https://github.com/prashanttripathii'
   },
 
   {
@@ -401,11 +416,326 @@ let cards = [
     githubLink: 'https://github.com/SamipPoudel58'
   },
   {
+    artName: 'Scotland the Brave',
+    pageLink: './Art/rmchardie/index.html',
+    imageLink: './Art/rmchardie/flag.png',
+    author: 'Ross McHardie',
+    githubLink: 'https://github.com/rmchardie'
+  },
+  {
     artName: 'Sunset Canvas',
     pageLink: './Art/taniyahinduja/index.html',
     imageLink: './Art/taniyahinduja/img.png',
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
+  },
+  {
+    artName: 'Hexagon',
+    pageLink: './Art/yashlad681/index.html',
+    imageLink: './Art/yashlad681/hexagon.PNG',
+    author: 'Yash',
+    githubLink: 'https://github.com/yashlad681'
+  },
+  {
+    artName: 'Run For your Life',
+    pageLink: './Art/Lincredible/index.html',
+    imageLink: './Art/Lincredible/complete.png',
+    author: 'Lincredible',
+    githubLink: 'https://github.com/LanguageXange'
+  },
+  {
+    artName: 'ZTM Art',
+    pageLink: './Art/etarrosa/index.html',
+    imageLink: './Art/etarrosa/ztm-art.png',
+    author: 'etarrosa',
+    githubLink: 'https://github.com/etarrosa'
+  },
+  {
+    artName: 'Random Circles',
+    pageLink: './Art/Atharva/index.html',
+    imageLink: './Art/Atharva/pic.JPG',
+    author: 'Atharva',
+    githubLink: 'https://github.com/atharv123-wq'
+  },
+  {
+    artName: 'Sky',
+    pageLink: './Art/krutik/index.html',
+    imageLink: './Art/krutik/sky.jpeg',
+    author: 'krutik',
+    githubLink: 'https://github.com/krutik20'
+  },
+  {
+    artName: 'Pixels in Motion',
+    pageLink: './Art/muslimalfatih/index.html',
+    imageLink: './Art/muslimalfatih/pixels-in-motion.png',
+    author: 'Muslim',
+    githubLink: 'https://github.com/muslimalfatih'
+  },
+  {
+    artName: 'Nepal Flag',
+    pageLink: './Art/shrijaltamrakar/index.html',
+    imageLink: './Art/shrijaltamrakar/nepalFlag.png',
+    author: 'Shrijal',
+    githubLink: 'https://github.com/shrijaltamrakar'
+  },
+  {
+    artName: 'Coordinate Graph',
+    pageLink: './Art/ytrkptl/index.html',
+    imageLink: './Art/ytrkptl/screenshot.png',
+    author: 'Yatrik Patel',
+    githubLink: 'https://github.com/ytrkptl'
+  },
+  {
+    artName: 'fireworks',
+    pageLink: './Art/badger/index.html',
+    imageLink: './Art/badger/sshot.jpg',
+    author: 'mr.badger',
+    githubLink: 'https://github.com/'
+  },
+  {
+    artName: "King's Heart",
+    pageLink: './Art/divyansh/index.html',
+    imageLink: './Art/divyansh/King.jpg',
+    author: 'Divyansh',
+    githubLink: 'https://github.com/divyanshrastogi51'
+  },
+  {
+    artName: 'Hackoberfest 2020',
+    pageLink: './Art/WayneMacMavis/index.html',
+    imageLink: './Art/WayneMacMavis/img.gif',
+    author: 'Wayne',
+    githubLink: 'https://github.com/WayneMacMavis'
+  },
+  {
+    artName: 'Stop Sign',
+    pageLink: './Art/small-ac/index.html',
+    imageLink: './Art/small-ac/stop-sign.PNG',
+    author: 'small-ac',
+    githubLink: 'https://github.com/small-ac'
+  },
+  {
+    artName: 'Indonesia Flag',
+    pageLink: './Art/Ibrahimsyah/index.html',
+    imageLink: './Art/Ibrahimsyah/Indonesia.png',
+    author: 'Ibrahimsyah',
+    githubLink: 'https://github.com/Ibrahimsyah'
+  },
+  {
+    artName: 'Bouncing Balls',
+    pageLink: './Art/saqlain-rasheed/index.html',
+    imageLink: './Art/saqlain-rasheed/img.png',
+    author: 'Saqlain',
+    githubLink: 'https://github.com/saqlainrasheed'
+  },
+  {
+    artName: 'Animated Clock',
+    pageLink: './Art/comebackid87/index.html',
+    imageLink: './Art/comebackid87/animated_clock.gif',
+    author: 'comebackid87',
+    githubLink: 'https://github.com/comebackid87'
+  },
+  {
+    artName: 'Norwegian flag',
+    pageLink: './Art/ttumyr/nflag/nflag.html',
+    imageLink: './Art/ttumyr/nflag/nflag.png',
+    author: 'TTumyr',
+    githubLink: 'https://github.com/TTumyr/'
+  },
+  {
+    artName: 'galaxy',
+    pageLink: './Art/Aisha/index.html',
+    imageLink: './Art/Aisha/galaxy.png',
+    author: 'ASH',
+    githubLink: 'https://github.com/aishaamir'
+  },
+  {
+    artName: 'Drawpad',
+    pageLink: './Art/Rahulm2310/index.html',
+    imageLink: './Art/Rahulm2310/drawpad.gif',
+    author: 'Rahulm2310',
+    githubLink: 'https://github.com/Rahulm2310'
+  },
+  {
+    artName: 'Zaheer Canvas',
+    pageLink: './Art/ZaheerAbbas/index.html',
+    imageLink: './Art/ZaheerAbbas/ZaheerCanvas.png',
+    author: 'Zaheer Abbas',
+    githubLink: 'https://github.com/nk4456542'
+  },
+  {
+    artName: 'Skeletor Image',
+    pageLink: './Art/giuffrida-canvas/index.html',
+    imageLink: './Art/giuffrida-canvas/skeletor-snapshot.png',
+    author: 'Joe',
+    githubLink: 'https://github.com/joegiuffrida'
+  },
+  {
+    artName: 'Argentina',
+    pageLink: './Art/uRi/index.html',
+    imageLink: './Art/uRi/argentina.png',
+    author: 'uRi',
+    githubLink: 'https://github.com/uhayon'
+  },
+  {
+    artName: 'Pink is sus',
+    pageLink: './Art/sdangoy/canvas-creations.html',
+    imageLink: './Art/sdangoy/sus.png',
+    author: 'Stefan Dangoy',
+    githubLink: 'https://github.com/sdangoy'
+  },
+  {
+    artName: 'Minecraft Creeper Head',
+    pageLink: './Art/f0rSaaa/index.html',
+    imageLink: './Art/f0rSaaa/canvasCreeper.gif',
+    author: 'Ankit Sagar',
+    githubLink: 'https://github.com/f0rSaaa'
+  },
+  {
+    artName: 'Sunrise over the calm sea',
+    pageLink: './Art/adymoko/index.html',
+    imageLink: './Art/adymoko/adymoko-painting.jpg',
+    author: 'AdyMoko',
+    githubLink: 'https://github.com/AdyMoko'
+  },
+  {
+    artName: 'Colourful Cube ',
+    pageLink: './Art/ayushi2410/index.html',
+    imageLink: './Art/ayushi2410/ayushi2410.png',
+    author: 'ayushi2410',
+    githubLink: 'https://github.com/ayushi2410'
+  },
+  {
+    artName: 'joedag32',
+    pageLink: './Art/joedag32/index.html',
+    imageLink: './Art/joedag32/screenshot.png',
+    author: 'Joe',
+    githubLink: 'https://github.com/joedag32'
+  },
+  {
+    artName: 'Night Sky',
+    pageLink: './Art/nightSky/index.html',
+    imageLink: './Art/nightSky/img.png',
+    author: 'Taniya',
+    githubLink: 'https://github.com/taniyahinduja'
+  },
+  {
+    artName: 'Elldrigar',
+    pageLink: './Art/Elldrigar/index.html',
+    imageLink: './Art/Elldrigar/art.png',
+    author: 'Artur Gawron',
+    githubLink: 'https://github.com/Elldrigar'
+  },
+  {
+    artName: 'Black Hole',
+    pageLink: './Art/nataliepina/index.html',
+    imageLink: './Art/nataliepina/blackhole.png',
+    author: 'Natalie',
+    githubLink: 'https://github.com/nataliepina'
+  },
+  {
+    artName: 'random circles with rectangles',
+    pageLink: './Art/kirstenbolda/index.html',
+    imageLink: './Art/kirstenbolda/random-circles-w-rectangles.png',
+    author: 'Kirsten',
+    githubLink: 'https://github.com/KirstenBolda'
+  },
+  {
+    artName: 'Cool Canvas BackGround',
+    pageLink: './Art/UnderDaHood/index.html',
+    imageLink: './Art/UnderDaHood/Thumbnail.gif',
+    author: 'DEV',
+    githubLink: 'https://github.com/UnderDaHood'
+  },
+  {
+    artName: 'Israel Flag',
+    pageLink: './Art/Aviad198/index.html',
+    imageLink: './Art/Aviad198/IsraelFlag.png',
+    author: 'Aviad Hitner',
+    githubLink: 'https://github.com/aviad198'
+  },
+  {
+    artName: 'Ripple Effect',
+    pageLink: './Art/ripples/index.html',
+    imageLink: './Art/ripples/ripple.png',
+    author: 'Jon',
+    githubLink: 'https://github.com/elcarn23'
+  },
+  {
+    artName: 'HTML5CanvasAnimation',
+    pageLink: './Art/diana/HTML5CanvasAnimation-main/index.html',
+    imageLink: './Art/diana/HTML5CanvasAnimation-main/HTML5CanvasAnimation.PNG',
+    author: 'Diana Vilé',
+    githubLink: 'https://github.com/dianavile'
+  },
+  {
+    artName: 'Art',
+    pageLink: './Art/matthewdbrock1968/art.html',
+    imageLink: './Art/matthewdbrock1968/art.png',
+    author: 'Matthew D. Brock',
+    githubLink: 'https://github.com/matthewdbrock1968'
+  },
+  {
+    artName: '3D CUBE',
+    pageLink: './Art/kunalprakash1309/index.html',
+    imageLink: './Art/kunalprakash1309/Screenshot.png',
+    author: 'Kunal Prakash',
+    githubLink: 'https://github.com/kunalprakash1309'
+  },
+  {
+    artName: 'Sierpinski triangle',
+    pageLink: './Art/indremak/index.html',
+    imageLink: './Art/indremak/Sierpinski_triangle.png',
+    author: 'Indre Mak',
+    githubLink: 'https://github.com/indremak'
+  },
+  {
+    artName: 'Snake Game',
+    pageLink: './Art/Jude/snakegame.html',
+    imageLink: './Art/Jude/images/snake.png',
+    author: 'Jude Savio',
+    githubLink: 'https://github.com/JudeSavio'
+  },
+  {
+    artName: 'Hacktoberfest Spots',
+    pageLink: './Art/Denice-S/index.html',
+    imageLink: './Art/Denice-S/denice-s.jpg',
+    author: 'Denice Soper',
+    githubLink: 'https://github.com/Denice-S'
+  },
+  {
+    artName: 'Spinning animation',
+    pageLink: './Art/dhenry/index.html',
+    imageLink: './Art/dhenry/screenshot.png',
+    author: 'Dalia',
+    githubLink: 'https://github.com/Krungleviciute'
+  },
+  {
+    artName: 'Colourful Ball Generator',
+    pageLink: './Art/khoaHyh/index.html',
+    imageLink: './Art/khoaHyh/screenshot_canvas.png',
+    author: 'khoaHyh',
+    githubLink: 'https://github.com/khoaHyh'
+  },
+  {
+    artName: 'Random Night Sky',
+    pageLink: './Art/twinkle/index.html',
+    imageLink: './Art/twinkle/random_night_sky.png',
+    author: 'Jon',
+    githubLink: 'https://github.com/elcarn23'
+  },
+  {
+    artName: 'Sketch',
+    pageLink: './Art/Mitej-Madan/main.html',
+    imageLink: './Art/Mitej-Madan/Sketch.png',
+    author: 'Mitej Madan',
+    githubLink: 'https://github.com/mitej23'
+  },
+  {
+    artName: 'Atom',
+    pageLink: './Art/hieutrinh/atom.html',
+    imageLink: './Art/hieutrinh/atom.gif',
+    author: 'trinhminhhieu',
+    githubLink: 'https://github.com/trinhminhhieu'
   },
   {
     artName: 'Owl Canvas',

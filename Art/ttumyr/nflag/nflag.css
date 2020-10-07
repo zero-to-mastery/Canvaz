@@ -1,0 +1,27 @@
+body {
+  font-family: tahoma, arial;
+  padding: 20px;
+}
+h1 {
+  font-weight: 200;
+}
+.colors {
+  --offRed: rgb(186, 18, 43);
+  --offBlue: rgb(0, 32, 91);
+  --red: rgb(248, 7, 7);
+  --blue: rgb(1, 1, 121);
+  --white: rgb(255, 255, 255);
+  --shadow: rgba(0, 0, 0, 0.3);
+}
+.main-block {
+  text-align: center;
+}
+.canvas {
+  display: grid;
+  margin: 0 auto;
+}
+#canvas {
+  margin: 0 auto;
+  box-shadow: 0px 0px 10px 2px var(--shadow);
+  cursor: pointer;
+}

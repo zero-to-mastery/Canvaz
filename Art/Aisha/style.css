@@ -1,0 +1,9 @@
+html {
+  background: url('pexels-alex-andrews-821644.jpg') center center;
+  background-size: cover;
+}
+/* canvas */
+
+canvas {
+  z-index: 2;
+}
