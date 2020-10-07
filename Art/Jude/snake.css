@@ -1,0 +1,18 @@
+body {
+  background-image: url('images/background.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  position: relative;
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  border: 1px solid #000;
+  display: block;
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 70px;
+}
