@@ -2,6 +2,29 @@ const canvas = document.getElementById('rippleCanvas');
 const ctx = canvas.getContext('2d');
 const fps = 30;
 let ripple_array = [];
+let rainEnabled = false;
+let rainInterval;
+
+function toggleRain() {
+    rainEnabled = !rainEnabled;
+    console.log("toggling rain")
+    if (rainEnabled) {
+        // When we are doing rain set our interval and add some rain
+        rainInterval = setInterval(function() {
+            for (let i = 0; i < 3; i++) {
+                let newX = Math.floor(Math.random() * 450);
+                let newY = Math.floor(Math.random() * 350);
+
+                setTimeout(function () {
+                    addRipple(newX, newY, 50, 2);
+                }, 500 * i);
+            }
+        }, 1000)
+    }
+    else {
+        clearInterval(rainInterval);
+    }
+}
 
 function addRipple(x, y, subRippleCount, increase) {
   ripple_array.push({
