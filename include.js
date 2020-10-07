@@ -729,6 +729,13 @@ let cards = [
     imageLink: './Art/Mitej-Madan/Sketch.png',
     author: 'Mitej Madan',
     githubLink: 'https://github.com/mitej23'
+  },
+  {
+    artName: 'Atom',
+    pageLink: './Art/hieutrinh/atom.html',
+    imageLink: './Art/hieutrinh/atom.gif',
+    author: 'trinhminhhieu',
+    githubLink: 'https://github.com/trinhminhhieu'
   }
 ];
 
