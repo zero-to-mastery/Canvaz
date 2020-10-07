@@ -612,6 +612,13 @@ let cards = [
     githubLink: 'https://github.com/taniyahinduja'
   },
   {
+    artName: 'Elldrigar',
+    pageLink: './Art/Elldrigar/index.html',
+    imageLink: './Art/Elldrigar/art.png',
+    author: 'Artur Gawron',
+    githubLink: 'https://github.com/Elldrigar'
+  },
+  {
     artName: 'Black Hole',
     pageLink: './Art/nataliepina/index.html',
     imageLink: './Art/nataliepina/blackhole.png',
