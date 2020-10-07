@@ -5,7 +5,7 @@ let cards = [
     pageLink: './Art/Ayushi/index.html',
     imageLink: './Art/Ayushi/Ayushi.png',
     author: 'Ayushi',
-    githubLink: 'https://github.com/AyuSoni25',
+    githubLink: 'https://github.com/AyuSoni25'
   },
   {
     artName: 'Pencil Canvas',
@@ -406,6 +406,13 @@ let cards = [
     imageLink: './Art/taniyahinduja/img.png',
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
+  },
+  {
+    artName: 'Owl Canvas',
+    pageLink: './Art/Aszmel/index.html',
+    imageLink: './Art/Aszmel/screen.png',
+    author: 'Aszmel',
+    githubLink: 'https://github.com/Aszmel'
   }
 ];
 
