@@ -708,6 +708,13 @@ let cards = [
     imageLink: './Art/indremak/screenshot_canvas.png',
     author: 'khoaHyh',
     githubLink: 'https://github.com/khoaHyh'
+  },
+  {
+    artName: 'Random Night Sky',
+    pageLink: './Art/twinkle/index.html',
+    imageLink: './Art/twinkle/random_night_sky.png',
+    author: 'Jon',
+    githubLink: 'https://github.com/elcarn23'
   }
 ];
 
