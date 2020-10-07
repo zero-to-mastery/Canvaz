@@ -1,11 +1,11 @@
-const canvas = document.getElementById("canvas");
-const width = canvas.width = window.innerWidth * 0.75;
-const height = canvas.height = window.innerHeight * 0.75;
-const ctx = canvas.getContext("2d");
+const canvas = document.getElementById('canvas');
+const width = (canvas.width = window.innerWidth * 0.75);
+const height = (canvas.height = window.innerHeight * 0.75);
+const ctx = canvas.getContext('2d');
 
 const mouse = {
   x: innerWidth / 2,
-  y: innerHeight / 2,
+  y: innerHeight / 2
 };
 
 window.onmousemove = function (e) {
@@ -15,8 +15,8 @@ window.onmousemove = function (e) {
 
 //generates color
 function generateColor() {
-  let list = "0123456789ABCDEF";
-  let color = "#";
+  let list = '0123456789ABCDEF';
+  let color = '#';
   for (let i = 0; i < 6; i++) {
     color += list[Math.ceil(Math.random() * 15)];
   }
@@ -27,17 +27,11 @@ let linesList = [];
 
 window.onload = function myfunction() {
   for (let i = 0; i < 10; i++) {
-    let initialLine = new line(
-      innerWidth / 2,
-      innerHeight / 2,
-      5,
-      "red",
-      2,
-    );
+    let initialLine = new line(innerWidth / 2, innerHeight / 2, 5, 'red', 2);
     linesList.push(initialLine);
   }
 
-  ctx.lineWidth = "2";
+  ctx.lineWidth = '2';
   ctx.globalAlpha = 0.5;
   resize();
   anim();
@@ -57,7 +51,7 @@ function resize() {
       innerHeight / 2,
       2,
       generateColor(),
-      0.01,
+      0.01
     );
   }
   //a[0] = new ob(innerWidth / 2, innerHeight / 2, 40, "red", 0.05, 0.05);
@@ -76,7 +70,7 @@ function line(width, height, lineThickness, color, spinningSpeed) {
   this.draw = function () {
     const ls = {
       x: this.width,
-      y: this.height,
+      y: this.height
     };
     this.theta += this.speed;
     this.width = mouse.x + Math.cos(this.theta) * this.size;
@@ -93,7 +87,7 @@ function line(width, height, lineThickness, color, spinningSpeed) {
 
 function anim() {
   requestAnimationFrame(anim);
-  ctx.fillStyle = "rgba(0,0,0,0.05)";
+  ctx.fillStyle = 'rgba(0,0,0,0.05)';
   ctx.fillRect(0, 0, canvas.width, canvas.height);
   linesList.forEach(function (e) {
     e.draw();
