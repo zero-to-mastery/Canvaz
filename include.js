@@ -673,6 +673,13 @@ let cards = [
     imageLink: './Art/indremak/Sierpinski_triangle.png',
     author: 'Indre Mak',
     githubLink: 'https://github.com/indremak'
+  },
+  {
+    artName: 'Snake Game',
+    pageLink: './Art/Jude/snakegame.html',
+    imageLink: './Art/Jude/images/snake.png',
+    author: 'Jude Savio',
+    githubLink: 'https://github.com/JudeSavio'
   }
 ];
 
