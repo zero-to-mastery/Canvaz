@@ -736,6 +736,13 @@ let cards = [
     imageLink: './Art/hieutrinh/atom.gif',
     author: 'trinhminhhieu',
     githubLink: 'https://github.com/trinhminhhieu'
+  },
+  {
+    artName: 'Owl Canvas',
+    pageLink: './Art/Aszmel/index.html',
+    imageLink: './Art/Aszmel/screen.png',
+    author: 'Aszmel',
+    githubLink: 'https://github.com/Aszmel'
   }
 ];
 
