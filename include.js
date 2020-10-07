@@ -148,6 +148,13 @@ let cards = [
     githubLink: 'https://github.com/annima24'
   },
   {
+    artName: 'tetris art',
+    pageLink: './Art/thomashewett/index.html',
+    imageLink: './Art/joy/tetris.gif',
+    author: 'thomashewett',
+    githubLink: 'https://github.com/thomashewett'
+  },
+  {
     artName: 'Our Indian Flag',
     pageLink: './Art/aman/index.html',
     imageLink: './Art/aman/screenshot.jpg',
