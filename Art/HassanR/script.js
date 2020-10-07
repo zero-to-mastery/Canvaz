@@ -1,7 +1,6 @@
 const canvas = document.getElementById('shape');
 const ctx = canvas.getContext('2d');
 
-
 ctx.beginPath();
 ctx.moveTo(25, 25);
 ctx.lineTo(75, 25);
@@ -25,4 +24,3 @@ ctx.moveTo(100, 120);
 ctx.lineTo(40, 120);
 ctx.lineTo(100, 180);
 ctx.fill();
-
