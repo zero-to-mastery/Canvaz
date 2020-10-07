@@ -702,6 +702,13 @@ let cards = [
     author: 'Dalia',
     githubLink: 'https://github.com/Krungleviciute'
   }
+  {
+    artName: 'Colourful Ball Generator',
+    pageLink: './Art/indremak/index.html',
+    imageLink: './Art/indremak/screenshot_canvas.png',
+    author: 'khoaHyh',
+    githubLink: 'https://github.com/khoaHyh'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
