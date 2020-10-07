@@ -150,7 +150,7 @@ let cards = [
   {
     artName: 'tetris art',
     pageLink: './Art/thomashewett/index.html',
-    imageLink: './Art/joy/tetris.gif',
+    imageLink: './Art/thomashewett/tetris.gif',
     author: 'thomashewett',
     githubLink: 'https://github.com/thomashewett'
   },
@@ -663,7 +663,7 @@ let cards = [
   {
     artName: 'HTML5CanvasAnimation',
     pageLink: './Art/diana/HTML5CanvasAnimation-main/index.html',
-    imageLink: './Art/diana/HTML5CanvasAnimation.PNG',
+    imageLink: './Art/diana/HTML5CanvasAnimation-main/HTML5CanvasAnimation.PNG',
     author: 'Diana Vilé',
     githubLink: 'https://github.com/dianavile'
   },
@@ -697,8 +697,8 @@ let cards = [
   },
   {
     artName: 'Hacktoberfest Spots',
-    pageLink: './Art/denice-s/index.html',
-    imageLink: './Art/denice-s/denice-s',
+    pageLink: './Art/Denice-S/index.html',
+    imageLink: './Art/Denice-S/denice-s.jpg',
     author: 'Denice Soper',
     githubLink: 'https://github.com/Denice-S'
   },
@@ -711,8 +711,8 @@ let cards = [
   },
   {
     artName: 'Colourful Ball Generator',
-    pageLink: './Art/indremak/index.html',
-    imageLink: './Art/indremak/screenshot_canvas.png',
+    pageLink: './Art/khoaHyh/index.html',
+    imageLink: './Art/khoaHyh/screenshot_canvas.png',
     author: 'khoaHyh',
     githubLink: 'https://github.com/khoaHyh'
   },
