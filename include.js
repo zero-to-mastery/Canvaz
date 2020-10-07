@@ -708,7 +708,7 @@ let cards = [
     imageLink: './Art/dhenry/screenshot.png',
     author: 'Dalia',
     githubLink: 'https://github.com/Krungleviciute'
-  }
+  },
   {
     artName: 'Colourful Ball Generator',
     pageLink: './Art/indremak/index.html',
@@ -722,6 +722,13 @@ let cards = [
     imageLink: './Art/twinkle/random_night_sky.png',
     author: 'Jon',
     githubLink: 'https://github.com/elcarn23'
+  },
+  {
+    artName: 'Sketch',
+    pageLink: './Art/Mitej-Madan/main.html',
+    imageLink: './Art/Mitej-Madan/Sketch.png',
+    author: 'Mitej Madan',
+    githubLink: 'https://github.com/mitej23'
   }
 ];
 
