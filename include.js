@@ -743,6 +743,13 @@ let cards = [
     imageLink: './Art/Aszmel/screen.png',
     author: 'Aszmel',
     githubLink: 'https://github.com/Aszmel'
+  },
+  {
+    artName: 'Animated Spiral',
+    pageLink: './Art/Valdas3/index.html',
+    imageLink: './Art/Valdas3/image.png',
+    author: 'Valdas3',
+    githubLink: 'https://github.com/Valdas3'
   }
 ];
 
