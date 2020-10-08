@@ -750,6 +750,13 @@ let cards = [
     imageLink: './Art/Valdas3/image.png',
     author: 'Valdas3',
     githubLink: 'https://github.com/Valdas3'
+  },
+  {
+	artName: 'Atomic Structure',
+    pageLink: './Art/Karthikk/index.html',
+    imageLink: './Art/Karthikk/atoms.png',
+    author: 'Karthik K',
+    githubLink: 'https://github.com/Karthikk15'
   }
 ];
 
