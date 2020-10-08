@@ -759,7 +759,7 @@ let cards = [
     githubLink: 'https://github.com/Valdas3'
   },
   {
-	artName: 'Atomic Structure',
+	  artName: 'Atomic Structure',
     pageLink: './Art/Karthikk/index.html',
     imageLink: './Art/Karthikk/atoms.png',
     author: 'Karthik K',
@@ -778,6 +778,13 @@ let cards = [
     imageLink: './Art/Mudit/Flag.PNG',
     author: 'Muditxofficial',
     githubLink: 'https://github.com/Muditxofficial'
+  },
+  {
+    artName: 'Hacktoberfest 2020 Animation',
+    pageLink: './Art/urilivshits/index.html',
+    imageLink: './Art/urilivshits/image.png',
+    author: 'Uri Livshits',
+    githubLink: 'https://github.com/urilivshits'
   }
 
 ];
