@@ -696,6 +696,13 @@ let cards = [
     githubLink: 'https://github.com/JudeSavio'
   },
   {
+    artName: 'Pong!!!',
+    pageLink: './Art/JudeSavio/ping-pong.html',
+    imageLink: './Art/JudeSavio/pong.png',
+    author: 'Jude Savio',
+    githubLink: 'https://github.com/JudeSavio'
+  },
+  {
     artName: 'Hacktoberfest Spots',
     pageLink: './Art/Denice-S/index.html',
     imageLink: './Art/Denice-S/denice-s.jpg',
