@@ -750,6 +750,13 @@ let cards = [
     imageLink: './Art/Valdas3/image.png',
     author: 'Valdas3',
     githubLink: 'https://github.com/Valdas3'
+  },
+  {
+    artName: 'Hacktoberfest 2020 Animation',
+    pageLink: './Art/urilivshits/index.html',
+    imageLink: './Art/urilivshits/image.png',
+    author: 'Uri Livshits',
+    githubLink: 'https://github.com/urilivshits'
   }
 ];
 
