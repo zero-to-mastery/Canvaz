@@ -764,7 +764,15 @@ let cards = [
     imageLink: './Art/lenjamin/snake.JPG',
     author: 'lenjamin',
     githubLink: 'https://github.com/lenjaminbiu'
+  },
+  {
+    artName: 'Germany Pride',
+    pageLink: './Art/Mudit/index.html',
+    imageLink: './Art/Mudit/Flag.PNG',
+    author: 'Muditxofficial',
+    githubLink: 'https://github.com/Muditxofficial'
   }
+
 ];
 
 // +--------------------------------------------------------------------------------+
