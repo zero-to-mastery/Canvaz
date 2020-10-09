@@ -1,0 +1,59 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+#canvas {
+  border: 1px solid black;
+}
+
+.container {
+  z-index: 2;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 50%;
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  text-align: center;
+}
+
+.label {
+  margin: 5px;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  font-size: 14px;
+  font-family: 'Poppins', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+    'Helvetica Neue', sans-serif;
+}
+
+#input {
+  margin: 5px;
+  width: 40px;
+}
+
+#btn {
+  cursor: pointer;
+  width: 160px;
+  position: relative;
+  display: inline-block;
+  padding: 10px 10px;
+  margin: 10px 5px;
+  color: #fff;
+  letter-spacing: 2px;
+  font-size: 14px;
+  font-family: 'Poppins', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+    'Helvetica Neue', sans-serif;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 40px;
+  background: linear-gradient(90deg, #755bea, #ff72c0);
+}

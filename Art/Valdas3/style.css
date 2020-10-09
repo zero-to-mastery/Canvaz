@@ -1,0 +1,35 @@
+body {
+  display: flex;
+}
+
+form {
+  width: 30%;
+  font-size: 1.2rem;
+}
+
+label {
+  display: block;
+  margin: 10px;
+  width: 360px;
+}
+
+input {
+  border-radius: 5px;
+  outline: none;
+  border: 2px solid black;
+  font-size: inherit;
+  margin-left: auto;
+}
+
+#angle-speed {
+  margin-left: 6px;
+}
+
+button {
+  width: 6rem;
+  font-size: inherit;
+  margin-left: 6px;
+  border-radius: 5px;
+  border: 1px solid rgb(153, 147, 147);
+  outline: none;
+}

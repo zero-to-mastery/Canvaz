@@ -1,0 +1,34 @@
+* {
+  border: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body,
+.fullDim {
+  height: 100%;
+  width: 100%;
+  background: azure;
+}
+
+.flex-wrap {
+  display: flex;
+}
+
+.flex-wrap.vertical {
+  flex-direction: column;
+}
+
+.flex-wrap > .flex-item {
+  flex: 1;
+}
+
+.flex-wrap.centered {
+  justify-content: center;
+  align-items: center;
+}
+
+#stats-container div {
+  text-align: center;
+}
