@@ -14,14 +14,14 @@ if (canvas.getContext) {
   // Text
 
   // Hacktoberfest
-  ctx.fillStyle = "#903C5D";
-  ctx.font = "48px serif";
-  ctx.fillText("Hacktoberfest", 200, 200);
+  ctx.fillStyle = '#903C5D';
+  ctx.font = '48px serif';
+  ctx.fillText('Hacktoberfest', 200, 200);
 
   // Is
-  ctx.fillStyle = "#FFFFFF";
-  ctx.font = "54px serif";
-  ctx.fillText("IS", 280, 320);
+  ctx.fillStyle = '#FFFFFF';
+  ctx.font = '54px serif';
+  ctx.fillText('IS', 280, 320);
 
   // Awesome
   var lingrad = ctx.createLinearGradient(180, 430, 330, 430);
@@ -31,9 +31,8 @@ if (canvas.getContext) {
   lingrad.addColorStop(0.75, '#0094e4');
   lingrad.addColorStop(1, '#ee82ee');
   ctx.fillStyle = lingrad;
-  ctx.font = "48px serif";
-  ctx.fillText("Awesome", 180, 430);
-
+  ctx.font = '48px serif';
+  ctx.fillText('Awesome', 180, 430);
 } else {
   // Canvas was not supported here, so...
 }

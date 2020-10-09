@@ -1,0 +1,54 @@
+body {
+  box-sizing: border-box;
+  background: silver;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+canvas {
+  height: 400px;
+  width: auto;
+  background: dodgerblue;
+  box-shadow: 0 0 30px 15px white;
+  border-radius: 10px;
+  animation: lighter 4s linear;
+}
+
+h1 {
+  color: red;
+  position: absolute;
+  z-index: 10;
+  font-size: 7rem;
+  animation: grow 3s linear;
+}
+
+@keyframes grow {
+  0% {
+    transform: scale(20);
+    opacity: 0;
+  }
+  50% {
+    transform: scale(10);
+    opacity: 0.1;
+  }
+  95% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  canvas {
+    height: 180px;
+    width: auto;
+  }
+
+  h1 {
+    font-size: 3rem;
+  }
+}

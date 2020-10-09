@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+canvas {
+  border: 5px solid rgba(0, 0, 0, 0.14);
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.05);
+  margin: 30px;
+  border-radius: 5px;
+}

@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#rippleCanvas {
+  background-color: lightblue;
+  border: solid 1px black;
+}
+
+.rainButton {
+  color: white;
+  background-color: lightslategray;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+button:active {
+  background: #e5e5e5;
+  -webkit-box-shadow: inset 0px 0px 5px #c1c1c1;
+  -moz-box-shadow: inset 0px 0px 5px #c1c1c1;
+  box-shadow: inset 0px 0px 5px #c1c1c1;
+  outline: none;
+}

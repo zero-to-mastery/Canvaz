@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Monochromatic</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="http://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js"></script>
+  </head>
+  <body>
+    <div class="center">
+      <h3 class="neon">Upload and Monochromat your Photo</h3>
+      <canvas id="c1"> </canvas>
+      <p>
+        <input
+          type="file"
+          multiple="false"
+          accept="image/*"
+          id="t1"
+          onchange="upload()"
+        />
+      </p>
+      <input
+        type="button"
+        value="Monochromat"
+        id="monochromat()"
+        onclick="monochromat()"
+        class="button"
+      />
+    </div>
+    <script src="scripts.js"></script>
+  </body>
+</html>

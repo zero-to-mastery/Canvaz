@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+.container {
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+  display: flex;
+  background-color: #fff;
+  border: 2px solid #000;
+  padding: 20px;
+  flex-direction: column;
+  gap: 10px;
+}
+
+input {
+  border: none;
+  padding: 3px;
+  font-size: 32px;
+}
+
+#r {
+  background-color: #f002;
+  border: 2px solid #f00;
+}
+#g {
+  background-color: #0f02;
+  border: 2px solid #0f0;
+}
+#b {
+  background-color: #00f2;
+  border: 2px solid #00f;
+}
