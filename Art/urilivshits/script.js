@@ -254,12 +254,33 @@ class Element {
                 this.segments[i].drawSquare();
         }
     };
-}
+};
+
+//----------------------- Explotion animation
+explode = () => {
+    element["segments"].map(val => {
+        let randomCol = Math.floor(Math.random() * 6); 
+        let randomRow = Math.floor(Math.random() * 10); 
+        val.col < 39 ? val.col -= randomCol : val.col += randomCol;
+        val.row < 35 ? val.row -= randomRow : val.row += randomRow;
+    });
+};
 
 //----------------------- Starting the animation
 element = new Element();
-setInterval (() => {
+let state = 0;
+repeat = () => {
     ctx.clearRect(blockSize, blockSize, width-blockSize, height-blockSize);
     element.draw();
+    explode();
     drawBorder();
-}, 100);
+    state === 0 ? timeOutId = setTimeout(repeat, 150) : clearTimeout(timeOutId);
+};
+repeat();
+
+
+stateDelay = () => {
+    state = 1;
+}
+setTimeout(stateDelay, 3000);
+
