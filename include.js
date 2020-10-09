@@ -619,11 +619,11 @@ let cards = [
     githubLink: 'https://github.com/taniyahinduja'
   },
   {
-  	artName: 'Collision Course',
-    pageLink: "./Art/collision_course/index.html",
-    imageLink: "./Art/collision_course/collision_course.gif",
-    author: "Sanand",
-    githubLink: "https://github.com/sanandmv7"
+    artName: 'Collision Course',
+    pageLink: './Art/collision_course/index.html',
+    imageLink: './Art/collision_course/collision_course.gif',
+    author: 'Sanand',
+    githubLink: 'https://github.com/sanandmv7'
   },
   {
     artName: 'Elldrigar',
