@@ -696,6 +696,13 @@ let cards = [
     githubLink: 'https://github.com/JudeSavio'
   },
   {
+    artName: 'Pong!!!',
+    pageLink: './Art/JudeSavio/ping-pong.html',
+    imageLink: './Art/JudeSavio/pong.png',
+    author: 'Jude Savio',
+    githubLink: 'https://github.com/JudeSavio'
+  },
+  {
     artName: 'Hacktoberfest Spots',
     pageLink: './Art/Denice-S/index.html',
     imageLink: './Art/Denice-S/denice-s.jpg',
@@ -752,6 +759,30 @@ let cards = [
     githubLink: 'https://github.com/Valdas3'
   },
   {
+<<<<<<< HEAD
+=======
+    artName: 'Atomic Structure',
+    pageLink: './Art/Karthikk/index.html',
+    imageLink: './Art/Karthikk/atoms.png',
+    author: 'Karthik K',
+    githubLink: 'https://github.com/Karthikk15'
+  },
+  {
+    artName: 'Circle Snake?',
+    pageLink: './Art/lenjamin/index.html',
+    imageLink: './Art/lenjamin/snake.JPG',
+    author: 'lenjamin',
+    githubLink: 'https://github.com/lenjaminbiu'
+  },
+  {
+    artName: 'Germany Pride',
+    pageLink: './Art/Mudit/index.html',
+    imageLink: './Art/Mudit/Flag.PNG',
+    author: 'Muditxofficial',
+    githubLink: 'https://github.com/Muditxofficial'
+  },
+  {
+>>>>>>> 6631f427e94a875cc67f6926d03fb8cbe7cb137d
     artName: 'Hacktoberfest 2020 Animation',
     pageLink: './Art/urilivshits/index.html',
     imageLink: './Art/urilivshits/image.png',
