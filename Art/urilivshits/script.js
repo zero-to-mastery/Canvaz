@@ -1,11 +1,6 @@
 //----------------------- Defining the global variables
-<<<<<<< HEAD
-canvas = document.getElementById("canvas");
-ctx = canvas.getContext("2d");
-=======
 canvas = document.getElementById('canvas');
 ctx = canvas.getContext('2d');
->>>>>>> 6631f427e94a875cc67f6926d03fb8cbe7cb137d
 
 width = canvas.width;
 height = canvas.height;
@@ -17,24 +12,15 @@ heightInBlocks = height / blockSize;
 
 //----------------------- Drawing the Border
 drawBorder = () => {
-<<<<<<< HEAD
-    ctx.fillStyle = "#3A86FF";
-    ctx.fillRect(0, 0, width, blockSize);
-    ctx.fillRect(0, height - blockSize, width, blockSize);
-    ctx.fillRect(0, 0, blockSize, height);
-    ctx.fillRect(width - blockSize, 0, blockSize, height);
-=======
   ctx.fillStyle = '#3A86FF';
   ctx.fillRect(0, 0, width, blockSize);
   ctx.fillRect(0, height - blockSize, width, blockSize);
   ctx.fillRect(0, 0, blockSize, height);
   ctx.fillRect(width - blockSize, 0, blockSize, height);
->>>>>>> 6631f427e94a875cc67f6926d03fb8cbe7cb137d
 };
 
 //----------------------- Building the Block Constructor
 class Block {
-<<<<<<< HEAD
     constructor (col, row, color) {
         this.col = col;
         this.row = row;
@@ -298,7 +284,6 @@ stateDelay = () => {
 }
 setTimeout(stateDelay, 3000);
 
-=======
   constructor(col, row, color) {
     this.col = col;
     this.row = row;
@@ -540,4 +525,3 @@ setInterval(() => {
   element.draw();
   drawBorder();
 }, 100);
->>>>>>> 6631f427e94a875cc67f6926d03fb8cbe7cb137d
