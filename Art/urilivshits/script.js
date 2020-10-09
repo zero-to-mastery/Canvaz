@@ -284,6 +284,7 @@ stateDelay = () => {
 }
 setTimeout(stateDelay, 3000);
 
+class Block {
   constructor(col, row, color) {
     this.col = col;
     this.row = row;
