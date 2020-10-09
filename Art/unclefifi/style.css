@@ -27,10 +27,6 @@ html, body, .fullDim {
     align-items: center;
 }
 
-
-
-/* canvas 
-canvas {
-    border: 1px solid black;
+#stats-container div {
+    text-align: center
 }
-*/

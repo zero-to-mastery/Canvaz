@@ -146,6 +146,13 @@ let cards = [
 		imageLink: './Art/Jamiu/color.PNG',
 		author: 'Jamiu',
 		githubLink: 'https://github.com/JamiuJimoh'
+	},
+  {
+		artName: 'Donut Chart',
+		pageLink: './Art/unclefifi/index.html',
+		imageLink: './Art/unclefifi/art.png',
+		author: 'unclefifi',
+		githubLink: 'https://github.com/unclefifi'
 	}
 ];
 

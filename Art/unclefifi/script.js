@@ -9,17 +9,58 @@
                 male: 0,
                 female: 0
             }
-            this.ageGroupStats = [
-                0,// from 01 to 10
-                0,// from 11 to 20
-                0,// from 21 to 30
-                0,// from 31 to 40
-                0,// from 41 to 50
-                0,// from 51 to 60
-                0,// from 61 to 70
-                0,// from 71 to 80
-                0,// from 81 to 90
-                0,// from 91 to 100
+
+            this.ageGroupValues = [
+                {
+                    title: "from 01 to 10",
+                    count: 0,
+                    percent: 0
+                },
+                {
+                    title: "from 11 to 20",
+                    count: 0,
+                    percent: 0
+                },
+                {
+                    title: "from 21 to 30",
+                    count: 0,
+                    percent: 0
+                },
+                {
+                    title: "from 31 to 40",
+                    count: 0,
+                    percent: 0
+                },
+                {
+                    title: "from 41 to 50",
+                    count: 0,
+                    percent: 0
+                },
+                {
+                    title: "from 51 to 60",
+                    count: 0,
+                    percent: 0
+                },
+                {
+                    title: "from 61 to 70",
+                    count: 0,
+                    percent: 0
+                },
+                {
+                    title: "from 71 to 80",
+                    count: 0,
+                    percent: 0
+                },
+                {
+                    title: "from 81 to 90",
+                    count: 0,
+                    percent: 0
+                },
+                {
+                    title: "from 91 to 100",
+                    count: 0,
+                    percent: 0
+                }
             ]
         }
     }
@@ -29,23 +70,25 @@
         else
            Statistics.prototype._singleton.genderStats.male++
     }
-    Statistics.prototype.updateStatsByAge = function(simpleUser) {
+    Statistics.prototype.updateStatsByAge = function(simpleUser, totalN) {
         let startAge = 0
         let endAge = 10
         const { age } = simpleUser
-        for(let i = 1;i <= 10;i++) {
+        for(let i = 0;i < 10;i++) {
             if(age > startAge && age <= endAge) {
-                Statistics.prototype._singleton.ageGroupStats[i]++
+                const ObjectReference = Statistics.prototype._singleton.ageGroupValues[i]
+                ObjectReference.percent = ++ObjectReference.count/totalN
                 break;
             }
             startAge = endAge+1
             endAge+=10
         }
     }
-    Statistics.prototype.updateAllStats = function(simpleUser) {
+    Statistics.prototype.updateAllStats = function(simpleUser, totalN) {
         Statistics.prototype.updateGenderStats(simpleUser)
-        Statistics.prototype.updateStatsByAge(simpleUser)
+        Statistics.prototype.updateStatsByAge(simpleUser, totalN)
     }
+    
 
 
 
@@ -75,7 +118,6 @@
         const canvasWrapElement = document.getElementById('canvas-wrap')
         const canvasWrapElementHeight = canvasWrapElement.clientHeight
         const canvasWrapElementWidth = canvasWrapElement.clientWidth
-        const smaller = Math.min(canvasWrapElementHeight,canvasWrapElementWidth)
 
         const canvasPadding = 100
         const ratio = canvasWrapElementHeight / canvasWrapElementWidth
@@ -83,6 +125,7 @@
         const canvasHeight = ratio * canvasWidth
 
         // circle properties
+        const smaller = Math.min(canvasWrapElementHeight,canvasWrapElementWidth)
         const radius = (smaller - (canvasPadding + 10)) / 2
         const radiusPosition = {
             x: canvasWidth/2,
@@ -94,39 +137,52 @@
         canvasHTMLElement.height = canvasHeight
 
         const ctx = canvasHTMLElement.getContext('2d')
+        const circleRadOffset = Math.PI
 
         function drawFullCircle(innerCircle = false, x = radiusPosition.x, y = radiusPosition.y, r = radius, startAngle = 0*Math.PI, endAngle = 2*Math.PI){
-            ctx.beginPath();
+            ctx.beginPath()
             if(innerCircle) {
                 r = radius - 20
-            }
-            ctx.arc(x, y, r, startAngle, endAngle, true)
-            if(innerCircle) {
-                ctx.fillStyle = 'crimson';
+                ctx.fillStyle = 'darkslategrey';
             } else {
                 ctx.fillStyle = '#303030';
             }
-
+            ctx.arc(x, y, r, startAngle, endAngle, true)
             ctx.fill();
             ctx.stroke();
         }
 
+        function renderCircleOutside() {
+            drawFullCircle()
+            drawFullCircle(true)
+        }
+
+        function drawDougnut(startP, endP, color) {
+            ctx.beginPath()
+            let r = radius - 65
+            const percentRadianStart = Math.PI*2*startP
+            const percentRadianEnd = Math.PI*2*endP
+            ctx.arc(radiusPosition.x, radiusPosition.y, r, percentRadianStart+circleRadOffset, percentRadianEnd+circleRadOffset)
+            ctx.lineWidth=40
+            ctx.strokeStyle=color
+            ctx.stroke();
+        }
+
         return {
-            drawCircle: drawFullCircle
+            renderCircleOutside,
+            drawDougnut
         }
     }
 
 
     const randomUserState = {
-        count: 100,
+        count: 3000,
         excludeList: [
-            // "gender",
             "name",
             "location",
             "email",
             "login",
             "registered",
-            // "dob",
             "phone",
             "cell",
             "id",
@@ -136,9 +192,23 @@
         formattedUsers: []
     }
 
+    function genderStatsRender(canvasinstance) {
+        canvasinstance.renderCircleOutside()
+        const Stats = new Statistics()
+        const total = Stats.genderStats.male + Stats.genderStats.female
+        const menPercentage = Stats.genderStats.male / total
+        canvasinstance.drawDougnut(0, menPercentage, "crimson")
+        canvasinstance.drawDougnut(menPercentage, 1, "cornflowerblue")
+        document.getElementById('male-count').innerText = Stats.genderStats.male
+        document.getElementById('female-count').innerText = Stats.genderStats.female
+        document.getElementById('male-percent').innerText = Math.floor(100*menPercentage)
+        document.getElementById('female-percent').innerText = 100-Math.floor(100*menPercentage)
+    }
+
 
     // in a comma delimited way...
     const excludeCSV = randomUserState.excludeList.join(",")
+    const canvasinstance = canvasService()
     fetch(`https://randomuser.me/api/?results=${randomUserState.count}&exc=${excludeCSV}`)
         .then((apiResponse) =>  apiResponse.json())
         .then((formattedAPIResponse) => {
@@ -149,13 +219,14 @@
                 results.forEach((randomuser) => {
                     const simpleUser = UserRecordUtilityService.format(randomuser)
                     randomUserState.formattedUsers.push(simpleUser)
-                    Stats.updateAllStats(simpleUser)
+                    Stats.updateAllStats(simpleUser, randomUserState.count)
                 })
 
-                const canvasinstance = canvasService()
-                canvasinstance.drawCircle()
-                canvasinstance.drawCircle(true)
-
+                genderStatsRender(canvasinstance)
             }
-        })
+        }
+    )
+
+    
+
 })()
