@@ -806,6 +806,13 @@ let cards = [
     imageLink: './Art/CJHarriz/south-africa.png',
     author: 'Callum Harris',
     githubLink: 'https://github.com/CJHarriz'
+  },
+  {
+    artName: 'City Canvas',
+    pageLink: './Art/KOfosu2289/index.html',
+    imageLink: './Art/KOfosu2289/city.gif',
+    author: 'Kenneth(KOfosu2289)',
+    githubLink: 'https://github.com/kofosu2289'
   }
 ];
 
