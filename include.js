@@ -759,7 +759,13 @@ let cards = [
     githubLink: 'https://github.com/Valdas3'
   },
   {
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
     artName: 'Atomic Structure',
+=======
+	  artName: 'Atomic Structure',
+>>>>>>> cd01bce523af3a8aac0b4ebc46fa4695e36d2ccb
     pageLink: './Art/Karthikk/index.html',
     imageLink: './Art/Karthikk/atoms.png',
     author: 'Karthik K',
@@ -780,6 +786,10 @@ let cards = [
     githubLink: 'https://github.com/Muditxofficial'
   },
   {
+<<<<<<< HEAD
+>>>>>>> 6631f427e94a875cc67f6926d03fb8cbe7cb137d
+=======
+>>>>>>> cd01bce523af3a8aac0b4ebc46fa4695e36d2ccb
     artName: 'Hacktoberfest 2020 Animation',
     pageLink: './Art/urilivshits/index.html',
     imageLink: './Art/urilivshits/image.png',
