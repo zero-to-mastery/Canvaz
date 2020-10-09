@@ -795,6 +795,20 @@ let cards = [
     imageLink: './Art/urilivshits/image.png',
     author: 'Uri Livshits',
     githubLink: 'https://github.com/urilivshits'
+  },
+  {
+    artName: 'Donut Chart',
+    pageLink: './Art/unclefifi/index.html',
+    imageLink: './Art/unclefifi/art.png',
+    author: 'unclefifi',
+    githubLink: 'https://github.com/unclefifi'
+  },
+  {
+    artName: 'South Africa Pride!',
+    pageLink: './Art/CJHarriz/index.html',
+    imageLink: './Art/CJHarriz/south-africa.png',
+    author: 'Callum Harris',
+    githubLink: 'https://github.com/CJHarriz'
   }
 ];
 
