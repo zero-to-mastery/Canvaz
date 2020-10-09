@@ -799,6 +799,13 @@ let cards = [
     imageLink: './Art/CJHarriz/south-africa.png',
     author: 'Callum Harris',
     githubLink: 'https://github.com/CJHarriz'
+  },
+  {
+    artName: 'Great October Diwali Festival!',
+    pageLink: './Art/saurabh-kamble/index.html',
+    imageLink: './Art/saurabh-kamble/octoberFest.png',
+    author: 'saurabh kamble',
+    githubLink: 'https://github.com/saurabh2836'
   }
 ];
 
