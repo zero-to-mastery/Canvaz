@@ -813,7 +813,7 @@ let cards = [
     imageLink: './Art/springy/img.png',
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
-  },
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
