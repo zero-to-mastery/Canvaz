@@ -1,6 +1,13 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'LGBT flag',
+    pageLink: './Art/maxMant/lgbtFlag.html',
+    imageLink: './Art/maxMant/lgbtFlag.png',
+    author: 'Max',
+    githubLink: 'https://github.com/MaxManthey'
+  },
+  {
     artName: 'Patatap-Clone',
     pageLink: './Art/Ayushi/index.html',
     imageLink: './Art/Ayushi/Ayushi.png',
