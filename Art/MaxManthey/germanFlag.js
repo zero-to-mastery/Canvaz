@@ -1,5 +1,5 @@
 function draw() {
-    var canvas = document.getElementById('maxesCanvas');
+    var canvas = document.getElementById('maxCanvas');
     if (canvas.getContext) {
         var ctx = canvas.getContext('2d');
 
@@ -9,7 +9,7 @@ function draw() {
         ctx.fillStyle = 'rgb(235, 14, 14)';
         ctx.fillRect(0, 200, 600, 200);
         
-        ctx.fillStyle = 'rgb(240, 225, 22)';
+        ctx.fillStyle = 'rgb(240, 225, 23)';
         ctx.fillRect(0, 400, 600, 200);
     }
 }

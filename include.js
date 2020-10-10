@@ -3,8 +3,8 @@ let cards = [
   {
     artName: 'German flag',
     pageLink: './Art/MaxManthey/germanFlag.html',
-    imageLink: './Art/MaxManthey/germanFlag.png',
-    author: 'Max Manthey',
+    imageLink: './Art/MaxManthey/GermanFlag.png',
+    author: 'MaxManthey',
     githubLink: 'https://github.com/MaxManthey'
   },
   {
