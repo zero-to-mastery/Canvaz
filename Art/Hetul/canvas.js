@@ -55,7 +55,7 @@ let cards = [
 	{	
 	  artName: 'snowfall animation using canvas',	
 	  pageLink: 'C:\Users\KILLEERR\Canvas-Creations\Art\Hetul\index.html',	
-	  imageLink: 'C:\Users\KILLEERR\Canvas-Creations\Art\Hetul\ezgif.com-gif-maker.gif',	
+	  imageLink: 'C:\Users\KILLEERR\Canvas-Creations\Art\Hetul\background2.jpeg',	
 	  author: 'Hetul',	
 	  githubLink: 'https://github.com/Hetul79'	
 	}	
