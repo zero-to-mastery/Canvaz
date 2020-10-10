@@ -1,0 +1,16 @@
+body {
+  background-color: #000;
+}
+
+#tetris {
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  background-color: #000;
+}
+
+.center {
+  margin: 0 auto;
+}

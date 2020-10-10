@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+    />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" type="text/css" href="./drawing.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap"
+      rel="stylesheet"
+    />
+    <title>Drawing</title>
+  </head>
+  <body>
+    <div class="header">
+      <h1>Draw facial hair on your image</h1>
+      <input id="upload" class="" type="file" />
+      <label class="cta-button" for="upload">Upload your image</label>
+      <span class="cta-button" id="reset">Clear</span>
+    </div>
+
+    <div class="picker">
+      <div class="colors" style="background-color: #7e4327" title="brown"></div>
+      <div
+        class="colors"
+        style="background-color: #8a7a59"
+        title="light brown"
+      ></div>
+      <div
+        class="colors"
+        style="background-color: #553b2a"
+        title="dark brown"
+      ></div>
+      <div class="colors" style="background-color: #303030" title="black"></div>
+      <div class="colors" style="background-color: #a2a2a2" title="grey"></div>
+    </div>
+
+    <div class="picker">
+      <div class="sizes" style="border-bottom: 1px solid black"></div>
+      <div class="sizes" style="border-bottom: 5px solid black"></div>
+      <div class="sizes" style="border-bottom: 8px solid black"></div>
+    </div>
+
+    <div class="container">
+      <div class="image-wrapper">
+        <img src="#" alt="Uploaded image" />
+      </div>
+      <canvas></canvas>
+    </div>
+
+    <script src="./drawing.js"></script>
+  </body>
+</html>

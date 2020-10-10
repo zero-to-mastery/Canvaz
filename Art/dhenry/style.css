@@ -1,0 +1,26 @@
+body {
+  font-family: 'Architects Daughter', cursive;
+  margin: 0;
+  overflow: hidden;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background: black;
+}
+
+.container span {
+  position: absolute;
+  width: auto;
+  height: auto;
+  font-size: 6vw;
+  color: white;
+}
+
+canvas {
+  width: 100%;
+}

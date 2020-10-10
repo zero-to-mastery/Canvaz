@@ -1,0 +1,18 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+#canvasPad {
+  background-color: #000;
+  border-radius: 50%;
+  display: block;
+  margin: 45px auto;
+}
+
+footer {
+  position: fixed;
+  bottom: 25px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}

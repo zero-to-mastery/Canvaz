@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  display: flex;
+  background-color: #9980fa;
+  color: #fff;
+  justify-content: center;
+  padding: 20px 0px;
+  font-family: 'Press Start 2P', cursive;
+}

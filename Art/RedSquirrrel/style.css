@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Frijole&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #123;
+  overflow: hidden;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+  color: #fff;
+  font-family: 'Frijole', cursive;
+  font-size: 2rem;
+  animation: color 2s infinite;
+}
+
+@keyframes color {
+  0% {
+    color: rgb(44, 44, 245);
+  }
+  25% {
+    color: rgb(0, 139, 139);
+  }
+  50% {
+    color: rgb(233, 233, 233);
+  }
+  75% {
+    color: rgb(255, 140, 0);
+  }
+  100% {
+    color: rgb(255, 50, 91);
+  }
+}
+
+.container {
+  margin-top: 1rem;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+canvas {
+  width: 40vw;
+  height: auto;
+  background: #123;
+  border: 10px dotted #fff;
+}

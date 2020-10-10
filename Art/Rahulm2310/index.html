@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Drawpad</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1.0,user-scalable=yes" />
+    <link href="drawpad.css" rel="stylesheet" />
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="header-row">
+        <div id="container1">
+          <div id="header">Drawpad</div>
+        </div>
+
+        <div id="container2">
+          <div id="color">
+            <input type="color" list />
+          </div>
+
+          <div id="thickness">
+            <div id="strokesize"></div>
+          </div>
+
+          <div id="strokeslide">
+            <input id="slider" type="range" min="5" max="30" value="5" />
+          </div>
+
+          <button id="erase" class="controls">Erase</button>
+
+          <button id="save" class="controls">Save</button>
+
+          <button id="reset" class="controls">Reset</button>
+        </div>
+      </div>
+    </div>
+
+    <div id="drawcanvas" class="row">
+      <div id="container3" class="">
+        <canvas id="painthere" style="width: 100%; height: 530px"></canvas>
+      </div>
+    </div>
+
+    <script src="drawpad.js"></script>
+  </body>
+</html>
