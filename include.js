@@ -1,6 +1,13 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'Spanish flag',
+    pageLink: './Art/Manthey/spanishflag.html',
+    imageLink: './Art/Manthey/spanishflag.png',
+    author: 'MaxManthey',
+    githubLink: 'https://github.com/MaxManthey'
+  },
+  {
     artName: 'Patatap-Clone',
     pageLink: './Art/Ayushi/index.html',
     imageLink: './Art/Ayushi/Ayushi.png',
