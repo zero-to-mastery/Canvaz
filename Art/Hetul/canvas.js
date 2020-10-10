@@ -54,8 +54,8 @@ let cards = [
 	//  Add your card in this section	
 	{	
 	  artName: 'snowfall animation using canvas',	
-	  pageLink: '/Art/Hetul/index.html',	
-	  imageLink: '/Art/Hetul/ezgif.com-gif-maker.gif',	
+	  pageLink: '\Art\Hetul\index.html',	
+	  imageLink: '\Art\Hetul\ezgif.com-gif-maker.gif',	
 	  author: 'Hetul',	
 	  githubLink: 'https://github.com/Hetul79'	
 	}	
