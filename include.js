@@ -806,6 +806,13 @@ let cards = [
     imageLink: './Art/CJHarriz/south-africa.png',
     author: 'Callum Harris',
     githubLink: 'https://github.com/CJHarriz'
+  },
+  {
+    artName: 'Happy Hacktoberfest!',
+    pageLink: './Art/matthewS/index.html',
+    imageLink: './Art/matthewS/screenshot.png',
+    author: 'Matthew S',
+    githubLink: 'https://github.com/MatthewStoddart'
   }
 ];
 
