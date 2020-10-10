@@ -1,6 +1,13 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'Irish flag',
+    pageLink: './Art/max/irishflag.html',
+    imageLink: './Art/max/irishflag.png',
+    author: 'Max',
+    githubLink: 'https://github.com/MaxManthey'
+  },
+  {
     artName: 'Patatap-Clone',
     pageLink: './Art/Ayushi/index.html',
     imageLink: './Art/Ayushi/Ayushi.png',
