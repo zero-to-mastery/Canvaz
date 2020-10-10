@@ -1,4 +1,5 @@
-{{"count":11,"value":"Uri expired"}
+{ "count":11,
+ "value":"Uri expired",
     "version": "0.2.0",
     "configurations": [
         {
