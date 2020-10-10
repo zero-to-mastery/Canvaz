@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Animated Spiral</title>
+    <script src="index.js" defer></script>
+  </head>
+  <body>
+    <form id="form">
+      <label>
+        Radius speed
+        <input step="0.01" id="radius-speed" type="number" value="0.03" />
+      </label>
+      <label>
+        Angle speed
+        <input step="0.01" id="angle-speed" type="number" value="0.09" />
+      </label>
+      <button type="submit" id="start">Start</button>
+    </form>
+    <div style="display: flex; justify-content: center">
+      <canvas id="canvas" width="800" height="800"></canvas>
+    </div>
+  </body>
+</html>

@@ -6,6 +6,8 @@ h1 {
   font-weight: 200;
 }
 .colors {
+  --offRed: rgb(186, 18, 43);
+  --offBlue: rgb(0, 32, 91);
   --red: rgb(248, 7, 7);
   --blue: rgb(1, 1, 121);
   --white: rgb(255, 255, 255);
@@ -21,4 +23,5 @@ h1 {
 #canvas {
   margin: 0 auto;
   box-shadow: 0px 0px 10px 2px var(--shadow);
+  cursor: pointer;
 }

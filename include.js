@@ -148,6 +148,13 @@ let cards = [
     githubLink: 'https://github.com/annima24'
   },
   {
+    artName: 'tetris art',
+    pageLink: './Art/thomashewett/index.html',
+    imageLink: './Art/thomashewett/tetris.gif',
+    author: 'thomashewett',
+    githubLink: 'https://github.com/thomashewett'
+  },
+  {
     artName: 'Our Indian Flag',
     pageLink: './Art/aman/index.html',
     imageLink: './Art/aman/screenshot.jpg',
@@ -535,6 +542,13 @@ let cards = [
     githubLink: 'https://github.com/TTumyr/'
   },
   {
+    artName: 'galaxy',
+    pageLink: './Art/Aisha/index.html',
+    imageLink: './Art/Aisha/galaxy.png',
+    author: 'ASH',
+    githubLink: 'https://github.com/aishaamir'
+  },
+  {
     artName: 'Drawpad',
     pageLink: './Art/Rahulm2310/index.html',
     imageLink: './Art/Rahulm2310/drawpad.gif',
@@ -603,6 +617,195 @@ let cards = [
     imageLink: './Art/nightSky/img.png',
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
+  },
+  {
+    artName: 'Collision Course',
+    pageLink: './Art/collision_course/index.html',
+    imageLink: './Art/collision_course/collision_course.gif',
+    author: 'Sanand',
+    githubLink: 'https://github.com/sanandmv7'
+  },
+  {
+    artName: 'Elldrigar',
+    pageLink: './Art/Elldrigar/index.html',
+    imageLink: './Art/Elldrigar/art.png',
+    author: 'Artur Gawron',
+    githubLink: 'https://github.com/Elldrigar'
+  },
+  {
+    artName: 'Black Hole',
+    pageLink: './Art/nataliepina/index.html',
+    imageLink: './Art/nataliepina/blackhole.png',
+    author: 'Natalie',
+    githubLink: 'https://github.com/nataliepina'
+  },
+  {
+    artName: 'random circles with rectangles',
+    pageLink: './Art/kirstenbolda/index.html',
+    imageLink: './Art/kirstenbolda/random-circles-w-rectangles.png',
+    author: 'Kirsten',
+    githubLink: 'https://github.com/KirstenBolda'
+  },
+  {
+    artName: 'Cool Canvas BackGround',
+    pageLink: './Art/UnderDaHood/index.html',
+    imageLink: './Art/UnderDaHood/Thumbnail.gif',
+    author: 'DEV',
+    githubLink: 'https://github.com/UnderDaHood'
+  },
+  {
+    artName: 'Israel Flag',
+    pageLink: './Art/Aviad198/index.html',
+    imageLink: './Art/Aviad198/IsraelFlag.png',
+    author: 'Aviad Hitner',
+    githubLink: 'https://github.com/aviad198'
+  },
+  {
+    artName: 'Ripple Effect',
+    pageLink: './Art/ripples/index.html',
+    imageLink: './Art/ripples/ripple.png',
+    author: 'Jon',
+    githubLink: 'https://github.com/elcarn23'
+  },
+  {
+    artName: 'HTML5CanvasAnimation',
+    pageLink: './Art/diana/HTML5CanvasAnimation-main/index.html',
+    imageLink: './Art/diana/HTML5CanvasAnimation-main/HTML5CanvasAnimation.PNG',
+    author: 'Diana Vilé',
+    githubLink: 'https://github.com/dianavile'
+  },
+  {
+    artName: 'Art',
+    pageLink: './Art/matthewdbrock1968/art.html',
+    imageLink: './Art/matthewdbrock1968/art.png',
+    author: 'Matthew D. Brock',
+    githubLink: 'https://github.com/matthewdbrock1968'
+  },
+  {
+    artName: '3D CUBE',
+    pageLink: './Art/kunalprakash1309/index.html',
+    imageLink: './Art/kunalprakash1309/Screenshot.png',
+    author: 'Kunal Prakash',
+    githubLink: 'https://github.com/kunalprakash1309'
+  },
+  {
+    artName: 'Sierpinski triangle',
+    pageLink: './Art/indremak/index.html',
+    imageLink: './Art/indremak/Sierpinski_triangle.png',
+    author: 'Indre Mak',
+    githubLink: 'https://github.com/indremak'
+  },
+  {
+    artName: 'Snake Game',
+    pageLink: './Art/Jude/snakegame.html',
+    imageLink: './Art/Jude/images/snake.png',
+    author: 'Jude Savio',
+    githubLink: 'https://github.com/JudeSavio'
+  },
+  {
+    artName: 'Pong!!!',
+    pageLink: './Art/JudeSavio/ping-pong.html',
+    imageLink: './Art/JudeSavio/pong.png',
+    author: 'Jude Savio',
+    githubLink: 'https://github.com/JudeSavio'
+  },
+  {
+    artName: 'Hacktoberfest Spots',
+    pageLink: './Art/Denice-S/index.html',
+    imageLink: './Art/Denice-S/denice-s.jpg',
+    author: 'Denice Soper',
+    githubLink: 'https://github.com/Denice-S'
+  },
+  {
+    artName: 'Spinning animation',
+    pageLink: './Art/dhenry/index.html',
+    imageLink: './Art/dhenry/screenshot.png',
+    author: 'Dalia',
+    githubLink: 'https://github.com/Krungleviciute'
+  },
+  {
+    artName: 'Colourful Ball Generator',
+    pageLink: './Art/khoaHyh/index.html',
+    imageLink: './Art/khoaHyh/screenshot_canvas.png',
+    author: 'khoaHyh',
+    githubLink: 'https://github.com/khoaHyh'
+  },
+  {
+    artName: 'Random Night Sky',
+    pageLink: './Art/twinkle/index.html',
+    imageLink: './Art/twinkle/random_night_sky.png',
+    author: 'Jon',
+    githubLink: 'https://github.com/elcarn23'
+  },
+  {
+    artName: 'Sketch',
+    pageLink: './Art/Mitej-Madan/main.html',
+    imageLink: './Art/Mitej-Madan/Sketch.png',
+    author: 'Mitej Madan',
+    githubLink: 'https://github.com/mitej23'
+  },
+  {
+    artName: 'Atom',
+    pageLink: './Art/hieutrinh/atom.html',
+    imageLink: './Art/hieutrinh/atom.gif',
+    author: 'trinhminhhieu',
+    githubLink: 'https://github.com/trinhminhhieu'
+  },
+  {
+    artName: 'Owl Canvas',
+    pageLink: './Art/Aszmel/index.html',
+    imageLink: './Art/Aszmel/screen.png',
+    author: 'Aszmel',
+    githubLink: 'https://github.com/Aszmel'
+  },
+  {
+    artName: 'Animated Spiral',
+    pageLink: './Art/Valdas3/index.html',
+    imageLink: './Art/Valdas3/image.png',
+    author: 'Valdas3',
+    githubLink: 'https://github.com/Valdas3'
+  },
+  {
+    artName: 'Atomic Structure',
+    pageLink: './Art/Karthikk/index.html',
+    imageLink: './Art/Karthikk/atoms.png',
+    author: 'Karthik K',
+    githubLink: 'https://github.com/Karthikk15'
+  },
+  {
+    artName: 'Circle Snake?',
+    pageLink: './Art/lenjamin/index.html',
+    imageLink: './Art/lenjamin/snake.JPG',
+    author: 'lenjamin',
+    githubLink: 'https://github.com/lenjaminbiu'
+  },
+  {
+    artName: 'Germany Pride',
+    pageLink: './Art/Mudit/index.html',
+    imageLink: './Art/Mudit/Flag.PNG',
+    author: 'Muditxofficial',
+    githubLink: 'https://github.com/Muditxofficial'
+  },
+  {
+    artName: 'Hacktoberfest 2020 Animation',
+    pageLink: './Art/urilivshits/index.html',
+    imageLink: './Art/urilivshits/image.png',
+    author: 'Uri Livshits',
+    githubLink: 'https://github.com/urilivshits'
+  },
+  {
+    artName: 'Donut Chart',
+    pageLink: './Art/unclefifi/index.html',
+    imageLink: './Art/unclefifi/art.png',
+    author: 'unclefifi',
+    githubLink: 'https://github.com/unclefifi'
+  },
+  {
+    artName: 'South Africa Pride!',
+    pageLink: './Art/CJHarriz/index.html',
+    imageLink: './Art/CJHarriz/south-africa.png',
+    author: 'Callum Harris',
+    githubLink: 'https://github.com/CJHarriz'
   }
 ];
 
