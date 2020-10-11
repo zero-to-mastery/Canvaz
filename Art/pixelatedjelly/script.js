@@ -10960,3 +10960,14 @@ doot.fillRect(96,99,1,1);
 doot.fillRect(97,99,1,1);
 doot.fillRect(98,99,1,1);
 doot.fillRect(99,99,1,1);
+
+function playSound(){
+    if(sound){
+        sound.currentTime = 0;
+        sound.play();
+    }
+}
+
+var sound = new Audio();
+sound.src = "./doot_doot.mp3";
+canvas.addEventListener("click",playSound);
