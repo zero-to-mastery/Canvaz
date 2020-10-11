@@ -815,7 +815,7 @@ let cards = [
     githubLink: 'https://github.com/taniyahinduja'
   },
   {
-    artName: 'It's spooktober',
+    artName: 'It\'s spooktober',
     pageLink: './Art/pixelatedjelly/index.html',
     imageLink: './Art/pixelatedjelly/thumbnail.png',
     author: 'pixelatedjelly',
