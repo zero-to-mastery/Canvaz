@@ -813,6 +813,13 @@ let cards = [
     imageLink: './Art/springy/img.png',
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
+  },
+  {
+    artName: 'Peruvian Flag',
+    pageLink: './Art/oscaramos/index.html',
+    imageLink: './Art/oscaramos/Peru_Flag.png',
+    author: 'oscaramos',
+    githubLink: 'https://github.com/oscaramos'
   }
 ];
 
