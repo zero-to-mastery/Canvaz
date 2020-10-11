@@ -1,6 +1,13 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'ZTM Academy',
+    pageLink: './Art/Aswaff/index.html',
+    imageLink: './Art/aswaff/ztm academy.png',
+    author: 'Aswaff',
+    githubLink: 'https://github.com/aswaff'
+  },
+  {
     artName: 'Patatap-Clone',
     pageLink: './Art/Ayushi/index.html',
     imageLink: './Art/Ayushi/Ayushi.png',
