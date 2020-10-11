@@ -813,6 +813,13 @@ let cards = [
     imageLink: './Art/springy/img.png',
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
+  },
+  {
+    artName: 'Doodle',
+    pageLink: './Art/rohitk/index.html',
+    imageLink: './Art/rohitk/Capture.png',
+    author: 'Rohit',
+    githubLink: 'https://github.com/rohitkadamrb'
   }
 ];
 
