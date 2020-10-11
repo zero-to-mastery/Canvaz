@@ -813,6 +813,13 @@ let cards = [
     imageLink: './Art/springy/img.png',
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
+  },
+  {
+    artName: 'It's spooktober',
+    pageLink: './Art/pixelatedjelly/index.html',
+    imageLink: './Art/pixelatedjelly/thumbnail.png',
+    author: 'pixelatedjelly',
+    githubLink: 'https://github.com/pixelatedjelly'
   }
 ];
 
