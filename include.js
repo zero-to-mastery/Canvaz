@@ -813,6 +813,13 @@ let cards = [
     imageLink: './Art/KOfosu2289/city.gif',
     author: 'Kenneth(KOfosu2289)',
     githubLink: 'https://github.com/kofosu2289'
+  },
+  {
+    artName: 'Spring Tree',
+    pageLink: './Art/spring/index.html',
+    imageLink: './Art/springy/img.png',
+    author: 'Taniya',
+    githubLink: 'https://github.com/taniyahinduja'
   }
 ];
 
