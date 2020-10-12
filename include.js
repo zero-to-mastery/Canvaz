@@ -813,7 +813,15 @@ let cards = [
     imageLink: './Art/springy/img.png',
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
+  },
+  {
+    artName: 'ScatterDots',
+    pageLink: './Art/nartuom/index.html',
+    imageLink: './Art/nartuom/scatterDots.jpg',
+    author: 'Nartuom',
+    githubLink: 'https://github.com/nartuom'
   }
+
 ];
 
 // +--------------------------------------------------------------------------------+
