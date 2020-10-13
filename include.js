@@ -855,6 +855,13 @@ let cards = [
     imageLink: './Art/springy/img.png',
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
+  },
+  {
+    artName: 'A flower for you',
+    pageLink: './Art/vishnup95/index.html',
+    imageLink: './Art/vishnup95/Flower.png',
+    author: 'vishnup95',
+    githubLink: 'https://github.com/vishnup95'
   }
 ];
 
