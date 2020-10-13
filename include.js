@@ -871,13 +871,13 @@ let cards = [
     githubLink: 'https://github.com/taniyahinduja'
   },
   {
-<<<<<<< HEAD
     artName: 'Fishy',
     pageLink: './Art/IancuDan/index.html',
     imageLink: './Art/IancuDan/fishy.png',
     author: 'Iancu Dan',
     githubLink: 'https://github.com/danIancuV'
-=======
+  },
+  {
     artName: 'A flower for you',
     pageLink: './Art/vishnup95/index.html',
     imageLink: './Art/vishnup95/Flower.png',
@@ -890,7 +890,6 @@ let cards = [
     imageLink: './Art/vitoriapena/moon.gif',
     author: 'Vitória Mendes',
     githubLink: 'https://github.com/vitoriapena'
->>>>>>> ed48327dfd0a0e337f47cc84003d9445e0f12214
   }
 ];
 
