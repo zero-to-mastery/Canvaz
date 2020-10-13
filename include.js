@@ -883,7 +883,7 @@ let cards = [
     imageLink: './Art/vishnup95/Flower.png',
     author: 'vishnup95',
     githubLink: 'https://github.com/vishnup95'
-  }
+  },
   {
     artName: 'Moon',
     pageLink: './Art/vitoriapena/index.html',
