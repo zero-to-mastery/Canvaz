@@ -813,6 +813,12 @@ let cards = [
     imageLink: './Art/tranjenny/square.gif',
     author: 'tranjenny',
     githubLink: 'https://github.com/tranjenny'
+  },
+    artName: 'Spring Tree',
+    pageLink: './Art/spring/index.html',
+    imageLink: './Art/springy/img.png',
+    author: 'Taniya',
+    githubLink: 'https://github.com/taniyahinduja'
   }
 ];
 
