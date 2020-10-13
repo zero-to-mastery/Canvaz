@@ -877,6 +877,13 @@ let cards = [
     author: 'vishnup95',
     githubLink: 'https://github.com/vishnup95'
   }
+  {
+    artName: 'Moon',
+    pageLink: './Art/vitoriapena/index.html',
+    imageLink: './Art/vitoriapena/moon.gif',
+    author: 'Vitória Mendes',
+    githubLink: 'https://github.com/vitoriapena'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
