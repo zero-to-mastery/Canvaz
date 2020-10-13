@@ -876,6 +876,13 @@ let cards = [
     imageLink: './Art/vishnup95/Flower.png',
     author: 'vishnup95',
     githubLink: 'https://github.com/vishnup95'
+  },
+  {
+    artName: 'Cosmos',
+    pageLink: './Art/Akshay/index.html',
+    imageLink: './Art/Akshay/cosmos.gif',
+    author: 'Akshay GS',
+    githubLink: 'https://github.com/gsakshay'
   }
 ];
 
