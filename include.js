@@ -808,6 +808,13 @@ let cards = [
     githubLink: 'https://github.com/CJHarriz'
   },
   {
+    artName: 'City Canvas',
+    pageLink: './Art/KOfosu2289/index.html',
+    imageLink: './Art/KOfosu2289/city.gif',
+    author: 'Kenneth(KOfosu2289)',
+    githubLink: 'https://github.com/kofosu2289'
+  },
+  {
     artName: 'Spring Tree',
     pageLink: './Art/spring/index.html',
     imageLink: './Art/springy/img.png',
