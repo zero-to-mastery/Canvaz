@@ -814,6 +814,42 @@ let cards = [
     author: 'tranjenny',
     githubLink: 'https://github.com/tranjenny'
   },
+  {
+    artName: 'JS CanvasCactus',
+    pageLink: './Art/chironjon/index.html',
+    imageLink: './Art/chironjon/canvascactus.png',
+    author: 'ChironJon',
+    githubLink: 'https://github.com/chironjon'
+  },
+  {
+    artName: 'Happy Hacktoberfest!',
+    pageLink: './Art/matthewS/index.html',
+    imageLink: './Art/matthewS/screenshot.png',
+    author: 'Matthew S',
+    githubLink: 'https://github.com/MatthewStoddart'
+  },
+  {
+    artName: 'Spiral Animation',
+    pageLink: './Art/mynameispathak/index.html',
+    imageLink: './Art/mynameispathak/spiral.gif',
+    author: 'Aniket Pathak',
+    githubLink: 'https://github.com/mynameispathak'
+  },
+  {
+    artName: 'Great October Diwali Festival!',
+    pageLink: './Art/saurabh-kamble/index.html',
+    imageLink: './Art/saurabh-kamble/octoberFest.png',
+    author: 'saurabh kamble',
+    githubLink: 'https://github.com/saurabh2836'
+  },
+  {
+    artName: 'City Canvas',
+    pageLink: './Art/KOfosu2289/index.html',
+    imageLink: './Art/KOfosu2289/city.gif',
+    author: 'Kenneth(KOfosu2289)',
+    githubLink: 'https://github.com/kofosu2289'
+  },
+  {
     artName: 'Spring Tree',
     pageLink: './Art/spring/index.html',
     imageLink: './Art/springy/img.png',
