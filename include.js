@@ -884,6 +884,13 @@ let cards = [
     author: 'Vitória Mendes',
     githubLink: 'https://github.com/vitoriapena'
   }
+  {
+    artName: 'Elliott',
+    pageLink: './Art/Elliott/index.html',
+    imageLink: './Art/Elliott/screenshot.png',
+    author: 'Elliott',
+    githubLink: 'https://github.com/elliottrapley'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
