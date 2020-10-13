@@ -808,6 +808,13 @@ let cards = [
     githubLink: 'https://github.com/CJHarriz'
   },
   {
+    artName: 'JS CanvasCactus',
+    pageLink: './Art/chironjon/index.html',
+    imageLink: './Art/chironjon/canvascactus.png',
+    author: 'ChironJon',
+    githubLink: 'https://github.com/chironjon'
+  },
+  {
     artName: 'Happy Hacktoberfest!',
     pageLink: './Art/matthewS/index.html',
     imageLink: './Art/matthewS/screenshot.png',
