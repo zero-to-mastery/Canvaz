@@ -112,7 +112,7 @@ class Firework {
           let targetY =
             (this.y + this.offsprings * Math.sin((PI2 * i) / babies)) | 0;
 
-            october.fireworks.push(
+          october.fireworks.push(
             new Firework(this.x, this.y, targetX, targetY, this.shade, 0)
           );
         }
