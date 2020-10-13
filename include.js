@@ -808,6 +808,13 @@ let cards = [
     githubLink: 'https://github.com/CJHarriz'
   },
   {
+    artName: 'Happy Hacktoberfest!',
+    pageLink: './Art/matthewS/index.html',
+    imageLink: './Art/matthewS/screenshot.png',
+    author: 'Matthew S',
+    githubLink: 'https://github.com/MatthewStoddart'
+  },
+  {
     artName: 'Spiral Animation',
     pageLink: './Art/mynameispathak/index.html',
     imageLink: './Art/mynameispathak/spiral.gif',
