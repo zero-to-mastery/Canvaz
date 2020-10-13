@@ -1,6 +1,20 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'German flag',
+    pageLink: './Art/MaxManthey/germanFlag.html',
+    imageLink: './Art/MaxManthey/germanFlag.png',
+    author: 'Max Manthey',
+    githubLink: 'https://github.com/MaxManthey'
+  },
+  {
+    artName: 'LGBT flag',
+    pageLink: './Art/maxMant/lgbtFlag.html',
+    imageLink: './Art/maxMant/lgbtFlag.png',
+    author: 'Max',
+    githubLink: 'https://github.com/MaxManthey'
+  },
+  {
     artName: 'Patatap-Clone',
     pageLink: './Art/Ayushi/index.html',
     imageLink: './Art/Ayushi/Ayushi.png',
@@ -789,7 +803,7 @@ let cards = [
   {
     artName: 'Hacktoberfest 2020 Animation',
     pageLink: './Art/urilivshits/index.html',
-    imageLink: './Art/urilivshits/image.png',
+    imageLink: './Art/urilivshits/image.gif',
     author: 'Uri Livshits',
     githubLink: 'https://github.com/urilivshits'
   },
@@ -808,11 +822,67 @@ let cards = [
     githubLink: 'https://github.com/CJHarriz'
   },
   {
+    artName: 'Square',
+    pageLink: './Art/tranjenny/square.html',
+    imageLink: './Art/tranjenny/square.gif',
+    author: 'tranjenny',
+    githubLink: 'https://github.com/tranjenny'
+  },
+  {
+    artName: 'JS CanvasCactus',
+    pageLink: './Art/chironjon/index.html',
+    imageLink: './Art/chironjon/canvascactus.png',
+    author: 'ChironJon',
+    githubLink: 'https://github.com/chironjon'
+  },
+  {
+    artName: 'Happy Hacktoberfest!',
+    pageLink: './Art/matthewS/index.html',
+    imageLink: './Art/matthewS/screenshot.png',
+    author: 'Matthew S',
+    githubLink: 'https://github.com/MatthewStoddart'
+  },
+  {
+    artName: 'Spiral Animation',
+    pageLink: './Art/mynameispathak/index.html',
+    imageLink: './Art/mynameispathak/spiral.gif',
+    author: 'Aniket Pathak',
+    githubLink: 'https://github.com/mynameispathak'
+  },
+  {
+    artName: 'Great October Diwali Festival!',
+    pageLink: './Art/saurabh-kamble/index.html',
+    imageLink: './Art/saurabh-kamble/octoberFest.png',
+    author: 'saurabh kamble',
+    githubLink: 'https://github.com/saurabh2836'
+  },
+  {
+    artName: 'City Canvas',
+    pageLink: './Art/KOfosu2289/index.html',
+    imageLink: './Art/KOfosu2289/city.gif',
+    author: 'Kenneth(KOfosu2289)',
+    githubLink: 'https://github.com/kofosu2289'
+  },
+  {
     artName: 'Spring Tree',
     pageLink: './Art/spring/index.html',
     imageLink: './Art/springy/img.png',
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
+  },
+  {
+    artName: 'A flower for you',
+    pageLink: './Art/vishnup95/index.html',
+    imageLink: './Art/vishnup95/Flower.png',
+    author: 'vishnup95',
+    githubLink: 'https://github.com/vishnup95'
+  },
+  {
+    artName: 'Moon',
+    pageLink: './Art/vitoriapena/index.html',
+    imageLink: './Art/vitoriapena/moon.gif',
+    author: 'Vitória Mendes',
+    githubLink: 'https://github.com/vitoriapena'
   },
   {
     artName: 'Peruvian Flag',
