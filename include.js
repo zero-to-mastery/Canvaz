@@ -1,6 +1,13 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'Canadian Flag',
+    pageLink: './Art/Ozziel/index.html',
+    imageLink: './Art/Ozziel/canadaflag.png',
+    author: 'Ozziel Ruiz',
+    githubLink: 'https://github.com/OzzielRuiz'
+  },
+  {
     artName: 'Patatap-Clone',
     pageLink: './Art/Ayushi/index.html',
     imageLink: './Art/Ayushi/Ayushi.png',
