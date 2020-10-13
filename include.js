@@ -619,6 +619,13 @@ let cards = [
     githubLink: 'https://github.com/taniyahinduja'
   },
   {
+    artName: 'Collision Course',
+    pageLink: './Art/collision_course/index.html',
+    imageLink: './Art/collision_course/collision_course.gif',
+    author: 'Sanand',
+    githubLink: 'https://github.com/sanandmv7'
+  },
+  {
     artName: 'Elldrigar',
     pageLink: './Art/Elldrigar/index.html',
     imageLink: './Art/Elldrigar/art.png',
@@ -806,6 +813,20 @@ let cards = [
     imageLink: './Art/saurabh-kamble/octoberFest.png',
     author: 'saurabh kamble',
     githubLink: 'https://github.com/saurabh2836'
+  },
+  {
+    artName: 'City Canvas',
+    pageLink: './Art/KOfosu2289/index.html',
+    imageLink: './Art/KOfosu2289/city.gif',
+    author: 'Kenneth(KOfosu2289)',
+    githubLink: 'https://github.com/kofosu2289'
+  },
+  {
+    artName: 'Spring Tree',
+    pageLink: './Art/spring/index.html',
+    imageLink: './Art/springy/img.png',
+    author: 'Taniya',
+    githubLink: 'https://github.com/taniyahinduja'
   }
 ];
 
