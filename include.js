@@ -803,7 +803,7 @@ let cards = [
   {
     artName: 'Hacktoberfest 2020 Animation',
     pageLink: './Art/urilivshits/index.html',
-    imageLink: './Art/urilivshits/image.png',
+    imageLink: './Art/urilivshits/image.gif',
     author: 'Uri Livshits',
     githubLink: 'https://github.com/urilivshits'
   },
