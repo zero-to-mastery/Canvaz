@@ -1,6 +1,6 @@
-!+-+-+!+-+-+!+-+-+!+-+-+!+-+-+!+-+-+!+-+-+!+-+-+!function (d, w) {
+!+-+-+!+-+-+!+-+-+!+-+-+!+-+-+!+-+-+!+-+-+!+-+-+!(function (d, w) {
   var FPS = 1000;
-  var TRAIL_PLAN = ["u", "r", "d", "b", "r", "c"];
+  var TRAIL_PLAN = ['u', 'r', 'd', 'b', 'r', 'c'];
   pointCopy = function (src, dst) {
     dst.x = src.x;
     dst.y = src.y;
@@ -25,19 +25,19 @@
     pointCopy(this.goal, this.start);
     this.plan_i = (this.plan_i + 1) % TRAIL_PLAN.length;
     switch (TRAIL_PLAN[this.plan_i]) {
-      case "r":
+      case 'r':
         this.goal.x += Math.random() * 50 + 50;
         break;
-      case "u":
+      case 'u':
         this.goal.y -= Math.random() * 250 + 100;
         break;
-      case "d":
+      case 'd':
         this.goal.y = 0;
         break;
-      case "b":
+      case 'b':
         this.goal.z += Math.random() * 1;
         break;
-      case "c":
+      case 'c':
         this.goal.z = this.sz;
         break;
       default:
@@ -56,7 +56,7 @@
       this.start,
       this.goal,
       this.take_time,
-      this.pos,
+      this.pos
     );
     if (t - this.start_time > this.take_time) {
       this.setNextGoal(this.start_time + this.take_time);
@@ -73,8 +73,8 @@
     var x0 = ps.x;
     for (i = 1; i < this.vertexes.length; i++) {
       if (perspective(this.vertexes[i], camera, ps)) {
-        ctx.strokeStyle = "rgba(255,255,255," +
-          2 / (this.vertexes[i].z - camera.z) + ")";
+        ctx.strokeStyle =
+          'rgba(255,255,255,' + 2 / (this.vertexes[i].z - camera.z) + ')';
         ctx.lineTo(ps.x, ps.y);
         ctx.stroke();
         ctx.beginPath();
@@ -82,7 +82,7 @@
       }
     }
     if (perspective(this.pos, camera, ps)) {
-      ctx.strokeStyle = "rgba(255,255,255," + 2 / (this.pos.z - camera.z) + ")";
+      ctx.strokeStyle = 'rgba(255,255,255,' + 2 / (this.pos.z - camera.z) + ')';
       ctx.lineTo(ps.x, ps.y);
       ctx.stroke();
     }
@@ -119,14 +119,14 @@
       -canvas.width / 2,
       -canvas.height / 2,
       canvas.width,
-      canvas.height,
+      canvas.height
     );
     for (i = 0; i < trails.length; i++) {
       trails[i].draw(ctx, camera);
     }
   };
-  var canvas = d.getElementById("city");
-  var ctx = canvas.getContext("2d");
+  var canvas = d.getElementById('city');
+  var ctx = canvas.getContext('2d');
   var trails = [];
   var i;
   var time_now = new Date().getTime();
@@ -136,8 +136,8 @@
       new Trail(
         { x: Math.random() * 50 - 25, y: Math.random() * 50 - 25, z: i },
         time_now,
-        i,
-      ),
+        i
+      )
     );
   }
   camera = { x: 0, y: 0, z: -2 };
@@ -148,4 +148,4 @@
     updateScene();
     drawScene(ctx);
   }, 1000 / FPS);
-}(document, window);
+})(document, window);
