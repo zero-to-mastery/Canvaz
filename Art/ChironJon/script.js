@@ -13,7 +13,7 @@ function draw() {
     }
     ctx.stroke();
     ctx.restore();
-  }
+  };
   const flower = (startX, startY, pedals) => {
     ctx.save();
     ctx.lineWidth = 1;
@@ -28,23 +28,23 @@ function draw() {
       ctx.stroke();
     }
     ctx.restore();
-  }
+  };
   const spikes = (startX, endX, topCutoff, bottomCutoff) => {
     ctx.save();
     ctx.lineWidth = 1;
     ctx.translate(startX, 0);
     let distance = endX - startX;
     for (let i = 0; i < 40; i++) {
-      let steps = distance / 40 * i;
+      let steps = (distance / 40) * i;
       if (i > topCutoff && i < bottomCutoff) {
         ctx.beginPath();
         ctx.moveTo(0 + steps, i * 5);
         ctx.lineTo(3 + steps, i * 5);
         ctx.stroke();
       }
-    };
+    }
     ctx.restore();
-  }
+  };
   const curveSpike = (startX, startY, density, spikeStart, spikeEnd) => {
     ctx.save();
     ctx.translate(startX, startY);
@@ -59,32 +59,39 @@ function draw() {
       }
     }
     ctx.restore();
-  }
+  };
   const arcs = (coords) => {
     ctx.save();
     ctx.lineWidth = 2;
-    for (let i = 0; i < coords.length;) {
+    for (let i = 0; i < coords.length; ) {
       ctx.beginPath();
-      ctx.arc(coords[i], coords[i + 1], coords[i + 2], 0, Math.PI + (Math.PI * 0) / 2, true);
+      ctx.arc(
+        coords[i],
+        coords[i + 1],
+        coords[i + 2],
+        0,
+        Math.PI + (Math.PI * 0) / 2,
+        true
+      );
       ctx.stroke();
-      i = i + 3
+      i = i + 3;
     }
     ctx.restore();
-  }
+  };
   const text = (infoArr, size) => {
     ctx.font = size + 'px serif';
-    for (let i = 0; i < infoArr.length;) {
+    for (let i = 0; i < infoArr.length; ) {
       ctx.strokeText(infoArr[i], infoArr[i + 1], infoArr[i + 2]);
-      i = i + 3
+      i = i + 3;
     }
-  }
+  };
   ctx.save();
   ctx.lineCap = 'round';
   ctx.lineJoin = 'round';
   ctx.strokeStyle = 'green';
   flower(120, 40, 10); // flower
   flower(85, 150, 8);
-  drawLine([80, 200, 70, 126, 43, 120, 35, 70], 2); // outline 
+  drawLine([80, 200, 70, 126, 43, 120, 35, 70], 2); // outline
   drawLine([55, 70, 53, 112, 68, 113, 60, 50], 2);
   drawLine([140, 50, 127, 147, 137, 144, 135, 120], 2);
   drawLine([145, 120, 143, 149, 125, 154, 120, 200, 80, 200], 2);
