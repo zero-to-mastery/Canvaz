@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+body {
+  overflow-x: hidden;
+}
+.snowfall canvas {
+  position: absolute;
+  z-index: -1;
+}
+.snowfall .info {
+  position: absolute;
+  color: #fff;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  box-shadow: 0px 0.5px 15px rgba(0, 0, 0, 0.9);
+  padding: 10px 35px;
+}
+.snowfall .info h1 {
+  font-size: 3.5em;
+  text-shadow: 0px 0.5px 5px rgba(0, 0, 0, 0.5);
+  color: indianred;
+}
+.snowfall .info h2 {
+  font-size: 2.5em;
+  text-shadow: 0px 0.5px 5px rgba(0, 0, 0, 0.5);
+  color: indianred;
+}
