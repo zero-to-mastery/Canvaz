@@ -820,7 +820,7 @@ let cards = [
     imageLink: './Art/pixelatedjelly/thumbnail.png',
     author: 'pixelatedjelly',
     githubLink: 'https://github.com/pixelatedjelly'
-  }
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
