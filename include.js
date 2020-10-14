@@ -878,15 +878,13 @@ let cards = [
     githubLink: 'https://github.com/taniyahinduja'
   },
   {
-<<<<<<< HEAD
-<<<<<<< HEAD
     artName: 'ScatterDots',
     pageLink: './Art/nartuom/index.html',
     imageLink: './Art/nartuom/scatterDots.jpg',
     author: 'Nartuom',
     githubLink: 'https://github.com/nartuom'
-=======
-=======
+  },
+  {
     artName: 'Fishy',
     pageLink: './Art/IancuDan/index.html',
     imageLink: './Art/IancuDan/fishy.png',
@@ -901,7 +899,6 @@ let cards = [
     githubLink: 'https://github.com/rohitkadamrb'
   },
   {
->>>>>>> 86195ce57b3161c5198d13ed9f9e56db1f7a268e
     artName: 'A flower for you',
     pageLink: './Art/vishnup95/index.html',
     imageLink: './Art/vishnup95/Flower.png',
@@ -914,9 +911,6 @@ let cards = [
     imageLink: './Art/vitoriapena/moon.gif',
     author: 'Vitória Mendes',
     githubLink: 'https://github.com/vitoriapena'
-<<<<<<< HEAD
->>>>>>> ed48327dfd0a0e337f47cc84003d9445e0f12214
-=======
   },
   {
     artName: 'Elliott',
@@ -924,9 +918,14 @@ let cards = [
     imageLink: './Art/Elliott/screenshot.png',
     author: 'Elliott',
     githubLink: 'https://github.com/elliottrapley'
->>>>>>> 86195ce57b3161c5198d13ed9f9e56db1f7a268e
+  },
+  {
+    artName: 'Smoke',
+    pageLink: './Art/Nagahshi/index.html',
+    imageLink: './Art/Nagahshi/smoke.gif',
+    author: 'Nagahshi',
+    githubLink: 'https://github.com/nagahshi'
   }
-
 ];
 
 // +--------------------------------------------------------------------------------+
