@@ -21,6 +21,13 @@ let cards = [
     author: 'Ayushi',
     githubLink: 'https://github.com/AyuSoni25'
   },
+ {	
+    artName: 'snowfall animation using canvas',	
+    pageLink: 'C:\Users\KILLEERR\Canvas-Creations\Art\Hetul\index.html',	
+    imageLink: 'C:\Users\KILLEERR\Canvas-Creations\Art\Hetul\ezgif.com-gif-maker.gif',	
+    author: 'Hetul',	
+    githubLink: 'https://github.com/Hetul79'	
+  },
   {
     artName: 'Pencil Canvas',
     pageLink: './Art/Giancarl021/index.html',
