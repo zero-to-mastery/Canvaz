@@ -878,6 +878,13 @@ let cards = [
     githubLink: 'https://github.com/taniyahinduja'
   },
   {
+    artName: 'ScatterDots',
+    pageLink: './Art/nartuom/index.html',
+    imageLink: './Art/nartuom/scatterDots.jpg',
+    author: 'Nartuom',
+    githubLink: 'https://github.com/nartuom'
+  },
+  {
     artName: 'Fishy',
     pageLink: './Art/IancuDan/index.html',
     imageLink: './Art/IancuDan/fishy.png',
@@ -918,6 +925,13 @@ let cards = [
     imageLink: './Art/Akshay/cosmos.gif',
     author: 'Akshay GS',
     githubLink: 'https://github.com/gsakshay'
+  },
+  {
+    artName: 'Smoke',
+    pageLink: './Art/Nagahshi/index.html',
+    imageLink: './Art/Nagahshi/smoke.gif',
+    author: 'Nagahshi',
+    githubLink: 'https://github.com/nagahshi'
   },
 ];
 
