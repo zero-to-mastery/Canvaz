@@ -955,12 +955,19 @@ let cards = [
     githubLink: 'https://github.com/elliottrapley'
   },
   {
+    artName: 'Cosmos',
+    pageLink: './Art/Akshay/index.html',
+    imageLink: './Art/Akshay/cosmos.gif',
+    author: 'Akshay GS',
+    githubLink: 'https://github.com/gsakshay'
+  },
+  {
     artName: 'Smoke',
     pageLink: './Art/Nagahshi/index.html',
     imageLink: './Art/Nagahshi/smoke.gif',
     author: 'Nagahshi',
     githubLink: 'https://github.com/nagahshi'
-  }
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
