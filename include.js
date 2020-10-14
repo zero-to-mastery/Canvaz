@@ -941,6 +941,13 @@ let cards = [
     githubLink: 'https://github.com/vitoriapena'
   },
   {
+    artName: 'ZTM Academy',
+    pageLink: './Art/Aswaff/index.html',
+    imageLink: './Art/aswaff/ztm academy.png',
+    author: 'Aswaff',
+    githubLink: 'https://github.com/aswaff'
+  },
+  {
     artName: 'Peruvian Flag',
     pageLink: './Art/oscaramos/index.html',
     imageLink: './Art/oscaramos/Peru_Flag.png',
@@ -967,7 +974,7 @@ let cards = [
     imageLink: './Art/Nagahshi/smoke.gif',
     author: 'Nagahshi',
     githubLink: 'https://github.com/nagahshi'
-  },
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
