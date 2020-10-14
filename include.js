@@ -941,6 +941,13 @@ let cards = [
     githubLink: 'https://github.com/vitoriapena'
   },
   {
+    artName: 'Peruvian Flag',
+    pageLink: './Art/oscaramos/index.html',
+    imageLink: './Art/oscaramos/Peru_Flag.png',
+    author: 'oscaramos',
+    githubLink: 'https://github.com/oscaramos'
+  },
+  {
     artName: 'Elliott',
     pageLink: './Art/Elliott/index.html',
     imageLink: './Art/Elliott/screenshot.png',
