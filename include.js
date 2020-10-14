@@ -808,6 +808,13 @@ let cards = [
     githubLink: 'https://github.com/urilivshits'
   },
   {
+    artName: 'Canvas Project',
+    pageLink: './Art/taepal467/index.html',
+    imageLink: './Art/taepal467/screen_shot',
+    author: 'Chantae P.',
+    githubLink: 'https://github.com/taepal467'
+  },
+  {
     artName: 'Donut Chart',
     pageLink: './Art/unclefifi/index.html',
     imageLink: './Art/unclefifi/art.png',
@@ -871,6 +878,20 @@ let cards = [
     githubLink: 'https://github.com/taniyahinduja'
   },
   {
+    artName: 'Fishy',
+    pageLink: './Art/IancuDan/index.html',
+    imageLink: './Art/IancuDan/fishy.png',
+    author: 'Iancu Dan',
+    githubLink: 'https://github.com/danIancuV'
+  },
+  {
+    artName: 'Doodle',
+    pageLink: './Art/rohitk/index.html',
+    imageLink: './Art/rohitk/Capture.png',
+    author: 'Rohit',
+    githubLink: 'https://github.com/rohitkadamrb'
+  },
+  {
     artName: 'A flower for you',
     pageLink: './Art/vishnup95/index.html',
     imageLink: './Art/vishnup95/Flower.png',
@@ -890,6 +911,13 @@ let cards = [
     imageLink: './Art/oscaramos/Peru_Flag.png',
     author: 'oscaramos',
     githubLink: 'https://github.com/oscaramos'
+  },
+  {
+    artName: 'Elliott',
+    pageLink: './Art/Elliott/index.html',
+    imageLink: './Art/Elliott/screenshot.png',
+    author: 'Elliott',
+    githubLink: 'https://github.com/elliottrapley'
   }
 ];
 
