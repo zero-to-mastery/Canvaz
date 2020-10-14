@@ -8,6 +8,13 @@ let cards = [
     githubLink: 'https://github.com/AyuSoni25'
   },
   {
+    artName: 'It\'s spooktober',
+    pageLink: './Art/pixelatedjelly/index.html',
+    imageLink: './Art/pixelatedjelly/thumbnail.png',
+    author: 'pixelatedjelly',
+    githubLink: 'https://github.com/pixelatedjelly'
+  },
+  {
     artName: 'Pencil Canvas',
     pageLink: './Art/Giancarl021/index.html',
     imageLink: './Art/Giancarl021/screenshot.png',
@@ -813,14 +820,7 @@ let cards = [
     imageLink: './Art/springy/img.png',
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
-  },
-  {
-    artName: 'It\'s spooktober',
-    pageLink: './Art/pixelatedjelly/index.html',
-    imageLink: './Art/pixelatedjelly/thumbnail.png',
-    author: 'pixelatedjelly',
-    githubLink: 'https://github.com/pixelatedjelly'
-  },
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
