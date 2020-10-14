@@ -785,6 +785,13 @@ let cards = [
     imageLink: './Art/urilivshits/image.png',
     author: 'Uri Livshits',
     githubLink: 'https://github.com/urilivshits'
+  },
+   {
+    artName: 'Canvas Project',
+    pageLink: './Art/taepal467/index.html',
+    imageLink: './Art/taepal467/screen_shot',
+    author: 'Chantae P.',
+    githubLink: 'https://github.com/taepal467'
   }
 ];
 
