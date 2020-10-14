@@ -814,7 +814,7 @@ let cards = [
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
   },
-   {
+  {
     artName: 'Raining',
     pageLink: './Art/quangpro1610/index.html',
     imageLink: './Art/quangpro1610/rain-quangpro1610.png',
