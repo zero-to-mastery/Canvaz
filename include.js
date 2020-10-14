@@ -36,6 +36,13 @@ let cards = [
     githubLink: 'https://github.com/AyuSoni25'
   },
   {
+    artName: 'It\'s spooktober',
+    pageLink: './Art/pixelatedjelly/index.html',
+    imageLink: './Art/pixelatedjelly/thumbnail.png',
+    author: 'pixelatedjelly',
+    githubLink: 'https://github.com/pixelatedjelly'
+  },
+  {
     artName: 'snowfall animation using canvas',
     pageLink: 'C:UsersKILLEERRCanvas-CreationsArtHetulindex.html',
     imageLink: 'C:UsersKILLEERRCanvas-CreationsArtHetulezgif.com-gif-maker.gif',
