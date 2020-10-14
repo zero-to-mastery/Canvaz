@@ -1,6 +1,13 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'Spanish flag',
+    pageLink: './Art/Manthey/spanishflag.html',
+    imageLink: './Art/Manthey/spanishflag.png',
+    author: 'Max',
+    githubLink: 'https://github.com/MaxManthey'
+  },
+  {
     artName: 'Irish flag',
     pageLink: './Art/max/irishflag.html',
     imageLink: './Art/max/irishflag.png',
