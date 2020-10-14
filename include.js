@@ -807,13 +807,14 @@ let cards = [
     author: 'Uri Livshits',
     githubLink: 'https://github.com/urilivshits'
   },
-   {
+  {
     artName: 'Canvas Project',
     pageLink: './Art/taepal467/index.html',
     imageLink: './Art/taepal467/screen_shot',
     author: 'Chantae P.',
     githubLink: 'https://github.com/taepal467'
-   },
+  },
+  {
     artName: 'Donut Chart',
     pageLink: './Art/unclefifi/index.html',
     imageLink: './Art/unclefifi/art.png',
@@ -882,12 +883,12 @@ let cards = [
     imageLink: './Art/vishnup95/Flower.png',
     author: 'vishnup95',
     githubLink: 'https://github.com/vishnup95'
-  }
+  },
   {
     artName: 'Moon',
     pageLink: './Art/vitoriapena/index.html',
     imageLink: './Art/vitoriapena/moon.gif',
-    author: 'Vitória Mendes',
+    author: 'Vitória Mendes'
   }
 ];
 
