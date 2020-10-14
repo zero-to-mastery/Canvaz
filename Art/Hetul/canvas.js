@@ -48,3 +48,4 @@ class snowfall{
 		}
 	};
 }
+setInterval(()=> snowfall.snowFall(),20);
