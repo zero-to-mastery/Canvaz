@@ -911,6 +911,13 @@ let cards = [
     imageLink: './Art/Elliott/screenshot.png',
     author: 'Elliott',
     githubLink: 'https://github.com/elliottrapley'
+  },
+  {
+    artName: 'Smoke',
+    pageLink: './Art/Nagahshi/index.html',
+    imageLink: './Art/Nagahshi/smoke.gif',
+    author: 'Nagahshi',
+    githubLink: 'https://github.com/nagahshi'
   }
 ];
 
