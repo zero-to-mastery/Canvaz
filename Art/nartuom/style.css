@@ -10,6 +10,8 @@ html, body {
     width: 100%;
     height: 100%;
     margin: 0;
+    align-items: center;
+    justify-content: center;
   }
   #myCanvas {
     background-color: #000000;
@@ -20,3 +22,11 @@ html, body {
     margin: 0;
     height: 100%;
   }
+  h1 {
+    position: absolute;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Lato", sans-serif;
+    font-size: 3rem;
+    font-weight: 500;
+}
