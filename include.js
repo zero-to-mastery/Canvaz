@@ -906,6 +906,13 @@ let cards = [
     githubLink: 'https://github.com/taniyahinduja'
   },
   {
+    artName: 'Raining',
+    pageLink: './Art/quangpro1610/index.html',
+    imageLink: './Art/quangpro1610/rain-quangpro1610.png',
+    author: 'quangpro1610',
+    githubLink: 'https://github.com/quangpro1610'
+  },
+  {
     artName: 'ScatterDots',
     pageLink: './Art/nartuom/index.html',
     imageLink: './Art/nartuom/scatterDots.jpg',
