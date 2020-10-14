@@ -906,18 +906,18 @@ let cards = [
     githubLink: 'https://github.com/vitoriapena'
   },
   {
-    artName: 'Cosmos',
-    pageLink: './Art/Akshay/index.html',
-    imageLink: './Art/Akshay/cosmos.gif',
-    author: 'Akshay GS',
-    githubLink: 'https://github.com/gsakshay'
-  },
-  {
     artName: 'Elliott',
     pageLink: './Art/Elliott/index.html',
     imageLink: './Art/Elliott/screenshot.png',
     author: 'Elliott',
     githubLink: 'https://github.com/elliottrapley'
+  },
+  {
+    artName: 'Cosmos',
+    pageLink: './Art/Akshay/index.html',
+    imageLink: './Art/Akshay/cosmos.gif',
+    author: 'Akshay GS',
+    githubLink: 'https://github.com/gsakshay'
   },
 ];
 
