@@ -1,10 +1,24 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'Spanish flag',
+    pageLink: './Art/Manthey/spanishflag.html',
+    imageLink: './Art/Manthey/spanishflag.png',
+    author: 'Max',
+    githubLink: 'https://github.com/MaxManthey'
+  },
+  {
+    artName: 'Irish flag',
+    pageLink: './Art/max/irishflag.html',
+    imageLink: './Art/max/irishflag.png',
+    author: 'Max',
+    githubLink: 'https://github.com/MaxManthey'
+  },
+  {
     artName: 'German flag',
     pageLink: './Art/MaxManthey/germanFlag.html',
-    imageLink: './Art/MaxManthey/germanFlag.png',
-    author: 'Max Manthey',
+    imageLink: './Art/MaxManthey/GermanFlag.png',
+    author: 'MaxManthey',
     githubLink: 'https://github.com/MaxManthey'
   },
   {
@@ -20,6 +34,20 @@ let cards = [
     imageLink: './Art/Ayushi/Ayushi.png',
     author: 'Ayushi',
     githubLink: 'https://github.com/AyuSoni25'
+  },
+  {
+    artName: 'It\'s spooktober',
+    pageLink: './Art/pixelatedjelly/index.html',
+    imageLink: './Art/pixelatedjelly/thumbnail.png',
+    author: 'pixelatedjelly',
+    githubLink: 'https://github.com/pixelatedjelly'
+  },
+  {
+    artName: 'snowfall animation using canvas',
+    pageLink: 'C:UsersKILLEERRCanvas-CreationsArtHetulindex.html',
+    imageLink: 'C:UsersKILLEERRCanvas-CreationsArtHetulezgif.com-gif-maker.gif',
+    author: 'Hetul',
+    githubLink: 'https://github.com/Hetul79'
   },
   {
     artName: 'Pencil Canvas',
@@ -808,6 +836,13 @@ let cards = [
     githubLink: 'https://github.com/urilivshits'
   },
   {
+    artName: 'Canvas Project',
+    pageLink: './Art/taepal467/index.html',
+    imageLink: './Art/taepal467/screen_shot',
+    author: 'Chantae P.',
+    githubLink: 'https://github.com/taepal467'
+  },
+  {
     artName: 'Donut Chart',
     pageLink: './Art/unclefifi/index.html',
     imageLink: './Art/unclefifi/art.png',
@@ -878,6 +913,27 @@ let cards = [
     githubLink: 'https://github.com/quangpro1610'
   },
   {
+    artName: 'ScatterDots',
+    pageLink: './Art/nartuom/index.html',
+    imageLink: './Art/nartuom/scatterDots.jpg',
+    author: 'Nartuom',
+    githubLink: 'https://github.com/nartuom'
+  },
+  {
+    artName: 'Fishy',
+    pageLink: './Art/IancuDan/index.html',
+    imageLink: './Art/IancuDan/fishy.png',
+    author: 'Iancu Dan',
+    githubLink: 'https://github.com/danIancuV'
+  },
+  {
+    artName: 'Doodle',
+    pageLink: './Art/rohitk/index.html',
+    imageLink: './Art/rohitk/Capture.png',
+    author: 'Rohit',
+    githubLink: 'https://github.com/rohitkadamrb'
+  },
+  {
     artName: 'A flower for you',
     pageLink: './Art/vishnup95/index.html',
     imageLink: './Art/vishnup95/Flower.png',
@@ -890,6 +946,41 @@ let cards = [
     imageLink: './Art/vitoriapena/moon.gif',
     author: 'Vitória Mendes',
     githubLink: 'https://github.com/vitoriapena'
+  },
+  {
+    artName: 'ZTM Academy',
+    pageLink: './Art/Aswaff/index.html',
+    imageLink: './Art/aswaff/ztm academy.png',
+    author: 'Aswaff',
+    githubLink: 'https://github.com/aswaff'
+  },
+  {
+    artName: 'Peruvian Flag',
+    pageLink: './Art/oscaramos/index.html',
+    imageLink: './Art/oscaramos/Peru_Flag.png',
+    author: 'oscaramos',
+    githubLink: 'https://github.com/oscaramos'
+  },
+  {
+    artName: 'Elliott',
+    pageLink: './Art/Elliott/index.html',
+    imageLink: './Art/Elliott/screenshot.png',
+    author: 'Elliott',
+    githubLink: 'https://github.com/elliottrapley'
+  },
+  {
+    artName: 'Cosmos',
+    pageLink: './Art/Akshay/index.html',
+    imageLink: './Art/Akshay/cosmos.gif',
+    author: 'Akshay GS',
+    githubLink: 'https://github.com/gsakshay'
+  },
+  {
+    artName: 'Smoke',
+    pageLink: './Art/Nagahshi/index.html',
+    imageLink: './Art/Nagahshi/smoke.gif',
+    author: 'Nagahshi',
+    githubLink: 'https://github.com/nagahshi'
   }
 ];
 

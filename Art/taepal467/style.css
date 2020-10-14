@@ -1,0 +1,28 @@
+body {
+  background-color: #bce8d6;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 7em;
+  margin-top: -20px;
+}
+
+h2 {
+  color: #789012;
+  margin-top: 395px;
+  margin-left: 450px;
+  font-size: 7em;
+  flex-wrap: wrap;
+}
+
+#canvas {
+  position: absolute;
+  width: 400px;
+  height: 275px;
+  left: 50%;
+  top: 50%;
+  margin-left: -100px;
+  margin-top: -175px;
+}
