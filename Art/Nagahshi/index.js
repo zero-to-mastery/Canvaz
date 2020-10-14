@@ -1,5 +1,5 @@
-const canvas = document.getElementById("js-canvas");
-const context = canvas.getContext("2d");
+const canvas = document.getElementById('js-canvas');
+const context = canvas.getContext('2d');
 
 const { width, height } = canvas;
 const circles = [];
