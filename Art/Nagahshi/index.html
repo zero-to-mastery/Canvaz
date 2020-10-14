@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Nebula Smoke</title>
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <div class="goo-effect" style="display: flex; justify-content: center">
+      <canvas
+        id="js-canvas"
+        width="600px"
+        height="600px"
+        style="position: absolute; display: inline"
+      ></canvas>
+    </div>
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1" height="1">
+      <defs>
+        <filter id="goo">
+          <feGaussianBlur in="SourceGraphic" stdDeviation="30" result="blur" />
+          <feColorMatrix
+            in="blur"
+            mode="matrix"
+            values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -7"
+            result="goo"
+          />
+        </filter>
+      </defs>
+    </svg>
+    <script src="index.js"></script>
+  </body>
+</html>
