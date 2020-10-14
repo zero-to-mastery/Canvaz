@@ -889,7 +889,7 @@ let cards = [
     pageLink: './Art/vitoriapena/index.html',
     imageLink: './Art/vitoriapena/moon.gif',
     author: 'Vitória Mendes'
-  }
+  },
   {
     artName: 'Elliott',
     pageLink: './Art/Elliott/index.html',
