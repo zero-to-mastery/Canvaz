@@ -1,0 +1,12 @@
+#fishCanvas {
+  width: 400px;
+  height: 300px;
+  position: absolute;
+  margin: auto;
+  padding: 0;
+  display: block;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
