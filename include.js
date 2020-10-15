@@ -855,6 +855,13 @@ let cards = [
     imageLink: './Art/springy/img.png',
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
+  },
+  {
+    artName: 'Viet Nam Flag',
+    pageLink: './Art/tranjenny/vietnamflag.html',
+    imageLink: './Art/tranjenny/vietnam.png',
+    author: 'tranjenny',
+    githubLink: 'https://github.com/tranjenny'
   }
 ];
 
