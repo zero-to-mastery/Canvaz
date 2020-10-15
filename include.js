@@ -990,6 +990,14 @@ let cards = [
     githubLink: 'https://github.com/nagahshi'
   },
   {
+
+    artName: 'Apex Legends',
+    pageLink: './Art/DDuplinszki/index.html',
+    imageLink: './Art/DDuplinszki/Apex Legends logo.png',
+    author: 'DDuplinszki',
+    githubLink: 'https://github.com/DDuplinszki'
+  },
+  {
     artName: 'Angel Lakra',
     pageLink: './Art/Angel_Lakra/index.html',
     imageLink: './Art/Angel_Lakra/random.jpg',
