@@ -969,6 +969,13 @@ let cards = [
     githubLink: 'https://github.com/elliottrapley'
   },
   {
+    artName: 'Hadoken!',
+    pageLink: './Art/dekisr/index.html',
+    imageLink: './Art/dekisr/hadoken.gif',
+    author: 'Deki',
+    githubLink: 'https://github.com/dekisr'
+  },
+  {
     artName: 'Cosmos',
     pageLink: './Art/Akshay/index.html',
     imageLink: './Art/Akshay/cosmos.gif',
@@ -988,6 +995,27 @@ let cards = [
     imageLink: './Art/tranjenny/universe.png',
     author: 'tranjenny',
     githubLink: 'https://github.com/tranjenny'
+  },
+  {
+    artName: 'Apex Legends',
+    pageLink: './Art/DDuplinszki/index.html',
+    imageLink: './Art/DDuplinszki/Apex Legends logo.png',
+    author: 'DDuplinszki',
+    githubLink: 'https://github.com/DDuplinszki'
+  },
+  {
+    artName: 'Angel Lakra',
+    pageLink: './Art/Angel_Lakra/index.html',
+    imageLink: './Art/Angel_Lakra/random.jpg',
+    author: 'Angel Lakra',
+    githubLink: 'https://github.com/angel112'
+  },
+  {
+    artName: 'Rainbow-Circle',
+    pageLink: './Art/initialsky0/index.html',
+    imageLink: './Art/initialsky0/rainbow-circle.png',
+    author: 'Initialsky0',
+    githubLink: 'https://github.com/initialsky0'
   }
 ];
 
@@ -1003,14 +1031,14 @@ let contents = [];
 Shuffle(cards).forEach((c) => {
   contents.push([
     `<li class="card">` +
-      `<a href='${c.pageLink}' target="_blank">` +
-      `<img class="art-image" src='${c.imageLink}' alt='${c.artName}' />` +
-      `</a>` +
-      `<div class="flex-content">` +
-      `<a href='${c.pageLink}' target="_blank"><h3 class="art-title">${c.artName}</h3></a>` +
-      `<p class='author'><a href="${c.githubLink}" target="_blank"><i class="fab fa-github"></i> ${c.author}</a> </p>` +
-      `</div>` +
-      `</li>`
+    `<a href='${c.pageLink}' target="_blank">` +
+    `<img class="art-image" src='${c.imageLink}' alt='${c.artName}' />` +
+    `</a>` +
+    `<div class="flex-content">` +
+    `<a href='${c.pageLink}' target="_blank"><h3 class="art-title">${c.artName}</h3></a>` +
+    `<p class='author'><a href="${c.githubLink}" target="_blank"><i class="fab fa-github"></i> ${c.author}</a> </p>` +
+    `</div>` +
+    `</li>`
   ]);
 });
 

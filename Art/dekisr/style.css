@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(
+    180deg,
+    black 25%,
+    tomato 25%,
+    tomato 40%,
+    navajowhite 40%,
+    navajowhite 100%
+  );
+}
+main {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+button {
+  display: block;
+  padding: 0.5rem;
+  margin: 0 auto;
+  border: none;
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background 400ms ease, transform 150ms ease;
+  color: snow;
+  background-color: tomato;
+}
+button:hover {
+  outline: 0.0625rem solid snow;
+  outline-offset: -0.125rem;
+}
+button:active {
+  outline-offset: -0.25rem;
+  transform: scale(0.95);
+  background-color: tomato;
+}
