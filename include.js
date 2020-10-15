@@ -988,6 +988,13 @@ let cards = [
     imageLink: './Art/Nagahshi/smoke.gif',
     author: 'Nagahshi',
     githubLink: 'https://github.com/nagahshi'
+  },
+  {
+    artName: 'Rainbow-Circle',
+    pageLink: './Art/initialsky0/index.html',
+    imageLink: './Art/initialsky0/rainbow-circle.png',
+    author: 'Initialsky0',
+    githubLink: 'https://github.com/initialsky0'
   }
 ];
 
