@@ -1,11 +1,53 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'Spanish flag',
+    pageLink: './Art/Manthey/spanishflag.html',
+    imageLink: './Art/Manthey/spanishflag.png',
+    author: 'Max',
+    githubLink: 'https://github.com/MaxManthey'
+  },
+  {
+    artName: 'Irish flag',
+    pageLink: './Art/max/irishflag.html',
+    imageLink: './Art/max/irishflag.png',
+    author: 'Max',
+    githubLink: 'https://github.com/MaxManthey'
+  },
+  {
+    artName: 'German flag',
+    pageLink: './Art/MaxManthey/germanFlag.html',
+    imageLink: './Art/MaxManthey/GermanFlag.png',
+    author: 'MaxManthey',
+    githubLink: 'https://github.com/MaxManthey'
+  },
+  {
+    artName: 'LGBT flag',
+    pageLink: './Art/maxMant/lgbtFlag.html',
+    imageLink: './Art/maxMant/lgbtFlag.png',
+    author: 'Max',
+    githubLink: 'https://github.com/MaxManthey'
+  },
+  {
     artName: 'Patatap-Clone',
     pageLink: './Art/Ayushi/index.html',
     imageLink: './Art/Ayushi/Ayushi.png',
     author: 'Ayushi',
     githubLink: 'https://github.com/AyuSoni25'
+  },
+  {
+    artName: 'It\'s spooktober',
+    pageLink: './Art/pixelatedjelly/index.html',
+    imageLink: './Art/pixelatedjelly/thumbnail.png',
+    author: 'pixelatedjelly',
+    githubLink: 'https://github.com/pixelatedjelly'
+  },
+  {
+    artName: 'snowfall animation using canvas',
+    pageLink: 'C:UsersKILLEERRCanvas-CreationsArtHetulindex.html',
+    imageLink: 'C:UsersKILLEERRCanvas-CreationsArtHetulezgif.com-gif-maker.gif',
+    author: 'Hetul',
+    githubLink: 'https://github.com/Hetul79'
   },
   {
     artName: 'Pencil Canvas',
@@ -789,9 +831,16 @@ let cards = [
   {
     artName: 'Hacktoberfest 2020 Animation',
     pageLink: './Art/urilivshits/index.html',
-    imageLink: './Art/urilivshits/image.png',
+    imageLink: './Art/urilivshits/image.gif',
     author: 'Uri Livshits',
     githubLink: 'https://github.com/urilivshits'
+  },
+  {
+    artName: 'Canvas Project',
+    pageLink: './Art/taepal467/index.html',
+    imageLink: './Art/taepal467/screen_shot',
+    author: 'Chantae P.',
+    githubLink: 'https://github.com/taepal467'
   },
   {
     artName: 'Donut Chart',
@@ -857,9 +906,86 @@ let cards = [
     githubLink: 'https://github.com/taniyahinduja'
   },
   {
-    artName: 'Viet Nam Flag',
-    pageLink: './Art/tranjenny/vietnamflag.html',
-    imageLink: './Art/tranjenny/vietnam.png',
+    artName: 'Raining',
+    pageLink: './Art/quangpro1610/index.html',
+    imageLink: './Art/quangpro1610/rain-quangpro1610.png',
+    author: 'quangpro1610',
+    githubLink: 'https://github.com/quangpro1610'
+  },
+  {
+    artName: 'ScatterDots',
+    pageLink: './Art/nartuom/index.html',
+    imageLink: './Art/nartuom/scatterDots.jpg',
+    author: 'Nartuom',
+    githubLink: 'https://github.com/nartuom'
+  },
+  {
+    artName: 'Fishy',
+    pageLink: './Art/IancuDan/index.html',
+    imageLink: './Art/IancuDan/fishy.png',
+    author: 'Iancu Dan',
+    githubLink: 'https://github.com/danIancuV'
+  },
+  {
+    artName: 'Doodle',
+    pageLink: './Art/rohitk/index.html',
+    imageLink: './Art/rohitk/Capture.png',
+    author: 'Rohit',
+    githubLink: 'https://github.com/rohitkadamrb'
+  },
+  {
+    artName: 'A flower for you',
+    pageLink: './Art/vishnup95/index.html',
+    imageLink: './Art/vishnup95/Flower.png',
+    author: 'vishnup95',
+    githubLink: 'https://github.com/vishnup95'
+  },
+  {
+    artName: 'Moon',
+    pageLink: './Art/vitoriapena/index.html',
+    imageLink: './Art/vitoriapena/moon.gif',
+    author: 'Vitória Mendes',
+    githubLink: 'https://github.com/vitoriapena'
+  },
+  {
+    artName: 'ZTM Academy',
+    pageLink: './Art/Aswaff/index.html',
+    imageLink: './Art/aswaff/ztm academy.png',
+    author: 'Aswaff',
+    githubLink: 'https://github.com/aswaff'
+  },
+  {
+    artName: 'Peruvian Flag',
+    pageLink: './Art/oscaramos/index.html',
+    imageLink: './Art/oscaramos/Peru_Flag.png',
+    author: 'oscaramos',
+    githubLink: 'https://github.com/oscaramos'
+  },
+  {
+    artName: 'Elliott',
+    pageLink: './Art/Elliott/index.html',
+    imageLink: './Art/Elliott/screenshot.png',
+    author: 'Elliott',
+    githubLink: 'https://github.com/elliottrapley'
+  },
+  {
+    artName: 'Cosmos',
+    pageLink: './Art/Akshay/index.html',
+    imageLink: './Art/Akshay/cosmos.gif',
+    author: 'Akshay GS',
+    githubLink: 'https://github.com/gsakshay'
+  },
+  {
+    artName: 'Smoke',
+    pageLink: './Art/Nagahshi/index.html',
+    imageLink: './Art/Nagahshi/smoke.gif',
+    author: 'Nagahshi',
+    githubLink: 'https://github.com/nagahshi'
+  },
+  {
+    artName: 'Universe',
+    pageLink: './Art/tranjenny/universe.html',
+    imageLink: './Art/tranjenny/universe.png',
     author: 'tranjenny',
     githubLink: 'https://github.com/tranjenny'
   }
@@ -877,14 +1003,14 @@ let contents = [];
 Shuffle(cards).forEach((c) => {
   contents.push([
     `<li class="card">` +
-    `<a href='${c.pageLink}' target="_blank">` +
-    `<img class="art-image" src='${c.imageLink}' alt='${c.artName}' />` +
-    `</a>` +
-    `<div class="flex-content">` +
-    `<a href='${c.pageLink}' target="_blank"><h3 class="art-title">${c.artName}</h3></a>` +
-    `<p class='author'><a href="${c.githubLink}" target="_blank"><i class="fab fa-github"></i> ${c.author}</a> </p>` +
-    `</div>` +
-    `</li>`
+      `<a href='${c.pageLink}' target="_blank">` +
+      `<img class="art-image" src='${c.imageLink}' alt='${c.artName}' />` +
+      `</a>` +
+      `<div class="flex-content">` +
+      `<a href='${c.pageLink}' target="_blank"><h3 class="art-title">${c.artName}</h3></a>` +
+      `<p class='author'><a href="${c.githubLink}" target="_blank"><i class="fab fa-github"></i> ${c.author}</a> </p>` +
+      `</div>` +
+      `</li>`
   ]);
 });
 
@@ -892,7 +1018,9 @@ document.getElementById('cards').innerHTML = contents.join('');
 
 function Shuffle(o) {
   for (
-    var j, x, i = o.length; i; j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x
+    var j, x, i = o.length;
+    i;
+    j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x
   );
   return o;
 }
