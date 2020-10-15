@@ -990,7 +990,13 @@ let cards = [
     githubLink: 'https://github.com/nagahshi'
   },
   {
-
+    artName: 'Universe',
+    pageLink: './Art/tranjenny/universe.html',
+    imageLink: './Art/tranjenny/universe.png',
+    author: 'tranjenny',
+    githubLink: 'https://github.com/tranjenny'
+  },
+  {
     artName: 'Apex Legends',
     pageLink: './Art/DDuplinszki/index.html',
     imageLink: './Art/DDuplinszki/Apex Legends logo.png',
