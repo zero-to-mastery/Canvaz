@@ -1,5 +1,5 @@
-var drawing = document.getElementById("canvas-red");
-var ctx = drawing.getContext("2d");
+var drawing = document.getElementById('canvas-red');
+var ctx = drawing.getContext('2d');
 
 ctx.fillStyle = '#b02b2c';
 //left side
@@ -31,8 +31,8 @@ ctx.lineTo(205, 0);
 
 ctx.fill();
 
-var drawing2 = document.getElementById("canvas-logo");
-var ctx2 = drawing2.getContext("2d");
+var drawing2 = document.getElementById('canvas-logo');
+var ctx2 = drawing2.getContext('2d');
 
 ctx2.fillStyle = 'white';
 

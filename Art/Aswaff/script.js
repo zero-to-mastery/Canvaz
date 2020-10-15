@@ -3,7 +3,6 @@ const canvas = document.getElementById('canvas');
 //This is the main wording of the canvas
 const ctx = canvas.getContext('2d');
 
-
 //Setting font text color, and postioning of the main text
 ctx.font = '48px Arial Black';
 ctx.fillStyle = '#32de88';
