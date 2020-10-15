@@ -969,6 +969,13 @@ let cards = [
     githubLink: 'https://github.com/elliottrapley'
   },
   {
+    artName: 'Hadoken!',
+    pageLink: './Art/dekisr/index.html',
+    imageLink: './Art/dekisr/hadoken.gif',
+    author: 'Deki',
+    githubLink: 'https://github.com/dekisr'
+  },
+  {
     artName: 'Cosmos',
     pageLink: './Art/Akshay/index.html',
     imageLink: './Art/Akshay/cosmos.gif',
