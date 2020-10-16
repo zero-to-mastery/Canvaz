@@ -1016,6 +1016,13 @@ let cards = [
     imageLink: './Art/initialsky0/rainbow-circle.png',
     author: 'Initialsky0',
     githubLink: 'https://github.com/initialsky0'
+  },
+  {
+    artName: 'hacktoberfest 2020 logo',
+    pageLink: './Art/shzam12/index.html',
+    imageLink: './Art/joy/ztm.png',
+    author: 'shazm12',
+    githubLink: 'https://github.com/shazm12'
   }
 ];
 
