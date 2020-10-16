@@ -1,6 +1,13 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'Canadian Flag',
+    pageLink: './Art/Ozziel/index.html',
+    imageLink: './Art/Ozziel/canadaflag.png',
+    author: 'Ozziel Ruiz',
+    githubLink: 'https://github.com/OzzielRuiz'
+  },
+  {
     artName: 'Spanish flag',
     pageLink: './Art/Manthey/spanishflag.html',
     imageLink: './Art/Manthey/spanishflag.png',
