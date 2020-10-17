@@ -1023,7 +1023,14 @@ let cards = [
     imageLink: './Art/initialsky0/rainbow-circle.png',
     author: 'Initialsky0',
     githubLink: 'https://github.com/initialsky0'
-  }
+  },
+  {
+    artName: 'Tanjiro Haroi Pattern',
+    pageLink: './Art/chrysillala/index.html',
+    imageLink: './Art/chrysillala/tanjiro-pattern.png',
+    author: 'chrysillala',
+    githubLink: 'https://github.com/chrysillala'
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
