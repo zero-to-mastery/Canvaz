@@ -1,6 +1,13 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'MoveAcross Grid',
+    pageLink: './Art/Himanshu/index.html',
+    imageLink: './Art/Himanshu/moveacross.png',
+    author: 'Himanshu R Agarwal',
+    githubLink: 'https://github.com/himanshuagarwal12'
+  },
+  {
     artName: 'Canadian Flag',
     pageLink: './Art/Ozziel/index.html',
     imageLink: './Art/Ozziel/canadaflag.png',
@@ -1023,7 +1030,7 @@ let cards = [
     imageLink: './Art/initialsky0/rainbow-circle.png',
     author: 'Initialsky0',
     githubLink: 'https://github.com/initialsky0'
-  }
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
