@@ -1023,6 +1023,13 @@ let cards = [
     imageLink: './Art/initialsky0/rainbow-circle.png',
     author: 'Initialsky0',
     githubLink: 'https://github.com/initialsky0'
+  },
+  {
+    artName: 'LA Lakers',
+    pageLink: './Art/Andres/canvas.html',
+    imageLink: './Art/Andres/image.png',
+    author: 'Andres',
+    githubLink: 'https://github.com/andresrmts'
   }
 ];
 
