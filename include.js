@@ -1023,6 +1023,13 @@ let cards = [
     imageLink: './Art/initialsky0/rainbow-circle.png',
     author: 'Initialsky0',
     githubLink: 'https://github.com/initialsky0'
+  },
+  {
+    artName: 'Fantasy Plane',
+    pageLink: './Art/prime417/index.html',
+    imageLink: './Art/prime417/screenshot.png',
+    author: 'Pankaj Salunkhe',
+    githubLink: 'https://github.com/prime417'
   }
 ];
 
