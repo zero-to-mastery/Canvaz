@@ -1,4 +1,4 @@
-$(document).ready(function() {
+$(document).ready(function () {
   var canvas = $('#canvas')[0];
   canvas.width = window.innerWidth;
   canvas.height = window.innerHeight;
@@ -20,7 +20,7 @@ $(document).ready(function() {
         l: Math.random() * 1,
         xs: -4 + Math.random() * 4 + 2,
         ys: Math.random() * 10 + 10
-      })
+      });
     }
 
     var particles = [];
@@ -53,6 +53,5 @@ $(document).ready(function() {
     }
 
     setInterval(draw, 30);
-
   }
 });

@@ -137,12 +137,12 @@ function gameLoop(timeStamp) {
   Date.now() - time < 6000 && window.requestAnimationFrame(gameLoop);
 }
 
-time = Date.now()
+time = Date.now();
 gameLoop(Date.now());
 
 button.addEventListener('click', () => {
-  time = Date.now()
-  window.cancelAnimationFrame(gameLoop)
+  time = Date.now();
+  window.cancelAnimationFrame(gameLoop);
   xPos = 0;
   yPos = 200;
   inPos = 50;

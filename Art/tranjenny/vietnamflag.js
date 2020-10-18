@@ -1,14 +1,14 @@
 var canvas = document.getElementById('canvas');
 var ctx = canvas.getContext('2d');
-var square = document.getElementById("square");
+var square = document.getElementById('square');
 var sq = square.getContext('2d');
 
 sq.beginPath();
-sq.fillStyle = "red";
+sq.fillStyle = 'red';
 sq.rect(60, 30, 350, 230);
 sq.fill();
 
-ctx.fillStyle = "yellow";
+ctx.fillStyle = 'yellow';
 ctx.beginPath();
 ctx.moveTo(108, 0.0);
 ctx.lineTo(141, 70);
