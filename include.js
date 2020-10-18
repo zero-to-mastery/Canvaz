@@ -1030,6 +1030,13 @@ let cards = [
     imageLink: './Art/prime417/screenshot.png',
     author: 'Pankaj Salunkhe',
     githubLink: 'https://github.com/prime417'
+  },
+  {
+    artName: 'Hacktober Spooky',
+    pageLink: './Art/TaylorJonesTRT/index.html',
+    imageLink: './Art/TaylorJonesTRT/screenshot.png',
+    author: 'Taylor Jones',
+    githubLink: 'https://github.com/taylorjonestrt'
   }
 ];
 
