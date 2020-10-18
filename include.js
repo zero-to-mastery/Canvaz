@@ -1023,6 +1023,13 @@ let cards = [
     imageLink: './Art/initialsky0/rainbow-circle.png',
     author: 'Initialsky0',
     githubLink: 'https://github.com/initialsky0'
+  },
+  {
+    artName: 'Hacktober Spooky',
+    pageLink: './Art/TaylorJonesTRT/index.html',
+    imageLink: './Art/TaylorJonesTRT/screenshot.png',
+    author: 'Taylor Jones',
+    githubLink: 'https://github.com/taylorjonestrt'
   }
 ];
 
