@@ -1037,6 +1037,14 @@ let cards = [
     imageLink: './Art/TaylorJonesTRT/screenshot.png',
     author: 'Taylor Jones',
     githubLink: 'https://github.com/taylorjonestrt'
+  },
+  {
+    artName: 'Spiral Canvas',
+    pageLink: './Art/JhonattanBenitez/index.html',
+    imageLink: './Art/JhonattanBenitez/thumbnail.JPG',
+    author: 'Jhonattan benitez',
+    githubLink: 'https://github.com/jhonattanbenitez'
+
   }
 ];
 
