@@ -1025,6 +1025,20 @@ let cards = [
     githubLink: 'https://github.com/initialsky0'
   },
   {
+    artName: 'Fantasy Plane',
+    pageLink: './Art/prime417/index.html',
+    imageLink: './Art/prime417/screenshot.png',
+    author: 'Pankaj Salunkhe',
+    githubLink: 'https://github.com/prime417'
+  },
+  {
+    artName: 'Hacktober Spooky',
+    pageLink: './Art/TaylorJonesTRT/index.html',
+    imageLink: './Art/TaylorJonesTRT/screenshot.png',
+    author: 'Taylor Jones',
+    githubLink: 'https://github.com/taylorjonestrt'
+  },
+  {
     artName: 'Web Head',
     pageLink: './Art/DCox2016/dcox2016.html',
     imageLink: './Art/DCox2016/background.jpg',
