@@ -1038,6 +1038,13 @@ let cards = [
     author: 'Taylor Jones',
     githubLink: 'https://github.com/taylorjonestrt'
   }
+  {
+    artName: 'Circular Motion',
+    pageLink: './Art/Russell_Jeffrey/index.html',
+    imageLink: './Art/Russell_Jeffrey/My_Canvas.gif',
+    author: 'Russell Jeffrey',
+    githubLink: 'https://github.com/Russell-Jeffrey'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
