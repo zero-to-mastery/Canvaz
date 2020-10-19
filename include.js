@@ -1030,7 +1030,7 @@ let cards = [
     imageLink: './Art/DCox2016/background.jpg',
     author: 'DCox2016',
     githubLink: 'https://github.com/DCox2016'
-  }
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
