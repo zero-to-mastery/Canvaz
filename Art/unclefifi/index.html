@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css" />
+    <script src="./script.js" async defer></script>
+  </head>
+
+  <body>
+    <div class="flex-wrap vertical fullDim">
+      <div id="canvas-wrap" class="flex-item flex-wrap centered">
+        <canvas></canvas>
+      </div>
+
+      <!-- DASHBOARD WHERE WE CAN VIEW DATA BY AGE GROUP OR GENDER -->
+      <div id="stats-container" class="flex-wrap vertical">
+        <h1>Stats</h1>
+        <div class="flex-wrap">
+          <div class="flex-item">Men</div>
+          <div class="flex-item">Count <span id="male-count">0</span></div>
+          <div class="flex-item">Percent <span id="male-percent">0</span></div>
+        </div>
+        <div class="flex-wrap">
+          <div class="flex-item">Women</div>
+          <div class="flex-item">Count <span id="female-count">0</span></div>
+          <div class="flex-item">
+            Percent <span id="female-percent">0</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

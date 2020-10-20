@@ -1,0 +1,16 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#skyCanvas {
+  background-color: rgb(19, 18, 50);
+}

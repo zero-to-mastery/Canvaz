@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Giancarl021's Canvas</title>
+    <link rel="stylesheet" href="css/styles.css" />
+    <script src="js/script.js"></script>
+  </head>
+  <body>
+    <canvas id="c"> Canvas is not supported on your browser. </canvas>
+    <div class="container">
+      <h1>Color</h1>
+      <input
+        type="number"
+        id="r"
+        min="0"
+        max="255"
+        onchange="changeColor(this.value, this.id)"
+      />
+      <input
+        type="number"
+        id="g"
+        min="0"
+        max="255"
+        onchange="changeColor(this.value, this.id)"
+      />
+      <input
+        type="number"
+        id="b"
+        min="0"
+        max="255"
+        onchange="changeColor(this.value, this.id)"
+      />
+    </div>
+  </body>
+</html>

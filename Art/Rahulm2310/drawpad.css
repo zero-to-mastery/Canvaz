@@ -1,0 +1,101 @@
+body {
+  background: linear-gradient(to right, #141e30, #243b55);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  width: 93%;
+  margin: 0 auto;
+  padding: 0px;
+}
+
+#header {
+  font-size: 40px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: white;
+  text-align: center;
+  background: linear-gradient(to right, #000000, #616060);
+  height: 82px;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+
+#container1 {
+  padding: 0px;
+  text-align: center;
+}
+
+#container2 {
+  background: linear-gradient(to right, #f7ff00, #db36a4);
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#drawcanvas {
+  text-align: center;
+  width: 93%;
+  margin: 0 auto;
+}
+
+#container3 {
+  background: white;
+  height: 530px;
+  margin: 20px 0px;
+  padding: 0px 0px;
+  cursor: crosshair;
+}
+#color {
+  padding: 0px;
+}
+
+#color input {
+  height: 50px;
+  width: 80px;
+  margin: 10px 0px;
+  margin-left: 20px;
+}
+
+#thickness {
+  width: 10%;
+  text-align: right;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#strokesize {
+  width: 3px;
+  height: 3px;
+  border-radius: 50%;
+  background: black;
+  text-align: center;
+
+  transform: translate(-50%, -50%);
+}
+
+#strokeslide {
+  margin-bottom: 10px;
+}
+
+#slider {
+  margin: 30px 0px;
+  width: 100px;
+}
+
+.controls {
+  margin: 20px 40px;
+  padding: 7px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+canvas {
+  background: white;
+}

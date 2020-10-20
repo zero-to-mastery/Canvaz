@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: #ccccd7;
+}
+
+.header {
+  text-align: center;
+  padding: 100px 0 20px 0;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+input {
+  visibility: hidden;
+  width: 0;
+}
+
+.cta-button {
+  border: 2px #8496c6 solid;
+  border-radius: 7px;
+  padding: 5px;
+  margin-right: 25px;
+  width: fit-content;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+canvas {
+  position: absolute;
+  margin-top: 50px;
+  border: 2px #b8bad4 solid;
+  border-radius: 7px;
+}
+
+.image-wrapper {
+  margin-top: 50px;
+  height: 300px;
+  width: 500px;
+  background-color: #dbdbdb;
+}
+
+img {
+  height: 300px;
+  width: 500px;
+  object-fit: contain;
+}
+
+.picker {
+  display: flex;
+  justify-content: center;
+}
+
+.colors {
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.sizes {
+  height: 25px;
+  width: 25px;
+  margin-right: 7px;
+  cursor: pointer;
+  display: inline-block;
+}
