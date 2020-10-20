@@ -1,6 +1,13 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'Infinite Lines',
+    pageLink: './Art/Kadugs/index.html',
+    imageLink: './Art/Kadugs/infinite-lines.png',
+    author: 'Kadugs',
+    githubLink: 'https://github.com/Kadugs'
+  },
+  {
     artName: 'Canadian Flag',
     pageLink: './Art/Ozziel/index.html',
     imageLink: './Art/Ozziel/canadaflag.png',
