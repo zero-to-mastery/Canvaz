@@ -1037,6 +1037,13 @@ let cards = [
     imageLink: './Art/TaylorJonesTRT/screenshot.png',
     author: 'Taylor Jones',
     githubLink: 'https://github.com/taylorjonestrt'
+  },
+  {
+    artName: 'Canvas Drawing',
+    pageLink: './Art/Chintan/index.html',
+    imageLink: './Art/Chintan/canvas.jpg',
+    author: 'Chintan',
+    githubLink: 'https://github.com/chintans357'
   }
 ];
 
