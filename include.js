@@ -1037,6 +1037,13 @@ let cards = [
     imageLink: './Art/TaylorJonesTRT/screenshot.png',
     author: 'Taylor Jones',
     githubLink: 'https://github.com/taylorjonestrt'
+  },
+  {
+    artName: 'Bonfire Night',
+    pageLink: './Art/nicm/index.html',
+    imageLink: './Art/nicm/screenshot.png',
+    author: 'Nic Mayer',
+    githubLink: 'https://github.com/nicm42'
   }
 ];
 
