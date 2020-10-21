@@ -997,6 +997,13 @@ let cards = [
     githubLink: 'https://github.com/gsakshay'
   },
   {
+    artName: 'Barchart',
+    pageLink: './Art/kerlon5/index.html',
+    imageLink: './Art/kerlon5/barchart.png',
+    author: 'kerlon5',
+    githubLink: 'https://github.com/kerlon5'
+  },
+  {
     artName: 'Smoke',
     pageLink: './Art/Nagahshi/index.html',
     imageLink: './Art/Nagahshi/smoke.gif',
