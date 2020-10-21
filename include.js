@@ -1032,6 +1032,13 @@ let cards = [
     githubLink: 'https://github.com/initialsky0'
   },
   {
+    artName: 'hacktoberfest 2020 logo',
+    pageLink: './Art/shzam12/index.html',
+    imageLink: './Art/joy/ztm.png',
+    author: 'shazm12',
+    githubLink: 'https://github.com/shazm12'
+  },
+  {
     artName: 'Fantasy Plane',
     pageLink: './Art/prime417/index.html',
     imageLink: './Art/prime417/screenshot.png',
