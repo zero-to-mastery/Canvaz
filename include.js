@@ -1072,6 +1072,13 @@ let cards = [
     imageLink: './Art/TaylorJonesTRT/screenshot.png',
     author: 'Taylor Jones',
     githubLink: 'https://github.com/taylorjonestrt'
+  },
+  {
+    artName: 'Ambient Background',
+    pageLink: './Art/ambientBackground/index.html',
+    imageLink: './Art/ambientBackground/ambientBubble.png',
+    author: 'Ray-ez',
+    githubLink: 'https://github.com/RAY-EZ'
   }
 ];
 
