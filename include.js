@@ -1,6 +1,13 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'Infinite Lines',
+    pageLink: './Art/Kadugs/index.html',
+    imageLink: './Art/Kadugs/infinite-lines.png',
+    author: 'Kadugs',
+    githubLink: 'https://github.com/Kadugs'
+  },
+  {
     artName: 'Canadian Flag',
     pageLink: './Art/Ozziel/index.html',
     imageLink: './Art/Ozziel/canadaflag.png',
@@ -990,6 +997,13 @@ let cards = [
     githubLink: 'https://github.com/gsakshay'
   },
   {
+    artName: 'Barchart',
+    pageLink: './Art/kerlon5/index.html',
+    imageLink: './Art/kerlon5/barchart.png',
+    author: 'kerlon5',
+    githubLink: 'https://github.com/kerlon5'
+  },
+  {
     artName: 'Smoke',
     pageLink: './Art/Nagahshi/index.html',
     imageLink: './Art/Nagahshi/smoke.gif',
@@ -1031,6 +1045,34 @@ let cards = [
     author: 'chrysillala',
     githubLink: 'https://github.com/chrysillala'
   },
+  {
+    artName: 'LA Lakers',
+    pageLink: './Art/Andres/canvas.html',
+    imageLink: './Art/Andres/image.png',
+    author: 'Andres',
+    githubLink: 'https://github.com/andresrmts'
+  },
+  {
+    artName: 'hacktoberfest 2020 logo',
+    pageLink: './Art/shzam12/index.html',
+    imageLink: './Art/joy/ztm.png',
+    author: 'shazm12',
+    githubLink: 'https://github.com/shazm12'
+  },
+  {
+    artName: 'Fantasy Plane',
+    pageLink: './Art/prime417/index.html',
+    imageLink: './Art/prime417/screenshot.png',
+    author: 'Pankaj Salunkhe',
+    githubLink: 'https://github.com/prime417'
+  },
+  {
+    artName: 'Hacktober Spooky',
+    pageLink: './Art/TaylorJonesTRT/index.html',
+    imageLink: './Art/TaylorJonesTRT/screenshot.png',
+    author: 'Taylor Jones',
+    githubLink: 'https://github.com/taylorjonestrt'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
