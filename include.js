@@ -1,6 +1,20 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'Infinite Lines',
+    pageLink: './Art/Kadugs/index.html',
+    imageLink: './Art/Kadugs/infinite-lines.png',
+    author: 'Kadugs',
+    githubLink: 'https://github.com/Kadugs'
+  },
+  {
+    artName: 'Canadian Flag',
+    pageLink: './Art/Ozziel/index.html',
+    imageLink: './Art/Ozziel/canadaflag.png',
+    author: 'Ozziel Ruiz',
+    githubLink: 'https://github.com/OzzielRuiz'
+  },
+  {
     artName: 'Spanish flag',
     pageLink: './Art/Manthey/spanishflag.html',
     imageLink: './Art/Manthey/spanishflag.png',
@@ -1023,6 +1037,20 @@ let cards = [
     imageLink: './Art/joy/ztm.png',
     author: 'shazm12',
     githubLink: 'https://github.com/shazm12'
+  },
+  {
+    artName: 'Fantasy Plane',
+    pageLink: './Art/prime417/index.html',
+    imageLink: './Art/prime417/screenshot.png',
+    author: 'Pankaj Salunkhe',
+    githubLink: 'https://github.com/prime417'
+  },
+  {
+    artName: 'Hacktober Spooky',
+    pageLink: './Art/TaylorJonesTRT/index.html',
+    imageLink: './Art/TaylorJonesTRT/screenshot.png',
+    author: 'Taylor Jones',
+    githubLink: 'https://github.com/taylorjonestrt'
   }
 ];
 
