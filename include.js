@@ -1044,6 +1044,13 @@ let cards = [
     imageLink: './Art/TaylorJonesTRT/screenshot.png',
     author: 'Taylor Jones',
     githubLink: 'https://github.com/taylorjonestrt'
+  },
+  {
+    artName: 'Analog Clock',
+    pageLink: './Art/faiz_hameed/index.html',
+    imageLink: './Art/faiz_hameed/clock.png',
+    author: 'Faiz Hameed',
+    githubLink: 'https://github.com/faizhameed'
   }
 ];
 
