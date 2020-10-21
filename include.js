@@ -1039,6 +1039,13 @@ let cards = [
     githubLink: 'https://github.com/initialsky0'
   },
   {
+    artName: 'Tanjiro Haroi Pattern',
+    pageLink: './Art/chrysillala/index.html',
+    imageLink: './Art/chrysillala/tanjiro-pattern.png',
+    author: 'chrysillala',
+    githubLink: 'https://github.com/chrysillala'
+  },
+  {
     artName: 'LA Lakers',
     pageLink: './Art/Andres/canvas.html',
     imageLink: './Art/Andres/image.png',
