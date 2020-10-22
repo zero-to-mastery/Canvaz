@@ -1073,6 +1073,13 @@ let cards = [
     author: 'Taylor Jones',
     githubLink: 'https://github.com/taylorjonestrt'
   }
+  {
+    artName: 'Brazil Flag',
+    pageLink: './Art/SantoroA/index.html',
+    imageLink: './Art/SantoroA/brazil-flag.jpg',
+    author: 'Aline Santoro',
+    githubLink: 'https://github.com/SantoroA'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
