@@ -1072,6 +1072,13 @@ let cards = [
     imageLink: './Art/TaylorJonesTRT/screenshot.png',
     author: 'Taylor Jones',
     githubLink: 'https://github.com/taylorjonestrt'
+  },
+  {
+    artName: 'Dutch flag',
+    pageLink: './Art/ijmdev/index.html',
+    imageLink: './Art/ijmdev/dutchflag.png',
+    author: 'Ijmdev',
+    githubLink: 'https://github.com/ijmdev'
   }
 ];
 
