@@ -1,6 +1,13 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'MoveAcross Grid',
+    pageLink: './Art/Himanshu/index.html',
+    imageLink: './Art/Himanshu/moveacross.png',
+    author: 'Himanshu R Agarwal',
+    githubLink: 'https://github.com/himanshuagarwal12'
+  },
+  {
     artName: 'Infinite Lines',
     pageLink: './Art/Kadugs/index.html',
     imageLink: './Art/Kadugs/infinite-lines.png',
@@ -1074,11 +1081,70 @@ let cards = [
     githubLink: 'https://github.com/taylorjonestrt'
   },
   {
+<<<<<<< HEAD
     artName: 'Ambient Background',
     pageLink: './Art/ambientBackground/index.html',
     imageLink: './Art/ambientBackground/ambientBubble.png',
     author: 'Ray-ez',
     githubLink: 'https://github.com/RAY-EZ'
+=======
+  },
+  {
+    artName: 'Analog Clock',
+    pageLink: './Art/faiz_hameed/index.html',
+    imageLink: './Art/faiz_hameed/clock.png',
+    author: 'Faiz Hameed',
+    githubLink: 'https://github.com/faizhameed'
+  },
+  {
+    artName: 'Bonfire Night',
+    pageLink: './Art/nicm/index.html',
+    imageLink: './Art/nicm/screenshot.png',
+    author: 'Nic Mayer',
+    githubLink: 'https://github.com/nicm42'
+  },
+  {
+    artName: 'Tirolian Flag',
+    pageLink: './Art/Conuko/index.html',
+    imageLink: './Art/Conuko/Screenshot.png',
+    author: 'Conuko',
+    githubLink: 'https://github.com/conuko'
+  },
+  {
+    artName: 'Spiral Canvas',
+    pageLink: './Art/JhonattanBenitez/index.html',
+    imageLink: './Art/JhonattanBenitez/thumbnail.JPG',
+    author: 'Jhonattan benitez',
+    githubLink: 'https://github.com/jhonattanbenitez'
+  },
+  {
+    artName: 'Canvas Drawing',
+    pageLink: './Art/Chintan/index.html',
+    imageLink: './Art/Chintan/canvas.jpg',
+    author: 'Chintan',
+    githubLink: 'https://github.com/chintans357'
+  },
+  {
+    artName: 'Web Head',
+    pageLink: './Art/DCox2016/dcox2016.html',
+    imageLink: './Art/DCox2016/background.jpg',
+    author: 'DCox2016',
+    githubLink: 'https://github.com/DCox2016'
+  },
+  {
+    artName: 'Load Circle',
+    pageLink: './Art/tranjenny/load.html',
+    imageLink: './Art/tranjenny/load.gif',
+    author: 'tranjenny',
+    githubLink: 'https://github.com/tranjenny'
+  },
+  {
+    artName: 'Circular Motion',
+    pageLink: './Art/Russell_Jeffrey/index.html',
+    imageLink: './Art/Russell_Jeffrey/My_Canvas.gif',
+    author: 'Russell Jeffrey',
+    githubLink: 'https://github.com/Russell-Jeffrey'
+>>>>>>> 7bb93b73a966b7fa55fb88182eb99107d95e6300
   }
 ];
 
