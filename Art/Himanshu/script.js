@@ -17,7 +17,7 @@ function drawplr() {
   ctx.drawImage(image, plr.x, plr.y, plr.w, plr.h);
 }
 
-function clear() { 
+function clear() {
   ctx.clearRect(0, 0, canvas.width, canvas.height);
 }
 

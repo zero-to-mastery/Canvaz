@@ -1,0 +1,13 @@
+body {
+  background: #f8f8f8;
+}
+.container {
+  width: 100%;
+}
+
+canvas {
+  padding: 0;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+  display: block;
+}

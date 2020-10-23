@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color:#004daa;
+  background-color: #004daa;
   color: rgb(250, 150, 150);
   display: flex;
   flex-direction: column;
@@ -13,8 +13,8 @@ body {
   min-height: 120vh;
   margin: 0;
 }
-h1{
-    color:black;
+h1 {
+  color: black;
 }
 #canvas {
   background: #c25c6d;
