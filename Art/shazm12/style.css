@@ -1,0 +1,10 @@
+body,
+html {
+  overflow: hidden;
+  margin: 0;
+}
+.canvas-element {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
