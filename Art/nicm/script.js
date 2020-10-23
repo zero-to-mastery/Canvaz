@@ -1,6 +1,6 @@
 //Stars and ground canvas
 const canvas1 = document.querySelector('#canvas1');
-const ctxBkg = canvas1.getContext("2d");
+const ctxBkg = canvas1.getContext('2d');
 
 ctxBkg.canvas.width = window.innerWidth;
 ctxBkg.canvas.height = window.innerHeight;
@@ -14,7 +14,7 @@ window.addEventListener('resize', () => {
 
 //Fireworks canvas
 const canvas2 = document.querySelector('#canvas2');
-const ctx = canvas2.getContext("2d");
+const ctx = canvas2.getContext('2d');
 
 ctx.canvas.width = window.innerWidth;
 ctx.canvas.height = window.innerHeight;
@@ -23,7 +23,7 @@ window.addEventListener('resize', () => {
   ctx.canvas.height = window.innerHeight;
 });
 
-let randomFireworks = getRandomIntInclusive(5,10);
+let randomFireworks = getRandomIntInclusive(5, 10);
 
 //Add all the elements
 stars();
@@ -34,11 +34,11 @@ function stars() {
   const canvasSize = ctxBkg.canvas.width * ctxBkg.canvas.height;
   const stars = canvasSize / 10000;
 
-  for(let i = 0; i < stars; i++) {
+  for (let i = 0; i < stars; i++) {
     //Set up random elements
     let xPos = random(2, ctxBkg.canvas.width - 2);
     let yPos = random(2, ctxBkg.canvas.height - 2);
-    let alpha = random(.5, 1);
+    let alpha = random(0.5, 1);
     let size = random(1, 2);
 
     //Add stars
@@ -62,7 +62,7 @@ function fireworks() {
       y: startY,
       xVel: random(-2, 2),
       yVel: random(0.1, 4)
-    }
+    };
     particles.push(p);
 
     for (let i = 0; i < particles.length; i++) {
@@ -82,7 +82,6 @@ function fireworks() {
       ctx.clearRect(0, 0, canvas2.width, canvas2.height);
       fireworks();
     }
-  
   }
 }
 
@@ -93,5 +92,5 @@ function random(min, max) {
 function getRandomIntInclusive(min, max) {
   min = Math.ceil(min);
   max = Math.floor(max);
-  return Math.floor(Math.random() * (max - min + 1) + min); //The maximum is inclusive and the minimum is inclusive 
+  return Math.floor(Math.random() * (max - min + 1) + min); //The maximum is inclusive and the minimum is inclusive
 }
