@@ -1,0 +1,18 @@
+body {
+  display: flex;
+  height: 100vh;
+  background-color: #111;
+}
+canvas {
+  margin: auto;
+}
+span {
+  color: rgb(87, 37, 37);
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  user-select: none;
+}
+h1 {
+  color: white;
+}
