@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="dcox2016.css" />
+  </head>
+
+  <body>
+    <header>
+      Watch Spiderman go! Draw a line to a building and click the Launch Spider
+      Man button.
+    </header>
+
+    <div class="frame" id="frame">
+      <canvas id="city" onclick="showCoords(event)"> </canvas>
+      <img id="spiderman" src="spidey.png" />
+    </div>
+    Slide toggle to turn on Dark Mode
+    <label class="switch">
+      <input type="checkbox" name="darkmode" />
+      <span class="slider round"></span>
+    </label>
+    <footer>
+      <button class="button" type="button" onclick="launchSpidey()">
+        Launch Spider Man!
+      </button>
+    </footer>
+  </body>
+  <script src="dcox2016.js"></script>
+</html>

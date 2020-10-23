@@ -1,0 +1,25 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+
+.canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+}
+
+/* Stars */
+#canvas1 {
+  z-index: 1;
+  background-color: black;
+}
+
+/* Fireworks */
+#canvas2 {
+  z-index: 2;
+}
