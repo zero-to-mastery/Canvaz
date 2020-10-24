@@ -1088,7 +1088,7 @@ let cards = [
     githubLink: 'https://github.com/taylorjonestrt'
   },
   {
-    artName:'Listen to your heart',
+    artName: 'Listen to your heart',
     pageLink: './Art/claire-wang/index.html',
     imageLink: './Art/claire-wang/screenshot.png',
     author: 'Claire Wang',
