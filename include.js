@@ -1149,7 +1149,7 @@ let cards = [
     imageLink: './Art/Russell_Jeffrey/My_Canvas.gif',
     author: 'Russell Jeffrey',
     githubLink: 'https://github.com/Russell-Jeffrey'
-  }
+  },
   {
     artName: 'Brazil Flag',
     pageLink: './Art/SantoroA/index.html',
