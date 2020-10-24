@@ -1177,6 +1177,13 @@ let cards = [
     imageLink: './Art/SantoroA/brazil-flag.jpg',
     author: 'Aline Santoro',
     githubLink: 'https://github.com/SantoroA'
+  },
+  {
+    artName: 'ztm-fancy-hacktober',
+    pageLink: './Art/Furuikeya/index.html',
+    imageLink: './Art/Furuikeya/ztm.png',
+    author: 'Furuikeya',
+    githubLink: 'https://github.com/Furuikeya'
   }
 ];
 
