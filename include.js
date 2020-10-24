@@ -1171,6 +1171,13 @@ let cards = [
     author: 'Aline Santoro',
     githubLink: 'https://github.com/SantoroA'
   }
+  {
+    artName: 'Purple Hue',
+    pageLink: './Art/ThomasM/index.html',
+    imageLink: './Art/ThomasM/purple.jpg',
+    author: 'Thomas',
+    githubLink: 'https://github.com/Thomasm18'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
