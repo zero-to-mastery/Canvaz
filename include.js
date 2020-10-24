@@ -1,6 +1,13 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'Greetings',
+    pageLink: './Art/meghaldonde/index.html',
+    imageLink: './Art/meghaldonde/greetings.png',
+    author: 'Meghal Donde',
+    githubLink: 'https://github.com/meghaldonde'
+  },
+  {
     artName: 'MoveAcross Grid',
     pageLink: './Art/Himanshu/index.html',
     imageLink: './Art/Himanshu/moveacross.png',
