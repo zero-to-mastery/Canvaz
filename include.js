@@ -1088,6 +1088,20 @@ let cards = [
     githubLink: 'https://github.com/taylorjonestrt'
   },
   {
+    artName: 'Dutch flag',
+    pageLink: './Art/ijmdev/index.html',
+    imageLink: './Art/ijmdev/dutchflag.png',
+    author: 'Ijmdev',
+    githubLink: 'https://github.com/ijmdev'
+  },
+  {
+    artName: 'Listen to your heart',
+    pageLink: './Art/claire-wang/index.html',
+    imageLink: './Art/claire-wang/screenshot.png',
+    author: 'Claire Wang',
+    githubLink: 'http://github.com/jw20191n'
+  },
+  {
     artName: 'Analog Clock',
     pageLink: './Art/faiz_hameed/index.html',
     imageLink: './Art/faiz_hameed/clock.png',
@@ -1149,6 +1163,13 @@ let cards = [
     imageLink: './Art/mtsafe/Git-The-Matrix.gif',
     author: 'Albir Tarsha',
     githubLink: 'https://github.com/mtsafe'
+  },
+  {
+    artName: 'Brazil Flag',
+    pageLink: './Art/SantoroA/index.html',
+    imageLink: './Art/SantoroA/brazil-flag.jpg',
+    author: 'Aline Santoro',
+    githubLink: 'https://github.com/SantoroA'
   }
 ];
 
