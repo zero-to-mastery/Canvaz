@@ -1,6 +1,27 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'Greetings',
+    pageLink: './Art/meghaldonde/index.html',
+    imageLink: './Art/meghaldonde/greetings.png',
+    author: 'Meghal Donde',
+    githubLink: 'https://github.com/meghaldonde'
+  },
+  {
+    artName: 'MoveAcross Grid',
+    pageLink: './Art/Himanshu/index.html',
+    imageLink: './Art/Himanshu/moveacross.png',
+    author: 'Himanshu R Agarwal',
+    githubLink: 'https://github.com/himanshuagarwal12'
+  },
+  {
+    artName: 'Infinite Lines',
+    pageLink: './Art/Kadugs/index.html',
+    imageLink: './Art/Kadugs/infinite-lines.png',
+    author: 'Kadugs',
+    githubLink: 'https://github.com/Kadugs'
+  },
+  {
     artName: 'Canadian Flag',
     pageLink: './Art/Ozziel/index.html',
     imageLink: './Art/Ozziel/canadaflag.png',
@@ -990,6 +1011,13 @@ let cards = [
     githubLink: 'https://github.com/gsakshay'
   },
   {
+    artName: 'Barchart',
+    pageLink: './Art/kerlon5/index.html',
+    imageLink: './Art/kerlon5/barchart.png',
+    author: 'kerlon5',
+    githubLink: 'https://github.com/kerlon5'
+  },
+  {
     artName: 'Smoke',
     pageLink: './Art/Nagahshi/index.html',
     imageLink: './Art/Nagahshi/smoke.gif',
@@ -1025,6 +1053,27 @@ let cards = [
     githubLink: 'https://github.com/initialsky0'
   },
   {
+    artName: 'Tanjiro Haroi Pattern',
+    pageLink: './Art/chrysillala/index.html',
+    imageLink: './Art/chrysillala/tanjiro-pattern.png',
+    author: 'chrysillala',
+    githubLink: 'https://github.com/chrysillala'
+  },
+  {
+    artName: 'LA Lakers',
+    pageLink: './Art/Andres/canvas.html',
+    imageLink: './Art/Andres/image.png',
+    author: 'Andres',
+    githubLink: 'https://github.com/andresrmts'
+  },
+  {
+    artName: 'hacktoberfest 2020 logo',
+    pageLink: './Art/shzam12/index.html',
+    imageLink: './Art/joy/ztm.png',
+    author: 'shazm12',
+    githubLink: 'https://github.com/shazm12'
+  },
+  {
     artName: 'Fantasy Plane',
     pageLink: './Art/prime417/index.html',
     imageLink: './Art/prime417/screenshot.png',
@@ -1037,14 +1086,105 @@ let cards = [
     imageLink: './Art/TaylorJonesTRT/screenshot.png',
     author: 'Taylor Jones',
     githubLink: 'https://github.com/taylorjonestrt'
-  }
+  },
+  {
+    artName: 'Ambient Background',
+    pageLink: './Art/ambientBackground/index.html',
+    imageLink: './Art/ambientBackground/ambientBubble.png',
+    author: 'Ray-ez',
+    githubLink: 'https://github.com/RAY-EZ'
+  },
+  {
+    artName: 'Dutch flag',
+    pageLink: './Art/ijmdev/index.html',
+    imageLink: './Art/ijmdev/dutchflag.png',
+    author: 'Ijmdev',
+    githubLink: 'https://github.com/ijmdev'
+  },
+  {
+    artName: 'Listen to your heart',
+    pageLink: './Art/claire-wang/index.html',
+    imageLink: './Art/claire-wang/screenshot.png',
+    author: 'Claire Wang',
+    githubLink: 'http://github.com/jw20191n'
+  },
+  {
+    artName: 'Analog Clock',
+    pageLink: './Art/faiz_hameed/index.html',
+    imageLink: './Art/faiz_hameed/clock.png',
+    author: 'Faiz Hameed',
+    githubLink: 'https://github.com/faizhameed'
+  },
+  {
+    artName: 'Bonfire Night',
+    pageLink: './Art/nicm/index.html',
+    imageLink: './Art/nicm/screenshot.png',
+    author: 'Nic Mayer',
+    githubLink: 'https://github.com/nicm42'
+  },
+  {
+    artName: 'Tirolian Flag',
+    pageLink: './Art/Conuko/index.html',
+    imageLink: './Art/Conuko/Screenshot.png',
+    author: 'Conuko',
+    githubLink: 'https://github.com/conuko'
+  },
+  {
+    artName: 'Spiral Canvas',
+    pageLink: './Art/JhonattanBenitez/index.html',
+    imageLink: './Art/JhonattanBenitez/thumbnail.JPG',
+    author: 'Jhonattan benitez',
+    githubLink: 'https://github.com/jhonattanbenitez'
+  },
+  {
+    artName: 'Canvas Drawing',
+    pageLink: './Art/Chintan/index.html',
+    imageLink: './Art/Chintan/canvas.jpg',
+    author: 'Chintan',
+    githubLink: 'https://github.com/chintans357'
+  },
+  {
+    artName: 'Web Head',
+    pageLink: './Art/DCox2016/dcox2016.html',
+    imageLink: './Art/DCox2016/background.jpg',
+    author: 'DCox2016',
+    githubLink: 'https://github.com/DCox2016'
+  },
+  {
+    artName: 'Load Circle',
+    pageLink: './Art/tranjenny/load.html',
+    imageLink: './Art/tranjenny/load.gif',
+    author: 'tranjenny',
+    githubLink: 'https://github.com/tranjenny'
+  },
   {
     artName: 'Circular Motion',
     pageLink: './Art/Russell_Jeffrey/index.html',
     imageLink: './Art/Russell_Jeffrey/My_Canvas.gif',
     author: 'Russell Jeffrey',
     githubLink: 'https://github.com/Russell-Jeffrey'
-  }
+  },
+  {
+    artName: 'Git The Matrix',
+    pageLink: './Art/mtsafe/index.html',
+    imageLink: './Art/mtsafe/Git-The-Matrix.gif',
+    author: 'Albir Tarsha',
+    githubLink: 'https://github.com/mtsafe'
+  },
+  {
+    artName: 'Brazil Flag',
+    pageLink: './Art/SantoroA/index.html',
+    imageLink: './Art/SantoroA/brazil-flag.jpg',
+    author: 'Aline Santoro',
+    githubLink: 'https://github.com/SantoroA'
+  },
+  {
+    artName: 'Circular Motion',
+    pageLink: './Art/Russell_Jeffrey/index.html',
+    imageLink: './Art/Russell_Jeffrey/My_Canvas.gif',
+    author: 'Russell Jeffrey',
+    githubLink: 'https://github.com/Russell-Jeffrey'
+  },
 ];
 
 // +--------------------------------------------------------------------------------+

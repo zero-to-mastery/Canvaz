@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'SF Pro Text';
+  font-style: normal;
+  font-weight: 100;
+  src: local('☺︎'),
+    url('/wss/fonts/SF-Pro-Text/v2/sf-pro-text_ultralight.woff2')
+      format('woff2'),
+    url('/wss/fonts/SF-Pro-Text/v2/sf-pro-text_ultralight.woff') format('woff'),
+    url('/wss/fonts/SF-Pro-Text/v2/sf-pro-text_ultralight.ttf')
+      format('truetype');
+}
+
+@font-face {
+  font-family: 'SF Pro Text';
+  font-style: italic;
+  font-weight: 100;
+  src: local('☺︎'),
+    url('/wss/fonts/SF-Pro-Text/v2/sf-pro-text_ultralight-italic.woff2')
+      format('woff2'),
+    url('/wss/fonts/SF-Pro-Text/v2/sf-pro-text_ultralight-italic.woff')
+      format('woff'),
+    url('/wss/fonts/SF-Pro-Text/v2/sf-pro-text_ultralight-italic.ttf')
+      format('truetype');
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  position: relative;
+}
+#main {
+  /* border:1px #333 solid; */
+  /* filter:blur(10px); */
+}
+.blur {
+  position: absolute;
+  top: 0;
+  left: 0;
+  /* background-color:red;; */
+  filter: blur(10px);
+  z-index: 1000;
+  height: 100vh;
+  width: 100vw;
+}
+h2 {
+  position: relative;
+}
