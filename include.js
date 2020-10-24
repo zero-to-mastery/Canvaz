@@ -1170,7 +1170,7 @@ let cards = [
     imageLink: './Art/SantoroA/brazil-flag.jpg',
     author: 'Aline Santoro',
     githubLink: 'https://github.com/SantoroA'
-  }
+  },
   {
     artName: 'Purple Hue',
     pageLink: './Art/ThomasM/index.html',
