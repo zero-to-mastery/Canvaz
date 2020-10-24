@@ -1,6 +1,13 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'Greetings',
+    pageLink: './Art/meghaldonde/index.html',
+    imageLink: './Art/meghaldonde/greetings.png',
+    author: 'Meghal Donde',
+    githubLink: 'https://github.com/meghaldonde'
+  },
+  {
     artName: 'MoveAcross Grid',
     pageLink: './Art/Himanshu/index.html',
     imageLink: './Art/Himanshu/moveacross.png',
@@ -1081,13 +1088,25 @@ let cards = [
     githubLink: 'https://github.com/taylorjonestrt'
   },
   {
-<<<<<<< HEAD
     artName: 'Ambient Background',
     pageLink: './Art/ambientBackground/index.html',
     imageLink: './Art/ambientBackground/ambientBubble.png',
     author: 'Ray-ez',
     githubLink: 'https://github.com/RAY-EZ'
-=======
+  },
+  {
+    artName: 'Dutch flag',
+    pageLink: './Art/ijmdev/index.html',
+    imageLink: './Art/ijmdev/dutchflag.png',
+    author: 'Ijmdev',
+    githubLink: 'https://github.com/ijmdev'
+  },
+  {
+    artName: 'Listen to your heart',
+    pageLink: './Art/claire-wang/index.html',
+    imageLink: './Art/claire-wang/screenshot.png',
+    author: 'Claire Wang',
+    githubLink: 'http://github.com/jw20191n'
   },
   {
     artName: 'Analog Clock',
@@ -1144,7 +1163,20 @@ let cards = [
     imageLink: './Art/Russell_Jeffrey/My_Canvas.gif',
     author: 'Russell Jeffrey',
     githubLink: 'https://github.com/Russell-Jeffrey'
->>>>>>> 7bb93b73a966b7fa55fb88182eb99107d95e6300
+  },
+  {
+    artName: 'Git The Matrix',
+    pageLink: './Art/mtsafe/index.html',
+    imageLink: './Art/mtsafe/Git-The-Matrix.gif',
+    author: 'Albir Tarsha',
+    githubLink: 'https://github.com/mtsafe'
+  },
+  {
+    artName: 'Brazil Flag',
+    pageLink: './Art/SantoroA/index.html',
+    imageLink: './Art/SantoroA/brazil-flag.jpg',
+    author: 'Aline Santoro',
+    githubLink: 'https://github.com/SantoroA'
   }
 ];
 
