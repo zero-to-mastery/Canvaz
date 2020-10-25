@@ -1191,6 +1191,13 @@ let cards = [
     imageLink: './Art/Furuikeya/ztm.png',
     author: 'Furuikeya',
     githubLink: 'https://github.com/Furuikeya'
+  },
+  {
+    artName: 'hacktober-confetti',
+    pageLink: './Art/anjakhan/index.html',
+    imageLink: './Art/anjakhan/canvas.JPG',
+    author: 'Anja Khan',
+    githubLink: 'https://github.com/anjakhan'
   }
 ];
 
