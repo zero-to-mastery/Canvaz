@@ -1191,7 +1191,14 @@ let cards = [
     imageLink: './Art/Furuikeya/ztm.png',
     author: 'Furuikeya',
     githubLink: 'https://github.com/Furuikeya'
-  }
+  },
+  {
+    artName: 'KEXP logo',
+    pageLink: './Art/Pi/index.html',
+    imageLink: './Art/Pi/kexp-logo.png',
+    author: 'Pilar Mera',
+    githubLink: 'https://github.com/decrecementofeliz'
+  }    
 ];
 
 // +--------------------------------------------------------------------------------+
