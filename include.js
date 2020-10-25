@@ -1088,6 +1088,13 @@ let cards = [
     githubLink: 'https://github.com/taylorjonestrt'
   },
   {
+    artName: 'Ambient Background',
+    pageLink: './Art/ambientBackground/index.html',
+    imageLink: './Art/ambientBackground/ambientBubble.png',
+    author: 'Ray-ez',
+    githubLink: 'https://github.com/RAY-EZ'
+  },
+  {
     artName: 'Dutch flag',
     pageLink: './Art/ijmdev/index.html',
     imageLink: './Art/ijmdev/dutchflag.png',
@@ -1177,6 +1184,13 @@ let cards = [
     imageLink: './Art/ThomasM/purple.jpg',
     author: 'Thomas',
     githubLink: 'https://github.com/Thomasm18'
+  },
+  {
+    artName: 'ztm-fancy-hacktober',
+    pageLink: './Art/Furuikeya/index.html',
+    imageLink: './Art/Furuikeya/ztm.png',
+    author: 'Furuikeya',
+    githubLink: 'https://github.com/Furuikeya'
   }
 ];
 
