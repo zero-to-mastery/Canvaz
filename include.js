@@ -1,6 +1,13 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'Swedish Flag',
+    pageLink: './Art/ka-hn/swe-flag.html',
+    imageLink: './Art/ka-hn/swe-flag.png',
+    author: 'Karim Hussain',
+    githubLink: 'https://github.com/ka-hn'
+  },
+  {
     artName: 'Greetings',
     pageLink: './Art/meghaldonde/index.html',
     imageLink: './Art/meghaldonde/greetings.png',
