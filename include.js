@@ -1205,7 +1205,7 @@ let cards = [
     imageLink: './Art/krishnakanthati/xmark.png',
     author: 'Krishna Kant Hati',
     githubLink: 'https://github.com/krishnakanthati'
-  },
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
