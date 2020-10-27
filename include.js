@@ -1179,14 +1179,13 @@ let cards = [
     githubLink: 'https://github.com/SantoroA'
   },
   {
-<<<<<<< HEAD
     artName: 'Circular Motion',
     pageLink: './Art/Russell_Jeffrey/index.html',
     imageLink: './Art/Russell_Jeffrey/My_Canvas.gif',
     author: 'Russell Jeffrey',
     githubLink: 'https://github.com/Russell-Jeffrey'
   },
-=======
+  {
     artName: 'Purple Hue',
     pageLink: './Art/ThomasM/index.html',
     imageLink: './Art/ThomasM/purple.jpg',
@@ -1200,7 +1199,6 @@ let cards = [
     author: 'Furuikeya',
     githubLink: 'https://github.com/Furuikeya'
   }
->>>>>>> bacd3b7896a3b525f0fb2baa46578e60d96e671b
 ];
 
 // +--------------------------------------------------------------------------------+
