@@ -1219,6 +1219,13 @@ let cards = [
     imageLink: './Art/Pi/kexp-logo.png',
     author: 'Pilar Mera',
     githubLink: 'https://github.com/decrecementofeliz'
+  },
+  {
+    artName: 'stylish draw',
+    pageLink: './Art/ivioje/index.html',
+    imageLink: './Art/ivioje/stylish-draw.png',
+    author: 'Eboreime Rhoda Ivioje',
+    githubLink: 'https://github.com/ivioje'
   }
 ];
 
