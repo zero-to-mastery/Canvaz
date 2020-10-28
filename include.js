@@ -1179,6 +1179,13 @@ let cards = [
     githubLink: 'https://github.com/SantoroA'
   },
   {
+    artName: 'Circular Motion',
+    pageLink: './Art/Russell_Jeffrey/index.html',
+    imageLink: './Art/Russell_Jeffrey/My_Canvas.gif',
+    author: 'Russell Jeffrey',
+    githubLink: 'https://github.com/Russell-Jeffrey'
+  },
+  {
     artName: 'Purple Hue',
     pageLink: './Art/ThomasM/index.html',
     imageLink: './Art/ThomasM/purple.jpg',
@@ -1198,6 +1205,20 @@ let cards = [
     imageLink: './Art/anjakhan/canvas.JPG',
     author: 'Anja Khan',
     githubLink: 'https://github.com/anjakhan'
+  },
+  {
+    artName: 'X Mark',
+    pageLink: './Art/krishnakanthati/index.html',
+    imageLink: './Art/krishnakanthati/xmark.png',
+    author: 'Krishna Kant Hati',
+    githubLink: 'https://github.com/krishnakanthati'
+  },
+  {
+    artName: 'KEXP logo',
+    pageLink: './Art/Pi/index.html',
+    imageLink: './Art/Pi/kexp-logo.png',
+    author: 'Pilar Mera',
+    githubLink: 'https://github.com/decrecementofeliz'
   }
 ];
 
