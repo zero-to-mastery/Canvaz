@@ -1,10 +1,8 @@
 window.addEventListener('load', () => {
   //get the id of the canvas element
   const canvas = document.getElementById('canvas');
-  const canv = document.getElementById('canv');
 
   const c = canvas.getContext('2d');
- 
 
   //resizing
   //get the height from the window to make the canvas the same size with the screen
@@ -39,4 +37,3 @@ window.addEventListener('load', () => {
   canvas.addEventListener('mouseup', done);
   canvas.addEventListener('mousemove', draw);
 });
-
