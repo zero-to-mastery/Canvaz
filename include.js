@@ -1219,7 +1219,7 @@ let cards = [
     imageLink: './Art/Pi/kexp-logo.png',
     author: 'Pilar Mera',
     githubLink: 'https://github.com/decrecementofeliz'
-  }
+  },
   {
     artName: 'floating rectangle',
     pageLink: './Art/edcorona/arted.html',
