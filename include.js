@@ -1227,7 +1227,6 @@ let cards = [
     author: 'edcorona',
     githubLink: 'https://github.com/edcorona'
   }
-
 ];
 
 // +--------------------------------------------------------------------------------+
