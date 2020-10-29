@@ -1219,7 +1219,14 @@ let cards = [
     imageLink: './Art/Pi/kexp-logo.png',
     author: 'Pilar Mera',
     githubLink: 'https://github.com/decrecementofeliz'
-  }
+  },
+  {
+    artName: 'Random Position',
+    pageLink: './Art/krishnakanthati/index.html',
+    imageLink: './Art/krishnakanthati/position.png',
+    author: 'Krishna Kant Hati',
+    githubLink: 'https://github.com/krishnakanthati'
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
