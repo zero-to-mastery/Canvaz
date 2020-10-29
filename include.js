@@ -1219,7 +1219,14 @@ let cards = [
     imageLink: './Art/Pi/kexp-logo.png',
     author: 'Pilar Mera',
     githubLink: 'https://github.com/decrecementofeliz'
-  }
+  },
+  {
+    artName: 'Pyramid seen from above',
+    pageLink: './Art/barbara-aliverti/index.html',
+    imageLink: './Art/barbara-aliverti/barbara-preview.png',
+    author: 'Baloo',
+    githubLink: 'https://github.com/barbaraaliverti'
+  }  
 ];
 
 // +--------------------------------------------------------------------------------+
