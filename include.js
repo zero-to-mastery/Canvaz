@@ -1220,6 +1220,14 @@ let cards = [
     author: 'Pilar Mera',
     githubLink: 'https://github.com/decrecementofeliz'
   }
+  {
+    artName: 'floating rectangle',
+    pageLink: './Art/edcorona/arted.html',
+    imageLink: './Art/edcorona/rectpic.png',
+    author: 'edcorona',
+    githubLink: 'https://github.com/edcorona'
+  }
+
 ];
 
 // +--------------------------------------------------------------------------------+

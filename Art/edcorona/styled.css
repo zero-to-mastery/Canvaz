@@ -1,0 +1,15 @@
+body{
+	margin: 0;
+}
+h1{
+	
+	color: black;
+	text-align: center;
+	font-family: "Lucida Console", Courier, monospace;
+	padding: 10px;
+}
+h5{
+	color:black;
+	text-align: right;
+	font-family: "Lucida Console", Courier, monospace;
+}
