@@ -21,10 +21,34 @@ ctx.lineTo(70, 70);
 ctx.lineTo(70, 90);
 ctx.fill();
 
+//left claw
+
+ctx.beginPath();
+ctx.moveTo(20,28);
+ctx.lineTo(18,35);
+ctx.lineTo(35,40);
+ctx.fill();
+
+ctx.beginPath();
+ctx.moveTo(27,17);
+ctx.lineTo(25,25);
+ctx.lineTo(33,35);
+ctx.lineTo(33,25);
+ctx.fill();
+
+ctx.beginPath();
+ctx.moveTo(40,25);
+ctx.lineTo(38,28);
+ctx.lineTo(38,35);
+ctx.lineTo(42,30);
+ctx.fill();
+
+//right claw
+
 //mouth
 ctx.moveTo(55, 80)
 ctx.bezierCurveTo(68, 60, 90, 60, 105, 80)
-ctx.stroke();
+ctx.fill();
 
 //right tooth
 ctx.beginPath();
