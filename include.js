@@ -1219,6 +1219,13 @@ let cards = [
     imageLink: './Art/Pi/kexp-logo.png',
     author: 'Pilar Mera',
     githubLink: 'https://github.com/decrecementofeliz'
+  },
+  {
+    artName: 'Clone Image App',
+    pageLink: './Art/Abhishek/index.html',
+    imageLink: './Art/Abhishek/cloneimageapp.PNG',
+    author: 'Abhishek',
+    githubLink: 'https://github.com/devlearning9874'
   }
 ];
 
