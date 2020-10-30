@@ -37,13 +37,33 @@ ctx.lineTo(33,25);
 ctx.fill();
 
 ctx.beginPath();
-ctx.moveTo(40,25);
+ctx.moveTo(45,25); //right corner
 ctx.lineTo(38,28);
 ctx.lineTo(38,35);
 ctx.lineTo(42,30);
 ctx.fill();
 
-//right claw
+//right claw (y axis at 75); 
+
+ctx.beginPath();
+ctx.moveTo(105,25); //left corner
+ctx.lineTo(112,28); //draw to the right
+ctx.lineTo(112,35);
+ctx.lineTo(108,30);
+ctx.fill();
+
+ctx.beginPath();
+ctx.moveTo(123,17);
+ctx.lineTo(125,25);
+ctx.lineTo(117,35);
+ctx.lineTo(117,25);
+ctx.fill();
+
+ctx.beginPath();
+ctx.moveTo(130,28);
+ctx.lineTo(132,35);
+ctx.lineTo(115,40);
+ctx.fill();
 
 //mouth
 ctx.moveTo(55, 80)
