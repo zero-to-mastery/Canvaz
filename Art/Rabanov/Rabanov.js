@@ -3,23 +3,31 @@ var c = document.getElementById("canvas");
 var ctx = c.getContext("2d");
 
 ctx.beginPath();
-ctx.moveTo(50, 50);
-ctx.lineTo(70, 50);
-ctx.lineTo(60, 80);
+ctx.moveTo(60, 70);
+ctx.lineTo(70, 70);
+ctx.lineTo(70, 90);
 ctx.fill();
 
+ctx.moveTo(55, 80)
+ctx.bezierCurveTo(68, 60, 90, 60, 105, 80)
+ctx.stroke();
+
 ctx.beginPath();
-ctx.moveTo(90, 50);
-ctx.lineTo(110, 50);
-ctx.lineTo(100, 80);
+ctx.moveTo(90, 70);
+ctx.lineTo(100, 70);
+ctx.lineTo(90, 90);
 ctx.fill();
 
 ctx.moveTo(30,120)
-ctx.quadraticCurveTo(20, 15, 85, 25)
+ctx.quadraticCurveTo(75, -100, 135,120)
 ctx.stroke();
 
-ctx.moveTo(85,25)
-ctx.quadraticCurveTo(40, 75, 135, 120)
+ctx.beginPath();
+ctx.moveTo(30, 120);
+ctx.lineTo(56.25, 100 );
+ctx.lineTo(82.5, 120);
+ctx.lineTo(108.75, 100);
+ctx.lineTo(135, 120);
 ctx.stroke();
 
 }
