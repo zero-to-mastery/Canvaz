@@ -14,11 +14,37 @@ ctx.moveTo(100,35);
 ctx.quadraticCurveTo(105,55,90,50);
 ctx.fill();
 
-//left tooth
+//top left tooth
 ctx.beginPath();
-ctx.moveTo(60, 70);
+ctx.moveTo(60, 73);
 ctx.lineTo(70, 70);
 ctx.lineTo(70, 90);
+ctx.fill();
+
+//bottom left tooth
+ctx.beginPath();
+ctx.moveTo(60, 80);
+ctx.lineTo(63, 60);
+ctx.lineTo(70, 80);
+ctx.fill();
+
+//mouth
+ctx.moveTo(55, 80)
+ctx.bezierCurveTo(68, 60, 90, 60, 105, 80)
+ctx.fill();
+
+//top right tooth
+ctx.beginPath();
+ctx.moveTo(90, 70);
+ctx.lineTo(100, 73);
+ctx.lineTo(90, 90);
+ctx.fill();
+
+//bottom right tooth
+ctx.beginPath();
+ctx.moveTo(90, 80);
+ctx.lineTo(97, 60);
+ctx.lineTo(100, 80);
 ctx.fill();
 
 //left claw
@@ -63,18 +89,6 @@ ctx.beginPath();
 ctx.moveTo(130,28);
 ctx.lineTo(132,35);
 ctx.lineTo(115,40);
-ctx.fill();
-
-//mouth
-ctx.moveTo(55, 80)
-ctx.bezierCurveTo(68, 60, 90, 60, 105, 80)
-ctx.fill();
-
-//right tooth
-ctx.beginPath();
-ctx.moveTo(90, 70);
-ctx.lineTo(100, 70);
-ctx.lineTo(90, 90);
 ctx.fill();
 
 //ghost body top
