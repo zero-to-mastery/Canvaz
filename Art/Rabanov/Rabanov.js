@@ -69,26 +69,26 @@ ctx.lineTo(38,35);
 ctx.lineTo(42,30);
 ctx.fill();
 
-//right claw (y axis at 75); 
+//right claw (y axis at 80 not 75; add 5 to x values); 
 
 ctx.beginPath();
-ctx.moveTo(105,25); //left corner
-ctx.lineTo(112,28); //draw to the right
-ctx.lineTo(112,35);
-ctx.lineTo(108,30);
-ctx.fill();
-
-ctx.beginPath();
-ctx.moveTo(123,17);
-ctx.lineTo(125,25);
+ctx.moveTo(110,25); //left corner
+ctx.lineTo(117,28); //draw to the right
 ctx.lineTo(117,35);
-ctx.lineTo(117,25);
+ctx.lineTo(113,30);
 ctx.fill();
 
 ctx.beginPath();
-ctx.moveTo(130,28);
-ctx.lineTo(132,35);
-ctx.lineTo(115,40);
+ctx.moveTo(128,17);
+ctx.lineTo(130,25);
+ctx.lineTo(122,35);
+ctx.lineTo(122,25);
+ctx.fill();
+
+ctx.beginPath();
+ctx.moveTo(135,28);
+ctx.lineTo(137,35);
+ctx.lineTo(120,40);
 ctx.fill();
 
 //ghost body top
