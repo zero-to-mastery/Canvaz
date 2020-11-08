@@ -1,0 +1,95 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body style="margin:20px; background-color: rgb(26, 26, 26);">
+    <canvas id="canvas"></canvas>
+    <script>
+        ctx = document.querySelector("canvas").getContext("2d");
+        ctx.canvas.height = 420;
+        ctx.canvas.width = 680;
+
+        function Square (posX, posY, radius, velX, velY, color) {
+            this.posX = posX;
+            this.posY = posY;
+            this.radius = radius;
+            this.velX = velX;
+            this.velY = velY;
+            this.color = color;
+
+            this.draw = function () {
+                ctx.beginPath();
+                ctx.fillStyle = this.color;                
+                ctx.arc(this.posX, this.posY, this.radius, 0, Math.PI * 2, false);
+                ctx.fill();
+                ctx.closePath();
+            }
+
+            this.update = function () {
+                if ((this.posX > 680-this.radius*2) || (this.posX < 0 )){
+                    this.velX = -this.velX;
+                }
+
+                if ((this.posY > 420-this.radius*2) || (this.posY < 0 )){
+                    this.velY = -this.velY;
+                }
+
+                // Mouse collision
+                if ((coordinate.x - this.posX > 25) &&
+                    (coordinate.x - this.posX < 50) &&
+                    (coordinate.y - this.posY > 25) &&
+                    (coordinate.y - this.posY < 50)) {
+                        this.radius +=4;
+                    
+                }
+                else {
+                    this.radius -=0.4;
+                    if (this.radius <= 1) {
+                        this.radius++;
+                    }
+                }
+                // Increment position
+                this.posX += this.velX;
+                this.posY += this.velY;
+                this.draw();
+            }
+        }
+
+        let squareArr = [], x, y, rad;
+        let mouse = () => {};
+
+
+        //EVENT LISTENER MOUSE
+        let coordinate = {};
+
+        window.addEventListener('mousemove', 
+            function (event) {
+                coordinate.x = event.x;
+                coordinate.y = event.y;
+            }
+        )
+        
+
+        for (let q = 0; q <= 1000; q++) {
+            x = Math.floor(Math.random() * 650);
+            y = Math.floor(Math.random() * 380);
+            rad = Math.floor(Math.random() * 6);
+            velX =  Math.floor(Math.random() * (2 - 0.5) + 0.5);
+            velY =  Math.floor(Math.random() * (2 - 0) + 0);
+            squareArr[q] = new Square(x, y, rad, velX, velY, 'orange');
+        }
+
+        
+        setInterval(() => {
+            ctx.clearRect(0, 0, innerWidth, innerHeight)
+            for (let q = 0; q <= squareArr.length-1; q++) {
+                squareArr[q].update();
+            }
+        }, 1000/30);
+        //window.requestAnimationFrame(loop);
+    </script>
+</body>
+</html>
