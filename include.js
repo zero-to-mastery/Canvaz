@@ -1263,6 +1263,13 @@ let cards = [
     githubLink: 'https://github.com/decrecementofeliz'
   },
   {
+    artName: 'Tree Art',
+    pageLink: './Art/EyeOfAthena/index.html',
+    imageLink: './Art/EyeOfAthena/cover.png',
+    author: 'EyeOfAthena',
+    githubLink: 'https://github.com/EyeOfAthena'
+  },
+  {
     artName: 'stylish draw',
     pageLink: './Art/ivioje/index.html',
     imageLink: './Art/ivioje/stylish-draw.png',
