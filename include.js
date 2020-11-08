@@ -1,6 +1,13 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'OSFP',
+    pageLink: './Art/dimitrisz123/art.html',
+    imageLink: './Art/dimitrisz123/osfp.png',
+    author: 'Dimitrios Zervas',
+    githubLink: 'https://github.com/dimitrisz123'
+  },
+  {
     artName: 'Greetings',
     pageLink: './Art/meghaldonde/index.html',
     imageLink: './Art/meghaldonde/greetings.png',
