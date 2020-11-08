@@ -1186,6 +1186,13 @@ let cards = [
     githubLink: 'https://github.com/Russell-Jeffrey'
   },
   {
+    artName: 'Indian Flag',
+    pageLink: './Art/dilmohan/index.html',
+    imageLink: './Art/dilmohan/flag.png',
+    author: 'Dilmohan Nidharak',
+    githubLink: 'https://github.com/dilmohan11'
+  },
+  {
     artName: 'Git The Matrix',
     pageLink: './Art/mtsafe/index.html',
     imageLink: './Art/mtsafe/Git-The-Matrix.gif',
@@ -1246,7 +1253,6 @@ let cards = [
     pageLink: './Art/Pi/index.html',
     imageLink: './Art/Pi/kexp-logo.png',
     author: 'Pilar Mera',
-    githubLink: 'https://github.com/decrecementofeliz'
   }
 ];
 
