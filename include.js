@@ -8,6 +8,13 @@ let cards = [
     githubLink: 'https://github.com/ka-hn'
   },
   {
+    artName: 'OSFP',
+    pageLink: './Art/dimitrisz123/art.html',
+    imageLink: './Art/dimitrisz123/osfp.png',
+    author: 'Dimitrios Zervas',
+    githubLink: 'https://github.com/dimitrisz123'
+  },
+  {
     artName: 'Greetings',
     pageLink: './Art/meghaldonde/index.html',
     imageLink: './Art/meghaldonde/greetings.png',
@@ -1095,6 +1102,13 @@ let cards = [
     githubLink: 'https://github.com/taylorjonestrt'
   },
   {
+    artName: 'Desert Vibes',
+    pageLink: './Art/Norah/index.html',
+    imageLink: './Art/Norah/DesertVibes.png',
+    author: 'Norah',
+    githubLink: 'https://github.com/NorahJC'
+  },
+  {
     artName: 'Ambient Background',
     pageLink: './Art/ambientBackground/index.html',
     imageLink: './Art/ambientBackground/ambientBubble.png',
@@ -1186,6 +1200,13 @@ let cards = [
     githubLink: 'https://github.com/SantoroA'
   },
   {
+    artName: 'Circular Motion',
+    pageLink: './Art/Russell_Jeffrey/index.html',
+    imageLink: './Art/Russell_Jeffrey/My_Canvas.gif',
+    author: 'Russell Jeffrey',
+    githubLink: 'https://github.com/Russell-Jeffrey'
+  },
+  {
     artName: 'Purple Hue',
     pageLink: './Art/ThomasM/index.html',
     imageLink: './Art/ThomasM/purple.jpg',
@@ -1198,6 +1219,34 @@ let cards = [
     imageLink: './Art/Furuikeya/ztm.png',
     author: 'Furuikeya',
     githubLink: 'https://github.com/Furuikeya'
+  },
+  {
+    artName: 'partyCles',
+    pageLink: './Art/casiimir/index.html',
+    imageLink: './Art/casiimir/partyCles.gif',
+    author: 'casiimir',
+    githubLink: 'https://github.com/casiimir'
+  },
+  {
+    artName: 'hacktober-confetti',
+    pageLink: './Art/anjakhan/index.html',
+    imageLink: './Art/anjakhan/canvas.JPG',
+    author: 'Anja Khan',
+    githubLink: 'https://github.com/anjakhan'
+  },
+  {
+    artName: 'X Mark',
+    pageLink: './Art/krishnakanthati/index.html',
+    imageLink: './Art/krishnakanthati/xmark.png',
+    author: 'Krishna Kant Hati',
+    githubLink: 'https://github.com/krishnakanthati'
+  },
+  {
+    artName: 'KEXP logo',
+    pageLink: './Art/Pi/index.html',
+    imageLink: './Art/Pi/kexp-logo.png',
+    author: 'Pilar Mera',
+    githubLink: 'https://github.com/decrecementofeliz'
   }
 ];
 
