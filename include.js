@@ -155,6 +155,13 @@ let cards = [
     githubLink: 'https://github.com/ctq3103'
   },
   {
+    artName: 'flag',
+    pageLink: './Art/Maxx/flag.html',
+    imageLink: './Art/Maxx/flag.png',
+    author: 'Maxx',
+    githubLink: 'https://github.com/MaxManthey'
+  },
+  {
     artName: 'This is Arttttttt',
     pageLink: './Art/christine-aqui/caqui.html',
     imageLink: './Art/christine-aqui/caqui.png',
