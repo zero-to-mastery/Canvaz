@@ -1095,6 +1095,13 @@ let cards = [
     githubLink: 'https://github.com/taylorjonestrt'
   },
   {
+    artName: 'Desert Vibes',
+    pageLink: './Art/Norah/index.html',
+    imageLink: './Art/Norah/DesertVibes.png',
+    author: 'Norah',
+    githubLink: 'https://github.com/NorahJC'
+  },
+  {
     artName: 'Ambient Background',
     pageLink: './Art/ambientBackground/index.html',
     imageLink: './Art/ambientBackground/ambientBubble.png',
