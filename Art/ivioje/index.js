@@ -11,16 +11,16 @@ window.addEventListener('load', () => {
 
   let painting = false;
 
-  function start () {
+  function start() {
     painting = true;
   }
 
-  function done () {
+  function done() {
     painting = false;
     c.beginPath();
   }
 
-  function draw (e) {
+  function draw(e) {
     if (!painting) return;
 
     c.lineWidth = 20;
