@@ -1,16 +1,16 @@
-button{
-    color:red;
-    font-size: 2rem;
-    border-radius: 5px;
-    background-color: aliceblue;
+button {
+  color: red;
+  font-size: 2rem;
+  border-radius: 5px;
+  background-color: aliceblue;
 }
-button:hover{
-    color: azure;
-    background-color: red;
+button:hover {
+  color: azure;
+  background-color: red;
 }
-.container{
-    display: flex;
+.container {
+  display: flex;
 }
-body{
-    background-color: cadetblue;
+body {
+  background-color: cadetblue;
 }

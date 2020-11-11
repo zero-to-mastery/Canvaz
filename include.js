@@ -1,6 +1,6 @@
 let cards = [
   //  Add your card in this section
- 
+
   {
     artName: 'Swedish Flag',
     pageLink: './Art/ka-hn/swe-flag.html',
