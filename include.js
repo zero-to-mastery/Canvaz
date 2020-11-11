@@ -1263,6 +1263,13 @@ let cards = [
     githubLink: 'https://github.com/decrecementofeliz'
   },
   {
+    artName: 'Random Position',
+    pageLink: './Art/krishnakanthati/index.html',
+    imageLink: './Art/krishnakanthati/position.png',
+    author: 'Krishna Kant Hati',
+    githubLink: 'https://github.com/krishnakanthati'
+  },
+  {
     artName: 'floating rectangle',
     pageLink: './Art/edcorona/arted.html',
     imageLink: './Art/edcorona/rectpic.png',
