@@ -1263,6 +1263,13 @@ let cards = [
     githubLink: 'https://github.com/decrecementofeliz'
   },
   {
+    artName: 'Clone Image App',
+    pageLink: './Art/Abhishek/index.html',
+    imageLink: './Art/Abhishek/cloneimageapp.PNG',
+    author: 'Abhishek',
+    githubLink: 'https://github.com/devlearning9874'
+  },
+  {
     artName: 'Canvas Playground',
     pageLink: './Art/AlfredoValle/index.html',
     imageLink: './Art/AlfredoValle/canvasfun.png',
