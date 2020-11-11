@@ -1,5 +1,6 @@
 let cards = [
   //  Add your card in this section
+ 
   {
     artName: 'Swedish Flag',
     pageLink: './Art/ka-hn/swe-flag.html',
@@ -960,6 +961,13 @@ let cards = [
     imageLink: './Art/quangpro1610/rain-quangpro1610.png',
     author: 'quangpro1610',
     githubLink: 'https://github.com/quangpro1610'
+  },
+  {
+    artName: 'Trapped Spooker',
+    pageLink: './Art/Rabanov/rabanov.html',
+    imageLink: './Art/Rabanov/Rabanov.png',
+    author: 'Rabanov',
+    githubLink: 'https://github.com/Rabanov'
   },
   {
     artName: 'ScatterDots',
