@@ -1271,6 +1271,13 @@ let cards = [
     githubLink: 'https://github.com/decrecementofeliz'
   },
   {
+    artName: 'Crazy Dragon',
+    pageLink: './Art/Dillon/index.html',
+    imageLink: './Art/Dillon/images/preview.png',
+    author: 'Dillon',
+    githubLink: 'https://github.com/Dillon-MC'
+  },
+  {
     artName: 'Clone Image App',
     pageLink: './Art/Abhishek/index.html',
     imageLink: './Art/Abhishek/cloneimageapp.PNG',
