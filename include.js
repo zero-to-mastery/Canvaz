@@ -1,5 +1,20 @@
 let cards = [
   //  Add your card in this section
+
+  {
+    artName: 'Swedish Flag',
+    pageLink: './Art/ka-hn/swe-flag.html',
+    imageLink: './Art/ka-hn/swe-flag.png',
+    author: 'Karim Hussain',
+    githubLink: 'https://github.com/ka-hn'
+  },
+  {
+    artName: 'OSFP',
+    pageLink: './Art/dimitrisz123/art.html',
+    imageLink: './Art/dimitrisz123/osfp.png',
+    author: 'Dimitrios Zervas',
+    githubLink: 'https://github.com/dimitrisz123'
+  },
   {
     artName: 'Greetings',
     pageLink: './Art/meghaldonde/index.html',
@@ -139,6 +154,13 @@ let cards = [
     imageLink: './Art/ctq3103/lollipop.png',
     author: 'ctq3103',
     githubLink: 'https://github.com/ctq3103'
+  },
+  {
+    artName: 'flag',
+    pageLink: './Art/Maxx/flag.html',
+    imageLink: './Art/Maxx/flag.png',
+    author: 'Maxx',
+    githubLink: 'https://github.com/MaxManthey'
   },
   {
     artName: 'This is Arttttttt',
@@ -941,6 +963,13 @@ let cards = [
     githubLink: 'https://github.com/quangpro1610'
   },
   {
+    artName: 'Trapped Spooker',
+    pageLink: './Art/Rabanov/rabanov.html',
+    imageLink: './Art/Rabanov/Rabanov.png',
+    author: 'Rabanov',
+    githubLink: 'https://github.com/Rabanov'
+  },
+  {
     artName: 'ScatterDots',
     pageLink: './Art/nartuom/index.html',
     imageLink: './Art/nartuom/scatterDots.jpg',
@@ -1088,6 +1117,13 @@ let cards = [
     githubLink: 'https://github.com/taylorjonestrt'
   },
   {
+    artName: 'Desert Vibes',
+    pageLink: './Art/Norah/index.html',
+    imageLink: './Art/Norah/DesertVibes.png',
+    author: 'Norah',
+    githubLink: 'https://github.com/NorahJC'
+  },
+  {
     artName: 'Ambient Background',
     pageLink: './Art/ambientBackground/index.html',
     imageLink: './Art/ambientBackground/ambientBubble.png',
@@ -1165,6 +1201,13 @@ let cards = [
     githubLink: 'https://github.com/Russell-Jeffrey'
   },
   {
+    artName: 'Indian Flag',
+    pageLink: './Art/dilmohan/index.html',
+    imageLink: './Art/dilmohan/flag.png',
+    author: 'Dilmohan Nidharak',
+    githubLink: 'https://github.com/dilmohan11'
+  },
+  {
     artName: 'Git The Matrix',
     pageLink: './Art/mtsafe/index.html',
     imageLink: './Art/mtsafe/Git-The-Matrix.gif',
@@ -1200,6 +1243,13 @@ let cards = [
     githubLink: 'https://github.com/Furuikeya'
   },
   {
+    artName: 'partyCles',
+    pageLink: './Art/casiimir/index.html',
+    imageLink: './Art/casiimir/partyCles.gif',
+    author: 'casiimir',
+    githubLink: 'https://github.com/casiimir'
+  },
+  {
     artName: 'hacktober-confetti',
     pageLink: './Art/anjakhan/index.html',
     imageLink: './Art/anjakhan/canvas.JPG',
@@ -1226,6 +1276,55 @@ let cards = [
     imageLink: './Art/Dillon/images/preview.png',
     author: 'Dillon',
     githubLink: 'https://github.com/Dillon-MC'
+  },
+  {
+    artName: 'Clone Image App',
+    pageLink: './Art/Abhishek/index.html',
+    imageLink: './Art/Abhishek/cloneimageapp.PNG',
+    author: 'Abhishek',
+    githubLink: 'https://github.com/devlearning9874'
+  },
+  {
+    artName: 'Canvas Playground',
+    pageLink: './Art/AlfredoValle/index.html',
+    imageLink: './Art/AlfredoValle/canvasfun.png',
+    author: 'Alfredo Valle',
+    githubLink: 'https://github.com/alvalle09'
+  },
+  {
+    artName: 'Random Position',
+    pageLink: './Art/krishnakanthati/index.html',
+    imageLink: './Art/krishnakanthati/position.png',
+    author: 'Krishna Kant Hati',
+    githubLink: 'https://github.com/krishnakanthati'
+  },
+  {
+    artName: 'floating rectangle',
+    pageLink: './Art/edcorona/arted.html',
+    imageLink: './Art/edcorona/rectpic.png',
+    author: 'edcorona',
+    githubLink: 'https://github.com/edcorona'
+  },
+  {
+    artName: 'Pyramid seen from above',
+    pageLink: './Art/barbara-aliverti/index.html',
+    imageLink: './Art/barbara-aliverti/barbara-preview.png',
+    author: 'Baloo',
+    githubLink: 'https://github.com/barbaraaliverti'
+  },
+  {
+    artName: 'Tree Art',
+    pageLink: './Art/EyeOfAthena/index.html',
+    imageLink: './Art/EyeOfAthena/cover.png',
+    author: 'EyeOfAthena',
+    githubLink: 'https://github.com/EyeOfAthena'
+  },
+  {
+    artName: 'stylish draw',
+    pageLink: './Art/ivioje/index.html',
+    imageLink: './Art/ivioje/stylish-draw.png',
+    author: 'Eboreime Rhoda Ivioje',
+    githubLink: 'https://github.com/ivioje'
   }
 ];
 
