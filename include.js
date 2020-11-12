@@ -1325,6 +1325,13 @@ let cards = [
     imageLink: './Art/ivioje/stylish-draw.png',
     author: 'Eboreime Rhoda Ivioje',
     githubLink: 'https://github.com/ivioje'
+  },
+  {
+    artName: 'Green Board',
+    pageLink: './Art/DaveBhandari/index.html',
+    imageLink: './Art/DaveBhandari/ZTM.png',
+    author: 'Dave Bhandari',
+    githubLink: 'https://github.com/Davekibh'
   }
 ];
 
