@@ -1332,6 +1332,13 @@ let cards = [
     imageLink: './Art/DaveBhandari/ZTM.png',
     author: 'Dave Bhandari',
     githubLink: 'https://github.com/Davekibh'
+  },
+  {
+    artName: 'Cool pointerr',
+    pageLink: './Art/ashwin/Cool-pointer.html',
+    imageLink: './Art/ashwin/Cool-pointer.png',
+    author: 'Ajayraoch',
+    githubLink: 'https://github.com/123ajayrao'
   }
 ];
 
