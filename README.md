@@ -78,7 +78,7 @@ For more information about Canvas, you can read its [documentation](https://deve
 
 13. Create a pull request to have the changes merged from your fork into the origin
 
-14. [Tweet about making your first Hacktoberfest pull request!](https://ctt.ac/280_t)
+14. [Tweet about making your first Hacktoberfest pull request!](https://ctt.ac/9VJzj)
 
 > Congratulations! You are now one pull request closer to getting that free t-shirt. Why not have a go at the [HTML challenge](https://github.com/zero-to-mastery/Keiko-Corp) or the [Python Challenge](https://github.com/zero-to-mastery/ascii-art)? You can check how many qualifying pull requests you have made at <https://hacktoberfest.digitalocean.com/profile> .
 > Have Fun and Happy Coding!
