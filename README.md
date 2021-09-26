@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/779713479976157214/891357800809250896/unknown.png?width=400&height=400" align="right" />
+<img src="https://media.discordapp.net/attachments/779713479976157214/891357800809250896/unknown.png?width=350&height=350" align="right" />
 
 
 
