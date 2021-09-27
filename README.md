@@ -1,4 +1,4 @@
----
+ ---
 > ⚠   **NOTE:**  Hacktoberfest officially starts on October 1st - This project will remain archived until then!
 ---
 
