@@ -1,7 +1,7 @@
 
     let cards = [
   {
-    "name": "HacktoberFox",
+    "name": "HacktoberFox!",
     "page_link": "../art/mattcsmith/index.html",
     "art_icon": "../art/mattcsmith/icon.png",
     "author_name": "Matt",
