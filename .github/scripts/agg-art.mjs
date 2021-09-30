@@ -1,7 +1,7 @@
 import fs from "fs"
 import path from "path"
 
-const JSON_SOURCE_DIR = "art"
+const JSON_SOURCE_DIR = "src/art"
 const FINAL_JSON_FILE = "src/art.js"
 
 const finalJSON = []
