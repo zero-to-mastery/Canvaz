@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000;
+    height: calc(100vh - 16px);
+}
+
+#pattern-container {
+    border: 7px inset #ed62a7;
+}

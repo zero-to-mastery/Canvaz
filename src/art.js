@@ -1,11 +1,46 @@
 
     let cards = [
   {
+    "name": "React-Logo",
+    "page_link": "../src/art/JotSingh/index.html",
+    "art_icon": "../src/art/JotSingh/icon.png",
+    "author_name": "Jot Singh",
+    "author_github_url": "https://github.com/JotSinghChawla"
+  },
+  {
+    "name": "DotPattern",
+    "page_link": "../src/art/ankeshp03/index.html",
+    "art_icon": "../src/art/ankeshp03/icon.png",
+    "author_name": "Ankesh Paramanik",
+    "author_github_url": "https://github.com/ankeshp03/"
+  },
+  {
+    "name": "Snowfall",
+    "page_link": "../src/art/haylzrandom/index.html",
+    "art_icon": "../src/art/haylzrandom/icon.png",
+    "author_name": "HaylzRandom",
+    "author_github_url": "https://github.com/HaylzRandom/"
+  },
+  {
     "name": "HacktoberFox!",
     "page_link": "../src/art/mattcsmith/index.html",
     "art_icon": "../src/art/mattcsmith/icon.png",
     "author_name": "Matt",
     "author_github_url": "https://github.com/MattCSmith/"
+  },
+  {
+    "name": "Russian Flag",
+    "page_link": "../src/art/mrkc2303/index.html",
+    "art_icon": "../src/art/mrkc2303/icon.png",
+    "author_name": "Kanishk Chhabra",
+    "author_github_url": "https://github.com/mrkc2303/"
+  },
+  {
+    "name": "Hanging moon",
+    "page_link": "../src/art/rachelktyjohnson/index.html",
+    "art_icon": "../src/art/rachelktyjohnson/icon.png",
+    "author_name": "Rachel",
+    "author_github_url": "https://github.com/rachelktyjohnson/"
   }
 ]
 
