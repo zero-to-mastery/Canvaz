@@ -8,6 +8,13 @@
     "author_github_url": "https://github.com/JotSinghChawla"
   },
   {
+    "name": "Infinity Triangle",
+    "page_link": "../src/art/PolisanTheEasyNick/index.html",
+    "art_icon": "../src/art/PolisanTheEasyNick/icon.png",
+    "author_name": "Oleh (ob3r0n_)",
+    "author_github_url": "https://github.com/PolisanTheEasyNick/"
+  },
+  {
     "name": "DotPattern",
     "page_link": "../src/art/ankeshp03/index.html",
     "art_icon": "../src/art/ankeshp03/icon.png",
@@ -41,6 +48,27 @@
     "art_icon": "../src/art/rachelktyjohnson/icon.png",
     "author_name": "Rachel",
     "author_github_url": "https://github.com/rachelktyjohnson/"
+  },
+  {
+    "name": "Moon and Stars",
+    "page_link": "../src/art/rachelktyjohnson2/index.html",
+    "art_icon": "../src/art/rachelktyjohnson2/icon.png",
+    "author_name": "Rachel",
+    "author_github_url": "https://github.com/rachelktyjohnson/"
+  },
+  {
+    "name": "Solar System",
+    "page_link": "../src/art/rachelktyjohnson3/index.html",
+    "art_icon": "../src/art/rachelktyjohnson3/icon.png",
+    "author_name": "Rachel",
+    "author_github_url": "https://github.com/rachelktyjohnson/"
+  },
+  {
+    "name": "Rainy Day in New York",
+    "page_link": "../src/art/sammneto/index.html",
+    "art_icon": "../src/art/sammneto/icon.png",
+    "author_name": "Samm",
+    "author_github_url": "https://github.com/sammkodes96/"
   }
 ]
 
