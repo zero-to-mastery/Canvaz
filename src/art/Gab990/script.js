@@ -96,7 +96,7 @@ context.font = '52px monospace';
 context.textAlign = "center"
 context.fillText('PIXEL', 160, 360);
 context.font = '32px monospace';
-context.fillText('Wishes a good', 160, 410);
+context.fillText('Wishes U a good', 160, 410);
 context.font = '42px monospace';
 context.fillText('Hacktoberfest', 160, 460);
 
