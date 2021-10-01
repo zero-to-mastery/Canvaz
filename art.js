@@ -13,6 +13,13 @@
     "art_icon": "../src/art/mattcsmith/icon.png",
     "author_name": "Matt",
     "author_github_url": "https://github.com/MattCSmith/"
+  },
+  {
+    "name": "Russian Flag",
+    "page_link": "../src/art/mrkc2303/index.html",
+    "art_icon": "../src/art/mrkc2303/icon.png",
+    "author_name": "Kanishk Chhabra",
+    "author_github_url": "https://github.com/mrkc2303/"
   }
 ]
 
