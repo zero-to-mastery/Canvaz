@@ -8,6 +8,13 @@
     "author_github_url": "https://github.com/JotSinghChawla"
   },
   {
+    "name": "Indian-Flag",
+    "page_link": "./art/JotSinghChawla/index.html",
+    "art_icon": "./art/JotSinghChawla/icon.png",
+    "author_name": "Jot Singh",
+    "author_github_url": "https://github.com/JotSinghChawla"
+  },
+  {
     "name": "Infinity Triangle",
     "page_link": "./art/PolisanTheEasyNick/index.html",
     "art_icon": "./art/PolisanTheEasyNick/icon.png",
