@@ -20,6 +20,13 @@
     "art_icon": "../src/art/mrkc2303/icon.png",
     "author_name": "Kanishk Chhabra",
     "author_github_url": "https://github.com/mrkc2303/"
+  },
+  {
+    "name": "Hanging moon",
+    "page_link": "../src/art/rachelktyjohnson/index.html",
+    "art_icon": "../src/art/rachelktyjohnson/icon.png",
+    "author_name": "Rachel",
+    "author_github_url": "https://github.com/rachelktyjohnson/"
   }
 ]
 
