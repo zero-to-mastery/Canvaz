@@ -8,6 +8,13 @@
     "author_github_url": "https://github.com/JotSinghChawla"
   },
   {
+    "name": "DotPattern",
+    "page_link": "../src/art/ankeshp03/index.html",
+    "art_icon": "../src/art/ankeshp03/icon.png",
+    "author_name": "Ankesh Paramanik",
+    "author_github_url": "https://github.com/ankeshp03/"
+  },
+  {
     "name": "HacktoberFox!",
     "page_link": "../src/art/mattcsmith/index.html",
     "art_icon": "../src/art/mattcsmith/icon.png",
