@@ -41,6 +41,20 @@
     "art_icon": "../src/art/rachelktyjohnson/icon.png",
     "author_name": "Rachel",
     "author_github_url": "https://github.com/rachelktyjohnson/"
+  },
+  {
+    "name": "Moon and Stars",
+    "page_link": "../src/art/rachelktyjohnson2/index.html",
+    "art_icon": "../src/art/rachelktyjohnson2/icon.png",
+    "author_name": "Rachel",
+    "author_github_url": "https://github.com/rachelktyjohnson/"
+  },
+  {
+    "name": "Solar System",
+    "page_link": "../src/art/rachelktyjohnson3/index.html",
+    "art_icon": "../src/art/rachelktyjohnson3/icon.png",
+    "author_name": "Rachel",
+    "author_github_url": "https://github.com/rachelktyjohnson/"
   }
 ]
 
