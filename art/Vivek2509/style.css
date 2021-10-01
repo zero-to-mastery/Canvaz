@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+.container {
+  background: black;
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+}
+
+#mycanvas {
+  background: coral;
+  border: 10px solid cyan;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}

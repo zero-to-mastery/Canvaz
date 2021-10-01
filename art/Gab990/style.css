@@ -1,0 +1,25 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+#hdr{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.container{
+    position: relative;
+    width:100vw;
+    height:100vh;
+}
+
+#canvas{
+    background: white;
+    outline: 6px solid #FF0000;
+    border: 9px solid #E95D5D;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}

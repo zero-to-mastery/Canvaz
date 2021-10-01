@@ -8,6 +8,13 @@
     "author_github_url": "https://github.com/JotSinghChawla"
   },
   {
+    "name": "Indian-Flag",
+    "page_link": "./art/JotSinghChawla/index.html",
+    "art_icon": "./art/JotSinghChawla/icon.png",
+    "author_name": "Jot Singh",
+    "author_github_url": "https://github.com/JotSinghChawla"
+  },
+  {
     "name": "Infinity Triangle",
     "page_link": "./art/PolisanTheEasyNick/index.html",
     "art_icon": "./art/PolisanTheEasyNick/icon.png",
@@ -76,6 +83,13 @@
     "art_icon": "./art/sammneto/icon.png",
     "author_name": "Samm",
     "author_github_url": "https://github.com/sammkodes96/"
+  },
+  {
+    "name": "Welcome to Web dev",
+    "page_link": "./art/Vivek2509/index.html",
+    "art_icon": "./art/Vivek2509/icon.png",
+    "author_name": "Vivek Patel",
+    "author_github_url": "https://github.com/Vivek2509/"
   }
 ]
 
