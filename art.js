@@ -2,71 +2,71 @@
     let cards = [
   {
     "name": "React-Logo",
-    "page_link": "../src/art/JotSingh/index.html",
-    "art_icon": "../src/art/JotSingh/icon.png",
+    "page_link": "./art/JotSingh/index.html",
+    "art_icon": "./art/JotSingh/icon.png",
     "author_name": "Jot Singh",
     "author_github_url": "https://github.com/JotSinghChawla"
   },
   {
     "name": "Infinity Triangle",
-    "page_link": "../src/art/PolisanTheEasyNick/index.html",
-    "art_icon": "../src/art/PolisanTheEasyNick/icon.png",
+    "page_link": "./art/PolisanTheEasyNick/index.html",
+    "art_icon": "./art/PolisanTheEasyNick/icon.png",
     "author_name": "Oleh (ob3r0n_)",
     "author_github_url": "https://github.com/PolisanTheEasyNick/"
   },
   {
     "name": "DotPattern",
-    "page_link": "../src/art/ankeshp03/index.html",
-    "art_icon": "../src/art/ankeshp03/icon.png",
+    "page_link": "./art/ankeshp03/index.html",
+    "art_icon": "./art/ankeshp03/icon.png",
     "author_name": "Ankesh Paramanik",
     "author_github_url": "https://github.com/ankeshp03/"
   },
   {
     "name": "Snowfall",
-    "page_link": "../src/art/haylzrandom/index.html",
-    "art_icon": "../src/art/haylzrandom/icon.png",
+    "page_link": "./art/haylzrandom/index.html",
+    "art_icon": "./art/haylzrandom/icon.png",
     "author_name": "HaylzRandom",
     "author_github_url": "https://github.com/HaylzRandom/"
   },
   {
     "name": "HacktoberFox!",
-    "page_link": "../src/art/mattcsmith/index.html",
-    "art_icon": "../src/art/mattcsmith/icon.png",
+    "page_link": "./art/mattcsmith/index.html",
+    "art_icon": "./art/mattcsmith/icon.png",
     "author_name": "Matt",
     "author_github_url": "https://github.com/MattCSmith/"
   },
   {
     "name": "Russian Flag",
-    "page_link": "../src/art/mrkc2303/index.html",
-    "art_icon": "../src/art/mrkc2303/icon.png",
+    "page_link": "./art/mrkc2303/index.html",
+    "art_icon": "./art/mrkc2303/icon.png",
     "author_name": "Kanishk Chhabra",
     "author_github_url": "https://github.com/mrkc2303/"
   },
   {
     "name": "Hanging moon",
-    "page_link": "../src/art/rachelktyjohnson/index.html",
-    "art_icon": "../src/art/rachelktyjohnson/icon.png",
+    "page_link": "./art/rachelktyjohnson/index.html",
+    "art_icon": "./art/rachelktyjohnson/icon.png",
     "author_name": "Rachel",
     "author_github_url": "https://github.com/rachelktyjohnson/"
   },
   {
     "name": "Moon and Stars",
-    "page_link": "../src/art/rachelktyjohnson2/index.html",
-    "art_icon": "../src/art/rachelktyjohnson2/icon.png",
+    "page_link": "./art/rachelktyjohnson2/index.html",
+    "art_icon": "./art/rachelktyjohnson2/icon.png",
     "author_name": "Rachel",
     "author_github_url": "https://github.com/rachelktyjohnson/"
   },
   {
     "name": "Solar System",
-    "page_link": "../src/art/rachelktyjohnson3/index.html",
-    "art_icon": "../src/art/rachelktyjohnson3/icon.png",
+    "page_link": "./art/rachelktyjohnson3/index.html",
+    "art_icon": "./art/rachelktyjohnson3/icon.png",
     "author_name": "Rachel",
     "author_github_url": "https://github.com/rachelktyjohnson/"
   },
   {
     "name": "Rainy Day in New York",
-    "page_link": "../src/art/sammneto/index.html",
-    "art_icon": "../src/art/sammneto/icon.png",
+    "page_link": "./art/sammneto/index.html",
+    "art_icon": "./art/sammneto/icon.png",
     "author_name": "Samm",
     "author_github_url": "https://github.com/sammkodes96/"
   }
