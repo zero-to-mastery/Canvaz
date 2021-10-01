@@ -36,6 +36,13 @@
     "author_github_url": "https://github.com/PolisanTheEasyNick/"
   },
   {
+    "name": "Minion",
+    "page_link": "./art/RaghavendraAchar/index.html",
+    "art_icon": "./art/RaghavendraAchar/icon.png",
+    "author_name": "RaghavendraAchar",
+    "author_github_url": "https://github.com/Raghav14200"
+  },
+  {
     "name": "Unknown",
     "page_link": "./art/Vivek2509/index.html",
     "art_icon": "./art/Vivek2509/icon.png",
