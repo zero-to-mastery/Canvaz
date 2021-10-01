@@ -1,6 +1,19 @@
 const c = document.getElementById('canvas');
 const ctx = c.getContext('2d');
 
+let slider = document.getElementById('snowflakes');
+let snowflakeCount = document.getElementById('numOfFlakes');
+
+snowflakeCount.innerText = slider.value;
+let maxFlakes = slider.value; // max number of snowflakes on screen
+let flakes = [];
+
+slider.addEventListener('change', () => {
+	snowflakeCount.innerText = slider.value;
+	maxFlakes = slider.value;
+	flakes = [];
+});
+
 // Canvas Dimensions
 let width = window.innerWidth;
 let height = window.innerHeight;
@@ -8,20 +21,32 @@ let height = window.innerHeight;
 c.width = width;
 c.height = height;
 
-let maxFlakes = 55; // max number of snowflakes on screen
-let flakes = [];
+const flakePos = (maxFlakes) => {
+	for (let i = 0; i < maxFlakes; i++) {
+		flakes.push({
+			x: Math.random() * width, // x-coord
+			y: Math.random() * height, // y-coord
+			r: Math.random() * 5 + 2, // radius
+			d: Math.random() * maxFlakes, // density
+		});
+	}
+};
 
-for (let i = 0; i < maxFlakes; i++) {
+/* let maxFlakes = 55; // max number of snowflakes on screen
+let flakes = []; */
+
+/* for (let i = 0; i < maxFlakes; i++) {
 	flakes.push({
 		x: Math.random() * width, // x-coord
 		y: Math.random() * height, // y-coord
 		r: Math.random() * 5 + 2, // radius
 		d: Math.random() * maxFlakes, // density
 	});
-}
+} */
 
 // Function that will draw snowflakes on canvas
 const drawFlakes = () => {
+	flakePos(maxFlakes);
 	ctx.clearRect(0, 0, width, height);
 
 	ctx.fillStyle = 'rgba(255, 255, 255, 0.7)';
