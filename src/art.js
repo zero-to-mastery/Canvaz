@@ -62,6 +62,13 @@
     "art_icon": "../src/art/rachelktyjohnson3/icon.png",
     "author_name": "Rachel",
     "author_github_url": "https://github.com/rachelktyjohnson/"
+  },
+  {
+    "name": "Rainy Day in New York",
+    "page_link": "../src/art/sammneto/index.html",
+    "art_icon": "../src/art/sammneto/icon.png",
+    "author_name": "Samm",
+    "author_github_url": "https://github.com/sammkodes96/"
   }
 ]
 
