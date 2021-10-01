@@ -1,5 +1,4 @@
-html,
-body {
+html {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -9,6 +8,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  background: #EEEEEE;
   height: 100vh;
-  background: #eee;
 }
