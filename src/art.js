@@ -22,6 +22,13 @@
     "author_github_url": "https://github.com/ankeshp03/"
   },
   {
+    "name": "Crayon Data Logo",
+    "page_link": "./art/arvindtronics/index.html",
+    "art_icon": "./art/arvindtronics/icon.png",
+    "author_name": "Arvind Kumar Thoppe",
+    "author_github_url": "https://github.com/ARVINDTRONICS/"
+  },
+  {
     "name": "Snowfall",
     "page_link": "./art/haylzrandom/index.html",
     "art_icon": "./art/haylzrandom/icon.png",
