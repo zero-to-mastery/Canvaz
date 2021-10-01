@@ -1,6 +1,20 @@
 
     let cards = [
   {
+    "name": "HackitOn2021",
+    "page_link": "./art/AdwaithRajesh/index.html",
+    "art_icon": "./art/AdwaithRajesh/icon.png",
+    "author_name": "AdwaithRajesh",
+    "author_github_url": "https://github.com/Adwaith123/"
+  },
+  {
+    "name": "Pixel the HTML5 Cat",
+    "page_link": "./art/Gab990/index.html",
+    "art_icon": "./art/Gab990/icon.png",
+    "author_name": "Gab990",
+    "author_github_url": "https://github.com/Gab990/"
+  },
+  {
     "name": "React-Logo",
     "page_link": "./art/JotSingh/index.html",
     "art_icon": "./art/JotSingh/icon.png",
@@ -20,6 +34,20 @@
     "art_icon": "./art/PolisanTheEasyNick/icon.png",
     "author_name": "Oleh (ob3r0n_)",
     "author_github_url": "https://github.com/PolisanTheEasyNick/"
+  },
+  {
+    "name": "Unknown",
+    "page_link": "./art/Vivek2509/index.html",
+    "art_icon": "./art/Vivek2509/icon.png",
+    "author_name": "Vivek2509",
+    "author_github_url": "https://github.com/"
+  },
+  {
+    "name": "fREEdOM",
+    "page_link": "./art/aditya_singh/index.html",
+    "art_icon": "./art/aditya_singh/icon.png",
+    "author_name": "Aditya",
+    "author_github_url": "https://github.com/adityasingh2509"
   },
   {
     "name": "DotPattern",
@@ -78,18 +106,18 @@
     "author_github_url": "https://github.com/rachelktyjohnson/"
   },
   {
+    "name": "Random Color Bars",
+    "page_link": "./art/rachelktyjohnson4/index.html",
+    "art_icon": "./art/rachelktyjohnson4/icon.png",
+    "author_name": "Rachel",
+    "author_github_url": "https://github.com/rachelktyjohnson/"
+  },
+  {
     "name": "Rainy Day in New York",
     "page_link": "./art/sammneto/index.html",
     "art_icon": "./art/sammneto/icon.png",
     "author_name": "Samm",
     "author_github_url": "https://github.com/sammkodes96/"
-  },
-  {
-    "name": "Welcome to Web dev",
-    "page_link": "./art/Vivek2509/index.html",
-    "art_icon": "./art/Vivek2509/icon.png",
-    "author_name": "Vivek Patel",
-    "author_github_url": "https://github.com/Vivek2509/"
   }
 ]
 
