@@ -16,8 +16,8 @@ fs.readdirSync(path.resolve(JSON_SOURCE_DIR), { withFileTypes: true }).forEach(d
 
     finalJSON.push({
         name: artMeta.art_name,
-        page_link:`../${JSON_SOURCE_DIR}/${artDirectory}/index.html`,
-        art_icon: `../${JSON_SOURCE_DIR}/${artDirectory}/icon.png`,
+        page_link:`./art/${artDirectory}/index.html`,
+        art_icon: `./art/${artDirectory}/icon.png`,
         author_name: artMeta.author_name,
         author_github_url: artMeta.author_github_url,
     })
