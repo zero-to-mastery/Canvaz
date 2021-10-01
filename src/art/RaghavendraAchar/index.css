@@ -1,0 +1,21 @@
+#canvas {
+  border: 3px solid black;
+  background-image: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0.8),
+      rgba(0, 0, 0, 0.9)
+    ),
+    url("https://www.hdwallpaper.nu/wp-content/uploads/2015/07/Minions_Wallpaper_002.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+body {
+  margin: 0;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
