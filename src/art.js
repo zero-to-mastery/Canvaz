@@ -15,6 +15,13 @@
     "author_github_url": "https://github.com/ankeshp03/"
   },
   {
+    "name": "Snowfall",
+    "page_link": "../src/art/haylzrandom/index.html",
+    "art_icon": "../src/art/haylzrandom/icon.png",
+    "author_name": "HaylzRandom",
+    "author_github_url": "https://github.com/HaylzRandom/"
+  },
+  {
     "name": "HacktoberFox!",
     "page_link": "../src/art/mattcsmith/index.html",
     "art_icon": "../src/art/mattcsmith/icon.png",
