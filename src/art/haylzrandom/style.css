@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Gluten&display=swap');
+
 body {
 	margin: 0;
 	overflow: hidden;
 	background-color: #537895;
 	background-image: linear-gradient(315deg, #537895 0%, #09203f 74%);
 	color: #fff;
+	font-family: 'Gluten', cursive;
 }
 
 #canvas {
@@ -12,12 +15,12 @@ body {
 
 h4 {
 	position: absolute;
-	width: 100%;
-	/* text-align: center; */
+	width: 300px;
+	text-align: center;
 	bottom: 0;
-	left: 45%;
+	left: 50%;
 	right: 50%;
-	font-weight: 400;
+	transform: translate(-50%, -50%);
 }
 
 a {
@@ -29,17 +32,31 @@ a:hover {
 	color: #09203f;
 }
 
-/*
 .slide-container {
-	width: 100%;
+	width: 300px;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	margin: 30px;
 	padding: 15px;
 	position: absolute;
 	z-index: 10;
+	border: 3px solid #09203f;
+	border-radius: 15px;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	box-shadow: -4px 18px 20px 1px rgba(0, 0, 0, 0.68);
+}
+
+#label-snowflakes {
+	padding: 10px;
+	margin: 10px;
+}
+
+#numOfFlakes {
+	padding: 10px;
+	margin-bottom: 10px;
 }
 
 .slider {
@@ -72,4 +89,3 @@ a:hover {
 	background: #04aa6d;
 	cursor: pointer;
 }
- */
