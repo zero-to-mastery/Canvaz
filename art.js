@@ -1,6 +1,13 @@
 
     let cards = [
   {
+    "name": "React-Logo",
+    "page_link": "../src/art/JotSingh/index.html",
+    "art_icon": "../src/art/JotSingh/icon.png",
+    "author_name": "Jot Singh",
+    "author_github_url": "https://github.com/JotSinghChawla"
+  },
+  {
     "name": "HacktoberFox!",
     "page_link": "../src/art/mattcsmith/index.html",
     "art_icon": "../src/art/mattcsmith/icon.png",
