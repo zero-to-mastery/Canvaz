@@ -8,6 +8,13 @@
     "author_github_url": "https://github.com/JotSinghChawla"
   },
   {
+    "name": "Infinity Triangle",
+    "page_link": "../src/art/PolisanTheEasyNick/index.html",
+    "art_icon": "../src/art/PolisanTheEasyNick/icon.png",
+    "author_name": "Oleh (ob3r0n_)",
+    "author_github_url": "https://github.com/PolisanTheEasyNick/"
+  },
+  {
     "name": "DotPattern",
     "page_link": "../src/art/ankeshp03/index.html",
     "art_icon": "../src/art/ankeshp03/icon.png",
