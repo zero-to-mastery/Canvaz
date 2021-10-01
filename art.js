@@ -113,6 +113,13 @@
     "author_github_url": "https://github.com/rachelktyjohnson/"
   },
   {
+    "name": "Spring Flowering",
+    "page_link": "./art/rachelktyjohnson5/index.html",
+    "art_icon": "./art/rachelktyjohnson5/icon.png",
+    "author_name": "Rachel",
+    "author_github_url": "https://github.com/rachelktyjohnson/"
+  },
+  {
     "name": "Rainy Day in New York",
     "page_link": "./art/sammneto/index.html",
     "art_icon": "./art/sammneto/icon.png",
