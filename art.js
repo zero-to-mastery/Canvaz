@@ -106,6 +106,13 @@
     "author_github_url": "https://github.com/MattCSmith/"
   },
   {
+    "name": "HacktoberSnailShell",
+    "page_link": "./art/mohsin_sh/index.html",
+    "art_icon": "./art/mohsin_sh/icon.png",
+    "author_name": "mohsin_sh",
+    "author_github_url": "https://github.com/mohsin_sh/"
+  },
+  {
     "name": "Russian Flag",
     "page_link": "./art/mrkc2303/index.html",
     "art_icon": "./art/mrkc2303/icon.png",
@@ -116,6 +123,13 @@
     "name": "Indian Flag",
     "page_link": "./art/mrkc2303_1/index.html",
     "art_icon": "./art/mrkc2303_1/icon.png",
+    "author_name": "Kanishk Chhabra",
+    "author_github_url": "https://github.com/mrkc2303/"
+  },
+  {
+    "name": "Chess Checkboard",
+    "page_link": "./art/mrkc2303_2/index.html",
+    "art_icon": "./art/mrkc2303_2/icon.png",
     "author_name": "Kanishk Chhabra",
     "author_github_url": "https://github.com/mrkc2303/"
   },
