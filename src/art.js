@@ -167,13 +167,6 @@
     "art_icon": "./art/usergr/icon.png",
     "author_name": "usergr",
     "author_github_url": "https://github.com/usergr/"
-  },
-  {
-    "name": "Undertaker Logo",
-    "page_link": "./art/Kanwarbir02/index.html",
-    "art_icon": "./art/Kanwarbir02/undertaker.png",
-    "author_name": "Kanwarbir Singh",
-    "author_github_url": "https://github.com/Kanwarbir02/"
   }
 ]
 
