@@ -29,6 +29,13 @@
     "author_github_url": "https://github.com/JotSinghChawla"
   },
   {
+    "name": "Netflix-Logo",
+    "page_link": "./art/Jot_Singh/index.html",
+    "art_icon": "./art/Jot_Singh/icon.png",
+    "author_name": "Jot Singh",
+    "author_github_url": "https://github.com/JotSinghChawla"
+  },
+  {
     "name": "Infinity Triangle",
     "page_link": "./art/PolisanTheEasyNick/index.html",
     "art_icon": "./art/PolisanTheEasyNick/icon.png",
@@ -39,6 +46,13 @@
     "name": "Minion",
     "page_link": "./art/RaghavendraAchar/index.html",
     "art_icon": "./art/RaghavendraAchar/icon.png",
+    "author_name": "RaghavendraAchar",
+    "author_github_url": "https://github.com/Raghav14200"
+  },
+  {
+    "name": "Germany Flag",
+    "page_link": "./art/RaghavendraAchar2/index.html",
+    "art_icon": "./art/RaghavendraAchar2/icon.png",
     "author_name": "RaghavendraAchar",
     "author_github_url": "https://github.com/Raghav14200"
   },
@@ -92,6 +106,13 @@
     "author_github_url": "https://github.com/mrkc2303/"
   },
   {
+    "name": "Indian Flag",
+    "page_link": "./art/mrkc2303_1/index.html",
+    "art_icon": "./art/mrkc2303_1/icon.png",
+    "author_name": "Kanishk Chhabra",
+    "author_github_url": "https://github.com/mrkc2303/"
+  },
+  {
     "name": "Hanging moon",
     "page_link": "./art/rachelktyjohnson/index.html",
     "art_icon": "./art/rachelktyjohnson/icon.png",
@@ -132,6 +153,20 @@
     "art_icon": "./art/sammneto/icon.png",
     "author_name": "Samm",
     "author_github_url": "https://github.com/sammkodes96/"
+  },
+  {
+    "name": "Bouncing balls",
+    "page_link": "./art/saqlainrasheed/index.html",
+    "art_icon": "./art/saqlainrasheed/icon.png",
+    "author_name": "Saqlain Rasheed",
+    "author_github_url": "https://github.com/saqlainrasheed/"
+  },
+  {
+    "name": "CubeFall",
+    "page_link": "./art/usergr/index.html",
+    "art_icon": "./art/usergr/icon.png",
+    "author_name": "usergr",
+    "author_github_url": "https://github.com/usergr/"
   }
 ]
 
