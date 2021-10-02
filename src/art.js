@@ -29,6 +29,13 @@
     "author_github_url": "https://github.com/JotSinghChawla"
   },
   {
+    "name": "Netflix-Logo",
+    "page_link": "./art/Jot_Singh/index.html",
+    "art_icon": "./art/Jot_Singh/icon.png",
+    "author_name": "Jot Singh",
+    "author_github_url": "https://github.com/JotSinghChawla"
+  },
+  {
     "name": "Infinity Triangle",
     "page_link": "./art/PolisanTheEasyNick/index.html",
     "art_icon": "./art/PolisanTheEasyNick/icon.png",
