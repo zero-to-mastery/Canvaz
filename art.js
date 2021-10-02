@@ -197,6 +197,13 @@
     "author_github_url": "https://github.com/rahulm2310/"
   },
   {
+    "name": "Color Canvaz",
+    "page_link": "./art/rahulm2310-2/index.html",
+    "art_icon": "./art/rahulm2310-2/icon.png",
+    "author_name": "Rahul Mohata",
+    "author_github_url": "https://github.com/rahulm2310/"
+  },
+  {
     "name": "Rainy Day in New York",
     "page_link": "./art/sammneto/index.html",
     "art_icon": "./art/sammneto/icon.png",
