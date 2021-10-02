@@ -153,6 +153,13 @@
     "art_icon": "./art/saqlainrasheed/icon.png",
     "author_name": "Saqlain Rasheed",
     "author_github_url": "https://github.com/saqlainrasheed/"
+  },
+  {
+    "name": "CubeFall",
+    "page_link": "./art/usergr/index.html",
+    "art_icon": "./art/usergr/icon.png",
+    "author_name": "usergr",
+    "author_github_url": "https://github.com/usergr/"
   }
 ]
 
