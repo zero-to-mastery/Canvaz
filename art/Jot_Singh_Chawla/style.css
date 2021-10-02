@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+}
+.center-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  width: 400px;
+  height: 400px;
+  background: radial-gradient(
+    circle at 30% 107%,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 70%,
+    #285aeb 100%
+  );
+  position: relative;
+  border-radius: 20%;
+  box-shadow: 0px 0px 90px 5px #989;
+}
+
+#rectangle,
+#circle,
+#middle_circle {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 400px;
+  height: 400px;
+}
