@@ -22,6 +22,13 @@
     "author_github_url": "https://github.com/Insidiae/"
   },
   {
+    "name": "Math Flower",
+    "page_link": "./art/Insidiae2/index.html",
+    "art_icon": "./art/Insidiae2/icon.png",
+    "author_name": "Insidiae",
+    "author_github_url": "https://github.com/Insidiae/"
+  },
+  {
     "name": "React-Logo",
     "page_link": "./art/JotSingh/index.html",
     "art_icon": "./art/JotSingh/icon.png",
