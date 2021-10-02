@@ -237,6 +237,13 @@
     "art_icon": "./art/usergr/icon.png",
     "author_name": "usergr",
     "author_github_url": "https://github.com/usergr/"
+  },
+  {
+    "name": "Argentinian Flag",
+    "page_link": "./art/vencho-mdp/index.html",
+    "art_icon": "./art/vencho-mdp/icon.png",
+    "author_name": "Vencho",
+    "author_github_url": "https://github.com/vencho-mdp/"
   }
 ]
 
