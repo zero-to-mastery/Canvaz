@@ -204,6 +204,13 @@
     "author_github_url": "https://github.com/rahulm2310/"
   },
   {
+    "name": "Random tree",
+    "page_link": "./art/rokoala/index.html",
+    "art_icon": "./art/rokoala/icon.png",
+    "author_name": "rokoala",
+    "author_github_url": "https://github.com/rokoala"
+  },
+  {
     "name": "Rainy Day in New York",
     "page_link": "./art/sammneto/index.html",
     "art_icon": "./art/sammneto/icon.png",
