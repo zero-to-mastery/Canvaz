@@ -106,6 +106,13 @@
     "author_github_url": "https://github.com/mrkc2303/"
   },
   {
+    "name": "Indian Flag",
+    "page_link": "./art/mrkc2303_1/index.html",
+    "art_icon": "./art/mrkc2303_1/icon.png",
+    "author_name": "Kanishk Chhabra",
+    "author_github_url": "https://github.com/mrkc2303/"
+  },
+  {
     "name": "Hanging moon",
     "page_link": "./art/rachelktyjohnson/index.html",
     "art_icon": "./art/rachelktyjohnson/icon.png",
