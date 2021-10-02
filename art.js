@@ -43,6 +43,13 @@
     "author_github_url": "https://github.com/JotSinghChawla"
   },
   {
+    "name": "Undertaker Logo",
+    "page_link": "./art/Kanwarbir02/index.html",
+    "art_icon": "./art/Kanwarbir02/icon.png",
+    "author_name": "Kanwarbir Singh",
+    "author_github_url": "https://github.com/Kanwarbir02"
+  },
+  {
     "name": "Infinity Triangle",
     "page_link": "./art/PolisanTheEasyNick/index.html",
     "art_icon": "./art/PolisanTheEasyNick/icon.png",
