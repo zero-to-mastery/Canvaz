@@ -50,6 +50,13 @@
     "author_github_url": "https://github.com/JotSinghChawla"
   },
   {
+    "name": "Instagram-Logo",
+    "page_link": "./art/Jot_Singh_Chawla/index.html",
+    "art_icon": "./art/Jot_Singh_Chawla/icon.png",
+    "author_name": "Jot Singh",
+    "author_github_url": "https://github.com/JotSinghChawla"
+  },
+  {
     "name": "Undertaker Logo",
     "page_link": "./art/Kanwarbir02/index.html",
     "art_icon": "./art/Kanwarbir02/icon.png",
