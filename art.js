@@ -120,6 +120,13 @@
     "author_github_url": "https://github.com/ARVINDTRONICS/"
   },
   {
+    "name": "ZombieSlayer",
+    "page_link": "./art/cyrus_mobini/index.html",
+    "art_icon": "./art/cyrus_mobini/icon.png",
+    "author_name": "Cyrus Mobini",
+    "author_github_url": "https://github.com/milad2281"
+  },
+  {
     "name": "Snowfall",
     "page_link": "./art/haylzrandom/index.html",
     "art_icon": "./art/haylzrandom/icon.png",
