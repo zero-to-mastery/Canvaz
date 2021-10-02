@@ -15,6 +15,13 @@
     "author_github_url": "https://github.com/Gab990/"
   },
   {
+    "name": "Korean Flag",
+    "page_link": "./art/Insidiae/index.html",
+    "art_icon": "./art/Insidiae/icon.png",
+    "author_name": "Insidiae",
+    "author_github_url": "https://github.com/Insidiae/"
+  },
+  {
     "name": "React-Logo",
     "page_link": "./art/JotSingh/index.html",
     "art_icon": "./art/JotSingh/icon.png",
@@ -29,6 +36,13 @@
     "author_github_url": "https://github.com/JotSinghChawla"
   },
   {
+    "name": "Netflix-Logo",
+    "page_link": "./art/Jot_Singh/index.html",
+    "art_icon": "./art/Jot_Singh/icon.png",
+    "author_name": "Jot Singh",
+    "author_github_url": "https://github.com/JotSinghChawla"
+  },
+  {
     "name": "Infinity Triangle",
     "page_link": "./art/PolisanTheEasyNick/index.html",
     "art_icon": "./art/PolisanTheEasyNick/icon.png",
@@ -39,6 +53,20 @@
     "name": "Minion",
     "page_link": "./art/RaghavendraAchar/index.html",
     "art_icon": "./art/RaghavendraAchar/icon.png",
+    "author_name": "RaghavendraAchar",
+    "author_github_url": "https://github.com/Raghav14200"
+  },
+  {
+    "name": "Germany Flag",
+    "page_link": "./art/RaghavendraAchar2/index.html",
+    "art_icon": "./art/RaghavendraAchar2/icon.png",
+    "author_name": "RaghavendraAchar",
+    "author_github_url": "https://github.com/Raghav14200"
+  },
+  {
+    "name": "Captain America shield",
+    "page_link": "./art/RaghavendraAchar3/index.html",
+    "art_icon": "./art/RaghavendraAchar3/icon.png",
     "author_name": "RaghavendraAchar",
     "author_github_url": "https://github.com/Raghav14200"
   },
@@ -85,9 +113,30 @@
     "author_github_url": "https://github.com/MattCSmith/"
   },
   {
+    "name": "HacktoberSnailShell",
+    "page_link": "./art/mohsin_sh/index.html",
+    "art_icon": "./art/mohsin_sh/icon.png",
+    "author_name": "mohsin_sh",
+    "author_github_url": "https://github.com/mohsin_sh/"
+  },
+  {
     "name": "Russian Flag",
     "page_link": "./art/mrkc2303/index.html",
     "art_icon": "./art/mrkc2303/icon.png",
+    "author_name": "Kanishk Chhabra",
+    "author_github_url": "https://github.com/mrkc2303/"
+  },
+  {
+    "name": "Indian Flag",
+    "page_link": "./art/mrkc2303_1/index.html",
+    "art_icon": "./art/mrkc2303_1/icon.png",
+    "author_name": "Kanishk Chhabra",
+    "author_github_url": "https://github.com/mrkc2303/"
+  },
+  {
+    "name": "Chess Checkboard",
+    "page_link": "./art/mrkc2303_2/index.html",
+    "art_icon": "./art/mrkc2303_2/icon.png",
     "author_name": "Kanishk Chhabra",
     "author_github_url": "https://github.com/mrkc2303/"
   },
@@ -127,11 +176,32 @@
     "author_github_url": "https://github.com/rachelktyjohnson/"
   },
   {
+    "name": "Loader",
+    "page_link": "./art/rahulm2310/index.html",
+    "art_icon": "./art/rahulm2310/icon.png",
+    "author_name": "Rahul Mohata",
+    "author_github_url": "https://github.com/rahulm2310/"
+  },
+  {
     "name": "Rainy Day in New York",
     "page_link": "./art/sammneto/index.html",
     "art_icon": "./art/sammneto/icon.png",
     "author_name": "Samm",
     "author_github_url": "https://github.com/sammkodes96/"
+  },
+  {
+    "name": "Bouncing balls",
+    "page_link": "./art/saqlainrasheed/index.html",
+    "art_icon": "./art/saqlainrasheed/icon.png",
+    "author_name": "Saqlain Rasheed",
+    "author_github_url": "https://github.com/saqlainrasheed/"
+  },
+  {
+    "name": "CubeFall",
+    "page_link": "./art/usergr/index.html",
+    "art_icon": "./art/usergr/icon.png",
+    "author_name": "usergr",
+    "author_github_url": "https://github.com/usergr/"
   }
 ]
 
