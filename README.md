@@ -1,7 +1,3 @@
- ---
-> ⚠   **NOTE:**  Hacktoberfest officially starts on October 1st - This project will remain archived until then!
----
-
 <img src="https://media.discordapp.net/attachments/779713479976157214/891357800809250896/unknown.png?width=350&height=350" align="right" />
 
 #### [![Canvaz](https://img.shields.io/badge/CREATIVE%20CSS%20PROJECT-Canvaz-4E3188?style=for-the-badge&logo=CSS3)](https://github.com/zero-to-mastery/Canvaz)
