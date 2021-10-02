@@ -139,6 +139,13 @@
     "art_icon": "./art/sammneto/icon.png",
     "author_name": "Samm",
     "author_github_url": "https://github.com/sammkodes96/"
+  },
+  {
+    "name": "Bouncing balls",
+    "page_link": "./art/saqlainrasheed/index.html",
+    "art_icon": "./art/saqlainrasheed/icon.png",
+    "author_name": "Saqlain Rasheed",
+    "author_github_url": "https://github.com/saqlainrasheed/"
   }
 ]
 
