@@ -204,6 +204,13 @@
     "author_github_url": "https://github.com/saqlainrasheed/"
   },
   {
+    "name": "Fibonacci Spiral",
+    "page_link": "./art/sn2606/index.html",
+    "art_icon": "./art/sn2606/icon.png",
+    "author_name": "sn2606",
+    "author_github_url": "https://github.com/sn2606/"
+  },
+  {
     "name": "CubeFall",
     "page_link": "./art/usergr/index.html",
     "art_icon": "./art/usergr/icon.png",
