@@ -15,6 +15,13 @@
     "author_github_url": "https://github.com/Gab990/"
   },
   {
+    "name": "Korean Flag",
+    "page_link": "./art/Insidiae/index.html",
+    "art_icon": "./art/Insidiae/icon.png",
+    "author_name": "Insidiae",
+    "author_github_url": "https://github.com/Insidiae/"
+  },
+  {
     "name": "React-Logo",
     "page_link": "./art/JotSingh/index.html",
     "art_icon": "./art/JotSingh/icon.png",
