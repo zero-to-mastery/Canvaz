@@ -67,6 +67,8 @@ For more information about Canvas, you can read its [documentation](https://deve
 }
 ```
 
+_Please keep `src/art.js` as it is._ If you follow step 10 above, a script will add your art automatically after your PR is merged.
+
 11. Pull from the upstream again, like we did in step 3. This is to ensure we still have the latest code.
 
     - `git pull upstream master`
