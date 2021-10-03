@@ -1,0 +1,63 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: url('./assets/background.jpg');
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow: hidden;
+    padding-top: 20px;
+}
+
+#my-canvas{
+    border:15px solid #000;
+    border-radius: 10px;
+}
+
+.tv-stand{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.tv-neck{
+    width:40px;
+    height: 60px;
+    background: #000;
+}
+
+.tv-bottom{
+    width:200px;
+    height:30px;
+    background: #000;
+    border-radius: 20px;
+    color:#fff;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    background: #000;
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: #fff;
+    font-weight: 700;
+    border:none;
+    font-size: 24px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+button:hover{
+    transform: scale(0.9);
+    transition: 0.15s all ease-in;
+}

@@ -1,0 +1,9 @@
+canvas {
+  background-image: url(./nightsky.jpeg);
+}
+
+img {
+  position: absolute;
+  top: 5px;
+  left: 3px;
+}

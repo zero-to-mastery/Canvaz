@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+}
+.center-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  width: 400px;
+  height: 400px;
+  background-color: black;
+  position: relative;
+  box-shadow: 0px 0px 90px 5px #989;
+}
+
+#rect1,
+#rect2,
+#middle_rect {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 400px;
+  height: 400px;
+}
+
+#middle_rect {
+  z-index: 10;
+}
