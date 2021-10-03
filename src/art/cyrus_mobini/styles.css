@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+:root{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: lightblue;
+    font-family: 'VT323', monospace;
+    overflow: hidden;
+}
+
+#container {
+    height: 100vh;
+    width: 100vw;
+    cursor: none;
+}
+
+#canvas {
+    position: fixed;
+    z-index: -1;
+    background-color: transparent;
+}
+
+.detail {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+
+.title {
+    text-align: center;
+    font-size: 4rem;
+    text-transform: capitalize;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.level, .xp{
+    font-size: 2rem;
+    text-transform: uppercase;
+    text-align: left;
+    padding: 0 1rem;
+}
+
+.zombie {
+    position: absolute;
+    max-width: 80px;
+    transition: all 0.15s linear;
+
+}
+
+.dying {
+    transition: all 2s ease-in-out;
+    background: linear-gradient(rgba(255, 0, 0,.5),rgba(255, 107, 107,.2));
+    opacity: 0;
+}
