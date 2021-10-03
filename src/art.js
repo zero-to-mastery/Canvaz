@@ -141,6 +141,13 @@
     "author_github_url": "https://github.com/HaylzRandom/"
   },
   {
+    "name": "Egg",
+    "page_link": "./art/jkagawa/index.html",
+    "art_icon": "./art/jkagawa/icon.png",
+    "author_name": "Joshua",
+    "author_github_url": "https://github.com/jkagawa/"
+  },
+  {
     "name": "HacktoberFox!",
     "page_link": "./art/mattcsmith/index.html",
     "art_icon": "./art/mattcsmith/icon.png",
@@ -270,6 +277,20 @@
     "name": "Random Squares with different colors",
     "page_link": "./art/vencho-mdp2/index.html",
     "art_icon": "./art/vencho-mdp2/icon.png",
+    "author_name": "Vencho",
+    "author_github_url": "https://github.com/vencho-mdp"
+  },
+  {
+    "name": "Rainbow",
+    "page_link": "./art/vencho-mdp3/index.html",
+    "art_icon": "./art/vencho-mdp3/icon.png",
+    "author_name": "Vencho",
+    "author_github_url": "https://github.com/vencho-mdp"
+  },
+  {
+    "name": "Javascript logo",
+    "page_link": "./art/vencho-mdp4/index.html",
+    "art_icon": "./art/vencho-mdp4/icon.png",
     "author_name": "Vencho",
     "author_github_url": "https://github.com/vencho-mdp"
   }
