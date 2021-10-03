@@ -232,6 +232,13 @@
     "author_github_url": "https://github.com/rahulm2310/"
   },
   {
+    "name": "Television",
+    "page_link": "./art/rahulm2310-3/index.html",
+    "art_icon": "./art/rahulm2310-3/icon.png",
+    "author_name": "Rahul Mohata",
+    "author_github_url": "https://github.com/rahulm2310/"
+  },
+  {
     "name": "Random tree",
     "page_link": "./art/rokoala/index.html",
     "art_icon": "./art/rokoala/icon.png",
