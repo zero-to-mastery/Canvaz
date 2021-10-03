@@ -148,6 +148,13 @@
     "author_github_url": "https://github.com/jkagawa/"
   },
   {
+    "name": "Fun with Corners",
+    "page_link": "./art/junaid_shah/index.html",
+    "art_icon": "./art/junaid_shah/icon.png",
+    "author_name": "Junaid shah",
+    "author_github_url": "https://github.com/jsh854"
+  },
+  {
     "name": "HacktoberFox!",
     "page_link": "./art/mattcsmith/index.html",
     "art_icon": "./art/mattcsmith/icon.png",
