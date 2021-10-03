@@ -1,0 +1,36 @@
+body{
+    background: #000;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+canvas{
+    border: 5px solid #fff;
+    border-radius: 10px;
+}
+
+h1{
+    color:#fff;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 34px;
+}
+
+#random-btn{
+    background:#000;
+    color:#fff;
+    border:2px solid #fff;
+    border-radius: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+#random-btn:hover{
+    background: #fff;
+    color:#000;
+}
