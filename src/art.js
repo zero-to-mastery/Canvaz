@@ -22,6 +22,13 @@
     "author_github_url": "https://github.com/Insidiae/"
   },
   {
+    "name": "Math Flower",
+    "page_link": "./art/Insidiae2/index.html",
+    "art_icon": "./art/Insidiae2/icon.png",
+    "author_name": "Insidiae",
+    "author_github_url": "https://github.com/Insidiae/"
+  },
+  {
     "name": "React-Logo",
     "page_link": "./art/JotSingh/index.html",
     "art_icon": "./art/JotSingh/icon.png",
@@ -41,6 +48,20 @@
     "art_icon": "./art/Jot_Singh/icon.png",
     "author_name": "Jot Singh",
     "author_github_url": "https://github.com/JotSinghChawla"
+  },
+  {
+    "name": "Instagram-Logo",
+    "page_link": "./art/Jot_Singh_Chawla/index.html",
+    "art_icon": "./art/Jot_Singh_Chawla/icon.png",
+    "author_name": "Jot Singh",
+    "author_github_url": "https://github.com/JotSinghChawla"
+  },
+  {
+    "name": "Undertaker Logo",
+    "page_link": "./art/Kanwarbir02/index.html",
+    "art_icon": "./art/Kanwarbir02/icon.png",
+    "author_name": "Kanwarbir Singh",
+    "author_github_url": "https://github.com/Kanwarbir02"
   },
   {
     "name": "Infinity Triangle",
@@ -99,11 +120,32 @@
     "author_github_url": "https://github.com/ARVINDTRONICS/"
   },
   {
+    "name": "ZombieSlayer",
+    "page_link": "./art/cyrus_mobini/index.html",
+    "art_icon": "./art/cyrus_mobini/icon.png",
+    "author_name": "Cyrus Mobini",
+    "author_github_url": "https://github.com/milad2281"
+  },
+  {
+    "name": "Moon Phase",
+    "page_link": "./art/gabriellend/index.html",
+    "art_icon": "./art/gabriellend/icon.png",
+    "author_name": "Gabrielle Davidson",
+    "author_github_url": "https://github.com/gabriellend"
+  },
+  {
     "name": "Snowfall",
     "page_link": "./art/haylzrandom/index.html",
     "art_icon": "./art/haylzrandom/icon.png",
     "author_name": "HaylzRandom",
     "author_github_url": "https://github.com/HaylzRandom/"
+  },
+  {
+    "name": "Egg",
+    "page_link": "./art/jkagawa/index.html",
+    "art_icon": "./art/jkagawa/icon.png",
+    "author_name": "Joshua",
+    "author_github_url": "https://github.com/jkagawa/"
   },
   {
     "name": "HacktoberFox!",
@@ -183,6 +225,27 @@
     "author_github_url": "https://github.com/rahulm2310/"
   },
   {
+    "name": "Color Canvaz",
+    "page_link": "./art/rahulm2310-2/index.html",
+    "art_icon": "./art/rahulm2310-2/icon.png",
+    "author_name": "Rahul Mohata",
+    "author_github_url": "https://github.com/rahulm2310/"
+  },
+  {
+    "name": "Television",
+    "page_link": "./art/rahulm2310-3/index.html",
+    "art_icon": "./art/rahulm2310-3/icon.png",
+    "author_name": "Rahul Mohata",
+    "author_github_url": "https://github.com/rahulm2310/"
+  },
+  {
+    "name": "Random tree",
+    "page_link": "./art/rokoala/index.html",
+    "art_icon": "./art/rokoala/icon.png",
+    "author_name": "rokoala",
+    "author_github_url": "https://github.com/rokoala"
+  },
+  {
     "name": "Rainy Day in New York",
     "page_link": "./art/sammneto/index.html",
     "art_icon": "./art/sammneto/icon.png",
@@ -197,11 +260,46 @@
     "author_github_url": "https://github.com/saqlainrasheed/"
   },
   {
+    "name": "Fibonacci Spiral",
+    "page_link": "./art/sn2606/index.html",
+    "art_icon": "./art/sn2606/icon.png",
+    "author_name": "sn2606",
+    "author_github_url": "https://github.com/sn2606/"
+  },
+  {
     "name": "CubeFall",
     "page_link": "./art/usergr/index.html",
     "art_icon": "./art/usergr/icon.png",
     "author_name": "usergr",
     "author_github_url": "https://github.com/usergr/"
+  },
+  {
+    "name": "Argentinian Flag",
+    "page_link": "./art/vencho-mdp/index.html",
+    "art_icon": "./art/vencho-mdp/icon.png",
+    "author_name": "Vencho",
+    "author_github_url": "https://github.com/vencho-mdp/"
+  },
+  {
+    "name": "Random Squares with different colors",
+    "page_link": "./art/vencho-mdp2/index.html",
+    "art_icon": "./art/vencho-mdp2/icon.png",
+    "author_name": "Vencho",
+    "author_github_url": "https://github.com/vencho-mdp"
+  },
+  {
+    "name": "Rainbow",
+    "page_link": "./art/vencho-mdp3/index.html",
+    "art_icon": "./art/vencho-mdp3/icon.png",
+    "author_name": "Vencho",
+    "author_github_url": "https://github.com/vencho-mdp"
+  },
+  {
+    "name": "Javascript logo",
+    "page_link": "./art/vencho-mdp4/index.html",
+    "art_icon": "./art/vencho-mdp4/icon.png",
+    "author_name": "Vencho",
+    "author_github_url": "https://github.com/vencho-mdp"
   }
 ]
 
