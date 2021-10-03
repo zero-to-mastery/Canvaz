@@ -127,6 +127,13 @@
     "author_github_url": "https://github.com/milad2281"
   },
   {
+    "name": "Moon Phase",
+    "page_link": "./art/gabriellend/index.html",
+    "art_icon": "./art/gabriellend/icon.png",
+    "author_name": "Gabrielle Davidson",
+    "author_github_url": "https://github.com/gabriellend"
+  },
+  {
     "name": "Snowfall",
     "page_link": "./art/haylzrandom/index.html",
     "art_icon": "./art/haylzrandom/icon.png",
@@ -258,6 +265,13 @@
     "art_icon": "./art/vencho-mdp/icon.png",
     "author_name": "Vencho",
     "author_github_url": "https://github.com/vencho-mdp/"
+  },
+  {
+    "name": "Random Squares with different colors",
+    "page_link": "./art/vencho-mdp2/index.html",
+    "art_icon": "./art/vencho-mdp2/icon.png",
+    "author_name": "Vencho",
+    "author_github_url": "https://github.com/vencho-mdp"
   }
 ]
 
