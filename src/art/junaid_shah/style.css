@@ -1,0 +1,14 @@
+body{
+    background-color:#95D7AE;
+    color:white;
+    font-family:Arial;
+  }
+  .container{
+    display:flex;
+    height:100vh;
+    align-items:center;
+    justify-content:center;
+    flex-direction:row;
+    flex-wrap:wrap;
+    
+  }
