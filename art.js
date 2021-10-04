@@ -162,6 +162,13 @@
     "author_github_url": "https://github.com/ekta2901/"
   },
   {
+    "name": "Sunset on a boat",
+    "page_link": "./art/ekta2901-4/index.html",
+    "art_icon": "./art/ekta2901-4/icon.png",
+    "author_name": "Ekta",
+    "author_github_url": "https://github.com/ekta2901/"
+  },
+  {
     "name": "Moon Phase",
     "page_link": "./art/gabriellend/index.html",
     "art_icon": "./art/gabriellend/icon.png",
