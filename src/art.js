@@ -1,6 +1,13 @@
 
     let cards = [
   {
+    "name": "HeartPirates",
+    "page_link": "./art/Abdo_AK_ST/index.html",
+    "art_icon": "./art/Abdo_AK_ST/icon.png",
+    "author_name": "AbdoAKST",
+    "author_github_url": "https://github.com/Abdellah-ST"
+  },
+  {
     "name": "HackitOn2021",
     "page_link": "./art/AdwaithRajesh/index.html",
     "art_icon": "./art/AdwaithRajesh/icon.png",
@@ -92,6 +99,13 @@
     "author_github_url": "https://github.com/Raghav14200"
   },
   {
+    "name": "deathly hallows symbol",
+    "page_link": "./art/RaghavendraAchar4/index.html",
+    "art_icon": "./art/RaghavendraAchar4/icon.png",
+    "author_name": "RaghavendraAchar",
+    "author_github_url": "https://github.com/Raghav14200"
+  },
+  {
     "name": "Unknown",
     "page_link": "./art/Vivek2509/index.html",
     "art_icon": "./art/Vivek2509/icon.png",
@@ -125,6 +139,20 @@
     "art_icon": "./art/cyrus_mobini/icon.png",
     "author_name": "Cyrus Mobini",
     "author_github_url": "https://github.com/milad2281"
+  },
+  {
+    "name": "Olympics",
+    "page_link": "./art/ekta2901-1/index.html",
+    "art_icon": "./art/ekta2901-1/icon.png",
+    "author_name": "Ekta",
+    "author_github_url": "https://github.com/ekta2901/"
+  },
+  {
+    "name": "Hacktober Fest 2021",
+    "page_link": "./art/ekta2901-2/index.html",
+    "art_icon": "./art/ekta2901-2/icon.png",
+    "author_name": "Ekta",
+    "author_github_url": "https://github.com/ekta2901/"
   },
   {
     "name": "Moon Phase",
@@ -242,6 +270,13 @@
     "name": "Television",
     "page_link": "./art/rahulm2310-3/index.html",
     "art_icon": "./art/rahulm2310-3/icon.png",
+    "author_name": "Rahul Mohata",
+    "author_github_url": "https://github.com/rahulm2310/"
+  },
+  {
+    "name": "Dotzz",
+    "page_link": "./art/rahulm2310-4/index.html",
+    "art_icon": "./art/rahulm2310-4/icon.png",
     "author_name": "Rahul Mohata",
     "author_github_url": "https://github.com/rahulm2310/"
   },

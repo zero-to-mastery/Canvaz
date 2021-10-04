@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+h1{
+    color:#fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}
+
+input{
+    margin-bottom: 10px;
+}
