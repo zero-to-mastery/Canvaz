@@ -15,6 +15,13 @@
     "author_github_url": "https://github.com/Adwaith123/"
   },
   {
+    "name": "glow",
+    "page_link": "./art/Anuj_Mishra/index.html",
+    "art_icon": "./art/Anuj_Mishra/icon.png",
+    "author_name": "Anuj_Mishra",
+    "author_github_url": "https://github.com/ANmishra-a"
+  },
+  {
     "name": "Pixel the HTML5 Cat",
     "page_link": "./art/Gab990/index.html",
     "art_icon": "./art/Gab990/icon.png",
