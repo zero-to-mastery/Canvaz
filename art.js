@@ -141,6 +141,13 @@
     "author_github_url": "https://github.com/milad2281"
   },
   {
+    "name": "Clock",
+    "page_link": "./art/deepaksaipendyala/index.html",
+    "art_icon": "./art/deepaksaipendyala/icon.png",
+    "author_name": "deepak sai pendyala",
+    "author_github_url": "https://github.com/deepaksaipendyala"
+  },
+  {
     "name": "Olympics",
     "page_link": "./art/ekta2901-1/index.html",
     "art_icon": "./art/ekta2901-1/icon.png",
