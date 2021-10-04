@@ -323,6 +323,13 @@
     "author_github_url": "https://github.com/sn2606/"
   },
   {
+    "name": "Livestream Emojis",
+    "page_link": "./art/thucpn/index.html",
+    "art_icon": "./art/thucpn/icon.png",
+    "author_name": "thucpn",
+    "author_github_url": "https://github.com/thucpn"
+  },
+  {
     "name": "CubeFall",
     "page_link": "./art/usergr/index.html",
     "art_icon": "./art/usergr/icon.png",
