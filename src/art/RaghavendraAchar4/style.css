@@ -1,0 +1,16 @@
+#canvas {
+  border: 3px solid black;
+  background-color: whitesmoke;
+  background-position: center;
+  background-size: cover;
+}
+
+body {
+  margin: 0;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
