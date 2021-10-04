@@ -1,0 +1,40 @@
+body{
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin:0px;
+    padding: 0px;
+}
+
+.sky{
+    background: linear-gradient(to bottom, #f12711, #f5af19);
+    height: 300px;
+    width: 100%;
+}
+
+.sun{
+    background: yellow;
+    position: absolute;
+    top: 255px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 100px;
+    width: 200px;
+    border-radius: 150px 150px 0 0;
+}
+
+.sea{
+    background: linear-gradient(to bottom, #56CCF2, #2F80ED);
+    height: 300px;
+    width: 100%;
+}
+
+canvas{
+    width:auto;
+    height:auto;
+    position:absolute;
+    top: 200px;
+}

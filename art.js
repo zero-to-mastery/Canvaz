@@ -155,6 +155,13 @@
     "author_github_url": "https://github.com/ekta2901/"
   },
   {
+    "name": "Draw Shapes",
+    "page_link": "./art/ekta2901-3/index.html",
+    "art_icon": "./art/ekta2901-3/icon.png",
+    "author_name": "Ekta",
+    "author_github_url": "https://github.com/ekta2901/"
+  },
+  {
     "name": "Moon Phase",
     "page_link": "./art/gabriellend/index.html",
     "art_icon": "./art/gabriellend/icon.png",
