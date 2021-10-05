@@ -127,6 +127,13 @@
     "author_github_url": "https://github.com/Raghav14200"
   },
   {
+    "name": "JustTom",
+    "page_link": "./art/Tom_Sprotte/index.html",
+    "art_icon": "./art/Tom_Sprotte/icon.png",
+    "author_name": "JustTom77",
+    "author_github_url": "https://github.com/JustTom77"
+  },
+  {
     "name": "Unknown",
     "page_link": "./art/Vivek2509/index.html",
     "art_icon": "./art/Vivek2509/icon.png",
