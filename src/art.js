@@ -204,6 +204,13 @@
     "author_github_url": "https://github.com/HaylzRandom/"
   },
   {
+    "name": "Traideas",
+    "page_link": "./art/istiak/index.html",
+    "art_icon": "./art/istiak/icon.png",
+    "author_name": "Istiak",
+    "author_github_url": "https://github.com/istiak227/"
+  },
+  {
     "name": "Egg",
     "page_link": "./art/jkagawa/index.html",
     "art_icon": "./art/jkagawa/icon.png",
