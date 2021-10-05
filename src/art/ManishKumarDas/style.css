@@ -10,7 +10,8 @@ body {
 }
 
 #canvas {
-    border: white 0.2vw solid;
+    border: #444 0.2vw solid;
+    border-radius: 2vw;
     position: absolute;
     top: 50%;
     left: 50%;
