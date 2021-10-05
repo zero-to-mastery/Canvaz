@@ -1,0 +1,14 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+#wrap {
+	background: #FFFFFF;
+	margin: 10px;
+	max-width: 600px;
+}
+canvas {
+    border: 0px solid black;
+    margin: 10px 0px 20px 0px;
+}
+#desc {
+	font-family: 'Open Sans', sans-serif;
+}
