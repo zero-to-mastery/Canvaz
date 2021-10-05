@@ -2,6 +2,14 @@ let cards = [
   //  Add your card in this section
 
   {
+    artName: 'Simplicity',
+    pageLink: './Art/Aigerim/index.html',
+    imageLink: './Art/Aigeirm/trans.png',
+    author: 'Aigerim',
+    githubLink: 'https://github.com/Aigerim-ai'
+  },
+
+  {
     artName: 'Swedish Flag',
     pageLink: './Art/ka-hn/swe-flag.html',
     imageLink: './Art/ka-hn/swe-flag.png',
