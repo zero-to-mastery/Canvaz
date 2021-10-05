@@ -267,6 +267,13 @@
     "author_github_url": "https://github.com/mrkc2303/"
   },
   {
+    "name": "Visit Nepal",
+    "page_link": "./art/nayanathapa/index.html",
+    "art_icon": "./art/nayanathapa/icon.png",
+    "author_name": "Nayana Thapa",
+    "author_github_url": "https://github.com/nayana-thapa/"
+  },
+  {
     "name": "Hanging moon",
     "page_link": "./art/rachelktyjohnson/index.html",
     "art_icon": "./art/rachelktyjohnson/icon.png",
@@ -398,13 +405,6 @@
     "art_icon": "./art/vencho-mdp4/icon.png",
     "author_name": "Vencho",
     "author_github_url": "https://github.com/vencho-mdp"
-  },
-  {
-    "name": "Visit Nepal",
-    "page_link": "./art/nayanathapa/index.html",
-    "art_icon": "./art/nayanathapa/icon.png",
-    "author_name": "Nayana Thapa",
-    "author_github_url": "https://github.com/nayana-thapa"
   }
 ]
 
