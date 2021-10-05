@@ -78,6 +78,13 @@
     "author_github_url": "https://github.com/Kanwarbir02"
   },
   {
+    "name": "Random Shapes Grid",
+    "page_link": "./art/ManishKumarDas/index.html",
+    "art_icon": "./art/ManishKumarDas/icon.png",
+    "author_name": "Manish Kumar Das",
+    "author_github_url": "https://github.com/the-halfbloodprince"
+  },
+  {
     "name": "Microsoft Logo",
     "page_link": "./art/Navdeepsingh4298-Microsoft-Logo/index.html",
     "art_icon": "./art/Navdeepsingh4298-Microsoft-Logo/icon.png",
