@@ -21,6 +21,26 @@ body {
   background-color: #333;
 }
 
+#canvas1,
+#canvas2 {
+  animation: sec-anime 3s ease-in 0.5s infinite both;
+}
+
 #canvas2 {
   padding-left: 12rem;
+}
+
+/* Animation */
+@keyframes sec-anime {
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 0.5;
+  }
+
+  75% {
+    opacity: 1;
+  }
 }
