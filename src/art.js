@@ -29,6 +29,13 @@
     "author_github_url": "https://github.com/Gab990/"
   },
   {
+    "name": "Thank You",
+    "page_link": "./art/Gurpreet_singh98/index.html",
+    "art_icon": "./art/Gurpreet_singh98/icon.png",
+    "author_name": "Gurpreet Singh",
+    "author_github_url": "https://github.com/preetchani"
+  },
+  {
     "name": "Korean Flag",
     "page_link": "./art/Insidiae/index.html",
     "art_icon": "./art/Insidiae/icon.png",
