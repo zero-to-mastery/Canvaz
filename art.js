@@ -141,6 +141,13 @@
     "author_github_url": "https://github.com/JustTom77"
   },
   {
+    "name": "India_Using_Canvas",
+    "page_link": "./art/VigneshG1616/index.html",
+    "art_icon": "./art/VigneshG1616/icon.png",
+    "author_name": "Vignesh_G",
+    "author_github_url": "https://github.com/VigneshG1616/"
+  },
+  {
     "name": "Unknown",
     "page_link": "./art/Vivek2509/index.html",
     "art_icon": "./art/Vivek2509/icon.png",
@@ -167,6 +174,13 @@
     "art_icon": "./art/arvindtronics/icon.png",
     "author_name": "Arvind Kumar Thoppe",
     "author_github_url": "https://github.com/ARVINDTRONICS/"
+  },
+  {
+    "name": "A nice slice!",
+    "page_link": "./art/ckosa/index.html",
+    "art_icon": "./art/ckosa/icon.png",
+    "author_name": "ckosa",
+    "author_github_url": "https://github.com/ckosa/"
   },
   {
     "name": "ZombieSlayer",
