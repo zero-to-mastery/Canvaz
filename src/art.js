@@ -127,6 +127,13 @@
     "author_github_url": "https://github.com/Raghav14200"
   },
   {
+    "name": "India Logo",
+    "page_link": "./art/Shaikh_Mohammad_Danish/index.html",
+    "art_icon": "./art/Shaikh_Mohammad_Danish/icon.png",
+    "author_name": "Shaikh Mohammad Danish",
+    "author_github_url": "https://github.com/SMD-1"
+  },
+  {
     "name": "JustTom",
     "page_link": "./art/Tom_Sprotte/index.html",
     "art_icon": "./art/Tom_Sprotte/icon.png",
