@@ -307,6 +307,13 @@
     "author_github_url": "https://github.com/MattCSmith/"
   },
   {
+    "name": "UCI World Champion",
+    "page_link": "./art/mikerobards/index.html",
+    "art_icon": "./art/mikerobards/icon.png",
+    "author_name": "Mike Robards",
+    "author_github_url": "https://github.com/mikerobards"
+  },
+  {
     "name": "HacktoberSnailShell",
     "page_link": "./art/mohsin_sh/index.html",
     "art_icon": "./art/mohsin_sh/icon.png",
