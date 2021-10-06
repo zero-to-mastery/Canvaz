@@ -1,6 +1,13 @@
 
     let cards = [
   {
+    "name": "2X2 Game",
+    "page_link": "./art/2X2-game-main/index.html",
+    "art_icon": "./art/2X2-game-main/icon.png",
+    "author_name": "Rozen",
+    "author_github_url": "https://github.com/Rozen2007/"
+  },
+  {
     "name": "HeartPirates",
     "page_link": "./art/Abdo_AK_ST/index.html",
     "art_icon": "./art/Abdo_AK_ST/icon.png",
