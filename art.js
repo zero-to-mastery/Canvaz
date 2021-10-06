@@ -267,6 +267,11 @@
     "author_github_url": "https://github.com/jsh854"
   },
   {
+    "name": "HactoberSolar",
+    "page_link": "./art/keithEbbett/index.html",
+    "art_icon": "./art/keithEbbett/icon.png"
+  },
+  {
     "name": "3D-CUBE",
     "page_link": "./art/kunal.prakash/index.html",
     "art_icon": "./art/kunal.prakash/icon.png",
