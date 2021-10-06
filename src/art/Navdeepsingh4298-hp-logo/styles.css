@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: sans-serif;
+}
+
+.main-wrapper{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  width: 100%;
+  margin: auto;
+  padding: 1rem;
+}
+
+#canvas{
+  height: 500px;
+  width: 70%;
+  margin: 20px auto;
+  border-radius: 5px;
+  box-shadow: 0 0 20px #424242;
+  object-fit: contain;
+}
+
+.made-by{
+  font-size: 1.5rem;
+  color: rgb(91, 22, 180);
+}
