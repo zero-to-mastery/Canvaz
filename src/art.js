@@ -433,6 +433,13 @@
     "art_icon": "./art/vencho-mdp4/icon.png",
     "author_name": "Vencho",
     "author_github_url": "https://github.com/vencho-mdp"
+  },
+  {
+    "name": "Simple Maple Leaf",
+    "page_link": "./art/vic-cheng-canvas/index.html",
+    "art_icon": "./art/vic-cheng-canvas/icon.png",
+    "author_name": "Victoria",
+    "author_github_url": "https://github.com/victoriacheng15"
   }
 ]
 
