@@ -260,6 +260,13 @@
     "author_github_url": "https://github.com/jsh854"
   },
   {
+    "name": "3D-CUBE",
+    "page_link": "./art/kunal.prakash/index.html",
+    "art_icon": "./art/kunal.prakash/icon.png",
+    "author_name": "Kunal Prakash",
+    "author_github_url": "https://github.com/kunalprakash1309"
+  },
+  {
     "name": "HacktoberFox!",
     "page_link": "./art/mattcsmith/index.html",
     "art_icon": "./art/mattcsmith/icon.png",
