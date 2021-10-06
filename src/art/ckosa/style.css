@@ -1,0 +1,20 @@
+html{
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+
+body{
+  position: absolute;
+  background-image: radial-gradient(circle, #716e66,#ece2d4);
+}
+
+canvas{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 100vh;
+  border: 2px solid black;
+  background-image: linear-gradient(#916c45,#998a6d);
+}
