@@ -113,6 +113,13 @@
     "author_github_url": "https://github.com/navdeepsingh4298/"
   },
   {
+    "name": "HP Logo",
+    "page_link": "./art/Navdeepsingh4298-hp-logo/index.html",
+    "art_icon": "./art/Navdeepsingh4298-hp-logo/icon.png",
+    "author_name": "Navdeep Singh",
+    "author_github_url": "https://github.com/navdeepsingh4298/"
+  },
+  {
     "name": "Infinity Triangle",
     "page_link": "./art/PolisanTheEasyNick/index.html",
     "art_icon": "./art/PolisanTheEasyNick/icon.png",
