@@ -1,0 +1,28 @@
+:root {
+  --gunmetal-gray: hsl(60, 10%, 16%);
+  --misty-blue: hsl(196, 11%, 74%);
+  --olive-green: hsl(76, 20%, 22%);
+  --burnt-orange: hsl(24, 99%, 36%);
+}
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: var(--misty-blue);
+}
+
+.canvas {
+  background: var(--misty-blue);
+  /* border: 5px solid var(--gunmetal-gray); */
+  width: 600px;
+  height: 500px;
+}
