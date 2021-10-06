@@ -43,6 +43,13 @@
     "author_github_url": "https://github.com/preetchani"
   },
   {
+    "name": "Hacktober-Aum",
+    "page_link": "./art/Harshit-Bhat/index.html",
+    "art_icon": "./art/Harshit-Bhat/icon.png",
+    "author_name": "Harshit Bhat",
+    "author_github_url": "https://github.com/harshitbhat/"
+  },
+  {
     "name": "Korean Flag",
     "page_link": "./art/Insidiae/index.html",
     "art_icon": "./art/Insidiae/icon.png",
