@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: palegoldenrod;
+}
+.main {
+  padding: 4.5rem;
+}
+
+.section-canvas {
+  max-width: 50rem;
+  padding: 3.2rem 3.2rem;
+  margin: 0 auto;
+  background-color: #333;
+}
+
+#canvas1,
+#canvas2 {
+  animation: sec-anime 3s ease-in 0.5s infinite both;
+}
+
+#canvas2 {
+  padding-left: 12rem;
+}
+
+/* Animation */
+@keyframes sec-anime {
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 0.5;
+  }
+
+  75% {
+    opacity: 1;
+  }
+}
