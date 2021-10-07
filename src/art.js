@@ -36,6 +36,13 @@
     "author_github_url": "https://github.com/Gab990/"
   },
   {
+    "name": "Moving Duck",
+    "page_link": "./art/Gurpreet_Singh/index.html",
+    "art_icon": "./art/Gurpreet_Singh/icon.png",
+    "author_name": "Gurpreet Singh",
+    "author_github_url": "https://github.com/preetchani"
+  },
+  {
     "name": "Thank You",
     "page_link": "./art/Gurpreet_singh98/index.html",
     "art_icon": "./art/Gurpreet_singh98/icon.png",
@@ -258,6 +265,13 @@
     "art_icon": "./art/gabriellend/icon.png",
     "author_name": "Gabrielle Davidson",
     "author_github_url": "https://github.com/gabriellend"
+  },
+  {
+    "name": "Pixel Turquoise",
+    "page_link": "./art/godnon-pixel-turquoise/index.html",
+    "art_icon": "./art/godnon-pixel-turquoise/icon.png",
+    "author_name": "Godnon",
+    "author_github_url": "https://github.com/godnondsilva"
   },
   {
     "name": "Snowfall",
