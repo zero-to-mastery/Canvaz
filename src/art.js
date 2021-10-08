@@ -36,6 +36,13 @@
     "author_github_url": "https://github.com/Gab990/"
   },
   {
+    "name": "Moving Duck",
+    "page_link": "./art/Gurpreet_Singh/index.html",
+    "art_icon": "./art/Gurpreet_Singh/icon.png",
+    "author_name": "Gurpreet Singh",
+    "author_github_url": "https://github.com/preetchani"
+  },
+  {
     "name": "Thank You",
     "page_link": "./art/Gurpreet_singh98/index.html",
     "art_icon": "./art/Gurpreet_singh98/icon.png",
@@ -62,6 +69,13 @@
     "art_icon": "./art/Insidiae2/icon.png",
     "author_name": "Insidiae",
     "author_github_url": "https://github.com/Insidiae/"
+  },
+  {
+    "name": "HacktoberClock",
+    "page_link": "./art/James_Crawford/index.html",
+    "art_icon": "./art/James_Crawford/icon.png",
+    "author_name": "James Crawford",
+    "author_github_url": "https://github.com/JMCrawf/"
   },
   {
     "name": "React-Logo",
@@ -155,6 +169,13 @@
     "author_github_url": "https://github.com/Raghav14200"
   },
   {
+    "name": "Grow_Dots",
+    "page_link": "./art/Rajbir_banerjee/index.html",
+    "art_icon": "./art/Rajbir_banerjee/icon.png",
+    "author_name": "Rajbir Banerjee",
+    "author_github_url": "https://github.com/rajbir21-droid"
+  },
+  {
     "name": "India Logo",
     "page_link": "./art/Shaikh_Mohammad_Danish/index.html",
     "art_icon": "./art/Shaikh_Mohammad_Danish/icon.png",
@@ -188,6 +209,13 @@
     "art_icon": "./art/aditya_singh/icon.png",
     "author_name": "Aditya",
     "author_github_url": "https://github.com/adityasingh2509"
+  },
+  {
+    "name": "HacktoberRotation!",
+    "page_link": "./art/anirbansarkar/index.html",
+    "art_icon": "./art/anirbansarkar/icon.png",
+    "author_name": "Anirban",
+    "author_github_url": "https://github.com/anirban-s/"
   },
   {
     "name": "DotPattern",
@@ -258,6 +286,13 @@
     "art_icon": "./art/gabriellend/icon.png",
     "author_name": "Gabrielle Davidson",
     "author_github_url": "https://github.com/gabriellend"
+  },
+  {
+    "name": "Pixel Turquoise",
+    "page_link": "./art/godnon-pixel-turquoise/index.html",
+    "art_icon": "./art/godnon-pixel-turquoise/icon.png",
+    "author_name": "Godnon",
+    "author_github_url": "https://github.com/godnondsilva"
   },
   {
     "name": "Snowfall",
