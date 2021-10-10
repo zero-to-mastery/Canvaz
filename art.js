@@ -281,6 +281,13 @@
     "author_github_url": "https://github.com/ARVINDTRONICS/"
   },
   {
+    "name": "Particles of Beauty",
+    "page_link": "./art/atchyut_theonly1me/index.html",
+    "art_icon": "./art/atchyut_theonly1me/icon.png",
+    "author_name": "Atchyut Preetham Pulavarthi / theonly1me",
+    "author_github_url": "https://github.com/theonly1me/"
+  },
+  {
     "name": "HacktobersimpleParticle",
     "page_link": "./art/belalbilaldev1/index.html",
     "art_icon": "./art/belalbilaldev1/icon.png",
