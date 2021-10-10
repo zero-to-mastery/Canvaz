@@ -120,6 +120,13 @@
     "author_github_url": "https://github.com/the-halfbloodprince"
   },
   {
+    "name": "Bubbles",
+    "page_link": "./art/ManishKumarDas2/index.html",
+    "art_icon": "./art/ManishKumarDas2/icon.png",
+    "author_name": "Manish Kumar Das",
+    "author_github_url": "https://github.com/the-halfbloodprince"
+  },
+  {
     "name": "Microsoft Logo",
     "page_link": "./art/Navdeepsingh4298-Microsoft-Logo/index.html",
     "art_icon": "./art/Navdeepsingh4298-Microsoft-Logo/icon.png",
