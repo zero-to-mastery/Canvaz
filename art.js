@@ -274,6 +274,13 @@
     "author_github_url": "https://github.com/chirayumit001"
   },
   {
+    "name": "Collision color changer",
+    "page_link": "./art/chirayu_mittal_2/index.html",
+    "art_icon": "./art/chirayu_mittal_2/icon.png",
+    "author_name": "Chirayu Mittal",
+    "author_github_url": "https://github.com/chirayumit001"
+  },
+  {
     "name": "A nice slice!",
     "page_link": "./art/ckosa/index.html",
     "art_icon": "./art/ckosa/icon.png",
