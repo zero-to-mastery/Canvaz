@@ -1,0 +1,50 @@
+body {
+	font-family: 'Open Sans';
+	font-size: 14px;
+}
+
+h1 {
+	font-size: 200%;
+}
+
+h2 {
+	font-size: 175%;
+}
+
+h3 {
+	font-size: 140%;
+	text-align: center;
+}
+
+canvas {
+	border: 1px solid #000;
+	margin: 1% 0 0 9%;
+}
+
+section {
+	float: left;
+	width: 20%;
+}
+
+.clearfix {
+	clear: both;
+}
+
+.demo {
+	cursor: pointer;
+	padding: 10px;
+	border: 1px solid #333;
+	margin: 10px 0 0 5px;
+	text-align: center;
+	width: 100%;
+	display: inline-block;
+	float: left;
+}
+
+.demo:hover {
+	background-color: #ccc;
+}
+
+#demo-event {
+	padding-left: 10px;
+}
