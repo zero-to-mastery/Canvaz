@@ -288,6 +288,13 @@
     "author_github_url": "https://github.com/belalbilaldev"
   },
   {
+    "name": "Ball Effect",
+    "page_link": "./art/chathurasam/index.html",
+    "art_icon": "./art/chathurasam/icon.png",
+    "author_name": "Chathura Samarajeewa",
+    "author_github_url": "https://github.com/ChathuraSam/"
+  },
+  {
     "name": "Snow-Fall",
     "page_link": "./art/chirayu_mittal/index.html",
     "art_icon": "./art/chirayu_mittal/icon.png",
