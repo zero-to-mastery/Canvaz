@@ -120,6 +120,13 @@
     "author_github_url": "https://github.com/Kanwarbir02"
   },
   {
+    "name": "Toast",
+    "page_link": "./art/MLousdal/index.html",
+    "art_icon": "./art/MLousdal/icon.png",
+    "author_name": "MLousdal",
+    "author_github_url": "https://github.com/MLousdal/"
+  },
+  {
     "name": "Random Shapes Grid",
     "page_link": "./art/ManishKumarDas/index.html",
     "art_icon": "./art/ManishKumarDas/icon.png",
