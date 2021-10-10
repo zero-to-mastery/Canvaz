@@ -197,6 +197,13 @@
     "author_github_url": "https://github.com/JustTom77"
   },
   {
+    "name": "Rotate",
+    "page_link": "./art/Ukesh-dev/index.html",
+    "art_icon": "./art/Ukesh-dev/icon.png",
+    "author_name": "Ukesh Shrestha",
+    "author_github_url": "https://github.com/Ukesh-dev"
+  },
+  {
     "name": "India_Using_Canvas",
     "page_link": "./art/VigneshG1616/index.html",
     "art_icon": "./art/VigneshG1616/icon.png",
