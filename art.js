@@ -599,6 +599,13 @@
     "art_icon": "./art/vic-cheng-canvas/icon.png",
     "author_name": "Victoria",
     "author_github_url": "https://github.com/victoriacheng15"
+  },
+  {
+    "name": "Blue Gradient Box",
+    "page_link": "./art/viktorlinus/index.html",
+    "art_icon": "./art/viktorlinus/icon.png",
+    "author_name": "Eken",
+    "author_github_url": "https://github.com/viktorlinus/"
   }
 ]
 
