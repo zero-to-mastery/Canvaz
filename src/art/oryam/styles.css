@@ -1,0 +1,57 @@
+body {
+  font-family: 'Comic Neue', cursive;
+}
+
+h1 {
+  text-align: center;
+  color: #ca0816;
+  text-shadow: #2ba1e0 0 5px 5px;
+  font-size: 4rem;
+}
+
+img {
+  display: inline-block;
+  width: 400px;
+}
+
+#wrapper {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+#toolbar {
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 400px;
+  width: 200px;
+}
+
+#clearBtn {
+  height: 40px;
+  background-color: crimson;
+  color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#saveBtn {
+  text-decoration: none;
+  text-align: center;
+  background-color: #80bde0;
+  border: 1px solid black;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#paintCanvas {
+  width: 600px;
+  height: 400px;
+  border: dotted black 3px;
+  cursor: crosshair;
+}
