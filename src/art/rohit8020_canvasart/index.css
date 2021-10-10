@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(0, 2, 32);
+    display: flex;
+    justify-content: center;
+}
+
+#mycanvas{
+    margin-top: 40px;
+    display: block;
+    background-color: rgb(42, 18, 9);
+}
