@@ -29,6 +29,13 @@
     "author_github_url": "https://github.com/ANmishra-a"
   },
   {
+    "name": "Indian Flag",
+    "page_link": "./art/CaptainUz/index.html",
+    "art_icon": "./art/CaptainUz/icon.png",
+    "author_name": "Uzma FKhan",
+    "author_github_url": "https://github.com/uzma024"
+  },
+  {
     "name": "Pixel the HTML5 Cat",
     "page_link": "./art/Gab990/index.html",
     "art_icon": "./art/Gab990/icon.png",
@@ -302,6 +309,13 @@
     "author_github_url": "https://github.com/ClintWinter/"
   },
   {
+    "name": "Abu Dhabi flag",
+    "page_link": "./art/coder284/index.html",
+    "art_icon": "./art/coder284/icon.png",
+    "author_name": "coder284",
+    "author_github_url": "https://github.com/coder284"
+  },
+  {
     "name": "ZombieSlayer",
     "page_link": "./art/cyrus_mobini/index.html",
     "art_icon": "./art/cyrus_mobini/icon.png",
@@ -314,6 +328,13 @@
     "art_icon": "./art/deepaksaipendyala/icon.png",
     "author_name": "deepak sai pendyala",
     "author_github_url": "https://github.com/deepaksaipendyala"
+  },
+  {
+    "name": "circumbow",
+    "page_link": "./art/dewansh_Patle/index.html",
+    "art_icon": "./art/dewansh_Patle/icon.png",
+    "author_name": "Dewansh",
+    "author_github_url": "https://github.com/dewansh16"
   },
   {
     "name": "Olympics",
