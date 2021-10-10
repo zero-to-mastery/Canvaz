@@ -36,6 +36,13 @@
     "author_github_url": "https://github.com/Gab990/"
   },
   {
+    "name": "Hacktober-Gita-Quote",
+    "page_link": "./art/Gita-Quote/index.html",
+    "art_icon": "./art/Gita-Quote/icon.png",
+    "author_name": "Harshit",
+    "author_github_url": "https://github.com/harshitbhat/"
+  },
+  {
     "name": "Moving Duck",
     "page_link": "./art/Gurpreet_Singh/index.html",
     "art_icon": "./art/Gurpreet_Singh/icon.png",

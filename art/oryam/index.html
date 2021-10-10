@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/styles.css" />
+    <title>Oryam's canvas</title>
+  </head>
+  <body>
+    <h1>Web Paint</h1>
+    <div id="wrapper">
+      <div id="toolbar">
+        <div>
+          <label for="brushSize">Size</label>
+          <input id="brushSize" type="range" value="11" min="1" max="20" />
+        </div>
+        <div>
+          <label for="brushColor">Color</label>
+          <input id="brushColor" type="color" value="#000000" />
+        </div>
+        <div>
+          <label for="bgColor">Background</label>
+          <input id="bgColor" type="color" value="#FFFFFF" />
+        </div>
+        <div>
+          <label for="fileLoad">Upload image </label>
+          <input id="fileLoadBtn" type="file" value="load file" />
+        </div>
+        <a href="#" id="saveBtn" download="canvas.png">Save image</a>
+        <button id="clearBtn">Clear Canvas</button>
+      </div>
+
+      <div>
+        <canvas id="paintCanvas" width="600" height="400"></canvas>
+        <div>
+          <span id="mousePos">0,0</span>
+          <span id="brushColorVal">#000000</span>
+          <span id="brushSizeVal">11</span>
+        </div>
+      </div>
+      <img src="https://pbs.twimg.com/media/DoJQDA7VAAAQpuc.png" />
+    </div>
+    <script src="/main.js"></script>
+  </body>
+</html>
