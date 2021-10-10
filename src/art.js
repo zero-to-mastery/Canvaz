@@ -384,6 +384,13 @@
     "author_github_url": "https://github.com/kunalprakash1309"
   },
   {
+    "name": "3D Ring",
+    "page_link": "./art/leonyangela/index.html",
+    "art_icon": "./art/leonyangela/icon.png",
+    "author_name": "Leoni Angela",
+    "author_github_url": "https://github.com/leonyangela"
+  },
+  {
     "name": "HacktoberFox!",
     "page_link": "./art/mattcsmith/index.html",
     "art_icon": "./art/mattcsmith/icon.png",
