@@ -55,5 +55,27 @@ function draw2() {
   ctx.fillText("INDIA", 10, 50);
 }
 
+function draw3() {
+  var canvas = document.getElementById("canvas3");
+  if (canvas.getContext) {
+    var ctx = canvas.getContext("2d");
+
+    ctx.beginPath();
+    ctx.moveTo(40, 100);
+    ctx.lineTo(75, 125);
+    ctx.lineTo(40, 150);
+    ctx.fillStyle = "rgb(221, 44, 0)";
+    ctx.fill();
+
+    ctx.beginPath();
+    ctx.moveTo(100, 100);
+    ctx.lineTo(65, 125);
+    ctx.lineTo(100, 150);
+    ctx.fillStyle = "rgb(221, 44, 0)";
+    ctx.fill();
+  }
+}
+
 draw1();
 draw2();
+draw3();
