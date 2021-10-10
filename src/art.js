@@ -398,6 +398,13 @@
     "author_github_url": "https://github.com/mrkc2303/"
   },
   {
+    "name": "Vue Logo",
+    "page_link": "./art/naresh-khatri-vue-logo/index.html",
+    "art_icon": "./art/naresh-khatri-vue-logo/icon.png",
+    "author_name": "Naresh Khatri",
+    "author_github_url": "https://github.com/Naresh-Khatri"
+  },
+  {
     "name": "Visit Nepal",
     "page_link": "./art/nayanathapa/index.html",
     "art_icon": "./art/nayanathapa/icon.png",
