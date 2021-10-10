@@ -36,6 +36,13 @@
     "author_github_url": "https://github.com/uzma024"
   },
   {
+    "name": "Albanian Flag",
+    "page_link": "./art/Coku/index.html",
+    "art_icon": "./art/Coku/icon.png",
+    "author_name": "Coku",
+    "author_github_url": "https://github.com/MrCoku/"
+  },
+  {
     "name": "Pixel the HTML5 Cat",
     "page_link": "./art/Gab990/index.html",
     "art_icon": "./art/Gab990/icon.png",
@@ -218,6 +225,13 @@
     "author_github_url": "https://github.com/SMD-1"
   },
   {
+    "name": "Hello Hacktoberfest 2021",
+    "page_link": "./art/ThesllaDev/index.html",
+    "art_icon": "./art/ThesllaDev/icon.png",
+    "author_name": "ThesllaDev",
+    "author_github_url": "https://github.com/ThesllaDev/"
+  },
+  {
     "name": "JustTom",
     "page_link": "./art/Tom_Sprotte/index.html",
     "art_icon": "./art/Tom_Sprotte/icon.png",
@@ -263,6 +277,13 @@
     "name": "Bubbles",
     "page_link": "./art/anirbansarkar2/index.html",
     "art_icon": "./art/anirbansarkar2/icon.png",
+    "author_name": "Anirban",
+    "author_github_url": "https://github.com/anirban-s/"
+  },
+  {
+    "name": "Drawing Circle",
+    "page_link": "./art/anirbansarkar3/index.html",
+    "art_icon": "./art/anirbansarkar3/icon.png",
     "author_name": "Anirban",
     "author_github_url": "https://github.com/anirban-s/"
   },
@@ -447,6 +468,13 @@
     "author_github_url": "https://github.com/kunalprakash1309"
   },
   {
+    "name": "The Dark Knight Logo",
+    "page_link": "./art/lenspira/index.html",
+    "art_icon": "./art/lenspira/icon.png",
+    "author_name": "Leonard DeMarco",
+    "author_github_url": "https://github.com/lenspira/"
+  },
+  {
     "name": "3D Ring",
     "page_link": "./art/leonyangela/index.html",
     "art_icon": "./art/leonyangela/icon.png",
@@ -599,6 +627,13 @@
     "art_icon": "./art/rahulm2310-4/icon.png",
     "author_name": "Rahul Mohata",
     "author_github_url": "https://github.com/rahulm2310/"
+  },
+  {
+    "name": "Box_Animation",
+    "page_link": "./art/rohit8020_canvasart/index.html",
+    "art_icon": "./art/rohit8020_canvasart/icon.png",
+    "author_name": "Rohit_Gangwar",
+    "author_github_url": "https://github.com/rohit8020"
   },
   {
     "name": "Random tree",
