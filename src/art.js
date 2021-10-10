@@ -218,6 +218,13 @@
     "author_github_url": "https://github.com/rajbir21-droid"
   },
   {
+    "name": "Superman-Logo",
+    "page_link": "./art/Rajbir_banerjee_2/index.html",
+    "art_icon": "./art/Rajbir_banerjee_2/icon.png",
+    "author_name": "Rajbir Banerjee",
+    "author_github_url": "https://github.com/rajbir21-droid"
+  },
+  {
     "name": "India Logo",
     "page_link": "./art/Shaikh_Mohammad_Danish/index.html",
     "art_icon": "./art/Shaikh_Mohammad_Danish/icon.png",
