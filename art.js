@@ -316,6 +316,13 @@
     "author_github_url": "https://github.com/gabriellend"
   },
   {
+    "name": "Minecraft Target",
+    "page_link": "./art/godnon-minecraft-target/index.html",
+    "art_icon": "./art/godnon-minecraft-target/icon.png",
+    "author_name": "Godnon",
+    "author_github_url": "https://github.com/godnondsilva"
+  },
+  {
     "name": "Pixel Turquoise",
     "page_link": "./art/godnon-pixel-turquoise/index.html",
     "art_icon": "./art/godnon-pixel-turquoise/icon.png",
