@@ -225,6 +225,13 @@
     "author_github_url": "https://github.com/anirban-s/"
   },
   {
+    "name": "Bubbles",
+    "page_link": "./art/anirbansarkar2/index.html",
+    "art_icon": "./art/anirbansarkar2/icon.png",
+    "author_name": "Anirban",
+    "author_github_url": "https://github.com/anirban-s/"
+  },
+  {
     "name": "DotPattern",
     "page_link": "./art/ankeshp03/index.html",
     "art_icon": "./art/ankeshp03/icon.png",
@@ -251,6 +258,13 @@
     "art_icon": "./art/ckosa/icon.png",
     "author_name": "ckosa",
     "author_github_url": "https://github.com/ckosa/"
+  },
+  {
+    "name": "Hack-o-lantern",
+    "page_link": "./art/clintwinter/index.html",
+    "art_icon": "./art/clintwinter/icon.png",
+    "author_name": "Clint",
+    "author_github_url": "https://github.com/ClintWinter/"
   },
   {
     "name": "ZombieSlayer",
