@@ -260,6 +260,13 @@
     "author_github_url": "https://github.com/ARVINDTRONICS/"
   },
   {
+    "name": "HacktobersimpleParticle",
+    "page_link": "./art/belalbilaldev1/index.html",
+    "art_icon": "./art/belalbilaldev1/icon.png",
+    "author_name": "belaldev",
+    "author_github_url": "https://github.com/belalbilaldev"
+  },
+  {
     "name": "Snow-Fall",
     "page_link": "./art/chirayu_mittal/index.html",
     "art_icon": "./art/chirayu_mittal/icon.png",
