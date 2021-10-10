@@ -176,6 +176,13 @@
     "author_github_url": "https://github.com/navdeepsingh4298/"
   },
   {
+    "name": "NishantDraw",
+    "page_link": "./art/Nishant_Minerva/index.html",
+    "art_icon": "./art/Nishant_Minerva/icon.png",
+    "author_name": "Nishant Minerva",
+    "author_github_url": "https://github.com/nishantminerva"
+  },
+  {
     "name": "Infinity Triangle",
     "page_link": "./art/PolisanTheEasyNick/index.html",
     "art_icon": "./art/PolisanTheEasyNick/icon.png",
