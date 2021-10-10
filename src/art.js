@@ -454,6 +454,13 @@
     "author_github_url": "https://github.com/NikkiKal"
   },
   {
+    "name": "Web-paint",
+    "page_link": "./art/oryam/index.html",
+    "art_icon": "./art/oryam/icon.png",
+    "author_name": "oryam",
+    "author_github_url": "https://github.com/or-yam/"
+  },
+  {
     "name": "Hanging moon",
     "page_link": "./art/rachelktyjohnson/index.html",
     "art_icon": "./art/rachelktyjohnson/icon.png",
