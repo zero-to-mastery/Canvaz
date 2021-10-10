@@ -57,6 +57,13 @@
     "author_github_url": "https://github.com/preetchani"
   },
   {
+    "name": "Basic Shapes",
+    "page_link": "./art/Gurpreet_Singh2498/index.html",
+    "art_icon": "./art/Gurpreet_Singh2498/icon.png",
+    "author_name": "Gurpreet Singh",
+    "author_github_url": "https://github.com/preetchani"
+  },
+  {
     "name": "Thank You",
     "page_link": "./art/Gurpreet_singh98/index.html",
     "art_icon": "./art/Gurpreet_singh98/icon.png",
@@ -489,6 +496,13 @@
     "author_github_url": "https://github.com/Naresh-Khatri"
   },
   {
+    "name": "Snake Game",
+    "page_link": "./art/nataliarossini/index.html",
+    "art_icon": "./art/nataliarossini/icon.png",
+    "author_name": "Natalia",
+    "author_github_url": "https://github.com/nataliarossini/"
+  },
+  {
     "name": "Visit Nepal",
     "page_link": "./art/nayanathapa/index.html",
     "art_icon": "./art/nayanathapa/icon.png",
@@ -592,6 +606,13 @@
     "art_icon": "./art/saqlainrasheed/icon.png",
     "author_name": "Saqlain Rasheed",
     "author_github_url": "https://github.com/saqlainrasheed/"
+  },
+  {
+    "name": "Infinite",
+    "page_link": "./art/saurabh_kamble/index.html",
+    "art_icon": "./art/saurabh_kamble/icon.png",
+    "author_name": "Saurabh Kamble",
+    "author_github_url": "https://github.com/saurabh2836/"
   },
   {
     "name": "Fibonacci Spiral",
