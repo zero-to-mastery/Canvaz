@@ -1,0 +1,14 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: #dfdeda;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}

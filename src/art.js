@@ -36,6 +36,13 @@
     "author_github_url": "https://github.com/Gab990/"
   },
   {
+    "name": "Moving Duck",
+    "page_link": "./art/Gurpreet_Singh/index.html",
+    "art_icon": "./art/Gurpreet_Singh/icon.png",
+    "author_name": "Gurpreet Singh",
+    "author_github_url": "https://github.com/preetchani"
+  },
+  {
     "name": "Thank You",
     "page_link": "./art/Gurpreet_singh98/index.html",
     "art_icon": "./art/Gurpreet_singh98/icon.png",
@@ -62,6 +69,13 @@
     "art_icon": "./art/Insidiae2/icon.png",
     "author_name": "Insidiae",
     "author_github_url": "https://github.com/Insidiae/"
+  },
+  {
+    "name": "HacktoberClock",
+    "page_link": "./art/James_Crawford/index.html",
+    "art_icon": "./art/James_Crawford/icon.png",
+    "author_name": "James Crawford",
+    "author_github_url": "https://github.com/JMCrawf/"
   },
   {
     "name": "React-Logo",
@@ -106,9 +120,23 @@
     "author_github_url": "https://github.com/the-halfbloodprince"
   },
   {
+    "name": "Bubbles",
+    "page_link": "./art/ManishKumarDas2/index.html",
+    "art_icon": "./art/ManishKumarDas2/icon.png",
+    "author_name": "Manish Kumar Das",
+    "author_github_url": "https://github.com/the-halfbloodprince"
+  },
+  {
     "name": "Microsoft Logo",
     "page_link": "./art/Navdeepsingh4298-Microsoft-Logo/index.html",
     "art_icon": "./art/Navdeepsingh4298-Microsoft-Logo/icon.png",
+    "author_name": "Navdeep Singh",
+    "author_github_url": "https://github.com/navdeepsingh4298/"
+  },
+  {
+    "name": "HP Logo",
+    "page_link": "./art/Navdeepsingh4298-hp-logo/index.html",
+    "art_icon": "./art/Navdeepsingh4298-hp-logo/icon.png",
     "author_name": "Navdeep Singh",
     "author_github_url": "https://github.com/navdeepsingh4298/"
   },
@@ -148,6 +176,13 @@
     "author_github_url": "https://github.com/Raghav14200"
   },
   {
+    "name": "Grow_Dots",
+    "page_link": "./art/Rajbir_banerjee/index.html",
+    "art_icon": "./art/Rajbir_banerjee/icon.png",
+    "author_name": "Rajbir Banerjee",
+    "author_github_url": "https://github.com/rajbir21-droid"
+  },
+  {
     "name": "India Logo",
     "page_link": "./art/Shaikh_Mohammad_Danish/index.html",
     "art_icon": "./art/Shaikh_Mohammad_Danish/icon.png",
@@ -160,6 +195,13 @@
     "art_icon": "./art/Tom_Sprotte/icon.png",
     "author_name": "JustTom77",
     "author_github_url": "https://github.com/JustTom77"
+  },
+  {
+    "name": "Rotate",
+    "page_link": "./art/Ukesh-dev/index.html",
+    "art_icon": "./art/Ukesh-dev/icon.png",
+    "author_name": "Ukesh Shrestha",
+    "author_github_url": "https://github.com/Ukesh-dev"
   },
   {
     "name": "India_Using_Canvas",
@@ -183,6 +225,20 @@
     "author_github_url": "https://github.com/adityasingh2509"
   },
   {
+    "name": "HacktoberRotation!",
+    "page_link": "./art/anirbansarkar/index.html",
+    "art_icon": "./art/anirbansarkar/icon.png",
+    "author_name": "Anirban",
+    "author_github_url": "https://github.com/anirban-s/"
+  },
+  {
+    "name": "Bubbles",
+    "page_link": "./art/anirbansarkar2/index.html",
+    "art_icon": "./art/anirbansarkar2/icon.png",
+    "author_name": "Anirban",
+    "author_github_url": "https://github.com/anirban-s/"
+  },
+  {
     "name": "DotPattern",
     "page_link": "./art/ankeshp03/index.html",
     "art_icon": "./art/ankeshp03/icon.png",
@@ -197,11 +253,25 @@
     "author_github_url": "https://github.com/ARVINDTRONICS/"
   },
   {
+    "name": "Snow-Fall",
+    "page_link": "./art/chirayu_mittal/index.html",
+    "art_icon": "./art/chirayu_mittal/icon.png",
+    "author_name": "Chirayu Mittal",
+    "author_github_url": "https://github.com/chirayumit001"
+  },
+  {
     "name": "A nice slice!",
     "page_link": "./art/ckosa/index.html",
     "art_icon": "./art/ckosa/icon.png",
     "author_name": "ckosa",
     "author_github_url": "https://github.com/ckosa/"
+  },
+  {
+    "name": "Hack-o-lantern",
+    "page_link": "./art/clintwinter/index.html",
+    "art_icon": "./art/clintwinter/icon.png",
+    "author_name": "Clint",
+    "author_github_url": "https://github.com/ClintWinter/"
   },
   {
     "name": "ZombieSlayer",
@@ -253,6 +323,20 @@
     "author_github_url": "https://github.com/gabriellend"
   },
   {
+    "name": "Minecraft Target",
+    "page_link": "./art/godnon-minecraft-target/index.html",
+    "art_icon": "./art/godnon-minecraft-target/icon.png",
+    "author_name": "Godnon",
+    "author_github_url": "https://github.com/godnondsilva"
+  },
+  {
+    "name": "Pixel Turquoise",
+    "page_link": "./art/godnon-pixel-turquoise/index.html",
+    "art_icon": "./art/godnon-pixel-turquoise/icon.png",
+    "author_name": "Godnon",
+    "author_github_url": "https://github.com/godnondsilva"
+  },
+  {
     "name": "Snowfall",
     "page_link": "./art/haylzrandom/index.html",
     "art_icon": "./art/haylzrandom/icon.png",
@@ -300,6 +384,13 @@
     "author_github_url": "https://github.com/MattCSmith/"
   },
   {
+    "name": "UCI World Champion",
+    "page_link": "./art/mikerobards/index.html",
+    "art_icon": "./art/mikerobards/icon.png",
+    "author_name": "Mike Robards",
+    "author_github_url": "https://github.com/mikerobards"
+  },
+  {
     "name": "HacktoberSnailShell",
     "page_link": "./art/mohsin_sh/index.html",
     "art_icon": "./art/mohsin_sh/icon.png",
@@ -333,6 +424,13 @@
     "art_icon": "./art/mrkc2303_3/icon.png",
     "author_name": "Kanishk Chhabra",
     "author_github_url": "https://github.com/mrkc2303/"
+  },
+  {
+    "name": "Vue Logo",
+    "page_link": "./art/naresh-khatri-vue-logo/index.html",
+    "art_icon": "./art/naresh-khatri-vue-logo/icon.png",
+    "author_name": "Naresh Khatri",
+    "author_github_url": "https://github.com/Naresh-Khatri"
   },
   {
     "name": "Visit Nepal",

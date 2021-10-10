@@ -1,0 +1,19 @@
+html{
+    background: linear-gradient(to top, #283E51, #0A2342);
+    background-size: cover;
+  }
+  
+  canvas{
+    z-index: 2;
+  }
+  
+  .text{
+    text-align: center;
+    color:#ffffff6b;
+    font-size: 28px;
+    width: 100%;
+    top:130px;
+    position: absolute;
+    margin:0 auto;
+    display: block;
+  }
