@@ -232,6 +232,13 @@
     "author_github_url": "https://github.com/rajbir21-droid"
   },
   {
+    "name": "Flag of Switzerland",
+    "page_link": "./art/Rajbir_banerjee_3/index.html",
+    "art_icon": "./art/Rajbir_banerjee_3/icon.png",
+    "author_name": "Rajbir Banerjee",
+    "author_github_url": "https://github.com/rajbir21-droid"
+  },
+  {
     "name": "India Logo",
     "page_link": "./art/Shaikh_Mohammad_Danish/index.html",
     "art_icon": "./art/Shaikh_Mohammad_Danish/icon.png",
@@ -302,6 +309,13 @@
     "author_github_url": "https://github.com/anirban-s/"
   },
   {
+    "name": "Purple Star",
+    "page_link": "./art/anirbansarkar4/index.html",
+    "art_icon": "./art/anirbansarkar4/icon.png",
+    "author_name": "Anirban",
+    "author_github_url": "https://github.com/anirban-s/"
+  },
+  {
     "name": "DotPattern",
     "page_link": "./art/ankeshp03/index.html",
     "art_icon": "./art/ankeshp03/icon.png",
@@ -368,6 +382,13 @@
     "name": "Abu Dhabi flag",
     "page_link": "./art/coder284/index.html",
     "art_icon": "./art/coder284/icon.png",
+    "author_name": "coder284",
+    "author_github_url": "https://github.com/coder284"
+  },
+  {
+    "name": "Japan flag",
+    "page_link": "./art/coder284_2/index.html",
+    "art_icon": "./art/coder284_2/icon.png",
     "author_name": "coder284",
     "author_github_url": "https://github.com/coder284"
   },
@@ -475,6 +496,13 @@
     "art_icon": "./art/keithEbbett/icon.png"
   },
   {
+    "name": "Square animation",
+    "page_link": "./art/ktra99/index.html",
+    "art_icon": "./art/ktra99/icon.png",
+    "author_name": "Kenny Tran",
+    "author_github_url": "https://github.com/ktra99"
+  },
+  {
     "name": "3D-CUBE",
     "page_link": "./art/kunal.prakash/index.html",
     "art_icon": "./art/kunal.prakash/icon.png",
@@ -578,6 +606,13 @@
     "art_icon": "./art/oryam/icon.png",
     "author_name": "oryam",
     "author_github_url": "https://github.com/or-yam/"
+  },
+  {
+    "name": "Squid Playground",
+    "page_link": "./art/preetham_pulavarthi/index.html",
+    "art_icon": "./art/preetham_pulavarthi/icon.png",
+    "author_name": "Atchyut Preetham Pulavarthi / theonly1me",
+    "author_github_url": "https://github.com/theonly1me"
   },
   {
     "name": "Hanging moon",
