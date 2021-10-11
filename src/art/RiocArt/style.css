@@ -1,13 +1,15 @@
 body{
     margin:0;
     padding:0;
-    background-color: #85A48A;
+    background-color: #F07207;
 }
 
 .container{
-    position: relative;
+    display: flex;
+    justify-content: center;
     width:100vw;
     height:100vh;
+    margin: auto;
 }
 
 #canvas{
@@ -15,12 +17,4 @@ body{
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-}
-
-img {
-    width: 400px;
-    height: 400px;
-    display: block;
-    margin: auto;
-    margin-top: 150px;
 }
