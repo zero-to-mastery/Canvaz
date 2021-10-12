@@ -5,6 +5,7 @@ function draw() {
   if (canvas.getContext) {
     var ctx = canvas.getContext("2d");
 
+    //rounded rectangle
     function roundedRect(ctx, x, y, width, height, radius) {
       ctx.beginPath();
       ctx.moveTo(x, y + radius);
@@ -137,26 +138,34 @@ function draw() {
     ctx.fillStyle = mainColor;
     roundedRect(ctx, 400, 270, 30, 50, 15);
 
+    let flag = true;
+
     function movePaw() {
-      ctx.fillStyle = "rgb(247, 7, 113)";
-      roundedRect(ctx, 400, 250, 30, 70, 15);
+      if (flag) {
+        ctx.fillStyle = "rgb(247, 7, 113)";
+        roundedRect(ctx, 400, 250, 30, 70, 15);
 
-      // hearth
-      ctx.beginPath();
-      ctx.moveTo(415, 40);
-      ctx.bezierCurveTo(415, 37, 400, 25, 390, 25);
-      ctx.bezierCurveTo(360, 25, 360, 62.5, 360, 62.5);
-      ctx.bezierCurveTo(360, 80, 380, 102, 415, 120);
-      ctx.bezierCurveTo(450, 102, 470, 80, 470, 62.5);
-      ctx.bezierCurveTo(470, 62.5, 470, 25, 440, 25);
-      ctx.bezierCurveTo(425, 25, 415, 37, 415, 40);
-      ctx.fill();
+        // hearth
+        ctx.beginPath();
+        ctx.moveTo(415, 40);
+        ctx.bezierCurveTo(415, 37, 400, 25, 390, 25);
+        ctx.bezierCurveTo(360, 25, 360, 62.5, 360, 62.5);
+        ctx.bezierCurveTo(360, 80, 380, 102, 415, 120);
+        ctx.bezierCurveTo(450, 102, 470, 80, 470, 62.5);
+        ctx.bezierCurveTo(470, 62.5, 470, 25, 440, 25);
+        ctx.bezierCurveTo(425, 25, 415, 37, 415, 40);
+        ctx.fill();
 
-      //text
-      ctx.font = "48px serif";
-      ctx.fillText("Good Luck!", 10, 50);
+        //text
+        ctx.font = "48px serif";
+        ctx.fillText("Good Luck!", 10, 50);
+        flag = false;
+      } else {
+        ctx.fillStyle = "rgb(238, 230, 245)";
+        flag = true;
+      }
     }
 
-    setInterval(movePaw, 1000);
+    setInterval(movePaw, 2000);
   }
 }
