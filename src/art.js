@@ -650,6 +650,13 @@
     "author_github_url": "https://github.com/or-yam/"
   },
   {
+    "name": "Simple Tree",
+    "page_link": "./art/patriceam/index.html",
+    "art_icon": "./art/patriceam/icon.png",
+    "author_name": "Patrice",
+    "author_github_url": "https://github.com/PatriceAm/"
+  },
+  {
     "name": "Squid Playground",
     "page_link": "./art/preetham_pulavarthi/index.html",
     "art_icon": "./art/preetham_pulavarthi/icon.png",
