@@ -29,6 +29,13 @@
     "author_github_url": "https://github.com/ANmishra-a"
   },
   {
+    "name": "Diamond💎",
+    "page_link": "./art/CapUz-Canvas2/index.html",
+    "art_icon": "./art/CapUz-Canvas2/icon.png",
+    "author_name": "Uzma FKhan",
+    "author_github_url": "https://github.com/uzma024"
+  },
+  {
     "name": "Indian Flag",
     "page_link": "./art/CaptainUz/index.html",
     "art_icon": "./art/CaptainUz/icon.png",
@@ -183,6 +190,13 @@
     "author_github_url": "https://github.com/nishantminerva"
   },
   {
+    "name": "Squid Game Logo",
+    "page_link": "./art/PasinduAkalpa/index.html",
+    "art_icon": "./art/PasinduAkalpa/icon.png",
+    "author_name": "Pasindu Akalpa",
+    "author_github_url": "https://github.com/pAkalpa/"
+  },
+  {
     "name": "Infinity Triangle",
     "page_link": "./art/PolisanTheEasyNick/index.html",
     "art_icon": "./art/PolisanTheEasyNick/icon.png",
@@ -237,6 +251,13 @@
     "art_icon": "./art/Rajbir_banerjee_3/icon.png",
     "author_name": "Rajbir Banerjee",
     "author_github_url": "https://github.com/rajbir21-droid"
+  },
+  {
+    "name": "The Black Moon",
+    "page_link": "./art/RiocArt/index.html",
+    "art_icon": "./art/RiocArt/icon.png",
+    "author_name": "Rio Cantre",
+    "author_github_url": "https://github.com/RioCantre"
   },
   {
     "name": "India Logo",
@@ -389,6 +410,13 @@
     "name": "Japan flag",
     "page_link": "./art/coder284_2/index.html",
     "art_icon": "./art/coder284_2/icon.png",
+    "author_name": "coder284",
+    "author_github_url": "https://github.com/coder284"
+  },
+  {
+    "name": "Doraemon",
+    "page_link": "./art/coder284_3/index.html",
+    "art_icon": "./art/coder284_3/icon.png",
     "author_name": "coder284",
     "author_github_url": "https://github.com/coder284"
   },
@@ -573,6 +601,13 @@
     "author_github_url": "https://github.com/mrkc2303/"
   },
   {
+    "name": "Brazil Flag",
+    "page_link": "./art/mrkc2303_4/index.html",
+    "art_icon": "./art/mrkc2303_4/icon.png",
+    "author_name": "Kanishk Chhabra",
+    "author_github_url": "https://github.com/mrkc2303/"
+  },
+  {
     "name": "Vue Logo",
     "page_link": "./art/naresh-khatri-vue-logo/index.html",
     "art_icon": "./art/naresh-khatri-vue-logo/icon.png",
@@ -601,11 +636,25 @@
     "author_github_url": "https://github.com/NikkiKal"
   },
   {
+    "name": "ProLoading Max",
+    "page_link": "./art/nisnym/index.html",
+    "art_icon": "./art/nisnym/icon.png",
+    "author_name": "NISNYM",
+    "author_github_url": "https://github.com/nisnym/"
+  },
+  {
     "name": "Web-paint",
     "page_link": "./art/oryam/index.html",
     "art_icon": "./art/oryam/icon.png",
     "author_name": "oryam",
     "author_github_url": "https://github.com/or-yam/"
+  },
+  {
+    "name": "Simple Tree",
+    "page_link": "./art/patriceam/index.html",
+    "art_icon": "./art/patriceam/icon.png",
+    "author_name": "Patrice",
+    "author_github_url": "https://github.com/PatriceAm/"
   },
   {
     "name": "Squid Playground",
