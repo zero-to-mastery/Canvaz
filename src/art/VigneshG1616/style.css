@@ -34,10 +34,9 @@ body {
   animation: sec-anime 3s ease-in 0.5s infinite both;
 }
 
-#canvas2 {
-  padding-left: 12rem;
-}
-#canvas3 {
+#canvas2,
+#canvas3,
+#canvas4 {
   padding-left: 12rem;
 }
 
