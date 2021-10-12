@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(238, 230, 245);
+  padding-top: 200px;
+  text-align: center;
+}
+
+#canvas {
+  border: 20px dashed rgb(247, 7, 113);
+  border-radius: 10%;
+  padding-top: 10%;
+  padding-left: 5%;
+}
