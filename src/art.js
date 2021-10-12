@@ -29,6 +29,13 @@
     "author_github_url": "https://github.com/ANmishra-a"
   },
   {
+    "name": "Diamond💎",
+    "page_link": "./art/CapUz-Canvas2/index.html",
+    "art_icon": "./art/CapUz-Canvas2/icon.png",
+    "author_name": "Uzma FKhan",
+    "author_github_url": "https://github.com/uzma024"
+  },
+  {
     "name": "Indian Flag",
     "page_link": "./art/CaptainUz/index.html",
     "art_icon": "./art/CaptainUz/icon.png",
@@ -403,6 +410,13 @@
     "name": "Japan flag",
     "page_link": "./art/coder284_2/index.html",
     "art_icon": "./art/coder284_2/icon.png",
+    "author_name": "coder284",
+    "author_github_url": "https://github.com/coder284"
+  },
+  {
+    "name": "Doraemon",
+    "page_link": "./art/coder284_3/index.html",
+    "art_icon": "./art/coder284_3/icon.png",
     "author_name": "coder284",
     "author_github_url": "https://github.com/coder284"
   },
