@@ -1,0 +1,23 @@
+:root {
+    --borderClr: #fff;
+}
+
+body {
+    background: rgb(17, 17, 17);
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+#canvas {
+    border: var(--borderClr) 0.2vw solid;
+    border-radius: 2vw;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
