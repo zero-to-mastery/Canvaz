@@ -17,7 +17,7 @@ function draw() {
       ctx.arcTo(x + width, y, x + width - radius, y, radius);
       ctx.lineTo(x + radius, y);
       ctx.arcTo(x, y, x, y + radius, radius);
-      ctx.stroke();
+      //ctx.stroke();
       ctx.fill();
     }
 
@@ -135,37 +135,46 @@ function draw() {
     ctx.fill();
 
     //paw
-    ctx.fillStyle = mainColor;
-    roundedRect(ctx, 400, 270, 30, 50, 15);
+    /* ctx.fillStyle = mainColor;
+    roundedRect(ctx, 400, 270, 30, 50, 15); */
 
-    let flag = true;
-
-    function movePaw() {
-      if (flag) {
-        ctx.fillStyle = "rgb(247, 7, 113)";
-        roundedRect(ctx, 400, 250, 30, 70, 15);
-
-        // hearth
-        ctx.beginPath();
-        ctx.moveTo(415, 40);
-        ctx.bezierCurveTo(415, 37, 400, 25, 390, 25);
-        ctx.bezierCurveTo(360, 25, 360, 62.5, 360, 62.5);
-        ctx.bezierCurveTo(360, 80, 380, 102, 415, 120);
-        ctx.bezierCurveTo(450, 102, 470, 80, 470, 62.5);
-        ctx.bezierCurveTo(470, 62.5, 470, 25, 440, 25);
-        ctx.bezierCurveTo(425, 25, 415, 37, 415, 40);
-        ctx.fill();
-
-        //text
-        ctx.font = "48px serif";
-        ctx.fillText("Good Luck!", 10, 50);
-        flag = false;
-      } else {
-        ctx.fillStyle = "rgb(238, 230, 245)";
-        flag = true;
-      }
+    function hearth() {
+      ctx.beginPath();
+      ctx.moveTo(415, 40);
+      ctx.bezierCurveTo(415, 37, 400, 25, 390, 25);
+      ctx.bezierCurveTo(360, 25, 360, 62.5, 360, 62.5);
+      ctx.bezierCurveTo(360, 80, 380, 102, 415, 120);
+      ctx.bezierCurveTo(450, 102, 470, 80, 470, 62.5);
+      ctx.bezierCurveTo(470, 62.5, 470, 25, 440, 25);
+      ctx.bezierCurveTo(425, 25, 415, 37, 415, 40);
+      ctx.fill();
     }
 
-    setInterval(movePaw, 2000);
+    function text(str) {
+      ctx.font = "48px cursive";
+      ctx.fillText(str, 10, 50);
+    }
+
+    let cName = canvas.className;
+
+    function movePaw() {
+      if (cName == "flash") {
+        ctx.fillStyle = "rgb(247, 7, 113)";
+        hearth();
+        text("Good Luck!");
+        ctx.fillStyle = mainColor;
+        roundedRect(ctx, 400, 250, 30, 70, 15);
+        cName = "noflash";
+      } else {
+        ctx.fillStyle = "rgb(238, 230, 245)";
+        text("Good Luck!");
+        hearth();
+        roundedRect(ctx, 400, 250, 30, 70, 15);
+        ctx.fillStyle = "rgb(200, 150, 150)";
+        roundedRect(ctx, 400, 270, 30, 50, 15);
+        cName = "flash";
+      }
+    }
   }
+  setInterval(movePaw, 2000);
 }
