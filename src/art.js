@@ -36,6 +36,13 @@
     "author_github_url": "https://github.com/uzma024"
   },
   {
+    "name": "Harry Potter",
+    "page_link": "./art/CapUz-Canvas3/index.html",
+    "art_icon": "./art/CapUz-Canvas3/icon.png",
+    "author_name": "Uzma FKhan",
+    "author_github_url": "https://github.com/uzma024"
+  },
+  {
     "name": "Indian Flag",
     "page_link": "./art/CaptainUz/index.html",
     "art_icon": "./art/CaptainUz/icon.png",
@@ -648,6 +655,13 @@
     "art_icon": "./art/oryam/icon.png",
     "author_name": "oryam",
     "author_github_url": "https://github.com/or-yam/"
+  },
+  {
+    "name": "Ascii Leaves",
+    "page_link": "./art/patricceam2/index.html",
+    "art_icon": "./art/patricceam2/icon.png",
+    "author_name": "Patrice",
+    "author_github_url": "https://github.com/PatriceAm"
   },
   {
     "name": "Simple Tree",
