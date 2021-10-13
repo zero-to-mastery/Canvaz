@@ -1,0 +1,13 @@
+body {
+      margin: 0px;
+      padding: 50px;
+      background: #b800e6;
+}
+ 
+#canvas {
+      border: 1px #CCC solid;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+}

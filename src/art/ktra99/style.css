@@ -1,0 +1,41 @@
+html, body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+canvas{
+	width: 200px;
+	height: 200px;
+	border-radius: 10px;
+	border: 1px solid black;
+	background-color: black;
+	animation: animation 5s ease-in-out;
+}
+
+@keyframes animation{
+	0%{
+		border: 1px solid black;
+	}
+	25%{
+		width: 200px;
+		height: 200px;
+		border-radius: 10px;
+	}
+	50%{
+		background-color: green;
+	}
+	75%{
+		transform: rotate(360deg);
+	}
+	100%{
+		background-color: black;
+	}
+}
