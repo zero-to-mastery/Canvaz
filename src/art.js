@@ -774,13 +774,6 @@
     "art_icon": "./art/viktorlinus/icon.png",
     "author_name": "Eken",
     "author_github_url": "https://github.com/viktorlinus/"
-  },
-  {
-    "name": "Smiley",
-    "page_link": "./art/PaulCalnan/index.html",
-    "art_icon": "./art/PaulCalnan/icon.png",
-    "author_name": "Paul",
-    "author_github_url": "https://github.com/PaulCalnan"
   }
 ]
 
