@@ -204,6 +204,13 @@
     "author_github_url": "https://github.com/pAkalpa/"
   },
   {
+    "name": "Smiley",
+    "page_link": "./art/PaulCalnan/index.html",
+    "art_icon": "./art/PaulCalnan/icon.png",
+    "author_name": "Paul Calnan",
+    "author_github_url": "https://github.com/PaulCalnan"
+  },
+  {
     "name": "Infinity Triangle",
     "page_link": "./art/PolisanTheEasyNick/index.html",
     "art_icon": "./art/PolisanTheEasyNick/icon.png",
@@ -840,13 +847,13 @@
   }
 ]
 
-
+    
   // +--------------------------------------------------------------------------------+
   // +                                                                                +
   // +                 YOU DO NOT NEED TO CHANGE ANYTHING IN THIS FILE!               +
   // +                                                                                +
   // +--------------------------------------------------------------------------------+
-
+  
   // Creates cards from the array above
   // You don't need to modify this
   let contents = [];
@@ -863,9 +870,9 @@
         `</li>`
     ]);
   });
-
+  
   document.getElementById('cards').innerHTML = contents.join('');
-
+  
   function Shuffle(o) {
     for (
       var j, x, i = o.length;
@@ -873,4 +880,5 @@
       j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x
     );
     return o;
-  }
+  }  
+  
