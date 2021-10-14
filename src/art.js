@@ -491,6 +491,13 @@
     "author_github_url": "https://github.com/ekta2901/"
   },
   {
+    "name": "LightSaber",
+    "page_link": "./art/gabriel/index.html",
+    "art_icon": "./art/gabriel/icon.png",
+    "author_name": "gabriel",
+    "author_github_url": "https://github.com/GabrielTeixeiraC/"
+  },
+  {
     "name": "Moon Phase",
     "page_link": "./art/gabriellend/index.html",
     "art_icon": "./art/gabriellend/icon.png",
