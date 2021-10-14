@@ -36,6 +36,13 @@
     "author_github_url": "https://github.com/uzma024"
   },
   {
+    "name": "Harry Potter",
+    "page_link": "./art/CapUz-Canvas3/index.html",
+    "art_icon": "./art/CapUz-Canvas3/icon.png",
+    "author_name": "Uzma FKhan",
+    "author_github_url": "https://github.com/uzma024"
+  },
+  {
     "name": "Indian Flag",
     "page_link": "./art/CaptainUz/index.html",
     "art_icon": "./art/CaptainUz/icon.png",
@@ -650,6 +657,13 @@
     "author_github_url": "https://github.com/or-yam/"
   },
   {
+    "name": "Ascii Leaves",
+    "page_link": "./art/patricceam2/index.html",
+    "art_icon": "./art/patricceam2/icon.png",
+    "author_name": "Patrice",
+    "author_github_url": "https://github.com/PatriceAm"
+  },
+  {
     "name": "Simple Tree",
     "page_link": "./art/patriceam/index.html",
     "art_icon": "./art/patriceam/icon.png",
@@ -826,13 +840,13 @@
   }
 ]
 
-    
+
   // +--------------------------------------------------------------------------------+
   // +                                                                                +
   // +                 YOU DO NOT NEED TO CHANGE ANYTHING IN THIS FILE!               +
   // +                                                                                +
   // +--------------------------------------------------------------------------------+
-  
+
   // Creates cards from the array above
   // You don't need to modify this
   let contents = [];
@@ -849,9 +863,9 @@
         `</li>`
     ]);
   });
-  
+
   document.getElementById('cards').innerHTML = contents.join('');
-  
+
   function Shuffle(o) {
     for (
       var j, x, i = o.length;
@@ -859,5 +873,4 @@
       j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x
     );
     return o;
-  }  
-  
+  }
