@@ -75,7 +75,21 @@ function draw3() {
     ctx.fill();
   }
 }
+function draw4() {
+  var canvas = document.getElementById("canvas4");
+  if (canvas.getContext) {
+    var ctx = canvas.getContext("2d");
+    var grad = ctx.createRadialGradient(200, 350, 0, 200, 200, 200);
+    grad.addColorStop("0", "red");
+    grad.addColorStop(".25", "magenta");
+    grad.addColorStop(".75", "pink");
+    grad.addColorStop("1", "orange");
+    ctx.fillStyle = grad;
+    ctx.fillRect(0, 0, 185, 195);
+  }
+}
 
 draw1();
 draw2();
 draw3();
+draw4();
