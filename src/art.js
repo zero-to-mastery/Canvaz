@@ -762,6 +762,13 @@
     "author_github_url": "https://github.com/rahulm2310/"
   },
   {
+    "name": "YouTube Logo",
+    "page_link": "./art/rakshithshenoy/index.html",
+    "art_icon": "./art/rakshithshenoy/icon.png",
+    "author_name": "Rakshith Shenoy",
+    "author_github_url": "https://github.com/rakshithshenoy"
+  },
+  {
     "name": "Box_Animation",
     "page_link": "./art/rohit8020_canvasart/index.html",
     "art_icon": "./art/rohit8020_canvasart/icon.png",
