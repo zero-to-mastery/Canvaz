@@ -29,7 +29,7 @@ function drawCurves() {
     array_curves.forEach(i => {
         ctx.beginPath();
         ctx.bezierCurveTo(i.x1, i.y1, i.x2, i.y2, i.x3, i.y3);
-        ctx.strokeStyle = "rgb(233, 213, 176, 0.7)";
+        ctx.strokeStyle = "rgb(29, 28, 26, 1)";
         ctx.stroke();
         ctx.closePath();
     });
