@@ -281,6 +281,13 @@
     "author_github_url": "https://github.com/SMD-1"
   },
   {
+    "name": "Paper-Rocket",
+    "page_link": "./art/ShyamNR/index.html",
+    "art_icon": "./art/ShyamNR/icon.png",
+    "author_name": "Shyam NR",
+    "author_github_url": "https://github.com/Shyam-NR/"
+  },
+  {
     "name": "Hello Hacktoberfest 2021",
     "page_link": "./art/ThesllaDev/index.html",
     "art_icon": "./art/ThesllaDev/icon.png",
