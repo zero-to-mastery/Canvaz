@@ -1,0 +1,11 @@
+#canvas{
+    height: 600px;
+    width: 600px;
+    background-color: #FAF8F6;
+    text-align: center;
+}
+
+div{
+    text-align: center;
+    padding-top: 100px;
+}
