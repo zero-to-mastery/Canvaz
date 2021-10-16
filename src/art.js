@@ -36,6 +36,13 @@
     "author_github_url": "https://github.com/uzma024"
   },
   {
+    "name": "Harry Potter",
+    "page_link": "./art/CapUz-Canvas3/index.html",
+    "art_icon": "./art/CapUz-Canvas3/icon.png",
+    "author_name": "Uzma FKhan",
+    "author_github_url": "https://github.com/uzma024"
+  },
+  {
     "name": "Indian Flag",
     "page_link": "./art/CaptainUz/index.html",
     "art_icon": "./art/CaptainUz/icon.png",
@@ -197,6 +204,13 @@
     "author_github_url": "https://github.com/pAkalpa/"
   },
   {
+    "name": "Smiley",
+    "page_link": "./art/PaulCalnan/index.html",
+    "art_icon": "./art/PaulCalnan/icon.png",
+    "author_name": "Paul Calnan",
+    "author_github_url": "https://github.com/PaulCalnan"
+  },
+  {
     "name": "Infinity Triangle",
     "page_link": "./art/PolisanTheEasyNick/index.html",
     "art_icon": "./art/PolisanTheEasyNick/icon.png",
@@ -265,6 +279,13 @@
     "art_icon": "./art/Shaikh_Mohammad_Danish/icon.png",
     "author_name": "Shaikh Mohammad Danish",
     "author_github_url": "https://github.com/SMD-1"
+  },
+  {
+    "name": "Paper-Rocket",
+    "page_link": "./art/ShyamNR/index.html",
+    "art_icon": "./art/ShyamNR/icon.png",
+    "author_name": "Shyam NR",
+    "author_github_url": "https://github.com/Shyam-NR/"
   },
   {
     "name": "Hello Hacktoberfest 2021",
@@ -363,6 +384,13 @@
     "art_icon": "./art/belalbilaldev1/icon.png",
     "author_name": "belaldev",
     "author_github_url": "https://github.com/belalbilaldev"
+  },
+  {
+    "name": "Bouncing Balls",
+    "page_link": "./art/bryceDrawe/index.html",
+    "art_icon": "./art/bryceDrawe/icon.png",
+    "author_name": "bryce",
+    "author_github_url": "https://github.com/bdrawe/"
   },
   {
     "name": "Ball Effect",
@@ -468,6 +496,13 @@
     "art_icon": "./art/ekta2901-4/icon.png",
     "author_name": "Ekta",
     "author_github_url": "https://github.com/ekta2901/"
+  },
+  {
+    "name": "LightSaber",
+    "page_link": "./art/gabriel/index.html",
+    "art_icon": "./art/gabriel/icon.png",
+    "author_name": "gabriel",
+    "author_github_url": "https://github.com/GabrielTeixeiraC/"
   },
   {
     "name": "Moon Phase",
@@ -622,6 +657,13 @@
     "author_github_url": "https://github.com/nataliarossini/"
   },
   {
+    "name": "Snowflake",
+    "page_link": "./art/nataliarossini_/index.html",
+    "art_icon": "./art/nataliarossini_/icon.png",
+    "author_name": "Natalia",
+    "author_github_url": "https://github.com/nataliarossini/"
+  },
+  {
     "name": "Visit Nepal",
     "page_link": "./art/nayanathapa/index.html",
     "art_icon": "./art/nayanathapa/icon.png",
@@ -650,9 +692,23 @@
     "author_github_url": "https://github.com/or-yam/"
   },
   {
+    "name": "Ascii Leaves",
+    "page_link": "./art/patricceam2/index.html",
+    "art_icon": "./art/patricceam2/icon.png",
+    "author_name": "Patrice",
+    "author_github_url": "https://github.com/PatriceAm"
+  },
+  {
     "name": "Simple Tree",
     "page_link": "./art/patriceam/index.html",
     "art_icon": "./art/patriceam/icon.png",
+    "author_name": "Patrice",
+    "author_github_url": "https://github.com/PatriceAm/"
+  },
+  {
+    "name": "Drawing",
+    "page_link": "./art/patriceam3/index.html",
+    "art_icon": "./art/patriceam3/icon.png",
     "author_name": "Patrice",
     "author_github_url": "https://github.com/PatriceAm/"
   },
@@ -725,6 +781,13 @@
     "art_icon": "./art/rahulm2310-4/icon.png",
     "author_name": "Rahul Mohata",
     "author_github_url": "https://github.com/rahulm2310/"
+  },
+  {
+    "name": "YouTube Logo",
+    "page_link": "./art/rakshithshenoy/index.html",
+    "art_icon": "./art/rakshithshenoy/icon.png",
+    "author_name": "Rakshith Shenoy",
+    "author_github_url": "https://github.com/rakshithshenoy"
   },
   {
     "name": "Box_Animation",
