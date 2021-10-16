@@ -1,0 +1,25 @@
+
+body{
+  display: flex;
+  justify-content: center;
+  background-color: #1296a0;
+}
+canvas{
+  background: #fff6;
+  box-shadow: 0 2px 7px 2px #fff3;
+}
+footer{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  bottom: 0;
+}
+footer a{
+  color: #fff;
+  text-decoration: none;
+}
+footer a:hover{
+  font-size: 150%;
+  color: var(--face-clr);
+  text-shadow: 0 0 20px #daff81;
+}
