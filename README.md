@@ -40,7 +40,7 @@ For more information about Canvas, you can read its [documentation](https://deve
 
 3. Set your streams so you can sync your clone with the original repo (get the latest updates)
 
-   - `git remote add upstream https://github.com/zero-to-mastery/Canvas-Creations.git`
+   - `git remote add upstream https://github.com/zero-to-mastery/Canvaz.git`
    - `git pull upstream master`
    - The above 2 commands will synchronize your forked version of the project with the actual repository.
 
