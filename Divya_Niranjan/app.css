@@ -1,11 +1,10 @@
 #canvas{
-    height: 600px;
-    width: 600px;
-    background-color: #FAF8F6;
+    height: 300px;
+    width: 400px;
+    background-color:white;
     text-align: center;
 }
 
 div{
     text-align: center;
-    padding-top: 100px;
 }
