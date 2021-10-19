@@ -302,6 +302,13 @@
     "author_github_url": "https://github.com/Shyam-NR/"
   },
   {
+    "name": "Tokyo-Olympics",
+    "page_link": "./art/Surya742/index.html",
+    "art_icon": "./art/Surya742/icon.png",
+    "author_name": "Surya Kumar Sahani",
+    "author_github_url": "https://github.com/Surya742/"
+  },
+  {
     "name": "Hello Hacktoberfest 2021",
     "page_link": "./art/ThesllaDev/index.html",
     "art_icon": "./art/ThesllaDev/icon.png",
@@ -410,6 +417,13 @@
     "name": "ZTM",
     "page_link": "./art/bk987-2/index.html",
     "art_icon": "./art/bk987-2/icon.png",
+    "author_name": "bk987",
+    "author_github_url": "https://github.com/bk987"
+  },
+  {
+    "name": "BouncingBalls",
+    "page_link": "./art/bk987-3/index.html",
+    "art_icon": "./art/bk987-3/icon.png",
     "author_name": "bk987",
     "author_github_url": "https://github.com/bk987"
   },
