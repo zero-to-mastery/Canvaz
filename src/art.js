@@ -942,6 +942,13 @@
     "art_icon": "./art/viktorlinus/icon.png",
     "author_name": "Eken",
     "author_github_url": "https://github.com/viktorlinus/"
+  },
+  {
+    "name": "Generative Art",
+    "page_link": "./art/yash2003/index.html",
+    "art_icon": "./art/yash2003/icon.png",
+    "author_name": "Yashraj",
+    "author_github_url": "https://github.com/yashraj2003e/"
   }
 ]
 
