@@ -29,6 +29,13 @@
     "author_github_url": "https://github.com/ANmishra-a"
   },
   {
+    "name": "Colorful Stars",
+    "page_link": "./art/BeeBeeWeb/index.html",
+    "art_icon": "./art/BeeBeeWeb/icon.png",
+    "author_name": "BeeBeeWeb",
+    "author_github_url": "https://github.com/BeeBeeWeb/"
+  },
+  {
     "name": "Diamond💎",
     "page_link": "./art/CapUz-Canvas2/index.html",
     "art_icon": "./art/CapUz-Canvas2/icon.png",
@@ -907,6 +914,13 @@
     "art_icon": "./art/thucpn/icon.png",
     "author_name": "thucpn",
     "author_github_url": "https://github.com/thucpn"
+  },
+  {
+    "name": "Simple Slider",
+    "page_link": "./art/ttumyr_slider/index.html",
+    "art_icon": "./art/ttumyr_slider/icon.png",
+    "author_name": "ttumyr",
+    "author_github_url": "https://github.com/TTumyr"
   },
   {
     "name": "CubeFall",
