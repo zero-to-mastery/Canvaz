@@ -1,0 +1,26 @@
+body{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 80px;
+	background: #ff4b1f; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ff4b1f, #1fddff); 
+    background: linear-gradient(to right, #ff4b1f, #1fddff); 
+}
+.addition{
+  cursor: pointer;
+}
+.canvas-color{
+  background-color: white;
+}
+
+.paint-canvas {
+  border: 1px black solid;
+  display: block;
+  margin: 1rem;
+}
+
+.color-picker {
+  margin: 1rem 1rem 0 1rem;
+}
+
