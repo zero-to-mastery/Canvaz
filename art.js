@@ -15,6 +15,13 @@
     "author_github_url": "https://github.com/Abdellah-ST"
   },
   {
+    "name": "Adwaith@Hacktober",
+    "page_link": "./art/Adwaith@HacktoberFest/index.html",
+    "art_icon": "./art/Adwaith@HacktoberFest/icon.png",
+    "author_name": "Adwaith",
+    "author_github_url": "https://github.com/Adwaith123/"
+  },
+  {
     "name": "HackitOn2021",
     "page_link": "./art/AdwaithRajesh/index.html",
     "art_icon": "./art/AdwaithRajesh/icon.png",
@@ -32,6 +39,13 @@
     "name": "Colorful Stars",
     "page_link": "./art/BeeBeeWeb/index.html",
     "art_icon": "./art/BeeBeeWeb/icon.png",
+    "author_name": "BeeBeeWeb",
+    "author_github_url": "https://github.com/BeeBeeWeb/"
+  },
+  {
+    "name": "Running Colorful Stars",
+    "page_link": "./art/BeeBeeWeb _2/index.html",
+    "art_icon": "./art/BeeBeeWeb _2/icon.png",
     "author_name": "BeeBeeWeb",
     "author_github_url": "https://github.com/BeeBeeWeb/"
   },
@@ -440,6 +454,13 @@
     "author_github_url": "https://github.com/theonly1me/"
   },
   {
+    "name": "Star Pattern",
+    "page_link": "./art/barbara-d/index.html",
+    "art_icon": "./art/barbara-d/icon.png",
+    "author_name": "Barbara",
+    "author_github_url": "https://github.com/Barbara-D/"
+  },
+  {
     "name": "HacktobersimpleParticle",
     "page_link": "./art/belalbilaldev1/index.html",
     "art_icon": "./art/belalbilaldev1/icon.png",
@@ -837,6 +858,13 @@
     "author_github_url": "https://github.com/theonly1me"
   },
   {
+    "name": "Draw an American Flag with HTML5",
+    "page_link": "./art/quangpro1610/index.html",
+    "art_icon": "./art/quangpro1610/icon.png",
+    "author_name": "quangpro1610",
+    "author_github_url": "https://github.com/quangpro1610/"
+  },
+  {
     "name": "Hanging moon",
     "page_link": "./art/rachelktyjohnson/index.html",
     "art_icon": "./art/rachelktyjohnson/icon.png",
@@ -1073,6 +1101,13 @@
     "art_icon": "./art/yash2003/icon.png",
     "author_name": "Yashraj",
     "author_github_url": "https://github.com/yashraj2003e/"
+  },
+  {
+    "name": "Japanese Flag",
+    "page_link": "./art/yellowberard_1/index.html",
+    "art_icon": "./art/yellowberard_1/icon.png",
+    "author_name": "Mayank Goel",
+    "author_github_url": "https://github.com/yellowberard/"
   }
 ]
 
