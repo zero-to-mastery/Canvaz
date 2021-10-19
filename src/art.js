@@ -64,6 +64,13 @@
     "author_github_url": "https://github.com/MrCoku/"
   },
   {
+    "name": "Apple Logo",
+    "page_link": "./art/Coku_2/index.html",
+    "art_icon": "./art/Coku_2/icon.png",
+    "author_name": "Coku",
+    "author_github_url": "https://github.com/MrCoku/"
+  },
+  {
     "name": "Dominos Logo",
     "page_link": "./art/Dominos/index.html",
     "art_icon": "./art/Dominos/icon.png",
@@ -167,6 +174,11 @@
     "art_icon": "./art/Kanwarbir02/icon.png",
     "author_name": "Kanwarbir Singh",
     "author_github_url": "https://github.com/Kanwarbir02"
+  },
+  {
+    "name": "Adventure Time ",
+    "page_link": "./art/KevinArt/index.html",
+    "art_icon": "./art/KevinArt/icon.png"
   },
   {
     "name": "Toast",
@@ -424,6 +436,13 @@
     "name": "BouncingBalls",
     "page_link": "./art/bk987-3/index.html",
     "art_icon": "./art/bk987-3/icon.png",
+    "author_name": "bk987",
+    "author_github_url": "https://github.com/bk987"
+  },
+  {
+    "name": "ColorfulTrail",
+    "page_link": "./art/bk987-4/index.html",
+    "art_icon": "./art/bk987-4/icon.png",
     "author_name": "bk987",
     "author_github_url": "https://github.com/bk987"
   },
@@ -877,6 +896,13 @@
     "name": "Particle Effect",
     "page_link": "./art/redsquirrrel2/index.html",
     "art_icon": "./art/redsquirrrel2/icon.png",
+    "author_name": "RedSquirrrel",
+    "author_github_url": "https://github.com/RedSquirrrel/"
+  },
+  {
+    "name": "Pixel Manipulation",
+    "page_link": "./art/redsquirrrel3/index.html",
+    "art_icon": "./art/redsquirrrel3/icon.png",
     "author_name": "RedSquirrrel",
     "author_github_url": "https://github.com/RedSquirrrel/"
   },
