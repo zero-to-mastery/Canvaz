@@ -818,6 +818,13 @@
     "author_github_url": "https://github.com/ranran2121"
   },
   {
+    "name": "Honeyfall with mouse collision",
+    "page_link": "./art/redsquirrrel/index.html",
+    "art_icon": "./art/redsquirrrel/icon.png",
+    "author_name": "RedSquirrrel",
+    "author_github_url": "https://github.com/RedSquirrrel/"
+  },
+  {
     "name": "Box_Animation",
     "page_link": "./art/rohit8020_canvasart/index.html",
     "art_icon": "./art/rohit8020_canvasart/icon.png",
