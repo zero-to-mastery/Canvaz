@@ -57,6 +57,13 @@
     "author_github_url": "https://github.com/uzma024"
   },
   {
+    "name": "Halloween Pumpkin",
+    "page_link": "./art/CarmenIancu/index.html",
+    "art_icon": "./art/CarmenIancu/icon.png",
+    "author_name": "Carmen",
+    "author_github_url": "https://github.com/carmeniancu/"
+  },
+  {
     "name": "Albanian Flag",
     "page_link": "./art/Coku/index.html",
     "art_icon": "./art/Coku/icon.png",
