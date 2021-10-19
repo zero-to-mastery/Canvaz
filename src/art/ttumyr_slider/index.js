@@ -19,6 +19,9 @@ class Colors {
   static daRed = window
     .getComputedStyle(document.querySelector('.colors'))
     .getPropertyValue('--daRed');
+  static fiBlue = window
+    .getComputedStyle(document.querySelector('.colors'))
+    .getPropertyValue('--faBlue');
   static white = window
     .getComputedStyle(document.querySelector('.colors'))
     .getPropertyValue('--white');
