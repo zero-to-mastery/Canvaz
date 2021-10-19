@@ -57,6 +57,13 @@
     "author_github_url": "https://github.com/MrCoku/"
   },
   {
+    "name": "Dominos Logo",
+    "page_link": "./art/Dominos/index.html",
+    "art_icon": "./art/Dominos/icon.png",
+    "author_name": "Uzma FKhan",
+    "author_github_url": "https://github.com/uzma024"
+  },
+  {
     "name": "Pixel the HTML5 Cat",
     "page_link": "./art/Gab990/index.html",
     "art_icon": "./art/Gab990/icon.png",
