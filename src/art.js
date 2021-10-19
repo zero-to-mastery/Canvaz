@@ -540,6 +540,13 @@
     "author_github_url": "https://github.com/istiak227/"
   },
   {
+    "name": "Freedom",
+    "page_link": "./art/jeyson/index.html",
+    "art_icon": "./art/jeyson/icon.png",
+    "author_name": "Jeyson",
+    "author_github_url": "https://github.com/jgonz19"
+  },
+  {
     "name": "Egg",
     "page_link": "./art/jkagawa/index.html",
     "art_icon": "./art/jkagawa/icon.png",
@@ -709,6 +716,13 @@
     "name": "Drawing",
     "page_link": "./art/patriceam3/index.html",
     "art_icon": "./art/patriceam3/icon.png",
+    "author_name": "Patrice",
+    "author_github_url": "https://github.com/PatriceAm/"
+  },
+  {
+    "name": "Shapes",
+    "page_link": "./art/patriceam4/index.html",
+    "art_icon": "./art/patriceam4/icon.png",
     "author_name": "Patrice",
     "author_github_url": "https://github.com/PatriceAm/"
   },
