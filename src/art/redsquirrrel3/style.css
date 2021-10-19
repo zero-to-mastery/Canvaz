@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  top: 50px;
+  overflow: hidden;
+  height: 100vh;
+  background: url('bg.png') no-repeat center center/cover;
+}
+
+canvas:hover {
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 2px 5px;
+  transition: box-shadow 0.5s ease-in-out;
+}
