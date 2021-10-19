@@ -797,6 +797,13 @@
     "author_github_url": "https://github.com/ranran2121/"
   },
   {
+    "name": "Flying Owl",
+    "page_link": "./art/ranran2121-2/index.html",
+    "art_icon": "./art/ranran2121-2/icon.png",
+    "author_name": "Ranran2121",
+    "author_github_url": "https://github.com/ranran2121"
+  },
+  {
     "name": "Box_Animation",
     "page_link": "./art/rohit8020_canvasart/index.html",
     "art_icon": "./art/rohit8020_canvasart/icon.png",
