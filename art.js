@@ -790,6 +790,13 @@
     "author_github_url": "https://github.com/rakshithshenoy"
   },
   {
+    "name": "GoodLuck cat",
+    "page_link": "./art/ranran2121/index.html",
+    "art_icon": "./art/ranran2121/icon.png",
+    "author_name": "ranran2121",
+    "author_github_url": "https://github.com/ranran2121/"
+  },
+  {
     "name": "Box_Animation",
     "page_link": "./art/rohit8020_canvasart/index.html",
     "art_icon": "./art/rohit8020_canvasart/icon.png",
