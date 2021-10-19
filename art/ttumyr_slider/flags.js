@@ -1,5 +1,6 @@
 class Navigation {
-  static navContainer = document.getElementById('nav-selector-wrapper');
+  static navigator = document.getElementById('navigator');
+  static navContainer = document.getElementById('nav-sel-container');
   static navSelectors = [];
 }
 class Colors {
@@ -44,7 +45,7 @@ class Canvas {
           },
           dimensions: {
             width: 30,
-            height: 14,
+            height: 16,
           },
         },
         pattern: [
@@ -53,10 +54,12 @@ class Canvas {
           ['sr10', 'sw', 'sb2', 'sw', 'sr16'],
           ['sr10', 'sw', 'sb2', 'sw', 'sr16'],
           ['sr10', 'sw', 'sb2', 'sw', 'sr16'],
+          ['sr10', 'sw', 'sb2', 'sw', 'sr16'],
           ['sw11', 'sb2', 'sw17'],
           ['sb30'],
           ['sb30'],
           ['sw11', 'sb2', 'sw17'],
+          ['sr10', 'sw', 'sb2', 'sw', 'sr16'],
           ['sr10', 'sw', 'sb2', 'sw', 'sr16'],
           ['sr10', 'sw', 'sb2', 'sw', 'sr16'],
           ['sr10', 'sw', 'sb2', 'sw', 'sr16'],
@@ -73,7 +76,7 @@ class Canvas {
           },
           dimensions: {
             width: 30,
-            height: 14,
+            height: 16,
           },
         },
         pattern: [
@@ -83,8 +86,10 @@ class Canvas {
           ['sb11', 'sy2', 'sb17'],
           ['sb11', 'sy2', 'sb17'],
           ['sw11', 'sy2', 'sb17'],
+          ['sb11', 'sy2', 'sb17'],
           ['sy30'],
           ['sy30'],
+          ['sb11', 'sy2', 'sb17'],
           ['sb11', 'sy2', 'sb17'],
           ['sb11', 'sy2', 'sb17'],
           ['sb11', 'sy2', 'sb17'],
@@ -102,7 +107,7 @@ class Canvas {
           },
           dimensions: {
             width: 30,
-            height: 14,
+            height: 16,
           },
         },
         pattern: [
@@ -112,8 +117,10 @@ class Canvas {
           ['sr11', 'sw2', 'sr17'],
           ['sr11', 'sw2', 'sr17'],
           ['sr11', 'sw2', 'sr17'],
+          ['sr11', 'sw2', 'sr17'],
           ['sw30'],
           ['sw30'],
+          ['sr11', 'sw2', 'sr17'],
           ['sr11', 'sw2', 'sr17'],
           ['sr11', 'sw2', 'sr17'],
           ['sr11', 'sw2', 'sr17'],
@@ -166,22 +173,27 @@ class Canvas {
 class PageController {
   constructor() {
     this.canvas = new Canvas();
-    this.interval = 5000;
+    this.timerState = 'playing';
+    this.timer = null;
+    this.intervalLength = 5000;
+    this.activeInterval = 0;
+    this.totalIntervals = 0;
     this.init();
   }
   //create canvases
   createPageElements() {
     this.canvas.objects.forEach((object, idx) => {
       this.createCanvas(object, idx);
-      this.createNavElements(object, idx);
+      this.createNavElements(idx);
     });
+    this.totalIntervals = this.canvas.canvases.length - 1;
   }
   createCanvas(object, idx) {
     //create element
     const canvas = document.createElement('canvas');
     canvas.setAttribute('id', `canvas-${idx}`);
     canvas.setAttribute('width', '600');
-    canvas.setAttribute('height', '280');
+    canvas.setAttribute('height', '320');
     this.canvas.canContainer.appendChild(canvas);
     //add canvases to class
     this.canvas.canvases.push(canvas);
@@ -206,30 +218,67 @@ class PageController {
     Navigation.navSelectors.push(navSelector);
   }
   //slider functions
-  slideUpdate(activeIndex) {
-    Navigation.navSelectors[activeIndex].classList.add('nav-selector--active');
+  slideUpdate() {
+    Navigation.navSelectors[this.activeInterval].classList.add(
+      'nav-selector--active'
+    );
     this.canvas.canvases.forEach((canvas, idx) => {
       canvas.classList.remove('hidden');
       canvas.classList.add('animate');
-      if (activeIndex !== idx) {
+      if (this.activeInterval !== idx) {
         canvas.classList.add('hidden');
         Navigation.navSelectors[idx].classList.remove('nav-selector--active');
       }
     });
   }
+  updateInterval() {
+    this.slideUpdate();
+    if (this.activeInterval >= this.totalIntervals) this.activeInterval = 0;
+    else this.activeInterval++;
+  }
+  pauseInterval() {
+    clearInterval(this.timer);
+  }
+  startInterval() {
+    this.timer = setInterval(
+      this.updateInterval.bind(this),
+      this.intervalLength
+    );
+  }
   slideControl() {
-    const totalIntervals = this.canvas.canvases.length - 1;
-    let activeInterval = 0;
-    this.slideUpdate(activeInterval);
-    activeInterval++;
-    setInterval(() => {
-      this.slideUpdate(activeInterval);
-      if (activeInterval >= totalIntervals) activeInterval = 0;
-      else activeInterval++;
-    }, this.interval);
+    this.updateInterval();
+    this.startInterval();
+  }
+  handleEvents(e) {
+    const nodeId = e.target.parentNode.id || e.target.parentNode.parentNode.id;
+    switch (nodeId) {
+      case 'nav-playpause':
+        if (this.timerState === 'playing') {
+          this.pauseInterval();
+          this.timerState = 'paused';
+          document.getElementById(nodeId).classList.remove('nav-play');
+          document.getElementById(nodeId).classList.add('nav-pause');
+        } else {
+          this.startInterval();
+          document.getElementById(nodeId).classList.remove('nav-pause');
+          document.getElementById(nodeId).classList.add('nav-play');
+          this.timerState = 'playing';
+        }
+        break;
+      case 'nav-selector-' + nodeId.split('-')[nodeId.split('-').length - 1]:
+        this.activeInterval = parseInt(
+          nodeId.split('-')[nodeId.split('-').length - 1]
+        );
+        this.updateInterval();
+        break;
+    }
+  }
+  addListeners() {
+    Navigation.navigator.addEventListener('click', (e) => this.handleEvents(e));
   }
   init() {
     this.createPageElements();
+    this.addListeners();
     this.slideControl();
   }
 }

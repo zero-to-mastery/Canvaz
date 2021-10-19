@@ -42,7 +42,7 @@ h1 {
   transform: scale(150%);
 }
 .navigator,
-.nav-selector-wrapper,
+.nav-selector-container,
 .nav-control,
 .nav-control--big,
 .nav-selector {
@@ -54,6 +54,15 @@ h1 {
 .nav-control--big > svg,
 .nav-selector > svg {
   cursor: pointer;
+}
+.nav-control > svg {
+  transform: scale(80%);
+}
+.nav-play > svg > path {
+  fill: #5fc95f;
+}
+.nav-pause > svg > path {
+  fill: #d86969;
 }
 .nav-control--big > svg {
   transform: scale(50%);

@@ -13,8 +13,22 @@
   <body>
     <div class="main-block">
       <div class="canvas colors" id="canvas-container"></div>
-      <div class="navigator">
-        <div class="nav-selector-wrapper" id="nav-selector-wrapper"></div>
+      <div class="navigator" id="navigator">
+        <div class="nav-control nav-play" id="nav-playpause">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="24"
+            height="24"
+            viewBox="0 0 64 64"
+            enable-background="new 0 0 64 64"
+          >
+            <path
+              d="m53.213 10.788c-11.715-11.717-30.711-11.717-42.426 0-11.716 11.715-11.716 30.711 0 42.426 11.715 11.715 30.711 11.715 42.426 0 11.716-11.715 11.716-30.711 0-42.426m-40.213 37.211v-32l19 16-19 16m28.5 0h-5.7v-32h5.7v32m9.5 0h-5.7v-32h5.7v32"
+              fill="#757575"
+            />
+          </svg>
+        </div>
+        <div class="nav-selector-container" id="nav-sel-container"></div>
       </div>
     </div>
     <script src="./flags.js"></script>

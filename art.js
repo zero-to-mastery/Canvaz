@@ -36,6 +36,13 @@
     "author_github_url": "https://github.com/BeeBeeWeb/"
   },
   {
+    "name": "Colorful Drawing",
+    "page_link": "./art/BeeBeeWeb_1/index.html",
+    "art_icon": "./art/BeeBeeWeb_1/icon.png",
+    "author_name": "BeeBeeWeb",
+    "author_github_url": "https://github.com/BeeBeeWeb/"
+  },
+  {
     "name": "Diamond💎",
     "page_link": "./art/CapUz-Canvas2/index.html",
     "art_icon": "./art/CapUz-Canvas2/icon.png",
