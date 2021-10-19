@@ -568,6 +568,13 @@
     "author_github_url": "https://github.com/jsh854"
   },
   {
+    "name": "Curvature",
+    "page_link": "./art/kanwarjotp/index.html",
+    "art_icon": "./art/kanwarjotp/icon.png",
+    "author_name": "Kanwar Jot Parkash",
+    "author_github_url": "https://github.com/kanwarjotp"
+  },
+  {
     "name": "HactoberSolar",
     "page_link": "./art/keithEbbett/index.html",
     "art_icon": "./art/keithEbbett/icon.png"
