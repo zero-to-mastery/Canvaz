@@ -1,0 +1,10 @@
+#cw {
+  position: fixed;
+  z-index: -1;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(19, 18, 18, 0.05);
+}

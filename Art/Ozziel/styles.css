@@ -1,0 +1,11 @@
+canvas {
+  width: 400;
+  height: 300px;
+  background-color: black;
+}
+
+img {
+  display: none;
+  width: 10%;
+  height: 10%;
+}

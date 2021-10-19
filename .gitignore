@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 
 # Created by https://www.toptal.com/developers/gitignore/api/node,linux,macos,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,linux,macos,windows
+=======
+# Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux
+>>>>>>> 9bca0cdaa336043422426afbfefb504e355d8452
 
 ### Linux ###
 *~
@@ -24,7 +29,11 @@
 .LSOverride
 
 # Icon must end with two \r
+<<<<<<< HEAD
 Icon
+=======
+Icon
+>>>>>>> 9bca0cdaa336043422426afbfefb504e355d8452
 
 # Thumbnails
 ._*
@@ -45,6 +54,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+<<<<<<< HEAD
 ### Node ###
 # Logs
 logs
@@ -169,6 +179,8 @@ dist
 # Serverless Webpack directories
 .webpack/
 
+=======
+>>>>>>> 9bca0cdaa336043422426afbfefb504e355d8452
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
@@ -195,5 +207,15 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+<<<<<<< HEAD
 # End of https://www.toptal.com/developers/gitignore/api/node,linux,macos,windows
 .vscode
+=======
+# End of https://www.toptal.com/developers/gitignore/api/windows,macos,linux
+
+# VS Code Settings
+.vscode
+
+# Logging/Debugging
+*.log
+>>>>>>> 9bca0cdaa336043422426afbfefb504e355d8452

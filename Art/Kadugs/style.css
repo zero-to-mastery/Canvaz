@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  font-family: monospace;
+  font-size: 2.5rem;
+  color: white;
+  text-shadow: 5px 2px 2px rgba(93, 46, 62, 0.541);
+}
+
+body {
+  background: rgb(31, 93, 117);
+  cursor: crosshair;
+}
+
+#animation {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  border: solid 8px rgba(93, 46, 62, 0.541);
+  border-style: outset;
+  border-radius: 10px;
+}

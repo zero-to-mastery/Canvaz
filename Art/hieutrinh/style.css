@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 1rem;
+}
+
+.container {
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+  background: #56ccf2;
+  background: -webkit-linear-gradient(to right, #2f80ed, #56ccf2);
+  background: linear-gradient(to right, #2f80ed, #56ccf2);
+}
+
+#vortex {
+  background: #00cf53;
+  border: 24px solid #fffaf8;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}

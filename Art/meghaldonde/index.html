@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body id="test">
+    <h1>Greetings</h1>
+    <input
+      placeholder="Enter your Name"
+      type="text"
+      id="myName"
+      onChange="greet();"
+    />
+
+    <select type="text" id="myLanguage" onChange="greet();">
+      <option value="Hello">English</option>
+      <option value="Bonjour">French</option>
+      <option value="Hallo">German</option>
+      <option value="नमस्ते">Hindi</option>
+      <option value="Hola">Spanish</option>
+      <option value="Kon'nichiwa">Japanese</option>
+    </select>
+
+    <canvas id="mycanvas"></canvas>
+    <script src="script.js"></script>
+  </body>
+</html>

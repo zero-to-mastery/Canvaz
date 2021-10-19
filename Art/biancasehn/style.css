@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.title {
+  padding: 2em;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 600;
+}
+
+canvas {
+  border: 2px rgb(43, 40, 40);
+  height: 300px;
+  width: 300px;
+}

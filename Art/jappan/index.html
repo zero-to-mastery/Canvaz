@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Snake Game</title>
+    <link rel="icon" href="./assets/favicon.ico" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <div
+      style="font-size: 70px; font-weight: 300"
+      class="jumbotron text-center"
+    >
+      <div>
+        <img
+          src="assets/snake.png"
+          height="150"
+          width="120"
+          style="position: relative; left: 12px"
+        />
+        nake Game
+      </div>
+      <canvas style="margin-top: 10px" id="mycanvas"></canvas>
+      <div style="position: relative; bottom: 40px">
+        <button
+          type="button"
+          class="btn btn-primary btn-lg mybutton-btn"
+          onclick="init()"
+        >
+          Play Game
+        </button>
+        <button
+          class="btn btn-danger btn-lg"
+          type="submit"
+          onClick="refreshPage()"
+        >
+          Reset Board
+        </button>
+      </div>
+      <script src="snake.js"></script>
+    </div>
+    <script>
+      function refreshPage() {
+        window.location.reload();
+      }
+      window.addEventListener(
+        'keydown',
+        function (e) {
+          // space and arrow keys
+          if ([32, 37, 38, 39, 40].indexOf(e.keyCode) > -1) {
+            e.preventDefault();
+          }
+        },
+        false
+      );
+    </script>
+  </body>
+</html>

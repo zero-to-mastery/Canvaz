@@ -1,0 +1,22 @@
+body {
+  font-family: tahoma;
+  padding: 20px;
+}
+h1 {
+  font-weight: 200;
+}
+.colors {
+  --shadow: rgba(0, 0, 0, 0.3);
+}
+.main-block {
+  text-align: center;
+}
+.canvas {
+  display: grid;
+  margin: 0 auto;
+}
+#canvas {
+  margin: 0 auto;
+  box-shadow: 0px 0px 1px 1px var(--shadow);
+  cursor: pointer;
+}

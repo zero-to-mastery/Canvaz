@@ -1,0 +1,16 @@
+.container {
+  position: relative;
+  padding-top: 5rem;
+}
+
+#canvas {
+  padding-left: 23rem;
+  z-index: 90;
+  position: absolute;
+  padding-top: 2.5rem;
+}
+
+#square {
+  position: absolute;
+  padding-left: 15rem;
+}
