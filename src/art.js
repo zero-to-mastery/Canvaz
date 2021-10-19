@@ -64,6 +64,13 @@
     "author_github_url": "https://github.com/carmeniancu/"
   },
   {
+    "name": "Days Till Xmas",
+    "page_link": "./art/CarmenIancu2/index.html",
+    "art_icon": "./art/CarmenIancu2/icon.png",
+    "author_name": "Carmen",
+    "author_github_url": "https://github.com/carmeniancu/"
+  },
+  {
     "name": "Albanian Flag",
     "page_link": "./art/Coku/index.html",
     "art_icon": "./art/Coku/icon.png",
@@ -683,6 +690,13 @@
     "author_github_url": "https://github.com/MattCSmith/"
   },
   {
+    "name": "Landscape",
+    "page_link": "./art/mctrl/index.html",
+    "art_icon": "./art/mctrl/icon.png",
+    "author_name": "Mctrl",
+    "author_github_url": "https://github.com/mctrl"
+  },
+  {
     "name": "UCI World Champion",
     "page_link": "./art/mikerobards/index.html",
     "art_icon": "./art/mikerobards/icon.png",
@@ -886,6 +900,13 @@
     "author_github_url": "https://github.com/rakshithshenoy"
   },
   {
+    "name": "Abu Dhabi Flag",
+    "page_link": "./art/rakshithshenoy-2/index.html",
+    "art_icon": "./art/rakshithshenoy-2/icon.png",
+    "author_name": "Rakshith Shenoy",
+    "author_github_url": "https://github.com/rakshithshenoy/"
+  },
+  {
     "name": "GoodLuck cat",
     "page_link": "./art/ranran2121/index.html",
     "art_icon": "./art/ranran2121/icon.png",
@@ -917,6 +938,13 @@
     "name": "Pixel Manipulation",
     "page_link": "./art/redsquirrrel3/index.html",
     "art_icon": "./art/redsquirrrel3/icon.png",
+    "author_name": "RedSquirrrel",
+    "author_github_url": "https://github.com/RedSquirrrel/"
+  },
+  {
+    "name": "Digital Clock & Date",
+    "page_link": "./art/redsquirrrel4/index.html",
+    "art_icon": "./art/redsquirrrel4/icon.png",
     "author_name": "RedSquirrrel",
     "author_github_url": "https://github.com/RedSquirrrel/"
   },
@@ -961,6 +989,13 @@
     "art_icon": "./art/sn2606/icon.png",
     "author_name": "sn2606",
     "author_github_url": "https://github.com/sn2606/"
+  },
+  {
+    "name": "Chad Flag",
+    "page_link": "./art/sophiabrandt/index.html",
+    "art_icon": "./art/sophiabrandt/icon.png",
+    "author_name": "Sophia Brandt",
+    "author_github_url": "https://github.com/sophiabrandt"
   },
   {
     "name": "Livestream Emojis",
