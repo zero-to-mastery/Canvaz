@@ -386,6 +386,13 @@
     "author_github_url": "https://github.com/belalbilaldev"
   },
   {
+    "name": "Bouncing Balls",
+    "page_link": "./art/bryceDrawe/index.html",
+    "art_icon": "./art/bryceDrawe/icon.png",
+    "author_name": "bryce",
+    "author_github_url": "https://github.com/bdrawe/"
+  },
+  {
     "name": "Ball Effect",
     "page_link": "./art/chathurasam/index.html",
     "art_icon": "./art/chathurasam/icon.png",
@@ -650,6 +657,13 @@
     "author_github_url": "https://github.com/nataliarossini/"
   },
   {
+    "name": "Snowflake",
+    "page_link": "./art/nataliarossini_/index.html",
+    "art_icon": "./art/nataliarossini_/icon.png",
+    "author_name": "Natalia",
+    "author_github_url": "https://github.com/nataliarossini/"
+  },
+  {
     "name": "Visit Nepal",
     "page_link": "./art/nayanathapa/index.html",
     "art_icon": "./art/nayanathapa/icon.png",
@@ -688,6 +702,13 @@
     "name": "Simple Tree",
     "page_link": "./art/patriceam/index.html",
     "art_icon": "./art/patriceam/icon.png",
+    "author_name": "Patrice",
+    "author_github_url": "https://github.com/PatriceAm/"
+  },
+  {
+    "name": "Drawing",
+    "page_link": "./art/patriceam3/index.html",
+    "art_icon": "./art/patriceam3/icon.png",
     "author_name": "Patrice",
     "author_github_url": "https://github.com/PatriceAm/"
   },
