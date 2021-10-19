@@ -839,6 +839,13 @@
     "author_github_url": "https://github.com/RedSquirrrel/"
   },
   {
+    "name": "Particle Effect",
+    "page_link": "./art/redsquirrrel2/index.html",
+    "art_icon": "./art/redsquirrrel2/icon.png",
+    "author_name": "RedSquirrrel",
+    "author_github_url": "https://github.com/RedSquirrrel/"
+  },
+  {
     "name": "Box_Animation",
     "page_link": "./art/rohit8020_canvasart/index.html",
     "art_icon": "./art/rohit8020_canvasart/icon.png",
