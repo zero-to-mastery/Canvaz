@@ -71,6 +71,13 @@
     "author_github_url": "https://github.com/MrCoku/"
   },
   {
+    "name": "France Flag",
+    "page_link": "./art/Divya_Niranjan/index.html",
+    "art_icon": "./art/Divya_Niranjan/icon.png",
+    "author_name": "Divya Niranjan",
+    "author_github_url": "https://github.com/Divya-Niranjan"
+  },
+  {
     "name": "Dominos Logo",
     "page_link": "./art/Dominos/index.html",
     "art_icon": "./art/Dominos/icon.png",
