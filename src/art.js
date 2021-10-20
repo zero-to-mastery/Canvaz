@@ -15,6 +15,13 @@
     "author_github_url": "https://github.com/Abdellah-ST"
   },
   {
+    "name": "Simple Box",
+    "page_link": "./art/Abhinav_Lugun/index.html",
+    "art_icon": "./art/Abhinav_Lugun/icon.png",
+    "author_name": "aal",
+    "author_github_url": "https://github.com/aal2015"
+  },
+  {
     "name": "Adwaith@Hacktober",
     "page_link": "./art/Adwaith@HacktoberFest/index.html",
     "art_icon": "./art/Adwaith@HacktoberFest/icon.png",
@@ -566,6 +573,13 @@
     "author_github_url": "https://github.com/coder284"
   },
   {
+    "name": "Circles",
+    "page_link": "./art/coder284_4/index.html",
+    "art_icon": "./art/coder284_4/icon.png",
+    "author_name": "coder284",
+    "author_github_url": "https://github.com/coder284"
+  },
+  {
     "name": "SpaceX Logo",
     "page_link": "./art/corquaid/index.html",
     "art_icon": "./art/corquaid/icon.png",
@@ -830,6 +844,13 @@
     "author_github_url": "https://github.com/NikkiKal"
   },
   {
+    "name": "Geeky-Star",
+    "page_link": "./art/nimrat/index.html",
+    "art_icon": "./art/nimrat/icon.png",
+    "author_name": "Nimrat Kaur",
+    "author_github_url": "https://github.com/Geeky-star"
+  },
+  {
     "name": "ProLoading Max",
     "page_link": "./art/nisnym/index.html",
     "art_icon": "./art/nisnym/icon.png",
@@ -1052,6 +1073,13 @@
     "art_icon": "./art/sophiabrandt/icon.png",
     "author_name": "Sophia Brandt",
     "author_github_url": "https://github.com/sophiabrandt"
+  },
+  {
+    "name": "Squid Games",
+    "page_link": "./art/stryker/index.html",
+    "art_icon": "./art/stryker/icon.png",
+    "author_name": "Stryker S",
+    "author_github_url": "https://github.com/StrykerKent/"
   },
   {
     "name": "Livestream Emojis",
