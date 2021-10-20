@@ -8,7 +8,15 @@ html {
 }
 
 body {
-  background-color: palegoldenrod;
+  background-color: #fafaff;
+  opacity: 0.8;
+  background-image: linear-gradient(135deg, #e6e3ae 25%, transparent 25%),
+    linear-gradient(225deg, #e6e3ae 25%, transparent 25%),
+    linear-gradient(45deg, #e6e3ae 25%, transparent 25%),
+    linear-gradient(315deg, #e6e3ae 25%, #fafaff 25%);
+  background-position: 10px 0, 10px 0, 0 0, 0 0;
+  background-size: 20px 20px;
+  background-repeat: repeat;
 }
 .main {
   padding: 4.5rem;
@@ -18,7 +26,7 @@ body {
   max-width: 50rem;
   padding: 3.2rem 3.2rem;
   margin: 0 auto;
-  background-color: #333;
+  background-color: black;
 }
 
 #canvas1,
@@ -26,7 +34,9 @@ body {
   animation: sec-anime 3s ease-in 0.5s infinite both;
 }
 
-#canvas2 {
+#canvas2,
+#canvas3,
+#canvas4 {
   padding-left: 12rem;
 }
 

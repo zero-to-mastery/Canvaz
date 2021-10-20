@@ -1,0 +1,38 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 8px;
+  border: 0;
+  background: darkslateblue;
+  color: white;
+}
+
+* {
+  font-family: cursive;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.canvas {
+  border: 2px solid black;
+  margin-bottom: 8px;
+}
+
+h3 {
+  display: block;
+  text-transform: uppercase;
+}
+
+button {
+  border: 2px solid black;
+  background: transparent;
+  color: white;
+  padding: 8px;
+  border-radius: 8px;
+}

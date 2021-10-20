@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    background-color:  #B0E9D5;
+    overflow: hidden;
+}
+
+img{
+    display: none;
+}
+
+#output {
+    height: 100vh;
+    width: 100vw;
+    background-color: #B0C4E9;
+}

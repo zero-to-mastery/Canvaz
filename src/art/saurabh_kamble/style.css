@@ -1,0 +1,48 @@
+body {
+    background: #000;
+    color: #aaa;
+    font: 100%/20px helvetica, arial, sans-serif;
+  }
+  
+  canvas {
+    display: block;
+    height: 100%;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    width: 100%
+  }
+  
+  #control-panel {
+    background: rgba(0,0,0,.75);
+    border: 1px solid #333;
+    left: 20px;
+    padding: 10px 15px;
+    position: absolute;
+    top: 20px;
+    z-index: 2;
+  }
+  
+  p {
+      font-size: 12px;
+    margin: 0 0 5px;
+  }
+  
+  label {
+    font-size: 12px;
+    font-weight: bold;
+  }	
+  
+  button {
+    display: block; 
+    margin: 10px 0 5px;
+  }
+  
+  a {
+    border-bottom: 1px dotted #444;
+    color: #fff;
+    font-size: 12px;
+    text-decoration: none;
+  }

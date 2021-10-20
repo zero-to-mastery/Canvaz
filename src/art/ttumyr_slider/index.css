@@ -1,0 +1,94 @@
+body {
+  font-family: tahoma, arial;
+  padding: 20px;
+}
+h1 {
+  font-weight: 200;
+}
+.colors {
+  --noRed: rgb(186, 18, 43);
+  --noBlue: rgb(0, 32, 91);
+  --seBlue: rgb(0, 106, 168);
+  --seYellow: rgb(254, 205, 0);
+  --daRed: rgb(199, 4, 45);
+  --faBlue: rgb(0, 53, 128);
+  --white: rgb(255, 255, 255);
+  --title: rgb(124, 113, 84);
+  --shadow: rgba(0, 0, 0, 0.3);
+}
+.hidden {
+  display: none;
+}
+.title {
+  color: var(--title);
+}
+.animate {
+  animation-name: opac;
+  animation-duration: 0.4s;
+}
+.main-block {
+  text-align: center;
+}
+.canvas {
+  display: block;
+  opacity: 1;
+  margin: 0 auto;
+}
+.canvas > canvas {
+  margin: 0 20px;
+  box-shadow: 0px 0px 10px 2px var(--shadow);
+}
+.navigator {
+  margin: 2rem auto;
+  width: fit-content;
+  border: 1px solid #d3d3d3;
+  border-radius: 10px;
+  padding: 0.2rem;
+  transform: scale(150%);
+}
+.navigator,
+.nav-selector-container,
+.nav-control,
+.nav-control--big,
+.nav-selector {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.nav-control > svg,
+.nav-control--big > svg,
+.nav-selector > svg {
+  cursor: pointer;
+}
+.nav-control > svg {
+  transform: scale(80%);
+}
+.nav-play > svg > path {
+  fill: #5fc95f;
+}
+.nav-pause > svg > path {
+  fill: #d86969;
+}
+.nav-control--big > svg {
+  transform: scale(50%);
+}
+.nav-selector > svg {
+  height: 24px;
+  width: 24px;
+  transform: scale(50%);
+}
+.nav-selector > svg > circle {
+  fill: #dddddd;
+}
+.nav-selector--active > svg > circle {
+  fill: #8a8a8a;
+}
+/* animation effects */
+@keyframes opac {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

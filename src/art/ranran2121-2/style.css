@@ -1,0 +1,13 @@
+body {
+  position: absolute;
+  top: 250px;
+  left: 500px;
+  background-color: black;
+}
+
+h1 {
+  color: orange;
+  font-family: fantasy;
+  font-size: 2rem;
+  margin-left: 25%;
+}

@@ -40,7 +40,7 @@ For more information about Canvas, you can read its [documentation](https://deve
 
 3. Set your streams so you can sync your clone with the original repo (get the latest updates)
 
-   - `git remote add upstream https://github.com/zero-to-mastery/Canvas-Creations.git`
+   - `git remote add upstream https://github.com/zero-to-mastery/Canvaz.git`
    - `git pull upstream master`
    - The above 2 commands will synchronize your forked version of the project with the actual repository.
 
@@ -79,7 +79,7 @@ _Please keep `src/art.js` as it is._ If you follow step 10 above, a script will 
 
 14. [Tweet about making your first Hacktoberfest pull request!](https://ctt.ac/9VJzj)
 
-> Congratulations! You are now one pull request closer to getting that free t-shirt. Why not have a go at the [HTML challenge](https://github.com/zero-to-mastery/Keiko-Corp) or the [Python Challenge](https://github.com/zero-to-mastery/ascii-art)? You can check how many qualifying pull requests you have made at <https://hacktoberfest.digitalocean.com/profile> .
+> Congratulations! You are now one pull request closer to getting that free t-shirt. Why not have a go at the [HTML challenge](https://github.com/zero-to-mastery/WebBlocks) or the [Python Challenge](https://github.com/zero-to-mastery/ascii-art-2021)? You can check how many qualifying pull requests you have made at <https://hacktoberfest.digitalocean.com/profile> .
 > Have Fun and Happy Coding!
 
 ## ❇️ Disclaimer

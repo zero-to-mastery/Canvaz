@@ -1,0 +1,12 @@
+body{
+    background-color: #ffff;
+    text-align: center;
+    position: absolute; 
+    top: 50px; 
+    left: 50px;
+}
+
+footer{
+    text-align: center;
+    padding: 15%;
+}
