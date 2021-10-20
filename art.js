@@ -454,6 +454,13 @@
     "author_github_url": "https://github.com/theonly1me/"
   },
   {
+    "name": "circle-design",
+    "page_link": "./art/ayushijaiswal/index.html",
+    "art_icon": "./art/ayushijaiswal/icon.png",
+    "author_name": "Ayushi-Jaiswal",
+    "author_github_url": "https://github.com/ayushi25jaiswal"
+  },
+  {
     "name": "Star Pattern",
     "page_link": "./art/barbara-d/index.html",
     "art_icon": "./art/barbara-d/icon.png",
@@ -557,6 +564,13 @@
     "art_icon": "./art/coder284_3/icon.png",
     "author_name": "coder284",
     "author_github_url": "https://github.com/coder284"
+  },
+  {
+    "name": "SpaceX Logo",
+    "page_link": "./art/corquaid/index.html",
+    "art_icon": "./art/corquaid/icon.png",
+    "author_name": "Cormac Quaid",
+    "author_github_url": "https://github.com/corquaid/"
   },
   {
     "name": "ZombieSlayer",
