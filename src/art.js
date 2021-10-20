@@ -608,6 +608,13 @@
     "author_github_url": "https://github.com/dewansh16"
   },
   {
+    "name": "SimplePiano",
+    "page_link": "./art/dylanb6/index.html",
+    "art_icon": "./art/dylanb6/icon.png",
+    "author_name": "dylanb6",
+    "author_github_url": "https://github.com/dylanb6/"
+  },
+  {
     "name": "Olympics",
     "page_link": "./art/ekta2901-1/index.html",
     "art_icon": "./art/ekta2901-1/icon.png",
