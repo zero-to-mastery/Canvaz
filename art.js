@@ -1103,6 +1103,13 @@
     "author_github_url": "https://github.com/yashraj2003e/"
   },
   {
+    "name": "Sweden Flag",
+    "page_link": "./art/yelllowberard_2/index.html",
+    "art_icon": "./art/yelllowberard_2/icon.png",
+    "author_name": "Mayank Goel",
+    "author_github_url": "https://github.com/yellowberard/"
+  },
+  {
     "name": "Japanese Flag",
     "page_link": "./art/yellowberard_1/index.html",
     "art_icon": "./art/yellowberard_1/icon.png",
