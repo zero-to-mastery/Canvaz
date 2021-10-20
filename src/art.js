@@ -816,6 +816,13 @@
     "author_github_url": "https://github.com/nayana-thapa/"
   },
   {
+    "name": "Tree",
+    "page_link": "./art/nikki/index.html",
+    "art_icon": "./art/nikki/icon.png",
+    "author_name": "NikkiKal",
+    "author_github_url": "https://github.com/NikkiKal"
+  },
+  {
     "name": "Flower",
     "page_link": "./art/nikkikal/index.html",
     "art_icon": "./art/nikkikal/icon.png",
