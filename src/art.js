@@ -587,6 +587,13 @@
     "author_github_url": "https://github.com/corquaid/"
   },
   {
+    "name": "Hubble Space Telescope",
+    "page_link": "./art/corquaid_2/index.html",
+    "art_icon": "./art/corquaid_2/icon.png",
+    "author_name": "Cormac Quaid",
+    "author_github_url": "https://github.com/corquaid/"
+  },
+  {
     "name": "ZombieSlayer",
     "page_link": "./art/cyrus_mobini/index.html",
     "art_icon": "./art/cyrus_mobini/icon.png",
