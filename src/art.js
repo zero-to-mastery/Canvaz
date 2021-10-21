@@ -587,6 +587,13 @@
     "author_github_url": "https://github.com/corquaid/"
   },
   {
+    "name": "Hubble Space Telescope",
+    "page_link": "./art/corquaid_2/index.html",
+    "art_icon": "./art/corquaid_2/icon.png",
+    "author_name": "Cormac Quaid",
+    "author_github_url": "https://github.com/corquaid/"
+  },
+  {
     "name": "ZombieSlayer",
     "page_link": "./art/cyrus_mobini/index.html",
     "art_icon": "./art/cyrus_mobini/icon.png",
@@ -606,6 +613,13 @@
     "art_icon": "./art/dewansh_Patle/icon.png",
     "author_name": "Dewansh",
     "author_github_url": "https://github.com/dewansh16"
+  },
+  {
+    "name": "SimplePiano",
+    "page_link": "./art/dylanb6/index.html",
+    "art_icon": "./art/dylanb6/icon.png",
+    "author_name": "dylanb6",
+    "author_github_url": "https://github.com/dylanb6/"
   },
   {
     "name": "Olympics",
