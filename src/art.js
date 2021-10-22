@@ -1103,6 +1103,13 @@
     "author_github_url": "https://github.com/StrykerKent/"
   },
   {
+    "name": "HacktoberSquidGame",
+    "page_link": "./art/sulit/index.html",
+    "art_icon": "./art/sulit/icon.png",
+    "author_name": "Ralph",
+    "author_github_url": "https://github.com/ralphsulit"
+  },
+  {
     "name": "Livestream Emojis",
     "page_link": "./art/thucpn/index.html",
     "art_icon": "./art/thucpn/icon.png",
