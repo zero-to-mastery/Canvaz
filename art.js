@@ -99,6 +99,13 @@
     "author_github_url": "https://github.com/carmeniancu/"
   },
   {
+    "name": "Shining Star",
+    "page_link": "./art/CarmenIancu3/index.html",
+    "art_icon": "./art/CarmenIancu3/icon.png",
+    "author_name": "Carmen",
+    "author_github_url": "https://github.com/carmeniancu/"
+  },
+  {
     "name": "Albanian Flag",
     "page_link": "./art/Coku/index.html",
     "art_icon": "./art/Coku/icon.png",
