@@ -120,6 +120,20 @@
     "author_github_url": "https://github.com/MrCoku/"
   },
   {
+    "name": "Green Ball",
+    "page_link": "./art/DanI/index.html",
+    "art_icon": "./art/DanI/icon.png",
+    "author_name": "Dan",
+    "author_github_url": "https://github.com/danIancuV"
+  },
+  {
+    "name": "Fir tree",
+    "page_link": "./art/DanI1/index.html",
+    "art_icon": "./art/DanI1/icon.png",
+    "author_name": "Dan",
+    "author_github_url": "https://github.com/danIancuV"
+  },
+  {
     "name": "France Flag",
     "page_link": "./art/Divya_Niranjan/index.html",
     "art_icon": "./art/Divya_Niranjan/icon.png",
