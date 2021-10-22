@@ -134,6 +134,13 @@
     "author_github_url": "https://github.com/danIancuV"
   },
   {
+    "name": "Nighttime fir tree",
+    "page_link": "./art/DanI2/index.html",
+    "art_icon": "./art/DanI2/icon.png",
+    "author_name": "Dan",
+    "author_github_url": "https://github.com/danIancuV"
+  },
+  {
     "name": "France Flag",
     "page_link": "./art/Divya_Niranjan/index.html",
     "art_icon": "./art/Divya_Niranjan/icon.png",
