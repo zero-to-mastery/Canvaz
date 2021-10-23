@@ -141,6 +141,13 @@
     "author_github_url": "https://github.com/danIancuV"
   },
   {
+    "name": "House",
+    "page_link": "./art/DanI3/index.html",
+    "art_icon": "./art/DanI3/icon.png",
+    "author_name": "Dan",
+    "author_github_url": "https://github.com/danIancuV"
+  },
+  {
     "name": "France Flag",
     "page_link": "./art/Divya_Niranjan/index.html",
     "art_icon": "./art/Divya_Niranjan/icon.png",
@@ -499,6 +506,13 @@
     "name": "circle-design",
     "page_link": "./art/ayushijaiswal2/index.html",
     "art_icon": "./art/ayushijaiswal2/icon.png",
+    "author_name": "Ayushi-Jaiswal",
+    "author_github_url": "https://github.com/ayushi25jaiswal"
+  },
+  {
+    "name": "circle-design",
+    "page_link": "./art/ayushijaiswal_4/index.html",
+    "art_icon": "./art/ayushijaiswal_4/icon.png",
     "author_name": "Ayushi-Jaiswal",
     "author_github_url": "https://github.com/ayushi25jaiswal"
   },
