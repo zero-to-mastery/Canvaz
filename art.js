@@ -1145,6 +1145,13 @@
     "author_github_url": "https://github.com/thucpn"
   },
   {
+    "name": "Circles",
+    "page_link": "./art/ttumyr_circles/index.html",
+    "art_icon": "./art/ttumyr_circles/icon.png",
+    "author_name": "ttumyr",
+    "author_github_url": "https://github.com/TTumyr"
+  },
+  {
     "name": "Simple Slider",
     "page_link": "./art/ttumyr_slider/index.html",
     "art_icon": "./art/ttumyr_slider/icon.png",
