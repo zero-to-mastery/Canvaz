@@ -921,6 +921,13 @@
     "author_github_url": "https://github.com/nisnym/"
   },
   {
+    "name": "CircularGradient",
+    "page_link": "./art/nss/index.html",
+    "art_icon": "./art/nss/icon.png",
+    "author_name": "Naga Saisriya",
+    "author_github_url": "https://github.com/nagasaisriya"
+  },
+  {
     "name": "Web-paint",
     "page_link": "./art/oryam/index.html",
     "art_icon": "./art/oryam/icon.png",
