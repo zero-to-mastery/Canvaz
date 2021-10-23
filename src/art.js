@@ -1,6 +1,13 @@
 
     let cards = [
   {
+    "name": "Bouncy black cat",
+    "page_link": "./art/13eardyman/index.html",
+    "art_icon": "./art/13eardyman/icon.png",
+    "author_name": "13eardyman",
+    "author_github_url": "https://github.com/13eardyman"
+  },
+  {
     "name": "2X2 Game",
     "page_link": "./art/2X2-game-main/index.html",
     "art_icon": "./art/2X2-game-main/icon.png",
