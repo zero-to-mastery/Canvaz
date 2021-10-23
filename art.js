@@ -1241,6 +1241,13 @@
     "art_icon": "./art/yellowberard_1/icon.png",
     "author_name": "Mayank Goel",
     "author_github_url": "https://github.com/yellowberard/"
+  },
+  {
+    "name": "COD Black Ops 2",
+    "page_link": "./art/zillBoy/index.html",
+    "art_icon": "./art/zillBoy/icon.png",
+    "author_name": "Muhammad Usman",
+    "author_github_url": "https://github.com/zillBoy/"
   }
 ]
 
