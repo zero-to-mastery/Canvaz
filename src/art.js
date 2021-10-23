@@ -1,6 +1,13 @@
 
     let cards = [
   {
+    "name": "Bouncy black cat",
+    "page_link": "./art/13eardyman/index.html",
+    "art_icon": "./art/13eardyman/icon.png",
+    "author_name": "13eardyman",
+    "author_github_url": "https://github.com/13eardyman"
+  },
+  {
     "name": "2X2 Game",
     "page_link": "./art/2X2-game-main/index.html",
     "art_icon": "./art/2X2-game-main/icon.png",
@@ -99,6 +106,13 @@
     "author_github_url": "https://github.com/carmeniancu/"
   },
   {
+    "name": "Shining Star",
+    "page_link": "./art/CarmenIancu3/index.html",
+    "art_icon": "./art/CarmenIancu3/icon.png",
+    "author_name": "Carmen",
+    "author_github_url": "https://github.com/carmeniancu/"
+  },
+  {
     "name": "Albanian Flag",
     "page_link": "./art/Coku/index.html",
     "art_icon": "./art/Coku/icon.png",
@@ -111,6 +125,34 @@
     "art_icon": "./art/Coku_2/icon.png",
     "author_name": "Coku",
     "author_github_url": "https://github.com/MrCoku/"
+  },
+  {
+    "name": "Green Ball",
+    "page_link": "./art/DanI/index.html",
+    "art_icon": "./art/DanI/icon.png",
+    "author_name": "Dan",
+    "author_github_url": "https://github.com/danIancuV"
+  },
+  {
+    "name": "Fir tree",
+    "page_link": "./art/DanI1/index.html",
+    "art_icon": "./art/DanI1/icon.png",
+    "author_name": "Dan",
+    "author_github_url": "https://github.com/danIancuV"
+  },
+  {
+    "name": "Nighttime fir tree",
+    "page_link": "./art/DanI2/index.html",
+    "art_icon": "./art/DanI2/icon.png",
+    "author_name": "Dan",
+    "author_github_url": "https://github.com/danIancuV"
+  },
+  {
+    "name": "House",
+    "page_link": "./art/DanI3/index.html",
+    "art_icon": "./art/DanI3/icon.png",
+    "author_name": "Dan",
+    "author_github_url": "https://github.com/danIancuV"
   },
   {
     "name": "France Flag",
@@ -464,6 +506,20 @@
     "name": "circle-design",
     "page_link": "./art/ayushijaiswal/index.html",
     "art_icon": "./art/ayushijaiswal/icon.png",
+    "author_name": "Ayushi-Jaiswal",
+    "author_github_url": "https://github.com/ayushi25jaiswal"
+  },
+  {
+    "name": "circle-design",
+    "page_link": "./art/ayushijaiswal2/index.html",
+    "art_icon": "./art/ayushijaiswal2/icon.png",
+    "author_name": "Ayushi-Jaiswal",
+    "author_github_url": "https://github.com/ayushi25jaiswal"
+  },
+  {
+    "name": "circle-design",
+    "page_link": "./art/ayushijaiswal_4/index.html",
+    "art_icon": "./art/ayushijaiswal_4/icon.png",
     "author_name": "Ayushi-Jaiswal",
     "author_github_url": "https://github.com/ayushi25jaiswal"
   },
@@ -872,6 +928,13 @@
     "author_github_url": "https://github.com/nisnym/"
   },
   {
+    "name": "CircularGradient",
+    "page_link": "./art/nss/index.html",
+    "art_icon": "./art/nss/icon.png",
+    "author_name": "Naga Saisriya",
+    "author_github_url": "https://github.com/nagasaisriya"
+  },
+  {
     "name": "Web-paint",
     "page_link": "./art/oryam/index.html",
     "art_icon": "./art/oryam/icon.png",
@@ -1096,11 +1159,25 @@
     "author_github_url": "https://github.com/StrykerKent/"
   },
   {
+    "name": "HacktoberSquidGame",
+    "page_link": "./art/sulit/index.html",
+    "art_icon": "./art/sulit/icon.png",
+    "author_name": "Ralph",
+    "author_github_url": "https://github.com/ralphsulit"
+  },
+  {
     "name": "Livestream Emojis",
     "page_link": "./art/thucpn/index.html",
     "art_icon": "./art/thucpn/icon.png",
     "author_name": "thucpn",
     "author_github_url": "https://github.com/thucpn"
+  },
+  {
+    "name": "Circles",
+    "page_link": "./art/ttumyr_circles/index.html",
+    "art_icon": "./art/ttumyr_circles/icon.png",
+    "author_name": "ttumyr",
+    "author_github_url": "https://github.com/TTumyr"
   },
   {
     "name": "Simple Slider",
@@ -1178,6 +1255,13 @@
     "art_icon": "./art/yellowberard_1/icon.png",
     "author_name": "Mayank Goel",
     "author_github_url": "https://github.com/yellowberard/"
+  },
+  {
+    "name": "COD Black Ops 2",
+    "page_link": "./art/zillBoy/index.html",
+    "art_icon": "./art/zillBoy/icon.png",
+    "author_name": "Muhammad Usman",
+    "author_github_url": "https://github.com/zillBoy/"
   }
 ]
 
