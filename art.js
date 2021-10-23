@@ -496,6 +496,13 @@
     "author_github_url": "https://github.com/ayushi25jaiswal"
   },
   {
+    "name": "circle-design",
+    "page_link": "./art/ayushijaiswal2/index.html",
+    "art_icon": "./art/ayushijaiswal2/icon.png",
+    "author_name": "Ayushi-Jaiswal",
+    "author_github_url": "https://github.com/ayushi25jaiswal"
+  },
+  {
     "name": "Star Pattern",
     "page_link": "./art/barbara-d/index.html",
     "art_icon": "./art/barbara-d/icon.png",
