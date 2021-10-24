@@ -518,6 +518,13 @@
   },
   {
     "name": "circle-design",
+    "page_link": "./art/ayushijaiswal_3/index.html",
+    "art_icon": "./art/ayushijaiswal_3/icon.png",
+    "author_name": "Ayushi-Jaiswal",
+    "author_github_url": "https://github.com/ayushi25jaiswal"
+  },
+  {
+    "name": "circle-design",
     "page_link": "./art/ayushijaiswal_4/index.html",
     "art_icon": "./art/ayushijaiswal_4/icon.png",
     "author_name": "Ayushi-Jaiswal",
