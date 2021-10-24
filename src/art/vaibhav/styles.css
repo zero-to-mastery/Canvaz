@@ -1,0 +1,11 @@
+body{
+    margin:0;
+    padding:0;
+    background-color:whitesmoke;
+}
+
+#canvas{
+    position: absolute;
+    left: 30%;
+    top: 15%;
+}
