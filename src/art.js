@@ -293,6 +293,13 @@
     "author_github_url": "https://github.com/the-halfbloodprince"
   },
   {
+    "name": "Heart in a Box",
+    "page_link": "./art/Mihir3/index.html",
+    "art_icon": "./art/Mihir3/icon.png",
+    "author_name": "Mihir Pamnani",
+    "author_github_url": "https://github.com/Mihir3/"
+  },
+  {
     "name": "Microsoft Logo",
     "page_link": "./art/Navdeepsingh4298-Microsoft-Logo/index.html",
     "art_icon": "./art/Navdeepsingh4298-Microsoft-Logo/icon.png",
@@ -503,6 +510,13 @@
     "author_github_url": "https://github.com/theonly1me/"
   },
   {
+    "name": "DoodleBoard",
+    "page_link": "./art/auxfuse/index.html",
+    "art_icon": "./art/auxfuse/icon.png",
+    "author_name": "Auxfuse",
+    "author_github_url": "https://github.com/auxfuse/"
+  },
+  {
     "name": "circle-design",
     "page_link": "./art/ayushijaiswal/index.html",
     "art_icon": "./art/ayushijaiswal/icon.png",
@@ -513,6 +527,13 @@
     "name": "circle-design",
     "page_link": "./art/ayushijaiswal2/index.html",
     "art_icon": "./art/ayushijaiswal2/icon.png",
+    "author_name": "Ayushi-Jaiswal",
+    "author_github_url": "https://github.com/ayushi25jaiswal"
+  },
+  {
+    "name": "circle-design",
+    "page_link": "./art/ayushijaiswal_3/index.html",
+    "art_icon": "./art/ayushijaiswal_3/icon.png",
     "author_name": "Ayushi-Jaiswal",
     "author_github_url": "https://github.com/ayushi25jaiswal"
   },
@@ -739,6 +760,13 @@
     "art_icon": "./art/haylzrandom/icon.png",
     "author_name": "HaylzRandom",
     "author_github_url": "https://github.com/HaylzRandom/"
+  },
+  {
+    "name": "Composition with Red Blue and Yellow",
+    "page_link": "./art/incanlove/index.html",
+    "art_icon": "./art/incanlove/icon.png",
+    "author_name": "Juan O.",
+    "author_github_url": "https://github.com/incanlove"
   },
   {
     "name": "Traideas",
@@ -1115,6 +1143,13 @@
     "art_icon": "./art/rokoala/icon.png",
     "author_name": "rokoala",
     "author_github_url": "https://github.com/rokoala"
+  },
+  {
+    "name": "Microsoft-Logo",
+    "page_link": "./art/sachdevavaibhav/index.html",
+    "art_icon": "./art/sachdevavaibhav/icon.png",
+    "author_name": "Vaibhav Sachdeva",
+    "author_github_url": "https://github.com/sachdevavaibhav/"
   },
   {
     "name": "Rainy Day in New York",
