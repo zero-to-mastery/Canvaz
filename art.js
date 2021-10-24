@@ -510,6 +510,13 @@
     "author_github_url": "https://github.com/theonly1me/"
   },
   {
+    "name": "DoodleBoard",
+    "page_link": "./art/auxfuse/index.html",
+    "art_icon": "./art/auxfuse/icon.png",
+    "author_name": "Auxfuse",
+    "author_github_url": "https://github.com/auxfuse/"
+  },
+  {
     "name": "circle-design",
     "page_link": "./art/ayushijaiswal/index.html",
     "art_icon": "./art/ayushijaiswal/icon.png",
@@ -1136,6 +1143,13 @@
     "art_icon": "./art/rokoala/icon.png",
     "author_name": "rokoala",
     "author_github_url": "https://github.com/rokoala"
+  },
+  {
+    "name": "Microsoft-Logo",
+    "page_link": "./art/sachdevavaibhav/index.html",
+    "art_icon": "./art/sachdevavaibhav/icon.png",
+    "author_name": "Vaibhav Sachdeva",
+    "author_github_url": "https://github.com/sachdevavaibhav/"
   },
   {
     "name": "Rainy Day in New York",
