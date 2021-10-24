@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#canfuse {
+    border: 1px solid limegreen;
+}
+
+.utils {
+    display: flex;
+    align-items: center;
+    margin: 1rem 3rem;
+}
+
+.utils > p {
+    margin-left: 1rem;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.utils > #clear {
+    padding: 0 1rem;
+    margin-left: 1rem;
+}
