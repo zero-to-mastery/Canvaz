@@ -293,6 +293,13 @@
     "author_github_url": "https://github.com/the-halfbloodprince"
   },
   {
+    "name": "Heart in a Box",
+    "page_link": "./art/Mihir3/index.html",
+    "art_icon": "./art/Mihir3/icon.png",
+    "author_name": "Mihir Pamnani",
+    "author_github_url": "https://github.com/Mihir3/"
+  },
+  {
     "name": "Microsoft Logo",
     "page_link": "./art/Navdeepsingh4298-Microsoft-Logo/index.html",
     "art_icon": "./art/Navdeepsingh4298-Microsoft-Logo/icon.png",
