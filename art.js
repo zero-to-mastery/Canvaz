@@ -755,6 +755,13 @@
     "author_github_url": "https://github.com/HaylzRandom/"
   },
   {
+    "name": "Composition with Red Blue and Yellow",
+    "page_link": "./art/incanlove/index.html",
+    "art_icon": "./art/incanlove/icon.png",
+    "author_name": "Juan O.",
+    "author_github_url": "https://github.com/incanlove"
+  },
+  {
     "name": "Traideas",
     "page_link": "./art/istiak/index.html",
     "art_icon": "./art/istiak/icon.png",
