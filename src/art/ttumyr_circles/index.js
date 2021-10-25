@@ -1,7 +1,8 @@
-class Elements {
+class MainLayer {
   constructor() {
     this.canvas = document.getElementById('canvas');
     this.setVars();
+    this.options = new Options();
     this.setListeners();
   }
   setVars() {
@@ -14,11 +15,65 @@ class Elements {
       this.canvas.height = window.innerHeight;
       this.canvas.width = window.innerWidth;
     });
+    window.addEventListener('click', (e) => {
+      if (
+        (!e.target.closest('#options-panel') && !e.target.closest('#options-control')) ||
+        e.target.closest('#btn-cancel')
+      ) {
+        document.getElementById('options-panel').style.display = 'none';
+      }
+      if (e.target.closest('#options-control')) {
+        const el = document.getElementById('options-panel');
+        if (el.style.display === '' || el.style.display === 'none') el.style.display = 'block';
+        else el.style.display = 'none';
+      }
+      if (e.target.closest('#btn-pause')) {
+        const el = document.getElementById('btn-pause');
+        if (el.textContent === 'Pause') {
+          el.textContent = 'Play';
+          el.classList.remove('btn-secondary');
+          clearInterval(this.play);
+        } else {
+          el.textContent = 'Pause';
+          el.classList.add('btn-secondary');
+          this.run();
+        }
+      }
+      if (e.target.closest('#btn-refresh')) {
+        console.clear();
+        this.options.meter.count = 0;
+        this.options.meter.total = 0;
+        this.options.meter.totalTime = 0;
+        this.canvas.width = window.innerWidth;
+      }
+    });
+  }
+  draw() {
+    this.options.useMeter && this.options.meter.count++;
+    const size =
+      Math.floor(Math.random() * (this.options.shapeSizeMax - this.options.shapeSizeMin)) + this.options.shapeSizeMin;
+    const shape = new Shape(size, this.options.shapes);
+    new Draw(this, shape).init();
+  }
+  run() {
+    this.play = setInterval(() => {
+      if (this.drawFrequency !== this.options.drawFrequency) {
+        this.stop();
+        this.drawFrequency = this.options.drawFrequency;
+        this.run();
+      }
+      this.draw(this.shape);
+      this.options.useMeter && this.options.meter.count++;
+    }, this.drawFrequency);
+  }
+  stop() {
+    clearInterval(this.play);
   }
 }
 
 class Shape {
-  constructor(size = 50) {
+  constructor(size = 50, types = ['circle', 'square', 'triangle']) {
+    this.types = types;
     this.setColor();
     this.setSize(size);
     this.setType();
@@ -34,7 +89,6 @@ class Shape {
     this.size = Math.floor(Math.random() * size);
   }
   setType() {
-    this.types = ['circle', 'square', 'triangle'];
     this.type = this.types[Math.floor(Math.random() * this.types.length)];
   }
 }
@@ -69,57 +123,113 @@ class Draw {
     this.ctx.closePath();
   }
 }
+class Options {
+  constructor() {
+    this.shapes = ['circle', 'square', 'triangle'];
+    this.drawFrequency = 10;
+    this.shapeSizeMin = 0;
+    this.shapeSizeMax = 0;
+    this.shapeCircle = document.getElementsByName('circle')[0];
+    this.shapeSquare = document.getElementsByName('square')[0];
+    this.shapeTriangle = document.getElementsByName('triangle')[0];
+    this.optionsControl = document.getElementById('options-control');
+    this.animationInterval = document.getElementById('animation-interval');
+    this.sizeSliderOne = document.getElementById('slider-1');
+    this.sizeSliderTwo = document.getElementById('slider-2');
+    this.displayValLow = document.getElementById('range-1');
+    this.displayValHigh = document.getElementById('range-2');
+    this.minGap = 0;
+    this.sliderTrack = document.querySelector('.slider-track');
+    this.sliderMaxValue = document.getElementById('slider-1').max;
+    this.selectUseMeter = document.getElementsByName('use-meter')[0];
+    this.useMeter = false;
+    this.meter = new Meter();
+    this.optionsInit();
+  }
+  /* shapes */
+  optionsInit() {
+    this.animationInterval.value = this.drawFrequency;
+    this.shapeCircle.addEventListener('change', this.changeShapeValue.bind(this, this.shapeCircle));
+    this.shapeSquare.addEventListener('change', this.changeShapeValue.bind(this, this.shapeSquare));
+    this.shapeTriangle.addEventListener('change', this.changeShapeValue.bind(this, this.shapeTriangle));
+    this.animationInterval.addEventListener('change', () => this.setInterval());
+    this.selectUseMeter.addEventListener('change', () => this.setUseMeter());
+    this.sizeSliderOne.addEventListener('input', () => this.adjustSizeSlider());
+    this.sizeSliderTwo.addEventListener('input', () => this.adjustSizeSlider());
+    this.setUseMeter();
+    this.adjustSizeSlider();
+  }
+  setUseMeter() {
+    this.useMeter = this.selectUseMeter.checked;
+    if (this.selectUseMeter.checked) {
+      this.meter.run();
+    } else {
+      this.meter.stop();
+    }
+  }
+  changeShapeValue(el) {
+    if (el.checked) {
+      this.shapes.push(el.name);
+    } else {
+      this.shapes.splice(this.shapes.indexOf(el.name), 1);
+    }
+  }
+  setInterval() {
+    this.drawFrequency = this.animationInterval.value;
+  }
+  /* size slider */
+  setSizeSlider() {
+    this.sizeSliderOne.addEventListener('input', () => this.adjustSizeSlider());
+    this.sizeSliderTwo.addEventListener('input', () => this.adjustSizeSlider());
+    this.adjustSizeSlider();
+  }
+  adjustSizeSlider() {
+    const percent1 = (this.sizeSliderOne.value / this.sliderMaxValue) * 100;
+    const percent2 = (this.sizeSliderTwo.value / this.sliderMaxValue) * 100;
+    if (parseInt(this.sizeSliderOne.value) <= parseInt(this.sizeSliderTwo.value)) {
+      this.sliderTrack.style.background = `linear-gradient(to right, #dadae5 ${percent1}% , #87cefa ${percent1}% , #87cefa ${percent2}%, #dadae5 ${percent2}%)`;
+      this.setSizeValues(this.sizeSliderOne.value, this.sizeSliderTwo.value);
+    } else {
+      this.sliderTrack.style.background = `linear-gradient(to right, #dadae5 ${percent2}% , #87cefa ${percent2}% , #87cefa ${percent1}%, #dadae5 ${percent1}%)`;
+      this.setSizeValues(this.sizeSliderTwo.value, this.sizeSliderOne.value);
+    }
+  }
+  setSizeValues(min, max) {
+    this.displayValLow.textContent = min;
+    this.displayValHigh.textContent = max;
+    this.shapeSizeMin = parseInt(min);
+    this.shapeSizeMax = parseInt(max);
+  }
+}
 class Meter {
   constructor() {
     this.count = 0;
     this.interval = 5000;
     this.total = 0;
     this.totalTime = 0;
+    this.isRunning;
   }
   run() {
-    setInterval(() => {
+    this.isRunning = setInterval(() => {
       console.clear();
-      console.log(
-        `Current operations per ${this.interval / 1000} second(s): `,
-        this.count
-      );
+      console.log(`Current operations per ${this.interval / 1000} second(s): `, this.count);
       this.total += this.count;
       this.totalTime += this.interval;
-      console.log(
-        `Total operations over ${this.totalTime / 1000} second(s): `,
-        this.total
-      );
+      console.log(`Total operations over ${this.totalTime / 1000} second(s): `, this.total);
       this.count = 0;
     }, this.interval);
+  }
+  stop() {
+    clearInterval(this.isRunning);
   }
 }
 class MainController {
   constructor() {
-    this.elements = new Elements();
-    this.initialState = true;
-    this.playState = true;
-    //set useMeter to true and drawFreqency to 0 for performance testing
-    this.useMeter = false;
-    this.drawFrequency = 10;
-    this.meter = new Meter();
+    this.main = new MainLayer();
     this.init();
   }
-  draw() {
-    this.opMetCount++;
-    const size =
-      Math.floor((Math.random() * this.elements.canvas.width) / 8) + 10;
-    const shape = new Shape(size);
-    new Draw(this.elements, shape).init();
-  }
-  run() {
-    setInterval(() => {
-      this.draw(this.shape);
-      this.meter.count++;
-    }, this.drawFrequency);
-  }
   init() {
-    this.useMeter && this.meter.run();
-    this.playState && this.run();
+    this.main.run();
   }
 }
 new MainController();
