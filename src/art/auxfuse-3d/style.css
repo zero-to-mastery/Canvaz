@@ -4,17 +4,30 @@
     box-sizing: border-box;
 }
 
-body {
-    overflow: hidden;
-}
-
-canvas {
-    height: 100%;
-    width: 100%;
-    border: 1px solid firebrick;
-}
-
 model-viewer {
-    height: 100%;
+    border-bottom: 1px solid firebrick;
+    height: 80vh;
     width: 100%;
+}
+
+.utils {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.utils > p {
+    margin-top: 1rem;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.utils > p:last-child {
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
 }
