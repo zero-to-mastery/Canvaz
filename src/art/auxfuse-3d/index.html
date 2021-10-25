@@ -5,16 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Auxfuse - Canvaz</title>
+    <title>Auxfuse - Canvaz 3D</title>
 </head>
 <body>
-    <canvas id="canfuse"></canvas>
-    <div class="utils">
-        <h1>DoodleBoard</h1>
-        <p>Draw some doodles above!</p>
-        <button id="clear">Clear Board</button>
-    </div>
+    <!-- <canvas> -->
+        <model-viewer alt="Donut" src="donut.glb" shadow-intensity="1" camera-controls></model-viewer>
+    <!-- </canvas> -->
 
+    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
     <script src="main.js"></script>
 </body>
 </html>

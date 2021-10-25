@@ -3,3 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    overflow: hidden;
+}
+
+canvas {
+    height: 100%;
+    width: 100%;
+    border: 1px solid firebrick;
+}
+
+model-viewer {
+    height: 100%;
+    width: 100%;
+}
