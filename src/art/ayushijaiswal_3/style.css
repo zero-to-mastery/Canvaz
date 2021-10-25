@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #eee;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+canvas{
+    background: white;
+    border-radius: 40px;
+    box-shadow: 0px 0px 10px gray;
+}

@@ -1,6 +1,13 @@
 
     let cards = [
   {
+    "name": "Bouncy black cat",
+    "page_link": "./art/13eardyman/index.html",
+    "art_icon": "./art/13eardyman/icon.png",
+    "author_name": "13eardyman",
+    "author_github_url": "https://github.com/13eardyman"
+  },
+  {
     "name": "2X2 Game",
     "page_link": "./art/2X2-game-main/index.html",
     "art_icon": "./art/2X2-game-main/icon.png",
@@ -13,6 +20,13 @@
     "art_icon": "./art/Abdo_AK_ST/icon.png",
     "author_name": "AbdoAKST",
     "author_github_url": "https://github.com/Abdellah-ST"
+  },
+  {
+    "name": "Simple Box",
+    "page_link": "./art/Abhinav_Lugun/index.html",
+    "art_icon": "./art/Abhinav_Lugun/icon.png",
+    "author_name": "aal",
+    "author_github_url": "https://github.com/aal2015"
   },
   {
     "name": "Adwaith@Hacktober",
@@ -34,6 +48,13 @@
     "art_icon": "./art/Anuj_Mishra/icon.png",
     "author_name": "Anuj_Mishra",
     "author_github_url": "https://github.com/ANmishra-a"
+  },
+  {
+    "name": "Halloween",
+    "page_link": "./art/Aramantos/index.html",
+    "art_icon": "./art/Aramantos/icon.png",
+    "author_name": "Aramantos",
+    "author_github_url": "https://github.com/Aramantos"
   },
   {
     "name": "Colorful Stars",
@@ -92,6 +113,13 @@
     "author_github_url": "https://github.com/carmeniancu/"
   },
   {
+    "name": "Shining Star",
+    "page_link": "./art/CarmenIancu3/index.html",
+    "art_icon": "./art/CarmenIancu3/icon.png",
+    "author_name": "Carmen",
+    "author_github_url": "https://github.com/carmeniancu/"
+  },
+  {
     "name": "Albanian Flag",
     "page_link": "./art/Coku/index.html",
     "art_icon": "./art/Coku/icon.png",
@@ -104,6 +132,34 @@
     "art_icon": "./art/Coku_2/icon.png",
     "author_name": "Coku",
     "author_github_url": "https://github.com/MrCoku/"
+  },
+  {
+    "name": "Green Ball",
+    "page_link": "./art/DanI/index.html",
+    "art_icon": "./art/DanI/icon.png",
+    "author_name": "Dan",
+    "author_github_url": "https://github.com/danIancuV"
+  },
+  {
+    "name": "Fir tree",
+    "page_link": "./art/DanI1/index.html",
+    "art_icon": "./art/DanI1/icon.png",
+    "author_name": "Dan",
+    "author_github_url": "https://github.com/danIancuV"
+  },
+  {
+    "name": "Nighttime fir tree",
+    "page_link": "./art/DanI2/index.html",
+    "art_icon": "./art/DanI2/icon.png",
+    "author_name": "Dan",
+    "author_github_url": "https://github.com/danIancuV"
+  },
+  {
+    "name": "House",
+    "page_link": "./art/DanI3/index.html",
+    "art_icon": "./art/DanI3/icon.png",
+    "author_name": "Dan",
+    "author_github_url": "https://github.com/danIancuV"
   },
   {
     "name": "France Flag",
@@ -242,6 +298,13 @@
     "art_icon": "./art/ManishKumarDas2/icon.png",
     "author_name": "Manish Kumar Das",
     "author_github_url": "https://github.com/the-halfbloodprince"
+  },
+  {
+    "name": "Heart in a Box",
+    "page_link": "./art/Mihir3/index.html",
+    "art_icon": "./art/Mihir3/icon.png",
+    "author_name": "Mihir Pamnani",
+    "author_github_url": "https://github.com/Mihir3/"
   },
   {
     "name": "Microsoft Logo",
@@ -454,9 +517,37 @@
     "author_github_url": "https://github.com/theonly1me/"
   },
   {
+    "name": "DoodleBoard",
+    "page_link": "./art/auxfuse/index.html",
+    "art_icon": "./art/auxfuse/icon.png",
+    "author_name": "Auxfuse",
+    "author_github_url": "https://github.com/auxfuse/"
+  },
+  {
     "name": "circle-design",
     "page_link": "./art/ayushijaiswal/index.html",
     "art_icon": "./art/ayushijaiswal/icon.png",
+    "author_name": "Ayushi-Jaiswal",
+    "author_github_url": "https://github.com/ayushi25jaiswal"
+  },
+  {
+    "name": "circle-design",
+    "page_link": "./art/ayushijaiswal2/index.html",
+    "art_icon": "./art/ayushijaiswal2/icon.png",
+    "author_name": "Ayushi-Jaiswal",
+    "author_github_url": "https://github.com/ayushi25jaiswal"
+  },
+  {
+    "name": "circle-design",
+    "page_link": "./art/ayushijaiswal_3/index.html",
+    "art_icon": "./art/ayushijaiswal_3/icon.png",
+    "author_name": "Ayushi-Jaiswal",
+    "author_github_url": "https://github.com/ayushi25jaiswal"
+  },
+  {
+    "name": "circle-design",
+    "page_link": "./art/ayushijaiswal_4/index.html",
+    "art_icon": "./art/ayushijaiswal_4/icon.png",
     "author_name": "Ayushi-Jaiswal",
     "author_github_url": "https://github.com/ayushi25jaiswal"
   },
@@ -566,9 +657,23 @@
     "author_github_url": "https://github.com/coder284"
   },
   {
+    "name": "Circles",
+    "page_link": "./art/coder284_4/index.html",
+    "art_icon": "./art/coder284_4/icon.png",
+    "author_name": "coder284",
+    "author_github_url": "https://github.com/coder284"
+  },
+  {
     "name": "SpaceX Logo",
     "page_link": "./art/corquaid/index.html",
     "art_icon": "./art/corquaid/icon.png",
+    "author_name": "Cormac Quaid",
+    "author_github_url": "https://github.com/corquaid/"
+  },
+  {
+    "name": "Hubble Space Telescope",
+    "page_link": "./art/corquaid_2/index.html",
+    "art_icon": "./art/corquaid_2/icon.png",
     "author_name": "Cormac Quaid",
     "author_github_url": "https://github.com/corquaid/"
   },
@@ -592,6 +697,13 @@
     "art_icon": "./art/dewansh_Patle/icon.png",
     "author_name": "Dewansh",
     "author_github_url": "https://github.com/dewansh16"
+  },
+  {
+    "name": "SimplePiano",
+    "page_link": "./art/dylanb6/index.html",
+    "art_icon": "./art/dylanb6/icon.png",
+    "author_name": "dylanb6",
+    "author_github_url": "https://github.com/dylanb6/"
   },
   {
     "name": "Olympics",
@@ -655,6 +767,13 @@
     "art_icon": "./art/haylzrandom/icon.png",
     "author_name": "HaylzRandom",
     "author_github_url": "https://github.com/HaylzRandom/"
+  },
+  {
+    "name": "Composition with Red Blue and Yellow",
+    "page_link": "./art/incanlove/index.html",
+    "art_icon": "./art/incanlove/icon.png",
+    "author_name": "Juan O.",
+    "author_github_url": "https://github.com/incanlove"
   },
   {
     "name": "Traideas",
@@ -816,6 +935,13 @@
     "author_github_url": "https://github.com/nayana-thapa/"
   },
   {
+    "name": "Tree",
+    "page_link": "./art/nikki/index.html",
+    "art_icon": "./art/nikki/icon.png",
+    "author_name": "NikkiKal",
+    "author_github_url": "https://github.com/NikkiKal"
+  },
+  {
     "name": "Flower",
     "page_link": "./art/nikkikal/index.html",
     "art_icon": "./art/nikkikal/icon.png",
@@ -823,11 +949,25 @@
     "author_github_url": "https://github.com/NikkiKal"
   },
   {
+    "name": "Geeky-Star",
+    "page_link": "./art/nimrat/index.html",
+    "art_icon": "./art/nimrat/icon.png",
+    "author_name": "Nimrat Kaur",
+    "author_github_url": "https://github.com/Geeky-star"
+  },
+  {
     "name": "ProLoading Max",
     "page_link": "./art/nisnym/index.html",
     "art_icon": "./art/nisnym/icon.png",
     "author_name": "NISNYM",
     "author_github_url": "https://github.com/nisnym/"
+  },
+  {
+    "name": "CircularGradient",
+    "page_link": "./art/nss/index.html",
+    "art_icon": "./art/nss/icon.png",
+    "author_name": "Naga Saisriya",
+    "author_github_url": "https://github.com/nagasaisriya"
   },
   {
     "name": "Web-paint",
@@ -1012,6 +1152,13 @@
     "author_github_url": "https://github.com/rokoala"
   },
   {
+    "name": "Microsoft-Logo",
+    "page_link": "./art/sachdevavaibhav/index.html",
+    "art_icon": "./art/sachdevavaibhav/icon.png",
+    "author_name": "Vaibhav Sachdeva",
+    "author_github_url": "https://github.com/sachdevavaibhav/"
+  },
+  {
     "name": "Rainy Day in New York",
     "page_link": "./art/sammneto/index.html",
     "art_icon": "./art/sammneto/icon.png",
@@ -1047,11 +1194,32 @@
     "author_github_url": "https://github.com/sophiabrandt"
   },
   {
+    "name": "Squid Games",
+    "page_link": "./art/stryker/index.html",
+    "art_icon": "./art/stryker/icon.png",
+    "author_name": "Stryker S",
+    "author_github_url": "https://github.com/StrykerKent/"
+  },
+  {
+    "name": "HacktoberSquidGame",
+    "page_link": "./art/sulit/index.html",
+    "art_icon": "./art/sulit/icon.png",
+    "author_name": "Ralph",
+    "author_github_url": "https://github.com/ralphsulit"
+  },
+  {
     "name": "Livestream Emojis",
     "page_link": "./art/thucpn/index.html",
     "art_icon": "./art/thucpn/icon.png",
     "author_name": "thucpn",
     "author_github_url": "https://github.com/thucpn"
+  },
+  {
+    "name": "Circles",
+    "page_link": "./art/ttumyr_circles/index.html",
+    "art_icon": "./art/ttumyr_circles/icon.png",
+    "author_name": "ttumyr",
+    "author_github_url": "https://github.com/TTumyr"
   },
   {
     "name": "Simple Slider",
@@ -1129,6 +1297,13 @@
     "art_icon": "./art/yellowberard_1/icon.png",
     "author_name": "Mayank Goel",
     "author_github_url": "https://github.com/yellowberard/"
+  },
+  {
+    "name": "COD Black Ops 2",
+    "page_link": "./art/zillBoy/index.html",
+    "art_icon": "./art/zillBoy/icon.png",
+    "author_name": "Muhammad Usman",
+    "author_github_url": "https://github.com/zillBoy/"
   }
 ]
 

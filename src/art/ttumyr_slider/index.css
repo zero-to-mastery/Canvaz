@@ -11,11 +11,16 @@ h1 {
   --seBlue: rgb(0, 106, 168);
   --seYellow: rgb(254, 205, 0);
   --daRed: rgb(199, 4, 45);
+  --faBlue: rgb(0, 53, 128);
   --white: rgb(255, 255, 255);
+  --title: rgb(124, 113, 84);
   --shadow: rgba(0, 0, 0, 0.3);
 }
 .hidden {
   display: none;
+}
+.title {
+  color: var(--title);
 }
 .animate {
   animation-name: opac;
