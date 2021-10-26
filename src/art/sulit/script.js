@@ -37,7 +37,7 @@ function column1() {
   //1st column rectangle
   p.beginPath();
   p.fillStyle = '#FF0000';
-  p.fillRect(100, 400, 200, 290);
+  p.fillRect(500, 500, 200, 290);
   p.closePath();
   
   //1st column elipse
@@ -53,26 +53,16 @@ function column1() {
   let rad = deg * (Math.PI / 180.0);
   
   //1st Mask
-  Oval(200, 520, 70, 50, rad);
-  //2nd Mask
-  // Oval(610, 50, 70, 50, rad);
+  Oval(600, 620, 70, 50, rad);
   
   
   //1st column circle
   p.beginPath();
   p.strokeStyle = '#fff';
-  p.arc(200, 504, 30, 0, 2 * Math.PI);
+  p.arc(600, 604, 30, 0, 2 * Math.PI);
   p.lineWidth = 10;
   p.stroke();
 }
 
-////////////////////
-//2nd Column
-////////////////////
-//2nd column rectangle
-// p.beginPath();
-// p.fillStyle = '#ff0000';
-// p.fillRect(500, 10, 200, 280);
-// p.clostPath();
 
 column1();
