@@ -57,6 +57,13 @@
     "author_github_url": "https://github.com/Aramantos"
   },
   {
+    "name": "Penguin",
+    "page_link": "./art/Aramantos2/index.html",
+    "art_icon": "./art/Aramantos2/icon.png",
+    "author_name": "Aramantos",
+    "author_github_url": "https://github.com/Aramantos"
+  },
+  {
     "name": "Colorful Stars",
     "page_link": "./art/BeeBeeWeb/index.html",
     "art_icon": "./art/BeeBeeWeb/icon.png",
