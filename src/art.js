@@ -50,6 +50,13 @@
     "author_github_url": "https://github.com/ANmishra-a"
   },
   {
+    "name": "Halloween",
+    "page_link": "./art/Aramantos/index.html",
+    "art_icon": "./art/Aramantos/icon.png",
+    "author_name": "Aramantos",
+    "author_github_url": "https://github.com/Aramantos"
+  },
+  {
     "name": "Colorful Stars",
     "page_link": "./art/BeeBeeWeb/index.html",
     "art_icon": "./art/BeeBeeWeb/icon.png",
