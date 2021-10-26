@@ -49,7 +49,6 @@ class MainLayer {
     });
   }
   draw() {
-    this.options.useMeter && this.options.meter.count++;
     const size =
       Math.floor(Math.random() * (this.options.shapeSizeMax - this.options.shapeSizeMin)) + this.options.shapeSizeMin;
     const shape = new Shape(size, this.options.shapes);
@@ -111,7 +110,7 @@ class Draw {
     this.ctx.fill();
   }
   circle() {
-    this.ctx.arc(this.x, this.y, this.shape.size, 0, Math.PI * 2);
+    this.ctx.arc(this.x, this.y, this.shape.size / 2, 0, Math.PI * 2);
   }
   square() {
     this.ctx.rect(this.x, this.y, this.shape.size, this.shape.size);
@@ -162,8 +161,10 @@ class Options {
   setUseMeter() {
     this.useMeter = this.selectUseMeter.checked;
     if (this.selectUseMeter.checked) {
+      this.meter.ui.style.display = 'block';
       this.meter.run();
     } else {
+      this.meter.ui.style.display = 'none';
       this.meter.stop();
     }
   }
@@ -203,19 +204,36 @@ class Options {
 }
 class Meter {
   constructor() {
+    this.ui = document.getElementById('meter-container');
+    this.uiPerSecTime = document.getElementById('mtr-ps-time');
+    this.uiPerSecVal = document.getElementById('mtr-ps-value');
+    this.uiTotalTime = document.getElementById('mtr-tot-time');
+    this.uiTotalValue = document.getElementById('mtr-tot-value');
     this.count = 0;
     this.interval = 5000;
     this.total = 0;
     this.totalTime = 0;
     this.isRunning;
   }
-  run() {
+  consoleRun() {
     this.isRunning = setInterval(() => {
       console.clear();
       console.log(`Current operations per ${this.interval / 1000} second(s): `, this.count);
       this.total += this.count;
       this.totalTime += this.interval;
       console.log(`Total operations over ${this.totalTime / 1000} second(s): `, this.total);
+      this.count = 0;
+    }, this.interval);
+  }
+  run() {
+    this.uiPerSecTime.textContent = this.interval / 1000;
+    this.uiTotalTime.textContent = this.totalTime / 1000;
+    this.isRunning = setInterval(() => {
+      this.uiPerSecVal.textContent = this.count;
+      this.total += this.count;
+      this.totalTime += this.interval;
+      this.uiTotalTime.textContent = this.totalTime / 1000;
+      this.uiTotalValue.textContent = this.total;
       this.count = 0;
     }, this.interval);
   }
