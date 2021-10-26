@@ -1250,6 +1250,13 @@
     "author_github_url": "https://github.com/usergr/"
   },
   {
+    "name": "Damien Hirst Painting",
+    "page_link": "./art/vaibhav/index.html",
+    "art_icon": "./art/vaibhav/icon.png",
+    "author_name": "Vaibhav Sachdeva",
+    "author_github_url": "https://github.com/sachdevavaibhav/"
+  },
+  {
     "name": "Argentinian Flag",
     "page_link": "./art/vencho-mdp/index.html",
     "art_icon": "./art/vencho-mdp/icon.png",
