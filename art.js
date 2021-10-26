@@ -608,6 +608,13 @@
     "author_github_url": "https://github.com/ChathuraSam/"
   },
   {
+    "name": "Fractal Tree",
+    "page_link": "./art/chirayu-tree/index.html",
+    "art_icon": "./art/chirayu-tree/icon.png",
+    "author_name": "Chirayu Mittal",
+    "author_github_url": "https://github.com/chirayumit001"
+  },
+  {
     "name": "Snow-Fall",
     "page_link": "./art/chirayu_mittal/index.html",
     "art_icon": "./art/chirayu_mittal/icon.png",
