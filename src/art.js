@@ -57,6 +57,20 @@
     "author_github_url": "https://github.com/Aramantos"
   },
   {
+    "name": "Penguin",
+    "page_link": "./art/Aramantos2/index.html",
+    "art_icon": "./art/Aramantos2/icon.png",
+    "author_name": "Aramantos",
+    "author_github_url": "https://github.com/Aramantos"
+  },
+  {
+    "name": "Starry Beach",
+    "page_link": "./art/Aramantos3/index.html",
+    "art_icon": "./art/Aramantos3/icon.png",
+    "author_name": "Aramantos",
+    "author_github_url": "https://github.com/Aramantos"
+  },
+  {
     "name": "Colorful Stars",
     "page_link": "./art/BeeBeeWeb/index.html",
     "art_icon": "./art/BeeBeeWeb/icon.png",
@@ -608,6 +622,20 @@
     "author_github_url": "https://github.com/ChathuraSam/"
   },
   {
+    "name": "Fractal Tree",
+    "page_link": "./art/chirayu-tree/index.html",
+    "art_icon": "./art/chirayu-tree/icon.png",
+    "author_name": "Chirayu Mittal",
+    "author_github_url": "https://github.com/chirayumit001"
+  },
+  {
+    "name": "SnowFlake Generator",
+    "page_link": "./art/chirayuSnowFlake/index.html",
+    "art_icon": "./art/chirayuSnowFlake/icon.png",
+    "author_name": "Chirayu Mittal",
+    "author_github_url": "https://github.com/chirayumit001"
+  },
+  {
     "name": "Snow-Fall",
     "page_link": "./art/chirayu_mittal/index.html",
     "art_icon": "./art/chirayu_mittal/icon.png",
@@ -760,6 +788,13 @@
     "art_icon": "./art/godnon-pixel-turquoise/icon.png",
     "author_name": "Godnon",
     "author_github_url": "https://github.com/godnondsilva"
+  },
+  {
+    "name": "Bookshelf",
+    "page_link": "./art/gtc/index.html",
+    "art_icon": "./art/gtc/icon.png",
+    "author_name": "gtc",
+    "author_github_url": "https://github.com/GabrielTeixeiraC/"
   },
   {
     "name": "Snowfall",
@@ -1152,6 +1187,20 @@
     "author_github_url": "https://github.com/rokoala"
   },
   {
+    "name": "Be smart with your time",
+    "page_link": "./art/ruffle1986/index.html",
+    "art_icon": "./art/ruffle1986/icon.png",
+    "author_name": "Tamas Fodor",
+    "author_github_url": "https://github.com/ruffle1986"
+  },
+  {
+    "name": "Loneliness",
+    "page_link": "./art/ruffle1986_2/index.html",
+    "art_icon": "./art/ruffle1986_2/icon.png",
+    "author_name": "Tamas Fodor",
+    "author_github_url": "https://github.com/ruffle1986"
+  },
+  {
     "name": "Microsoft-Logo",
     "page_link": "./art/sachdevavaibhav/index.html",
     "art_icon": "./art/sachdevavaibhav/icon.png",
@@ -1194,7 +1243,7 @@
     "author_github_url": "https://github.com/sophiabrandt"
   },
   {
-    "name": "Squid Games",
+    "name": "Squid Games Card",
     "page_link": "./art/stryker/index.html",
     "art_icon": "./art/stryker/icon.png",
     "author_name": "Stryker S",
@@ -1234,6 +1283,20 @@
     "art_icon": "./art/usergr/icon.png",
     "author_name": "usergr",
     "author_github_url": "https://github.com/usergr/"
+  },
+  {
+    "name": "Audi Logo",
+    "page_link": "./art/vabs/index.html",
+    "art_icon": "./art/vabs/icon.png",
+    "author_name": "Vaibhav Sachdeva",
+    "author_github_url": "https://github.com/sachdevavaibhav/"
+  },
+  {
+    "name": "Damien Hirst Painting",
+    "page_link": "./art/vaibhav/index.html",
+    "art_icon": "./art/vaibhav/icon.png",
+    "author_name": "Vaibhav Sachdeva",
+    "author_github_url": "https://github.com/sachdevavaibhav/"
   },
   {
     "name": "Argentinian Flag",
