@@ -64,6 +64,13 @@
     "author_github_url": "https://github.com/Aramantos"
   },
   {
+    "name": "Starry Beach",
+    "page_link": "./art/Aramantos3/index.html",
+    "art_icon": "./art/Aramantos3/icon.png",
+    "author_name": "Aramantos",
+    "author_github_url": "https://github.com/Aramantos"
+  },
+  {
     "name": "Colorful Stars",
     "page_link": "./art/BeeBeeWeb/index.html",
     "art_icon": "./art/BeeBeeWeb/icon.png",
