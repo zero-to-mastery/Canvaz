@@ -1250,6 +1250,13 @@
     "author_github_url": "https://github.com/usergr/"
   },
   {
+    "name": "Audi Logo",
+    "page_link": "./art/vabs/index.html",
+    "art_icon": "./art/vabs/icon.png",
+    "author_name": "Vaibhav Sachdeva",
+    "author_github_url": "https://github.com/sachdevavaibhav/"
+  },
+  {
     "name": "Damien Hirst Painting",
     "page_link": "./art/vaibhav/index.html",
     "art_icon": "./art/vaibhav/icon.png",
