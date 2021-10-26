@@ -1173,6 +1173,13 @@
     "author_github_url": "https://github.com/ruffle1986"
   },
   {
+    "name": "Loneliness",
+    "page_link": "./art/ruffle1986_2/index.html",
+    "art_icon": "./art/ruffle1986_2/icon.png",
+    "author_name": "Tamas Fodor",
+    "author_github_url": "https://github.com/ruffle1986"
+  },
+  {
     "name": "Microsoft-Logo",
     "page_link": "./art/sachdevavaibhav/index.html",
     "art_icon": "./art/sachdevavaibhav/icon.png",
