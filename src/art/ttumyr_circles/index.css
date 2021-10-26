@@ -3,7 +3,6 @@
 }
 body {
   font-family: sans-serif;
-  /* overflow: hidden; */
   position: relative;
   overflow: hidden;
 }
@@ -187,16 +186,39 @@ input[type='range']:active::-webkit-slider-thumb {
 .btn-secondary:focus {
   background-color: #acacac;
 }
+#meter-container {
+  height: 70px;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 16px 32px;
+  background: white;
+  border-radius: 10px 10px 0 0;
+  box-shadow: 0 0 2rem rgba(0, 0, 0, 0.3);
+}
+.meter-element {
+  display: block;
+  min-width: 300px;
+  font-weight: bold;
+  color: #acacac;
+}
+.meter-element-highlight-1 {
+  color: rgb(253, 92, 92);
+}
+.meter-element-highlight-2 {
+  color: #53b4f0;
+}
 .toolbar {
+  width: 70px;
+  height: 70px;
   position: absolute;
   bottom: 0;
   right: 0;
+  padding: 6px;
   background: white;
   border-radius: 10px 0 0 0;
-  width: 50px;
-  height: 50px;
   box-shadow: 0 0 2rem rgba(0, 0, 0, 0.3);
-  padding: 6px;
 }
 .toolbar-btn > svg {
   cursor: pointer;
