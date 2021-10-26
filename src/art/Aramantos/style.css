@@ -21,6 +21,7 @@ h1{
 canvas {
     position: absolute;
     left: 46%;
+    top: 50%;
     width:100px;
     height:100px;
     background: transparent;
