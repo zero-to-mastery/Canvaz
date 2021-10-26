@@ -615,6 +615,13 @@
     "author_github_url": "https://github.com/chirayumit001"
   },
   {
+    "name": "SnowFlake Generator",
+    "page_link": "./art/chirayuSnowFlake/index.html",
+    "art_icon": "./art/chirayuSnowFlake/icon.png",
+    "author_name": "Chirayu Mittal",
+    "author_github_url": "https://github.com/chirayumit001"
+  },
+  {
     "name": "Snow-Fall",
     "page_link": "./art/chirayu_mittal/index.html",
     "art_icon": "./art/chirayu_mittal/icon.png",
