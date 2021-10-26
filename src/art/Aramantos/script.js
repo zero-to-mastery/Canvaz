@@ -1,1 +1,1 @@
-console.log("Hello World")
+console.log("Hackathon 2021 - Zero-To-Mastery")
