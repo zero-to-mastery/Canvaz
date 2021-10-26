@@ -1222,7 +1222,7 @@
     "author_github_url": "https://github.com/sophiabrandt"
   },
   {
-    "name": "Squid Games",
+    "name": "Squid Games Card",
     "page_link": "./art/stryker/index.html",
     "art_icon": "./art/stryker/icon.png",
     "author_name": "Stryker S",
