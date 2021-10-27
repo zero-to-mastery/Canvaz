@@ -170,13 +170,15 @@ input[type='range']:active::-webkit-slider-thumb {
   flex-direction: row;
   justify-content: flex-end;
 }
+.btn {
+  width: 7rem;
+}
 .btn,
 .btn:active,
 .btn:focus,
 .btn-secondary,
 .btn-secondary:active,
 .btn-secondary:focus {
-  width: 7rem;
   text-transform: uppercase;
   font-weight: bold;
   padding: 0.6rem 1.6rem;
