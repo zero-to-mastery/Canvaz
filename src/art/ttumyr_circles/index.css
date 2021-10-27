@@ -165,6 +165,11 @@ input[type='range']:active::-webkit-slider-thumb {
   left: 0;
   width: 100%;
 }
+.btn-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
 .btn,
 .btn:active,
 .btn:focus,
@@ -180,6 +185,9 @@ input[type='range']:active::-webkit-slider-thumb {
   background-color: #53b4f0;
   color: white;
   cursor: pointer;
+}
+.btn:not(:last-child) {
+  margin-right: 0.2rem;
 }
 .btn-secondary,
 .btn-secondary:active,
@@ -259,4 +267,58 @@ input[type='range']:active::-webkit-slider-thumb {
 }
 .mr-02 {
   margin-right: 0.2rem;
+}
+@media only screen and (max-width: 770px) {
+  .btn-container {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .btn {
+    width: 12rem;
+  }
+  .btn:not(:last-child) {
+    margin-bottom: 0.2rem;
+  }
+}
+@media only screen and (max-width: 510px) {
+  #meter-container {
+    left: 6px;
+    transform: none;
+  }
+}
+@media only screen and (max-width: 440px) {
+  .btn-container {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .btn {
+    width: 12rem;
+  }
+  .btn:not(:last-child) {
+    margin-bottom: 0.2rem;
+  }
+  .menu {
+    user-select: none;
+    position: absolute;
+    top: 5%;
+    transform: translate(-50%, 0);
+  }
+  .toolbar {
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    border-radius: 0;
+    box-shadow: none;
+  }
+  .toolbar-btn {
+    height: 70px;
+  }
+  #meter-container {
+    width: 100%;
+    bottom: 70px;
+    left: 0;
+    border-radius: 0;
+  }
 }
