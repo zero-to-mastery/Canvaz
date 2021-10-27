@@ -57,14 +57,26 @@
           <label for="use-meter">Use performance meter</label>
           <input type="checkbox" name="use-meter" />
         </div>
-        <div class="align-right">
-          <button class="btn btn-secondary mr-02" id="btn-cancel">Cancel</button>
-          <button class="btn btn-secondary mr-02" id="btn-pause">Pause</button>
+        <div class="btn-container">
+          <button class="btn btn-secondary" id="btn-cancel">Cancel</button>
+          <button class="btn btn-secondary" id="btn-pause">Pause</button>
           <button class="btn" id="btn-refresh">Refresh</button>
         </div>
       </div>
       <div class="canvas" id="canvas-container">
         <canvas id="canvas"></canvas>
+      </div>
+      <div id="meter-container">
+        <div>
+          <span class="meter-element"
+            >Shapes per <span class="meter-element-highlight-1" id="mtr-ps-time"></span> seconds:
+            <span class="meter-element-highlight-2" id="mtr-ps-value"></span
+          ></span>
+          <span class="meter-element"
+            >Total shapes over <span class="meter-element-highlight-1" id="mtr-tot-time"></span> seconds:
+            <span class="meter-element-highlight-2" id="mtr-tot-value"></span
+          ></span>
+        </div>
       </div>
       <div class="toolbar">
         <div class="toolbar-btn" id="options-control">

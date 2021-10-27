@@ -57,7 +57,7 @@
     "author_github_url": "https://github.com/Aramantos"
   },
   {
-    "name": "Penguin",
+    "name": "Penguin Wave",
     "page_link": "./art/Aramantos2/index.html",
     "art_icon": "./art/Aramantos2/icon.png",
     "author_name": "Aramantos",
@@ -90,6 +90,13 @@
     "art_icon": "./art/BeeBeeWeb_1/icon.png",
     "author_name": "BeeBeeWeb",
     "author_github_url": "https://github.com/BeeBeeWeb/"
+  },
+  {
+    "name": "Flag Of The Philippines",
+    "page_link": "./art/Brienyll/index.html",
+    "art_icon": "./art/Brienyll/icon.png",
+    "author_name": "Brien",
+    "author_github_url": "https://github.com/Brienyll/"
   },
   {
     "name": "Diamond💎",
@@ -1204,6 +1211,13 @@
     "name": "Loneliness",
     "page_link": "./art/ruffle1986_2/index.html",
     "art_icon": "./art/ruffle1986_2/icon.png",
+    "author_name": "Tamas Fodor",
+    "author_github_url": "https://github.com/ruffle1986"
+  },
+  {
+    "name": "Experience points",
+    "page_link": "./art/ruffle1986_3/index.html",
+    "art_icon": "./art/ruffle1986_3/icon.png",
     "author_name": "Tamas Fodor",
     "author_github_url": "https://github.com/ruffle1986"
   },
