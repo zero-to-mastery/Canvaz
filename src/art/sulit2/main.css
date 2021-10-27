@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #1e1e1e;
+}
+
+#canvas {
+  width: 800px;
+  height: 500px;
+  border: 1px solid #fff;
+  margin: 0 auto;
+  display: block;
+}
