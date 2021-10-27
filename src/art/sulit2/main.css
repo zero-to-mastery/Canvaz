@@ -9,9 +9,7 @@ body {
 }
 
 #canvas {
-  width: 800px;
-  height: 500px;
   border: 1px solid #fff;
-  margin: 0 auto;
+  margin: 200px auto;
   display: block;
 }
