@@ -552,6 +552,13 @@
     "author_github_url": "https://github.com/auxfuse/"
   },
   {
+    "name": "Rings",
+    "page_link": "./art/ayushi2410/index.html",
+    "art_icon": "./art/ayushi2410/icon.png",
+    "author_name": "ayushi",
+    "author_github_url": "https://github.com/ayushi2410/"
+  },
+  {
     "name": "circle-design",
     "page_link": "./art/ayushijaiswal/index.html",
     "art_icon": "./art/ayushijaiswal/icon.png",
