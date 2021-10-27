@@ -92,6 +92,13 @@
     "author_github_url": "https://github.com/BeeBeeWeb/"
   },
   {
+    "name": "Flag Of The Philippines",
+    "page_link": "./art/Brienyll/index.html",
+    "art_icon": "./art/Brienyll/icon.png",
+    "author_name": "Brien",
+    "author_github_url": "https://github.com/Brienyll/"
+  },
+  {
     "name": "Diamond💎",
     "page_link": "./art/CapUz-Canvas2/index.html",
     "art_icon": "./art/CapUz-Canvas2/icon.png",
