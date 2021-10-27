@@ -50,7 +50,7 @@
     "author_github_url": "https://github.com/ANmishra-a"
   },
   {
-    "name": "Halloween",
+    "name": "Happy Halloween",
     "page_link": "./art/Aramantos/index.html",
     "art_icon": "./art/Aramantos/icon.png",
     "author_name": "Aramantos",
@@ -534,6 +534,13 @@
     "name": "DoodleBoard",
     "page_link": "./art/auxfuse/index.html",
     "art_icon": "./art/auxfuse/icon.png",
+    "author_name": "Auxfuse",
+    "author_github_url": "https://github.com/auxfuse/"
+  },
+  {
+    "name": "3D Hamburger",
+    "page_link": "./art/auxfuse-3d/index.html",
+    "art_icon": "./art/auxfuse-3d/icon.png",
     "author_name": "Auxfuse",
     "author_github_url": "https://github.com/auxfuse/"
   },
