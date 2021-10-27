@@ -1,3 +1,18 @@
+canvas {
+    position: absolute;
+    left: 46%;
+    top: 50%;
+    width:100px;
+    height:100px;
+    background: transparent;
+    animation: fadeOut 5s;
+}
+
+@keyframes fadeOut {
+    0% {opacity:1;}
+    100% {opacity:0;}
+}
+
 .stars {
   background-color: white;
   height: 30px;
