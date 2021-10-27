@@ -1,3 +1,18 @@
+canvas {
+    position: absolute;
+    left: 46%;
+    top: 35%;
+    width:100px;
+    height:100px;
+    background: transparent;
+    animation: fadeOut 5s;
+}
+
+@keyframes fadeOut {
+    0% {opacity:1;}
+    100% {opacity:0;}
+}
+
 :root {
     --penguin-size: 300px;
     --penguin-skin: gray;
@@ -17,7 +32,7 @@ body {
     position: relative;
     margin: auto;
     display: block;
-    margin-top: 5%;
+    margin-top: 20%;
     width: var(--penguin-size, 300px);
     height: var(--penguin-size, 300px);
 }
