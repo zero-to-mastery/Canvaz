@@ -57,7 +57,7 @@
     "author_github_url": "https://github.com/Aramantos"
   },
   {
-    "name": "Penguin",
+    "name": "Penguin Wave",
     "page_link": "./art/Aramantos2/index.html",
     "art_icon": "./art/Aramantos2/icon.png",
     "author_name": "Aramantos",
