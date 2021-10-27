@@ -3,7 +3,6 @@
 }
 body {
   font-family: sans-serif;
-  /* overflow: hidden; */
   position: relative;
   overflow: hidden;
 }
@@ -166,13 +165,20 @@ input[type='range']:active::-webkit-slider-thumb {
   left: 0;
   width: 100%;
 }
+.btn-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.btn {
+  width: 7rem;
+}
 .btn,
 .btn:active,
 .btn:focus,
 .btn-secondary,
 .btn-secondary:active,
 .btn-secondary:focus {
-  width: 7rem;
   text-transform: uppercase;
   font-weight: bold;
   padding: 0.6rem 1.6rem;
@@ -182,21 +188,47 @@ input[type='range']:active::-webkit-slider-thumb {
   color: white;
   cursor: pointer;
 }
+.btn:not(:last-child) {
+  margin-right: 0.2rem;
+}
 .btn-secondary,
 .btn-secondary:active,
 .btn-secondary:focus {
   background-color: #acacac;
 }
+#meter-container {
+  height: 70px;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 16px 32px;
+  background: white;
+  border-radius: 10px 10px 0 0;
+  box-shadow: 0 0 2rem rgba(0, 0, 0, 0.3);
+}
+.meter-element {
+  display: block;
+  min-width: 300px;
+  font-weight: bold;
+  color: #acacac;
+}
+.meter-element-highlight-1 {
+  color: rgb(253, 92, 92);
+}
+.meter-element-highlight-2 {
+  color: #53b4f0;
+}
 .toolbar {
+  width: 70px;
+  height: 70px;
   position: absolute;
   bottom: 0;
   right: 0;
+  padding: 6px;
   background: white;
   border-radius: 10px 0 0 0;
-  width: 50px;
-  height: 50px;
   box-shadow: 0 0 2rem rgba(0, 0, 0, 0.3);
-  padding: 6px;
 }
 .toolbar-btn > svg {
   cursor: pointer;
@@ -237,4 +269,58 @@ input[type='range']:active::-webkit-slider-thumb {
 }
 .mr-02 {
   margin-right: 0.2rem;
+}
+@media only screen and (max-width: 770px) {
+  .btn-container {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .btn {
+    width: 12rem;
+  }
+  .btn:not(:last-child) {
+    margin-bottom: 0.2rem;
+  }
+}
+@media only screen and (max-width: 510px) {
+  #meter-container {
+    left: 6px;
+    transform: none;
+  }
+}
+@media only screen and (max-width: 440px) {
+  .btn-container {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .btn {
+    width: 12rem;
+  }
+  .btn:not(:last-child) {
+    margin-bottom: 0.2rem;
+  }
+  .menu {
+    user-select: none;
+    position: absolute;
+    top: 5%;
+    transform: translate(-50%, 0);
+  }
+  .toolbar {
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    border-radius: 0;
+    box-shadow: none;
+  }
+  .toolbar-btn {
+    height: 70px;
+  }
+  #meter-container {
+    width: 100%;
+    bottom: 70px;
+    left: 0;
+    border-radius: 0;
+  }
 }
