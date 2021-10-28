@@ -1313,6 +1313,13 @@
     "author_github_url": "https://github.com/ralphsulit"
   },
   {
+    "name": "HacktoberLock",
+    "page_link": "./art/sulit2/index.html",
+    "art_icon": "./art/sulit2/icon.png",
+    "author_name": "Ralph",
+    "author_github_url": "https://github.com/ralphsulit"
+  },
+  {
     "name": "Canvaz 2021",
     "page_link": "./art/taepal467/index.html",
     "art_icon": "./art/taepal467/icon.png",
