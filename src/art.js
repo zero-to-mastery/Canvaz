@@ -552,6 +552,13 @@
     "author_github_url": "https://github.com/auxfuse/"
   },
   {
+    "name": "Model Switcher",
+    "page_link": "./art/auxfuse-modelSwitcher/index.html",
+    "art_icon": "./art/auxfuse-modelSwitcher/icon.png",
+    "author_name": "Auxfuse",
+    "author_github_url": "https://github.com/auxfuse/"
+  },
+  {
     "name": "Rings",
     "page_link": "./art/ayushi2410/index.html",
     "art_icon": "./art/ayushi2410/icon.png",
