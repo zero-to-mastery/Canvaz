@@ -42,9 +42,15 @@ jobs:
 
       - name: Commit files
         run: |
+          NEWART=`git diff HEAD@{1} --stat -- ./src/art.js | wc -l`
+          if [[ $NEWART -le 0 ]];then
+            echo "no changes to src/art.js"
+            exit 0
+          fi
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git commit -m "Updated art.json" -a
+          git commit -m "Updated art.js card JSON" -a
+          
       
       - name: Push changes
         uses: ad-m/github-push-action@master
