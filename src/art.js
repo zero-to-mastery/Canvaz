@@ -872,6 +872,13 @@
     "art_icon": "./art/keithEbbett/icon.png"
   },
   {
+    "name": "Starfield",
+    "page_link": "./art/kennithnichol/index.html",
+    "art_icon": "./art/kennithnichol/icon.png",
+    "author_name": "Ken",
+    "author_github_url": "https://github.com/kennithnichol/"
+  },
+  {
     "name": "Square animation",
     "page_link": "./art/ktra99/index.html",
     "art_icon": "./art/ktra99/icon.png",
