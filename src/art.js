@@ -356,6 +356,13 @@
     "author_github_url": "https://github.com/nishantminerva"
   },
   {
+    "name": "RainBow",
+    "page_link": "./art/Nitin-hack2021/index.html",
+    "art_icon": "./art/Nitin-hack2021/icon.png",
+    "author_name": "Nitin K",
+    "author_github_url": "https://github.com/nitink66"
+  },
+  {
     "name": "Squid Game Logo",
     "page_link": "./art/PasinduAkalpa/index.html",
     "art_icon": "./art/PasinduAkalpa/icon.png",
