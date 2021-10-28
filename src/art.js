@@ -552,6 +552,13 @@
     "author_github_url": "https://github.com/auxfuse/"
   },
   {
+    "name": "Rings",
+    "page_link": "./art/ayushi2410/index.html",
+    "art_icon": "./art/ayushi2410/icon.png",
+    "author_name": "ayushi",
+    "author_github_url": "https://github.com/ayushi2410/"
+  },
+  {
     "name": "circle-design",
     "page_link": "./art/ayushijaiswal/index.html",
     "art_icon": "./art/ayushijaiswal/icon.png",
@@ -863,6 +870,13 @@
     "name": "HactoberSolar",
     "page_link": "./art/keithEbbett/index.html",
     "art_icon": "./art/keithEbbett/icon.png"
+  },
+  {
+    "name": "Starfield",
+    "page_link": "./art/kennithnichol/index.html",
+    "art_icon": "./art/kennithnichol/icon.png",
+    "author_name": "Ken",
+    "author_github_url": "https://github.com/kennithnichol/"
   },
   {
     "name": "Square animation",
@@ -1276,6 +1290,13 @@
     "art_icon": "./art/sulit/icon.png",
     "author_name": "Ralph",
     "author_github_url": "https://github.com/ralphsulit"
+  },
+  {
+    "name": "Canvaz 2021",
+    "page_link": "./art/taepal467/index.html",
+    "art_icon": "./art/taepal467/icon.png",
+    "author_name": "Chantae",
+    "author_github_url": "https://github.com/taepal467"
   },
   {
     "name": "Livestream Emojis",
