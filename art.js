@@ -1285,6 +1285,13 @@
     "author_github_url": "https://github.com/ralphsulit"
   },
   {
+    "name": "Canvaz 2021",
+    "page_link": "./art/taepal467/index.html",
+    "art_icon": "./art/taepal467/icon.png",
+    "author_name": "Chantae",
+    "author_github_url": "https://github.com/taepal467"
+  },
+  {
     "name": "Livestream Emojis",
     "page_link": "./art/thucpn/index.html",
     "art_icon": "./art/thucpn/icon.png",
