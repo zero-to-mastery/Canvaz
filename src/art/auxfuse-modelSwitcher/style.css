@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&family=Rubik:wght@500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Rubik", sans-serif;
+}
+
+h1 {
+    font-family: "Quicksand", sans-serif;
+}
+
+.utils {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 1rem;
+    padding: 0 0.5rem;
+}
+
+.utils > p {
+    margin-top: 1rem;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.utils > p:last-child {
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    margin-bottom: 1rem;
+}
+
+model-viewer {
+    height: 70vh;
+    width: 80%;
+    border: 1px solid firebrick;
+    margin: 1rem auto;
+}
+
+#model-select {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-self: center;
+    width: 80%;
+    margin: 1rem auto;
+}
+
+button {
+    min-width: 6rem;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 5px;
+    border: 1px solid grey;
+    font-family: "Rubik", sans-serif;
+}
+
+button:hover {
+    color: white;
+    background-color: darkred;
+}
+
+@media (min-width: 36rem) {
+    #model-select {
+        flex-direction: row;
+    }
+}
