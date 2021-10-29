@@ -99,6 +99,13 @@
     "author_github_url": "https://github.com/Brienyll/"
   },
   {
+    "name": "Flag Of Djibouti",
+    "page_link": "./art/Brienyll2/index.html",
+    "art_icon": "./art/Brienyll2/icon.png",
+    "author_name": "Brien",
+    "author_github_url": "https://github.com/Brienyll/"
+  },
+  {
     "name": "Diamond💎",
     "page_link": "./art/CapUz-Canvas2/index.html",
     "art_icon": "./art/CapUz-Canvas2/icon.png",
@@ -349,6 +356,13 @@
     "author_github_url": "https://github.com/nishantminerva"
   },
   {
+    "name": "RainBow",
+    "page_link": "./art/Nitin-hack2021/index.html",
+    "art_icon": "./art/Nitin-hack2021/icon.png",
+    "author_name": "Nitin K",
+    "author_github_url": "https://github.com/nitink66"
+  },
+  {
     "name": "Squid Game Logo",
     "page_link": "./art/PasinduAkalpa/index.html",
     "art_icon": "./art/PasinduAkalpa/icon.png",
@@ -548,6 +562,13 @@
     "name": "3D Hamburger",
     "page_link": "./art/auxfuse-3d/index.html",
     "art_icon": "./art/auxfuse-3d/icon.png",
+    "author_name": "Auxfuse",
+    "author_github_url": "https://github.com/auxfuse/"
+  },
+  {
+    "name": "Model Switcher",
+    "page_link": "./art/auxfuse-modelSwitcher/index.html",
+    "art_icon": "./art/auxfuse-modelSwitcher/icon.png",
     "author_name": "Auxfuse",
     "author_github_url": "https://github.com/auxfuse/"
   },
@@ -870,6 +891,13 @@
     "name": "HactoberSolar",
     "page_link": "./art/keithEbbett/index.html",
     "art_icon": "./art/keithEbbett/icon.png"
+  },
+  {
+    "name": "Starfield",
+    "page_link": "./art/kennithnichol/index.html",
+    "art_icon": "./art/kennithnichol/icon.png",
+    "author_name": "Ken",
+    "author_github_url": "https://github.com/kennithnichol/"
   },
   {
     "name": "Square animation",
@@ -1229,6 +1257,13 @@
     "author_github_url": "https://github.com/ruffle1986"
   },
   {
+    "name": "Squid Game",
+    "page_link": "./art/ruffle1986_4/index.html",
+    "art_icon": "./art/ruffle1986_4/icon.png",
+    "author_name": "Tamas Fodor",
+    "author_github_url": "https://github.com/ruffle1986"
+  },
+  {
     "name": "Microsoft-Logo",
     "page_link": "./art/sachdevavaibhav/index.html",
     "art_icon": "./art/sachdevavaibhav/icon.png",
@@ -1281,6 +1316,13 @@
     "name": "HacktoberSquidGame",
     "page_link": "./art/sulit/index.html",
     "art_icon": "./art/sulit/icon.png",
+    "author_name": "Ralph",
+    "author_github_url": "https://github.com/ralphsulit"
+  },
+  {
+    "name": "HacktoberLock",
+    "page_link": "./art/sulit2/index.html",
+    "art_icon": "./art/sulit2/icon.png",
     "author_name": "Ralph",
     "author_github_url": "https://github.com/ralphsulit"
   },
