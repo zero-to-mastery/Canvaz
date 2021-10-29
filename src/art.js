@@ -1327,6 +1327,13 @@
     "author_github_url": "https://github.com/ralphsulit"
   },
   {
+    "name": "HacktoberSquidGameLogo",
+    "page_link": "./art/sulit3/index.html",
+    "art_icon": "./art/sulit3/icon.png",
+    "author_name": "Ralph",
+    "author_github_url": "https://github.com/ralphsulit"
+  },
+  {
     "name": "Canvaz 2021",
     "page_link": "./art/taepal467/index.html",
     "art_icon": "./art/taepal467/icon.png",
