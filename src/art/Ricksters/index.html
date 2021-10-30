@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Star</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="cols">
+            <fieldset>
+                <legend>Randomize</legend>
+                <button id='random-grid'>Grid</button>
+                <button id='random-colors'>Colors</button>
+            </fieldset>
+            <fieldset class="cols">
+                <legend>Size</legend>
+                <label for="size-canvas">Canvas (W x H)</label>
+                <input id="size-canvas" type="text">
+                <br>
+                <label for="size-grid">Grid (Rows x Cols)</label>
+                <input id="size-grid" type="text">
+            </fieldset>
+            <fieldset>
+                <legend>Cursor</legend>
+                <p>Follow Cursor: <strong id="label-cursor">ON</strong></p>
+                <p>Press <strong>q</strong> to toggle</p>
+            </fieldset>
+        </div>
+        <canvas id="display" ></canvas>
+        <script src="script.js"></script>
+    </div>
+</body>
+</html>

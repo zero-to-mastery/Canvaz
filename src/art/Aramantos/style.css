@@ -1,0 +1,370 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+body{
+    background: black;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    margin: 10% 0 0;
+    color: white;
+    font-size: -webkit-xxx-large;
+    animation: fadeIn 5s;
+}
+
+@keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+
+canvas {
+    position: absolute;
+    left: 46%;
+    top: 50%;
+    width:100px;
+    height:100px;
+    background: transparent;
+    animation: fadeOut 5s;
+}
+
+@keyframes fadeOut {
+    0% {opacity:1;}
+    100% {opacity:0;}
+}
+
+.pumpkin{
+    left: 0;
+	right: 0;
+	top: 0;
+	height: 11em;
+	width: 15em;
+    margin: 25% auto 0;
+	background: #703c14;
+	border: 0.4em solid #a14907;
+	border-radius: 70%/110%;
+	position: relative;
+	z-index: 1;
+	animation: pumpkin-glow 6s infinite ease-in-out;
+	transform: scale(1.5);
+}
+
+@keyframes pumpkin-glow{
+    0% {
+        box-shadow: inset 0 0px 0px #a14907, 0 0 0px -4px green;
+    }
+
+    50% {
+        box-shadow: inset 0 0px 30px #a14907, 0 0 120px -4px green;
+    }
+}
+
+#pumpkin-1{
+	left: 0;
+	position: absolute;
+}
+
+#pumpkin-2{
+	right: 0;
+	position: absolute;
+}
+
+.pumpkin .surface{
+	height: 10.8em;
+	width: 6.5em;
+	position: absolute;
+	bottom: -0.4em;
+	left: 4em;
+	border-radius: 70%/110%;
+	border-bottom: 0.5em solid #a14907;
+	border-top: 0.5em solid #a14907;
+}
+
+.pumpkin .surface:after{
+	content: "";
+	display: block;
+	height: 10.7em;
+	width: 12em;
+	position: absolute;
+	bottom: -0.4em;
+	left: -2.5em;
+	border-radius: 70%/110%;
+	border-bottom: .05em solid #a14907;
+	border-top: 0.5em solid #a14907;
+}
+
+.pumpkin .stem{
+	background: #517f54;
+	height: 2.8em;
+	width: 1.25em;
+	position: absolute;
+	left: calc(7.5em - 0.625em);
+	top: -2.7em;
+	-webkit-transform: rotate(5deg);
+	transform: rotate(5deg);
+	border-radius: 30% 20% 70% 10%;
+	z-index: 0;
+	box-shadow: inset 0 0px 10px #29412b;
+}
+
+.pumpkin .eye{
+	position: absolute;
+	width: 0;
+	height: 0;
+	top: 2.8em;
+}
+
+.pumpkin .eye.right{
+	right: 3.7em;
+	-webkit-transform: rotate(30deg);
+	transform: rotate(30deg);
+	border-bottom: 2.1em solid transparent;
+	border-left: 2.4em solid #401d03;
+}
+
+.pumpkin .eye.left{
+	left: 3.7em;
+	-webkit-transform: rotate(-30deg);
+	transform: rotate(-30deg);
+	border-bottom: 2.1em solid transparent;
+	border-right: 2.4em solid #401d03;
+}
+
+.pumpkin .mouth{
+	width: 4em;
+	height: 2em;
+	position: absolute;
+	bottom: 1.5em;
+	border-bottom: 1em solid #2c1403;
+}
+
+.pumpkin .mouth.right{
+	right: 3.6em;
+	border-radius: 0 0 0 100%;
+}
+
+.pumpkin .mouth.left{
+	left: 3.6em;
+	border-radius: 0 0 0 100%;
+}
+
+.pumpkin .teeth{
+	width: 0.5em;
+	height: 1em;
+	position: absolute;
+	top: 7.4em;
+	left: 7.25em;
+	border-top: 0.8em solid transparent;
+	border-bottom: 0em solid transparent;
+	border-left: 0.8em solid #2c1403;
+}
+
+.pumpkin .teeth:before, .pumpkin .teeth:after{
+	content: "";
+	display: block;
+	position: absolute;
+	width: 0;
+	height: 0;
+	border-top: 0.8em solid transparent;
+}
+
+.pumpkin .teeth:before{
+	right: 2.2em;
+	top: -0.65em;
+	-webkit-transform: rotate(30deg);
+	transform: rotate(30deg);
+	border-bottom: 0.5em solid transparent;
+	border-left: 1em solid #2c1403;
+}
+
+.pumpkin .teeth:after{
+	left: 1em;
+	top: -0.85em;
+	-webkit-transform: rotate(30deg);
+	transform: rotate(30deg);
+	border-bottom: 0.5em solid transparent;
+	border-left: 1em solid #2c1403;
+}
+
+.s-container {
+    animation: spider-anima 12s ease-out;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#spider-1{
+    left: 20%;
+    transform: scale(1.5);
+}
+
+#spider-2{
+    left: 80%;
+    transform: scale(1.5);
+}
+
+.eye {
+    background-color: #000;
+    height: 3px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 2px;
+}
+
+.eye-right {
+    right: 6px;
+}
+
+.eye-left {
+    left: 6px;
+}
+
+@keyframes spider-anima {
+    0% {
+        top: -150px;
+    }
+
+    50% {
+        top: 40%;
+    }
+
+    100% {
+        top: -150px;
+    }
+}
+
+.spider-web {
+    animation: spider-web-anima 12s ease-out;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    background-color: #fff;
+    border-radius: 4px;
+    height: 0;
+    position: absolute;
+    transform: translateX(-50%);
+    width: 2px;
+}
+
+@keyframes spider-web-anima {
+    0% {
+        height: 0;
+        top: -150px;
+    }
+
+    50% {
+        height: 40vh;
+        top: 0;
+    }
+
+    100% {
+        height: 0;
+        top: -150px;
+    }
+}
+
+#web-1{
+    left: 20%;
+}
+
+#web-2{
+    left: 80%;
+}
+
+.spider-body {
+    background-color: #fff;
+    border-radius: 50%;
+    height: 20px;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 20px;
+}
+
+.spider-body:before {
+    content: "";
+    background-color: #fff;
+    border-radius: 50%;
+    height: 15px;
+    left: 2.5px;
+    position: absolute;
+    top: -5px;
+    width: 15px;
+    z-index: -99;
+}
+
+.right {
+    transform: rotateY(180deg);
+}
+
+.arm {
+    background-color: #fff;
+    border-radius: 4px;
+    height: 4px;
+    position: absolute;
+    transform-origin: center left;
+    width: 30px;
+}
+
+.A {
+    animation: A-anima 12s infinite ease-in-out;
+    transform: rotate(75deg);
+}
+
+@keyframes A-anima {
+    0% {
+        transform: rotate(75deg)
+    }
+
+    50% {
+        transform: rotate(-70deg)
+    }
+}
+
+.A:nth-child(2) {
+    animation-delay: -0.5s;
+}
+
+.A:nth-child(3) {
+    animation-delay: -1.5s;
+}
+
+.A:nth-child(4) {
+    animation-delay: -2.4s;
+}
+
+.B {
+    animation: B-anima 12s infinite ease-in-out;
+    left: calc(100% - 2px);
+    transform: rotate(10deg);
+}
+
+@keyframes B-anima {
+    0% {
+        transform: rotate(10deg)
+    }
+
+    50% {
+        transform: rotate(120deg)
+    }
+}
+
+.C {
+    animation: C-anima 20s infinite ease-in-out;
+    left: calc(100% - 2px);
+    transform: rotate(10deg);
+
+}
+
+@keyframes C-anima {
+    0% {
+        transform: rotate(10deg)
+    }
+
+    50% {
+        transform: rotate(90deg)
+    }
+}

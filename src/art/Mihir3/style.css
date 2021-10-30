@@ -1,0 +1,59 @@
+body{ 
+    background-color: #ccc; 
+}  
+#mycanvas{ 
+    width: 300px; 
+    height: 300px; 
+    text-align: center; 
+    font-size: 30px; 
+    line-height: 300px; 
+    margin: 10px; 
+    position: relative; 
+    background-color: #fff; 
+     
+     
+    animation-name: box1;  
+    animation-duration: 3s; 
+    animation-timing-function:linear; 
+    animation-delay: 3s; 
+    animation-iteration-count: finite; 
+    animation-direction: alternate; 
+     
+    /*animation: box1 3s linear 2s infinite alternate;*/ 
+}  
+@keyframes box1{ 
+    0%{ 
+        border-radius: 0%; 
+        background-color: #fff; 
+        top: 0; 
+        left: 0; 
+    } 
+     
+    25%{ 
+        background-color: aqua; 
+        left: 250px; 
+    } 
+     
+    50%{ 
+        background-color: #1a71b8; 
+        top: 0px; 
+        left: 400px; 
+        color:yellow; 
+    } 
+     
+    75%{ 
+        background-color:brown; 
+        left: 700px; 
+    } 
+     
+    100%{ 
+/*        border-radius: 50%;*/ 
+        border-radius: 0%; 
+        background-color: red; 
+        color: #fff; 
+        top: 0px; 
+        left: 1000px; 
+    } 
+} 
+       
+ 

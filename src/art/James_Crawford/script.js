@@ -24,11 +24,11 @@ function getClock() {
   context.fillRect(275, 150, 275, 150)
 
   // Text elements
-  context.font = '66pt arial'
+  context.font = '56pt arial'
   context.fillStyle = 'orange'
   context.fillText(str, 25, 130)
 
-  context.font = '22pt arial'
+  context.font = '18pt arial'
   context.fillStyle = 'white'
   context.fillText(str2, 25, 185)
 

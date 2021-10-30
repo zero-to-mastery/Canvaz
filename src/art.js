@@ -1,6 +1,13 @@
 
     let cards = [
   {
+    "name": "Bouncy black cat",
+    "page_link": "./art/13eardyman/index.html",
+    "art_icon": "./art/13eardyman/icon.png",
+    "author_name": "13eardyman",
+    "author_github_url": "https://github.com/13eardyman"
+  },
+  {
     "name": "2X2 Game",
     "page_link": "./art/2X2-game-main/index.html",
     "art_icon": "./art/2X2-game-main/icon.png",
@@ -15,6 +22,20 @@
     "author_github_url": "https://github.com/Abdellah-ST"
   },
   {
+    "name": "Simple Box",
+    "page_link": "./art/Abhinav_Lugun/index.html",
+    "art_icon": "./art/Abhinav_Lugun/icon.png",
+    "author_name": "aal",
+    "author_github_url": "https://github.com/aal2015"
+  },
+  {
+    "name": "Adwaith@Hacktober",
+    "page_link": "./art/Adwaith@HacktoberFest/index.html",
+    "art_icon": "./art/Adwaith@HacktoberFest/icon.png",
+    "author_name": "Adwaith",
+    "author_github_url": "https://github.com/Adwaith123/"
+  },
+  {
     "name": "HackitOn2021",
     "page_link": "./art/AdwaithRajesh/index.html",
     "art_icon": "./art/AdwaithRajesh/icon.png",
@@ -22,11 +43,81 @@
     "author_github_url": "https://github.com/Adwaith123/"
   },
   {
+    "name": "HacktoberFest2021",
+    "page_link": "./art/Angelvicks/index.html",
+    "art_icon": "./art/Angelvicks/icon.png",
+    "author_name": "Angelvicks",
+    "author_github_url": "https://github.com/Angelvicks/"
+  },
+  {
+    "name": "Lightning",
+    "page_link": "./art/Angelvicks1/index.html",
+    "art_icon": "./art/Angelvicks1/icon.png",
+    "author_name": "Angelvicks",
+    "author_github_url": "https://github.com/Angelvicks/"
+  },
+  {
     "name": "glow",
     "page_link": "./art/Anuj_Mishra/index.html",
     "art_icon": "./art/Anuj_Mishra/icon.png",
     "author_name": "Anuj_Mishra",
     "author_github_url": "https://github.com/ANmishra-a"
+  },
+  {
+    "name": "Happy Halloween",
+    "page_link": "./art/Aramantos/index.html",
+    "art_icon": "./art/Aramantos/icon.png",
+    "author_name": "Aramantos",
+    "author_github_url": "https://github.com/Aramantos"
+  },
+  {
+    "name": "Penguin Wave",
+    "page_link": "./art/Aramantos2/index.html",
+    "art_icon": "./art/Aramantos2/icon.png",
+    "author_name": "Aramantos",
+    "author_github_url": "https://github.com/Aramantos"
+  },
+  {
+    "name": "Starry Beach",
+    "page_link": "./art/Aramantos3/index.html",
+    "art_icon": "./art/Aramantos3/icon.png",
+    "author_name": "Aramantos",
+    "author_github_url": "https://github.com/Aramantos"
+  },
+  {
+    "name": "Colorful Stars",
+    "page_link": "./art/BeeBeeWeb/index.html",
+    "art_icon": "./art/BeeBeeWeb/icon.png",
+    "author_name": "BeeBeeWeb",
+    "author_github_url": "https://github.com/BeeBeeWeb/"
+  },
+  {
+    "name": "Running Colorful Stars",
+    "page_link": "./art/BeeBeeWeb _2/index.html",
+    "art_icon": "./art/BeeBeeWeb _2/icon.png",
+    "author_name": "BeeBeeWeb",
+    "author_github_url": "https://github.com/BeeBeeWeb/"
+  },
+  {
+    "name": "Colorful Drawing",
+    "page_link": "./art/BeeBeeWeb_1/index.html",
+    "art_icon": "./art/BeeBeeWeb_1/icon.png",
+    "author_name": "BeeBeeWeb",
+    "author_github_url": "https://github.com/BeeBeeWeb/"
+  },
+  {
+    "name": "Flag Of The Philippines",
+    "page_link": "./art/Brienyll/index.html",
+    "art_icon": "./art/Brienyll/icon.png",
+    "author_name": "Brien",
+    "author_github_url": "https://github.com/Brienyll/"
+  },
+  {
+    "name": "Flag Of Djibouti",
+    "page_link": "./art/Brienyll2/index.html",
+    "art_icon": "./art/Brienyll2/icon.png",
+    "author_name": "Brien",
+    "author_github_url": "https://github.com/Brienyll/"
   },
   {
     "name": "Diamond💎",
@@ -50,11 +141,81 @@
     "author_github_url": "https://github.com/uzma024"
   },
   {
+    "name": "Halloween Pumpkin",
+    "page_link": "./art/CarmenIancu/index.html",
+    "art_icon": "./art/CarmenIancu/icon.png",
+    "author_name": "Carmen",
+    "author_github_url": "https://github.com/carmeniancu/"
+  },
+  {
+    "name": "Days Till Xmas",
+    "page_link": "./art/CarmenIancu2/index.html",
+    "art_icon": "./art/CarmenIancu2/icon.png",
+    "author_name": "Carmen",
+    "author_github_url": "https://github.com/carmeniancu/"
+  },
+  {
+    "name": "Shining Star",
+    "page_link": "./art/CarmenIancu3/index.html",
+    "art_icon": "./art/CarmenIancu3/icon.png",
+    "author_name": "Carmen",
+    "author_github_url": "https://github.com/carmeniancu/"
+  },
+  {
     "name": "Albanian Flag",
     "page_link": "./art/Coku/index.html",
     "art_icon": "./art/Coku/icon.png",
     "author_name": "Coku",
     "author_github_url": "https://github.com/MrCoku/"
+  },
+  {
+    "name": "Apple Logo",
+    "page_link": "./art/Coku_2/index.html",
+    "art_icon": "./art/Coku_2/icon.png",
+    "author_name": "Coku",
+    "author_github_url": "https://github.com/MrCoku/"
+  },
+  {
+    "name": "Green Ball",
+    "page_link": "./art/DanI/index.html",
+    "art_icon": "./art/DanI/icon.png",
+    "author_name": "Dan",
+    "author_github_url": "https://github.com/danIancuV"
+  },
+  {
+    "name": "Fir tree",
+    "page_link": "./art/DanI1/index.html",
+    "art_icon": "./art/DanI1/icon.png",
+    "author_name": "Dan",
+    "author_github_url": "https://github.com/danIancuV"
+  },
+  {
+    "name": "Nighttime fir tree",
+    "page_link": "./art/DanI2/index.html",
+    "art_icon": "./art/DanI2/icon.png",
+    "author_name": "Dan",
+    "author_github_url": "https://github.com/danIancuV"
+  },
+  {
+    "name": "House",
+    "page_link": "./art/DanI3/index.html",
+    "art_icon": "./art/DanI3/icon.png",
+    "author_name": "Dan",
+    "author_github_url": "https://github.com/danIancuV"
+  },
+  {
+    "name": "France Flag",
+    "page_link": "./art/Divya_Niranjan/index.html",
+    "art_icon": "./art/Divya_Niranjan/icon.png",
+    "author_name": "Divya Niranjan",
+    "author_github_url": "https://github.com/Divya-Niranjan"
+  },
+  {
+    "name": "Dominos Logo",
+    "page_link": "./art/Dominos/index.html",
+    "art_icon": "./art/Dominos/icon.png",
+    "author_name": "Uzma FKhan",
+    "author_github_url": "https://github.com/uzma024"
   },
   {
     "name": "Pixel the HTML5 Cat",
@@ -155,6 +316,11 @@
     "author_github_url": "https://github.com/Kanwarbir02"
   },
   {
+    "name": "Adventure Time ",
+    "page_link": "./art/KevinArt/index.html",
+    "art_icon": "./art/KevinArt/icon.png"
+  },
+  {
     "name": "Toast",
     "page_link": "./art/MLousdal/index.html",
     "art_icon": "./art/MLousdal/icon.png",
@@ -176,6 +342,13 @@
     "author_github_url": "https://github.com/the-halfbloodprince"
   },
   {
+    "name": "Heart in a Box",
+    "page_link": "./art/Mihir3/index.html",
+    "art_icon": "./art/Mihir3/icon.png",
+    "author_name": "Mihir Pamnani",
+    "author_github_url": "https://github.com/Mihir3/"
+  },
+  {
     "name": "Microsoft Logo",
     "page_link": "./art/Navdeepsingh4298-Microsoft-Logo/index.html",
     "art_icon": "./art/Navdeepsingh4298-Microsoft-Logo/icon.png",
@@ -195,6 +368,13 @@
     "art_icon": "./art/Nishant_Minerva/icon.png",
     "author_name": "Nishant Minerva",
     "author_github_url": "https://github.com/nishantminerva"
+  },
+  {
+    "name": "RainBow",
+    "page_link": "./art/Nitin-hack2021/index.html",
+    "art_icon": "./art/Nitin-hack2021/icon.png",
+    "author_name": "Nitin K",
+    "author_github_url": "https://github.com/nitink66"
   },
   {
     "name": "Squid Game Logo",
@@ -267,6 +447,13 @@
     "author_github_url": "https://github.com/rajbir21-droid"
   },
   {
+    "name": "Find Cursor",
+    "page_link": "./art/Ricksters/index.html",
+    "art_icon": "./art/Ricksters/icon.png",
+    "author_name": "Ricksters",
+    "author_github_url": "https://github.com/Ricksters2000/"
+  },
+  {
     "name": "The Black Moon",
     "page_link": "./art/RiocArt/index.html",
     "art_icon": "./art/RiocArt/icon.png",
@@ -286,6 +473,13 @@
     "art_icon": "./art/ShyamNR/icon.png",
     "author_name": "Shyam NR",
     "author_github_url": "https://github.com/Shyam-NR/"
+  },
+  {
+    "name": "Tokyo-Olympics",
+    "page_link": "./art/Surya742/index.html",
+    "art_icon": "./art/Surya742/icon.png",
+    "author_name": "Surya Kumar Sahani",
+    "author_github_url": "https://github.com/Surya742/"
   },
   {
     "name": "Hello Hacktoberfest 2021",
@@ -379,11 +573,102 @@
     "author_github_url": "https://github.com/theonly1me/"
   },
   {
+    "name": "DoodleBoard",
+    "page_link": "./art/auxfuse/index.html",
+    "art_icon": "./art/auxfuse/icon.png",
+    "author_name": "Auxfuse",
+    "author_github_url": "https://github.com/auxfuse/"
+  },
+  {
+    "name": "3D Hamburger",
+    "page_link": "./art/auxfuse-3d/index.html",
+    "art_icon": "./art/auxfuse-3d/icon.png",
+    "author_name": "Auxfuse",
+    "author_github_url": "https://github.com/auxfuse/"
+  },
+  {
+    "name": "Model Switcher",
+    "page_link": "./art/auxfuse-modelSwitcher/index.html",
+    "art_icon": "./art/auxfuse-modelSwitcher/icon.png",
+    "author_name": "Auxfuse",
+    "author_github_url": "https://github.com/auxfuse/"
+  },
+  {
+    "name": "Rings",
+    "page_link": "./art/ayushi2410/index.html",
+    "art_icon": "./art/ayushi2410/icon.png",
+    "author_name": "ayushi",
+    "author_github_url": "https://github.com/ayushi2410/"
+  },
+  {
+    "name": "circle-design",
+    "page_link": "./art/ayushijaiswal/index.html",
+    "art_icon": "./art/ayushijaiswal/icon.png",
+    "author_name": "Ayushi-Jaiswal",
+    "author_github_url": "https://github.com/ayushi25jaiswal"
+  },
+  {
+    "name": "circle-design",
+    "page_link": "./art/ayushijaiswal2/index.html",
+    "art_icon": "./art/ayushijaiswal2/icon.png",
+    "author_name": "Ayushi-Jaiswal",
+    "author_github_url": "https://github.com/ayushi25jaiswal"
+  },
+  {
+    "name": "circle-design",
+    "page_link": "./art/ayushijaiswal_3/index.html",
+    "art_icon": "./art/ayushijaiswal_3/icon.png",
+    "author_name": "Ayushi-Jaiswal",
+    "author_github_url": "https://github.com/ayushi25jaiswal"
+  },
+  {
+    "name": "circle-design",
+    "page_link": "./art/ayushijaiswal_4/index.html",
+    "art_icon": "./art/ayushijaiswal_4/icon.png",
+    "author_name": "Ayushi-Jaiswal",
+    "author_github_url": "https://github.com/ayushi25jaiswal"
+  },
+  {
+    "name": "Star Pattern",
+    "page_link": "./art/barbara-d/index.html",
+    "art_icon": "./art/barbara-d/icon.png",
+    "author_name": "Barbara",
+    "author_github_url": "https://github.com/Barbara-D/"
+  },
+  {
     "name": "HacktobersimpleParticle",
     "page_link": "./art/belalbilaldev1/index.html",
     "art_icon": "./art/belalbilaldev1/icon.png",
     "author_name": "belaldev",
     "author_github_url": "https://github.com/belalbilaldev"
+  },
+  {
+    "name": "HacktoberHouse",
+    "page_link": "./art/bk987/index.html",
+    "art_icon": "./art/bk987/icon.png",
+    "author_name": "bk987",
+    "author_github_url": "https://github.com/bk987"
+  },
+  {
+    "name": "ZTM",
+    "page_link": "./art/bk987-2/index.html",
+    "art_icon": "./art/bk987-2/icon.png",
+    "author_name": "bk987",
+    "author_github_url": "https://github.com/bk987"
+  },
+  {
+    "name": "BouncingBalls",
+    "page_link": "./art/bk987-3/index.html",
+    "art_icon": "./art/bk987-3/icon.png",
+    "author_name": "bk987",
+    "author_github_url": "https://github.com/bk987"
+  },
+  {
+    "name": "ColorfulTrail",
+    "page_link": "./art/bk987-4/index.html",
+    "art_icon": "./art/bk987-4/icon.png",
+    "author_name": "bk987",
+    "author_github_url": "https://github.com/bk987"
   },
   {
     "name": "Bouncing Balls",
@@ -398,6 +683,20 @@
     "art_icon": "./art/chathurasam/icon.png",
     "author_name": "Chathura Samarajeewa",
     "author_github_url": "https://github.com/ChathuraSam/"
+  },
+  {
+    "name": "Fractal Tree",
+    "page_link": "./art/chirayu-tree/index.html",
+    "art_icon": "./art/chirayu-tree/icon.png",
+    "author_name": "Chirayu Mittal",
+    "author_github_url": "https://github.com/chirayumit001"
+  },
+  {
+    "name": "SnowFlake Generator",
+    "page_link": "./art/chirayuSnowFlake/index.html",
+    "art_icon": "./art/chirayuSnowFlake/icon.png",
+    "author_name": "Chirayu Mittal",
+    "author_github_url": "https://github.com/chirayumit001"
   },
   {
     "name": "Snow-Fall",
@@ -449,6 +748,27 @@
     "author_github_url": "https://github.com/coder284"
   },
   {
+    "name": "Circles",
+    "page_link": "./art/coder284_4/index.html",
+    "art_icon": "./art/coder284_4/icon.png",
+    "author_name": "coder284",
+    "author_github_url": "https://github.com/coder284"
+  },
+  {
+    "name": "SpaceX Logo",
+    "page_link": "./art/corquaid/index.html",
+    "art_icon": "./art/corquaid/icon.png",
+    "author_name": "Cormac Quaid",
+    "author_github_url": "https://github.com/corquaid/"
+  },
+  {
+    "name": "Hubble Space Telescope",
+    "page_link": "./art/corquaid_2/index.html",
+    "art_icon": "./art/corquaid_2/icon.png",
+    "author_name": "Cormac Quaid",
+    "author_github_url": "https://github.com/corquaid/"
+  },
+  {
     "name": "ZombieSlayer",
     "page_link": "./art/cyrus_mobini/index.html",
     "art_icon": "./art/cyrus_mobini/icon.png",
@@ -468,6 +788,13 @@
     "art_icon": "./art/dewansh_Patle/icon.png",
     "author_name": "Dewansh",
     "author_github_url": "https://github.com/dewansh16"
+  },
+  {
+    "name": "SimplePiano",
+    "page_link": "./art/dylanb6/index.html",
+    "art_icon": "./art/dylanb6/icon.png",
+    "author_name": "dylanb6",
+    "author_github_url": "https://github.com/dylanb6/"
   },
   {
     "name": "Olympics",
@@ -526,6 +853,13 @@
     "author_github_url": "https://github.com/godnondsilva"
   },
   {
+    "name": "Bookshelf",
+    "page_link": "./art/gtc/index.html",
+    "art_icon": "./art/gtc/icon.png",
+    "author_name": "gtc",
+    "author_github_url": "https://github.com/GabrielTeixeiraC/"
+  },
+  {
     "name": "Snowfall",
     "page_link": "./art/haylzrandom/index.html",
     "art_icon": "./art/haylzrandom/icon.png",
@@ -533,11 +867,25 @@
     "author_github_url": "https://github.com/HaylzRandom/"
   },
   {
+    "name": "Composition with Red Blue and Yellow",
+    "page_link": "./art/incanlove/index.html",
+    "art_icon": "./art/incanlove/icon.png",
+    "author_name": "Juan O.",
+    "author_github_url": "https://github.com/incanlove"
+  },
+  {
     "name": "Traideas",
     "page_link": "./art/istiak/index.html",
     "art_icon": "./art/istiak/icon.png",
     "author_name": "Istiak",
     "author_github_url": "https://github.com/istiak227/"
+  },
+  {
+    "name": "Freedom",
+    "page_link": "./art/jeyson/index.html",
+    "art_icon": "./art/jeyson/icon.png",
+    "author_name": "Jeyson",
+    "author_github_url": "https://github.com/jgonz19"
   },
   {
     "name": "Egg",
@@ -554,9 +902,23 @@
     "author_github_url": "https://github.com/jsh854"
   },
   {
+    "name": "Curvature",
+    "page_link": "./art/kanwarjotp/index.html",
+    "art_icon": "./art/kanwarjotp/icon.png",
+    "author_name": "Kanwar Jot Parkash",
+    "author_github_url": "https://github.com/kanwarjotp"
+  },
+  {
     "name": "HactoberSolar",
     "page_link": "./art/keithEbbett/index.html",
     "art_icon": "./art/keithEbbett/icon.png"
+  },
+  {
+    "name": "Starfield",
+    "page_link": "./art/kennithnichol/index.html",
+    "art_icon": "./art/kennithnichol/icon.png",
+    "author_name": "Ken",
+    "author_github_url": "https://github.com/kennithnichol/"
   },
   {
     "name": "Square animation",
@@ -592,6 +954,13 @@
     "art_icon": "./art/mattcsmith/icon.png",
     "author_name": "Matt",
     "author_github_url": "https://github.com/MattCSmith/"
+  },
+  {
+    "name": "Landscape",
+    "page_link": "./art/mctrl/index.html",
+    "art_icon": "./art/mctrl/icon.png",
+    "author_name": "Mctrl",
+    "author_github_url": "https://github.com/mctrl"
   },
   {
     "name": "UCI World Champion",
@@ -671,6 +1040,13 @@
     "author_github_url": "https://github.com/nayana-thapa/"
   },
   {
+    "name": "Tree",
+    "page_link": "./art/nikki/index.html",
+    "art_icon": "./art/nikki/icon.png",
+    "author_name": "NikkiKal",
+    "author_github_url": "https://github.com/NikkiKal"
+  },
+  {
     "name": "Flower",
     "page_link": "./art/nikkikal/index.html",
     "art_icon": "./art/nikkikal/icon.png",
@@ -678,11 +1054,25 @@
     "author_github_url": "https://github.com/NikkiKal"
   },
   {
+    "name": "Geeky-Star",
+    "page_link": "./art/nimrat/index.html",
+    "art_icon": "./art/nimrat/icon.png",
+    "author_name": "Nimrat Kaur",
+    "author_github_url": "https://github.com/Geeky-star"
+  },
+  {
     "name": "ProLoading Max",
     "page_link": "./art/nisnym/index.html",
     "art_icon": "./art/nisnym/icon.png",
     "author_name": "NISNYM",
     "author_github_url": "https://github.com/nisnym/"
+  },
+  {
+    "name": "CircularGradient",
+    "page_link": "./art/nss/index.html",
+    "art_icon": "./art/nss/icon.png",
+    "author_name": "Naga Saisriya",
+    "author_github_url": "https://github.com/nagasaisriya"
   },
   {
     "name": "Web-paint",
@@ -713,11 +1103,25 @@
     "author_github_url": "https://github.com/PatriceAm/"
   },
   {
+    "name": "Shapes",
+    "page_link": "./art/patriceam4/index.html",
+    "art_icon": "./art/patriceam4/icon.png",
+    "author_name": "Patrice",
+    "author_github_url": "https://github.com/PatriceAm/"
+  },
+  {
     "name": "Squid Playground",
     "page_link": "./art/preetham_pulavarthi/index.html",
     "art_icon": "./art/preetham_pulavarthi/icon.png",
     "author_name": "Atchyut Preetham Pulavarthi / theonly1me",
     "author_github_url": "https://github.com/theonly1me"
+  },
+  {
+    "name": "Draw an American Flag with HTML5",
+    "page_link": "./art/quangpro1610/index.html",
+    "art_icon": "./art/quangpro1610/icon.png",
+    "author_name": "quangpro1610",
+    "author_github_url": "https://github.com/quangpro1610/"
   },
   {
     "name": "Hanging moon",
@@ -790,6 +1194,55 @@
     "author_github_url": "https://github.com/rakshithshenoy"
   },
   {
+    "name": "Abu Dhabi Flag",
+    "page_link": "./art/rakshithshenoy-2/index.html",
+    "art_icon": "./art/rakshithshenoy-2/icon.png",
+    "author_name": "Rakshith Shenoy",
+    "author_github_url": "https://github.com/rakshithshenoy/"
+  },
+  {
+    "name": "GoodLuck cat",
+    "page_link": "./art/ranran2121/index.html",
+    "art_icon": "./art/ranran2121/icon.png",
+    "author_name": "ranran2121",
+    "author_github_url": "https://github.com/ranran2121/"
+  },
+  {
+    "name": "Flying Owl",
+    "page_link": "./art/ranran2121-2/index.html",
+    "art_icon": "./art/ranran2121-2/icon.png",
+    "author_name": "Ranran2121",
+    "author_github_url": "https://github.com/ranran2121"
+  },
+  {
+    "name": "Honeyfall with mouse collision",
+    "page_link": "./art/redsquirrrel/index.html",
+    "art_icon": "./art/redsquirrrel/icon.png",
+    "author_name": "RedSquirrrel",
+    "author_github_url": "https://github.com/RedSquirrrel/"
+  },
+  {
+    "name": "Particle Effect",
+    "page_link": "./art/redsquirrrel2/index.html",
+    "art_icon": "./art/redsquirrrel2/icon.png",
+    "author_name": "RedSquirrrel",
+    "author_github_url": "https://github.com/RedSquirrrel/"
+  },
+  {
+    "name": "Pixel Manipulation",
+    "page_link": "./art/redsquirrrel3/index.html",
+    "art_icon": "./art/redsquirrrel3/icon.png",
+    "author_name": "RedSquirrrel",
+    "author_github_url": "https://github.com/RedSquirrrel/"
+  },
+  {
+    "name": "Digital Clock & Date",
+    "page_link": "./art/redsquirrrel4/index.html",
+    "art_icon": "./art/redsquirrrel4/icon.png",
+    "author_name": "RedSquirrrel",
+    "author_github_url": "https://github.com/RedSquirrrel/"
+  },
+  {
     "name": "Box_Animation",
     "page_link": "./art/rohit8020_canvasart/index.html",
     "art_icon": "./art/rohit8020_canvasart/icon.png",
@@ -802,6 +1255,41 @@
     "art_icon": "./art/rokoala/icon.png",
     "author_name": "rokoala",
     "author_github_url": "https://github.com/rokoala"
+  },
+  {
+    "name": "Be smart with your time",
+    "page_link": "./art/ruffle1986/index.html",
+    "art_icon": "./art/ruffle1986/icon.png",
+    "author_name": "Tamas Fodor",
+    "author_github_url": "https://github.com/ruffle1986"
+  },
+  {
+    "name": "Loneliness",
+    "page_link": "./art/ruffle1986_2/index.html",
+    "art_icon": "./art/ruffle1986_2/icon.png",
+    "author_name": "Tamas Fodor",
+    "author_github_url": "https://github.com/ruffle1986"
+  },
+  {
+    "name": "Experience points",
+    "page_link": "./art/ruffle1986_3/index.html",
+    "art_icon": "./art/ruffle1986_3/icon.png",
+    "author_name": "Tamas Fodor",
+    "author_github_url": "https://github.com/ruffle1986"
+  },
+  {
+    "name": "Squid Game",
+    "page_link": "./art/ruffle1986_4/index.html",
+    "art_icon": "./art/ruffle1986_4/icon.png",
+    "author_name": "Tamas Fodor",
+    "author_github_url": "https://github.com/ruffle1986"
+  },
+  {
+    "name": "Microsoft-Logo",
+    "page_link": "./art/sachdevavaibhav/index.html",
+    "art_icon": "./art/sachdevavaibhav/icon.png",
+    "author_name": "Vaibhav Sachdeva",
+    "author_github_url": "https://github.com/sachdevavaibhav/"
   },
   {
     "name": "Rainy Day in New York",
@@ -832,6 +1320,48 @@
     "author_github_url": "https://github.com/sn2606/"
   },
   {
+    "name": "Chad Flag",
+    "page_link": "./art/sophiabrandt/index.html",
+    "art_icon": "./art/sophiabrandt/icon.png",
+    "author_name": "Sophia Brandt",
+    "author_github_url": "https://github.com/sophiabrandt"
+  },
+  {
+    "name": "Squid Games Card",
+    "page_link": "./art/stryker/index.html",
+    "art_icon": "./art/stryker/icon.png",
+    "author_name": "Stryker S",
+    "author_github_url": "https://github.com/StrykerKent/"
+  },
+  {
+    "name": "HacktoberSquidGame",
+    "page_link": "./art/sulit/index.html",
+    "art_icon": "./art/sulit/icon.png",
+    "author_name": "Ralph",
+    "author_github_url": "https://github.com/ralphsulit"
+  },
+  {
+    "name": "HacktoberLock",
+    "page_link": "./art/sulit2/index.html",
+    "art_icon": "./art/sulit2/icon.png",
+    "author_name": "Ralph",
+    "author_github_url": "https://github.com/ralphsulit"
+  },
+  {
+    "name": "HacktoberSquidGameLogo",
+    "page_link": "./art/sulit3/index.html",
+    "art_icon": "./art/sulit3/icon.png",
+    "author_name": "Ralph",
+    "author_github_url": "https://github.com/ralphsulit"
+  },
+  {
+    "name": "Canvaz 2021",
+    "page_link": "./art/taepal467/index.html",
+    "art_icon": "./art/taepal467/icon.png",
+    "author_name": "Chantae",
+    "author_github_url": "https://github.com/taepal467"
+  },
+  {
     "name": "Livestream Emojis",
     "page_link": "./art/thucpn/index.html",
     "art_icon": "./art/thucpn/icon.png",
@@ -839,11 +1369,39 @@
     "author_github_url": "https://github.com/thucpn"
   },
   {
+    "name": "Circles",
+    "page_link": "./art/ttumyr_circles/index.html",
+    "art_icon": "./art/ttumyr_circles/icon.png",
+    "author_name": "ttumyr",
+    "author_github_url": "https://github.com/TTumyr"
+  },
+  {
+    "name": "Simple Slider",
+    "page_link": "./art/ttumyr_slider/index.html",
+    "art_icon": "./art/ttumyr_slider/icon.png",
+    "author_name": "ttumyr",
+    "author_github_url": "https://github.com/TTumyr"
+  },
+  {
     "name": "CubeFall",
     "page_link": "./art/usergr/index.html",
     "art_icon": "./art/usergr/icon.png",
     "author_name": "usergr",
     "author_github_url": "https://github.com/usergr/"
+  },
+  {
+    "name": "Audi Logo",
+    "page_link": "./art/vabs/index.html",
+    "art_icon": "./art/vabs/icon.png",
+    "author_name": "Vaibhav Sachdeva",
+    "author_github_url": "https://github.com/sachdevavaibhav/"
+  },
+  {
+    "name": "Damien Hirst Painting",
+    "page_link": "./art/vaibhav/index.html",
+    "art_icon": "./art/vaibhav/icon.png",
+    "author_name": "Vaibhav Sachdeva",
+    "author_github_url": "https://github.com/sachdevavaibhav/"
   },
   {
     "name": "Argentinian Flag",
@@ -886,6 +1444,34 @@
     "art_icon": "./art/viktorlinus/icon.png",
     "author_name": "Eken",
     "author_github_url": "https://github.com/viktorlinus/"
+  },
+  {
+    "name": "Generative Art",
+    "page_link": "./art/yash2003/index.html",
+    "art_icon": "./art/yash2003/icon.png",
+    "author_name": "Yashraj",
+    "author_github_url": "https://github.com/yashraj2003e/"
+  },
+  {
+    "name": "Sweden Flag",
+    "page_link": "./art/yelllowberard_2/index.html",
+    "art_icon": "./art/yelllowberard_2/icon.png",
+    "author_name": "Mayank Goel",
+    "author_github_url": "https://github.com/yellowberard/"
+  },
+  {
+    "name": "Japanese Flag",
+    "page_link": "./art/yellowberard_1/index.html",
+    "art_icon": "./art/yellowberard_1/icon.png",
+    "author_name": "Mayank Goel",
+    "author_github_url": "https://github.com/yellowberard/"
+  },
+  {
+    "name": "COD Black Ops 2",
+    "page_link": "./art/zillBoy/index.html",
+    "art_icon": "./art/zillBoy/icon.png",
+    "author_name": "Muhammad Usman",
+    "author_github_url": "https://github.com/zillBoy/"
   }
 ]
 

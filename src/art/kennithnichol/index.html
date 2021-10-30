@@ -1,0 +1,90 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Starfield by Kennith Nichol</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <style>
+            html, body { width: 100%; height: 100%; }
+            body { background-color: black; margin: 0; overflow: hidden;}
+        </style>
+    </head>
+    <body>
+        <canvas id="starfield"></canvas>
+        <script>
+        ;(function() {
+            const canvas = document.getElementById('starfield');
+            const rand = function() { return (Math.random() - 0.5) * (Math.random() - 0.5) * Math.random() };
+            
+            let width, height, pixelRatio, centerx, centery;
+            
+            const setCanvas = function() {
+                width = document.body.offsetWidth;
+                height = document.body.offsetHeight;
+                pixelRatio = window.devicePixelRatio || false
+                if (pixelRatio) {
+                    canvas.style.width = width + 'px';
+                    canvas.style.height = height + 'px';
+                    
+                    width *= pixelRatio;
+                    height *= pixelRatio;
+                }
+                
+                centery = height / 2;
+                centerx = width / 2;
+
+                canvas.setAttribute('width', width);
+                canvas.setAttribute('height', height);
+            }
+
+            setCanvas();
+            
+            ctx = canvas.getContext('2d');
+            
+            const starCount = 180;
+            let stars = [];
+            for (let i = 0; i < starCount; i++) {
+                let starX = centerx + rand() * width;
+                let starY = centery + rand() * height;
+                stars.push([starX, starY]);
+            }
+            
+            // main loop
+            const fps = 40;
+            let trail = true;
+            
+            setInterval(function() {
+                trail = !trail;
+                if (trail) {
+                    ctx.clearRect(0, 0, width, height);
+                }
+                
+                stars = stars.map(function (star, index) {
+                    let x = star[0];
+                    let y = star[1];
+                    let radius = 0.005 * (Math.sqrt(Math.pow(x - centerx, 2) + Math.pow(y - centery, 2)));
+                    
+                    ctx.beginPath();
+                    ctx.arc(x, y, radius, 0, 2, Math.PI, false);
+                    ctx.fillStyle='white';
+                    if (trail) {
+                        ctx.fillStyle='rgba(255,255,255,0.5)';
+                    }
+                    ctx.fill();
+                    star[0] = x + (x - centerx) * 0.025;
+                    star[1] = y + (y - centery) * 0.025;
+                    
+                    if (x < -100 || x > width + 100 || y < -100 ||y > height + 100) {
+                        star[0] = centerx + rand() * width/10;
+                        star[1] = centery + rand() * height/10;
+                    }
+                    
+                    return star;
+                });
+            }, 1000 / fps);
+            
+            window.addEventListener('resize', setCanvas);
+        })();
+        </script>
+    </body>
+</html>

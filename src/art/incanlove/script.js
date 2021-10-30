@@ -1,0 +1,18 @@
+const canvas = document.getElementById('canvas');
+const ctx = canvas.getContext('2d');
+ctx.fillStyle = 'black';
+ctx.fillRect(100, 0, 15, 500);
+ctx.fillStyle = 'black';
+ctx.fillRect(0, 180, 100, 25);
+ctx.fillStyle = 'black';
+ctx.fillRect(0, 385, 500, 15);
+ctx.fillStyle = 'blue';
+ctx.fillRect(0, 400, 100, 100);
+ctx.fillStyle = 'red';
+ctx.fillRect(115, 0, 385, 385);
+ctx.fillStyle = 'black';
+ctx.fillRect(450, 400, 15, 100);
+ctx.fillStyle = 'black';
+ctx.fillRect(450, 440, 50, 15);
+ctx.fillStyle = 'yellow';
+ctx.fillRect(465, 450, 50, 50);

@@ -1,0 +1,15 @@
+body {
+    background-color: ivory;
+}
+canvas {
+    border:1px solid black;
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+    display: block;
+    margin-top: 30%;
+}
+* {
+    padding: 0;
+    box-sizing: border-box;
+}

@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+model-viewer {
+    border-bottom: 1px solid firebrick;
+    height: 80vh;
+    width: 100%;
+}
+
+.utils {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.utils > p {
+    margin-top: 1rem;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.utils > p:last-child {
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+}
