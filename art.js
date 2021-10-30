@@ -935,6 +935,13 @@
     "author_github_url": "https://github.com/kennithnichol/"
   },
   {
+    "name": "HacktoberFox",
+    "page_link": "./art/kshwetakumari/index.html",
+    "art_icon": "./art/kshwetakumari/icon.png",
+    "author_name": "Shweta",
+    "author_github_url": "https://github.com/Shwetzksk"
+  },
+  {
     "name": "Square animation",
     "page_link": "./art/ktra99/index.html",
     "art_icon": "./art/ktra99/icon.png",
