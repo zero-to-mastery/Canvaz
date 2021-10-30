@@ -50,6 +50,13 @@
     "author_github_url": "https://github.com/Angelvicks/"
   },
   {
+    "name": "Lightning",
+    "page_link": "./art/Angelvicks1/index.html",
+    "art_icon": "./art/Angelvicks1/icon.png",
+    "author_name": "Angelvicks",
+    "author_github_url": "https://github.com/Angelvicks/"
+  },
+  {
     "name": "glow",
     "page_link": "./art/Anuj_Mishra/index.html",
     "art_icon": "./art/Anuj_Mishra/icon.png",
