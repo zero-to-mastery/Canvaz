@@ -57,6 +57,13 @@
     "author_github_url": "https://github.com/Angelvicks/"
   },
   {
+    "name": "Drawing Shapes",
+    "page_link": "./art/Angelvicks2/index.html",
+    "art_icon": "./art/Angelvicks2/icon.png",
+    "author_name": "Angelvicks",
+    "author_github_url": "https://github.com/Angelvicks/"
+  },
+  {
     "name": "glow",
     "page_link": "./art/Anuj_Mishra/index.html",
     "art_icon": "./art/Anuj_Mishra/icon.png",
