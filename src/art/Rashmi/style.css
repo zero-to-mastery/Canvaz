@@ -1,0 +1,28 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+#myCanvas {
+    background-image: url("falling-leaves.png");
+    background-size: cover;
+    border-radius: 2%;  
+}
+
+#myCanvas:hover{
+    box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    animation: mymove 8s infinite;
+}
+
+@keyframes mymove {
+    from {background-color: rgb(255, 174, 0);}
+    to {background-color: rgb(80, 2, 21);}
+}  
