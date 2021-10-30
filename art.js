@@ -454,6 +454,13 @@
     "author_github_url": "https://github.com/rajbir21-droid"
   },
   {
+    "name": "Hacktoberfest",
+    "page_link": "./art/Rashmi/index.html",
+    "art_icon": "./art/Rashmi/icon.png",
+    "author_name": "Rashmi",
+    "author_github_url": "https://github.com/rashmikt"
+  },
+  {
     "name": "Find Cursor",
     "page_link": "./art/Ricksters/index.html",
     "art_icon": "./art/Ricksters/icon.png",
