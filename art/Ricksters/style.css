@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.cols {
+    display: flex;
+    flex-direction: column;
+}
+
+fieldset {
+    height: fit-content;
+    /* margin-left: auto; */
+}
+
+fieldset button {
+    border-radius: 1rem;
+}
