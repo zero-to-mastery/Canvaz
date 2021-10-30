@@ -433,6 +433,13 @@
     "author_github_url": "https://github.com/rajbir21-droid"
   },
   {
+    "name": "Find Cursor",
+    "page_link": "./art/Ricksters/index.html",
+    "art_icon": "./art/Ricksters/icon.png",
+    "author_name": "Ricksters",
+    "author_github_url": "https://github.com/Ricksters2000/"
+  },
+  {
     "name": "The Black Moon",
     "page_link": "./art/RiocArt/index.html",
     "art_icon": "./art/RiocArt/icon.png",
