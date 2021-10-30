@@ -43,6 +43,13 @@
     "author_github_url": "https://github.com/Adwaith123/"
   },
   {
+    "name": "HacktoberFest2021",
+    "page_link": "./art/Angelvicks/index.html",
+    "art_icon": "./art/Angelvicks/icon.png",
+    "author_name": "Angelvicks",
+    "author_github_url": "https://github.com/Angelvicks/"
+  },
+  {
     "name": "glow",
     "page_link": "./art/Anuj_Mishra/index.html",
     "art_icon": "./art/Anuj_Mishra/icon.png",
