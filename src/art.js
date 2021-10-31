@@ -608,6 +608,13 @@
     "author_github_url": "https://github.com/auxfuse/"
   },
   {
+    "name": "Shape Points",
+    "page_link": "./art/auxfuse-points/index.html",
+    "art_icon": "./art/auxfuse-points/icon.png",
+    "author_name": "Auxfuse",
+    "author_github_url": "https://github.com/auxfuse/"
+  },
+  {
     "name": "Rings",
     "page_link": "./art/ayushi2410/index.html",
     "art_icon": "./art/ayushi2410/icon.png",
