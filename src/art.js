@@ -57,6 +57,13 @@
     "author_github_url": "https://github.com/Angelvicks/"
   },
   {
+    "name": "Drawing Shapes",
+    "page_link": "./art/Angelvicks2/index.html",
+    "art_icon": "./art/Angelvicks2/icon.png",
+    "author_name": "Angelvicks",
+    "author_github_url": "https://github.com/Angelvicks/"
+  },
+  {
     "name": "glow",
     "page_link": "./art/Anuj_Mishra/index.html",
     "art_icon": "./art/Anuj_Mishra/icon.png",
@@ -447,6 +454,13 @@
     "author_github_url": "https://github.com/rajbir21-droid"
   },
   {
+    "name": "Hacktoberfest",
+    "page_link": "./art/Rashmi/index.html",
+    "art_icon": "./art/Rashmi/icon.png",
+    "author_name": "Rashmi",
+    "author_github_url": "https://github.com/rashmikt"
+  },
+  {
     "name": "Find Cursor",
     "page_link": "./art/Ricksters/index.html",
     "art_icon": "./art/Ricksters/icon.png",
@@ -769,6 +783,13 @@
     "author_github_url": "https://github.com/corquaid/"
   },
   {
+    "name": "Irish Flag",
+    "page_link": "./art/corquaid_3/index.html",
+    "art_icon": "./art/corquaid_3/icon.png",
+    "author_name": "Cormac Quaid",
+    "author_github_url": "https://github.com/corquaid/"
+  },
+  {
     "name": "ZombieSlayer",
     "page_link": "./art/cyrus_mobini/index.html",
     "art_icon": "./art/cyrus_mobini/icon.png",
@@ -919,6 +940,13 @@
     "art_icon": "./art/kennithnichol/icon.png",
     "author_name": "Ken",
     "author_github_url": "https://github.com/kennithnichol/"
+  },
+  {
+    "name": "HacktoberFox",
+    "page_link": "./art/kshwetakumari/index.html",
+    "art_icon": "./art/kshwetakumari/icon.png",
+    "author_name": "Shweta",
+    "author_github_url": "https://github.com/Shwetzksk"
   },
   {
     "name": "Square animation",
