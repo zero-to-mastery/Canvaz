@@ -108,7 +108,7 @@
   {
     "name": "Colorful Drawing",
     "page_link": "./art/BeeBeeWeb_1/index.html",
-    "art_icon": "./art/BeeBeeWeb_1/icon.png",
+    "art_icon": "./art/BeeBeeWeb_1/icon.gif",
     "author_name": "BeeBeeWeb",
     "author_github_url": "https://github.com/BeeBeeWeb/"
   },
