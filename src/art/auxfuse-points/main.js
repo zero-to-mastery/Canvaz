@@ -30,6 +30,5 @@ function sides(r, inset, n){
 
 submit.addEventListener('click', e => {
     e.preventDefault();
-
     sides(radius.value, inset.value, points.value);
 });
