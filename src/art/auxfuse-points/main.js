@@ -1,7 +1,11 @@
 const c = document.querySelector('canvas');
 const ctx = c.getContext('2d');
+const radius = document.querySelector('#radius');
+const inset = document.querySelector('#inset');
+const points = document.querySelector('#points');
+const submit = document.querySelector('#submit');
 
-c.height = window.innerHeight;
+c.height = window.innerHeight*0.75;
 c.width = window.innerWidth;
 
 function sides(r, inset, n){
@@ -24,4 +28,8 @@ function sides(r, inset, n){
     ctx.fill();
 };
 
-sides(100, 0.5, 6);
+submit.addEventListener('click', e => {
+    e.preventDefault();
+
+    sides(radius.value, inset.value, points.value);
+});
