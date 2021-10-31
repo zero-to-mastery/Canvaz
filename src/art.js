@@ -790,6 +790,13 @@
     "author_github_url": "https://github.com/corquaid/"
   },
   {
+    "name": "Sunrise on Mars",
+    "page_link": "./art/corquaid_4/index.html",
+    "art_icon": "./art/corquaid_4/icon.png",
+    "author_name": "Cormac Quaid",
+    "author_github_url": "https://github.com/corquaid/"
+  },
+  {
     "name": "ZombieSlayer",
     "page_link": "./art/cyrus_mobini/index.html",
     "art_icon": "./art/cyrus_mobini/icon.png",
