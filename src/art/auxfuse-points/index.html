@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <title>Auxfuse - Canvaz Points to Shape</title>
+    </head>
+    <body>
+        <div class="utils">
+            <h1>Shape Generator</h1>
+
+            <p>
+                Radius determines the size of the shape. The inset will determine the inwards direction
+                and length of an edge. Points will determine the overall shape itself, 3 making a triangle,
+                4 a rectangle, 5 a pentagon (or a star if inset is set to 0.5) etc etc.
+            </p>
+
+            <p>Select the radius, the inset, and the amount of points, then click "Generate".</p>
+            <form>
+                <label for="points">Radius</label>
+                <input type="number" value="100" min="100" max="1000" id="radius">
+
+                <label for="points">Inset</label>
+                <input type="number" value="0.5" min="0.1" max="1000" id="inset">
+
+                <label for="points">Points</label>
+                <input type="number" value="7" min="1" max="1000" id="points">
+
+                <button id="submit" type="submit">Generate</button>
+            </form>
+        </div>
+
+        <canvas></canvas>
+
+        <script src="main.js"></script>
+    </body>
+</html>

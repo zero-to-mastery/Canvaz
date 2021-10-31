@@ -43,6 +43,27 @@
     "author_github_url": "https://github.com/Adwaith123/"
   },
   {
+    "name": "HacktoberFest2021",
+    "page_link": "./art/Angelvicks/index.html",
+    "art_icon": "./art/Angelvicks/icon.png",
+    "author_name": "Angelvicks",
+    "author_github_url": "https://github.com/Angelvicks/"
+  },
+  {
+    "name": "Lightning",
+    "page_link": "./art/Angelvicks1/index.html",
+    "art_icon": "./art/Angelvicks1/icon.png",
+    "author_name": "Angelvicks",
+    "author_github_url": "https://github.com/Angelvicks/"
+  },
+  {
+    "name": "Drawing Shapes",
+    "page_link": "./art/Angelvicks2/index.html",
+    "art_icon": "./art/Angelvicks2/icon.png",
+    "author_name": "Angelvicks",
+    "author_github_url": "https://github.com/Angelvicks/"
+  },
+  {
     "name": "glow",
     "page_link": "./art/Anuj_Mishra/index.html",
     "art_icon": "./art/Anuj_Mishra/icon.png",
@@ -433,6 +454,20 @@
     "author_github_url": "https://github.com/rajbir21-droid"
   },
   {
+    "name": "Hacktoberfest",
+    "page_link": "./art/Rashmi/index.html",
+    "art_icon": "./art/Rashmi/icon.png",
+    "author_name": "Rashmi",
+    "author_github_url": "https://github.com/rashmikt"
+  },
+  {
+    "name": "Find Cursor",
+    "page_link": "./art/Ricksters/index.html",
+    "art_icon": "./art/Ricksters/icon.png",
+    "author_name": "Ricksters",
+    "author_github_url": "https://github.com/Ricksters2000/"
+  },
+  {
     "name": "The Black Moon",
     "page_link": "./art/RiocArt/index.html",
     "art_icon": "./art/RiocArt/icon.png",
@@ -569,6 +604,13 @@
     "name": "Model Switcher",
     "page_link": "./art/auxfuse-modelSwitcher/index.html",
     "art_icon": "./art/auxfuse-modelSwitcher/icon.png",
+    "author_name": "Auxfuse",
+    "author_github_url": "https://github.com/auxfuse/"
+  },
+  {
+    "name": "Shape Points",
+    "page_link": "./art/auxfuse-points/index.html",
+    "art_icon": "./art/auxfuse-points/icon.png",
     "author_name": "Auxfuse",
     "author_github_url": "https://github.com/auxfuse/"
   },
@@ -748,6 +790,20 @@
     "author_github_url": "https://github.com/corquaid/"
   },
   {
+    "name": "Irish Flag",
+    "page_link": "./art/corquaid_3/index.html",
+    "art_icon": "./art/corquaid_3/icon.png",
+    "author_name": "Cormac Quaid",
+    "author_github_url": "https://github.com/corquaid/"
+  },
+  {
+    "name": "Sunrise on Mars",
+    "page_link": "./art/corquaid_4/index.html",
+    "art_icon": "./art/corquaid_4/icon.png",
+    "author_name": "Cormac Quaid",
+    "author_github_url": "https://github.com/corquaid/"
+  },
+  {
     "name": "ZombieSlayer",
     "page_link": "./art/cyrus_mobini/index.html",
     "art_icon": "./art/cyrus_mobini/icon.png",
@@ -874,6 +930,13 @@
     "author_github_url": "https://github.com/jkagawa/"
   },
   {
+    "name": "Rainbow dance",
+    "page_link": "./art/john/index.html",
+    "art_icon": "./art/john/icon.png",
+    "author_name": "John",
+    "author_github_url": "https://github.com/DEVELOPER-IN-PROGRESS/"
+  },
+  {
     "name": "Fun with Corners",
     "page_link": "./art/junaid_shah/index.html",
     "art_icon": "./art/junaid_shah/icon.png",
@@ -898,6 +961,13 @@
     "art_icon": "./art/kennithnichol/icon.png",
     "author_name": "Ken",
     "author_github_url": "https://github.com/kennithnichol/"
+  },
+  {
+    "name": "HacktoberFox",
+    "page_link": "./art/kshwetakumari/index.html",
+    "art_icon": "./art/kshwetakumari/icon.png",
+    "author_name": "Shweta",
+    "author_github_url": "https://github.com/Shwetzksk"
   },
   {
     "name": "Square animation",
