@@ -108,7 +108,7 @@
   {
     "name": "Colorful Drawing",
     "page_link": "./art/BeeBeeWeb_1/index.html",
-    "art_icon": "./art/BeeBeeWeb_1/icon.png",
+    "art_icon": "./art/BeeBeeWeb_1/icon.gif",
     "author_name": "BeeBeeWeb",
     "author_github_url": "https://github.com/BeeBeeWeb/"
   },
@@ -604,6 +604,13 @@
     "name": "Model Switcher",
     "page_link": "./art/auxfuse-modelSwitcher/index.html",
     "art_icon": "./art/auxfuse-modelSwitcher/icon.png",
+    "author_name": "Auxfuse",
+    "author_github_url": "https://github.com/auxfuse/"
+  },
+  {
+    "name": "Shape Points",
+    "page_link": "./art/auxfuse-points/index.html",
+    "art_icon": "./art/auxfuse-points/icon.png",
     "author_name": "Auxfuse",
     "author_github_url": "https://github.com/auxfuse/"
   },
