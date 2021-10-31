@@ -923,6 +923,13 @@
     "author_github_url": "https://github.com/jkagawa/"
   },
   {
+    "name": "Rainbow dance",
+    "page_link": "./art/john/index.html",
+    "art_icon": "./art/john/icon.png",
+    "author_name": "John",
+    "author_github_url": "https://github.com/DEVELOPER-IN-PROGRESS/"
+  },
+  {
     "name": "Fun with Corners",
     "page_link": "./art/junaid_shah/index.html",
     "art_icon": "./art/junaid_shah/icon.png",
