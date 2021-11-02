@@ -1521,7 +1521,14 @@
     "art_icon": "./art/zillBoy/icon.png",
     "author_name": "Muhammad Usman",
     "author_github_url": "https://github.com/zillBoy/"
-  }
+  },
+  {
+    "name": "Shpongle",
+    "page_link": "./art/Jerry/index.html",
+    "art_icon": "./art/Jerry/img/shpongle.png",
+    "author_name": "Jerry Alys",
+    "author_github_url": "https://github.com/Jerryalys"
+  },
 ]
 
     
