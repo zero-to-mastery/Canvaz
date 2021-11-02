@@ -356,6 +356,13 @@
     "author_github_url": "https://github.com/Mihir3/"
   },
   {
+    "name": "Jumping Circles",
+    "page_link": "./art/MohamedS98/index.html",
+    "art_icon": "./art/MohamedS98/icon.png",
+    "author_name": "Mohamed Saleh",
+    "author_github_url": "https://github.com/mohamedsaleh1984"
+  },
+  {
     "name": "Microsoft Logo",
     "page_link": "./art/Navdeepsingh4298-Microsoft-Logo/index.html",
     "art_icon": "./art/Navdeepsingh4298-Microsoft-Logo/icon.png",
@@ -655,6 +662,13 @@
     "art_icon": "./art/barbara-d/icon.png",
     "author_name": "Barbara",
     "author_github_url": "https://github.com/Barbara-D/"
+  },
+  {
+    "name": "HacktoberPrism",
+    "page_link": "./art/barbaraaliverti/index.html",
+    "art_icon": "./art/barbaraaliverti/icon.png",
+    "author_name": "Baloo",
+    "author_github_url": "https://github.com/barbaraaliverti/"
   },
   {
     "name": "HacktobersimpleParticle",
