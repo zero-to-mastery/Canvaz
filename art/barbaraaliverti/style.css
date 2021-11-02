@@ -1,0 +1,16 @@
+body {
+	margin: 0;
+}
+
+div {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: black;
+	border: 5px solid transparent;
+	border-image-slice: 100%;
+	border-image-source: none;
+	border-radius: 5px;
+	border-image-source: linear-gradient( to right, #98DDCB 0%, #ED76C7 100% );
+	border-image-slice: 5;	
+}
