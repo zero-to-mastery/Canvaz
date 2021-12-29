@@ -8,8 +8,8 @@ function roundRect(ctx, x, y, width, height, radius, fill, stroke) {
   if (typeof radius === "number") {
     radius = { tl: radius, tr: radius, br: radius, bl: radius };
   } else {
-    var defaultRadius = { tl: 0, tr: 0, br: 0, bl: 0 };
-    for (var side in defaultRadius) {
+    let defaultRadius = { tl: 0, tr: 0, br: 0, bl: 0 };
+    for (let side in defaultRadius) {
       radius[side] = radius[side] || defaultRadius[side];
     }
   }
@@ -36,7 +36,7 @@ function roundRect(ctx, x, y, width, height, radius, fill, stroke) {
     ctx.stroke();
   }
 }
-var ctx = document.getElementById("canvas").getContext("2d");
+let ctx = document.getElementById("canvas").getContext("2d");
 
 // To change the color on the rectangle, just manipulate the context
 
