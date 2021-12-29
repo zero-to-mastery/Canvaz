@@ -1,0 +1,12 @@
+*{
+    margin: 20px auto;
+    display: block;
+}
+
+#myCanvas{
+    width: 300px;
+    height: 300px;
+    /* border:1px solid #000000; */
+    border-style: inset;
+    background-color: linear-gradient(to right, rgb(0, 255, 0), rgb(255, 0, 0));
+}
