@@ -1,0 +1,16 @@
+h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.draw {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 400px;
+  /* border: 2px solid rgb(55, 17, 143); */
+}
+#canvas {
+    border: 1px solid black;
+    /* margin: 300px; */
+}
