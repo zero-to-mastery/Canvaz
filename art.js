@@ -720,6 +720,13 @@
     "author_github_url": "https://github.com/ChathuraSam/"
   },
   {
+    "name": "Color Changing Box",
+    "page_link": "./art/chin/index.html",
+    "art_icon": "./art/chin/icon.png",
+    "author_name": "Chin",
+    "author_github_url": "https://github.com/chin24/"
+  },
+  {
     "name": "Fractal Tree",
     "page_link": "./art/chirayu-tree/index.html",
     "art_icon": "./art/chirayu-tree/icon.png",
@@ -1535,7 +1542,14 @@
     "art_icon": "./art/zillBoy/icon.png",
     "author_name": "Muhammad Usman",
     "author_github_url": "https://github.com/zillBoy/"
-  }
+  },
+  {
+    "name": "Shpongle",
+    "page_link": "./art/Jerry/index.html",
+    "art_icon": "./art/Jerry/img/shpongle.png",
+    "author_name": "Jerry Alys",
+    "author_github_url": "https://github.com/Jerryalys"
+  },
 ]
 
     
