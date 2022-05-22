@@ -288,6 +288,13 @@
     "author_github_url": "https://github.com/JMCrawf/"
   },
   {
+    "name": "Shpongle",
+    "page_link": "./art/Jerry/index.html",
+    "art_icon": "./art/Jerry/icon.png",
+    "author_name": "Jerry Alys",
+    "author_github_url": "https://github.com/Jerryalys"
+  },
+  {
     "name": "React-Logo",
     "page_link": "./art/JotSingh/index.html",
     "art_icon": "./art/JotSingh/icon.png",
@@ -321,6 +328,13 @@
     "art_icon": "./art/Kanwarbir02/icon.png",
     "author_name": "Kanwarbir Singh",
     "author_github_url": "https://github.com/Kanwarbir02"
+  },
+  {
+    "name": "Rotating Witch",
+    "page_link": "./art/KennyMcGeoch/index.html",
+    "art_icon": "./art/KennyMcGeoch/icon.png",
+    "author_name": "Kenny McGeoch",
+    "author_github_url": "https://github.com/KennyMcGeoch/"
   },
   {
     "name": "Adventure Time ",
@@ -494,6 +508,13 @@
     "art_icon": "./art/ShyamNR/icon.png",
     "author_name": "Shyam NR",
     "author_github_url": "https://github.com/Shyam-NR/"
+  },
+  {
+    "name": "Favourite Brands/Logo",
+    "page_link": "./art/Sridarshan/index.html",
+    "art_icon": "./art/Sridarshan/icon.png",
+    "author_name": "Sridarshan",
+    "author_github_url": "https://github.com/sridarshan-webjava"
   },
   {
     "name": "Tokyo-Olympics",
@@ -1152,6 +1173,13 @@
     "author_github_url": "https://github.com/or-yam/"
   },
   {
+    "name": "Pixel Art Maker",
+    "page_link": "./art/osHamad/index.html",
+    "art_icon": "./art/osHamad/icon.png",
+    "author_name": "osama",
+    "author_github_url": "https://github.com/osHamad/"
+  },
+  {
     "name": "Ascii Leaves",
     "page_link": "./art/patricceam2/index.html",
     "art_icon": "./art/patricceam2/icon.png",
@@ -1542,14 +1570,7 @@
     "art_icon": "./art/zillBoy/icon.png",
     "author_name": "Muhammad Usman",
     "author_github_url": "https://github.com/zillBoy/"
-  },
-  {
-    "name": "Shpongle",
-    "page_link": "./art/Jerry/index.html",
-    "art_icon": "./art/Jerry/img/shpongle.png",
-    "author_name": "Jerry Alys",
-    "author_github_url": "https://github.com/Jerryalys"
-  },
+  }
 ]
 
     
