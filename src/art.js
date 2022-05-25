@@ -92,6 +92,13 @@
     "author_github_url": "https://github.com/Aramantos"
   },
   {
+    "name": "Microsoft_Logo",
+    "page_link": "./art/Aryan/index.html",
+    "art_icon": "./art/Aryan/icon.png",
+    "author_name": "Aryan",
+    "author_github_url": "https://github.com/AryanCoder2010"
+  },
+  {
     "name": "Colorful Stars",
     "page_link": "./art/BeeBeeWeb/index.html",
     "art_icon": "./art/BeeBeeWeb/icon.png",
@@ -288,6 +295,13 @@
     "author_github_url": "https://github.com/JMCrawf/"
   },
   {
+    "name": "Shpongle",
+    "page_link": "./art/Jerry/index.html",
+    "art_icon": "./art/Jerry/icon.png",
+    "author_name": "Jerry Alys",
+    "author_github_url": "https://github.com/Jerryalys"
+  },
+  {
     "name": "React-Logo",
     "page_link": "./art/JotSingh/index.html",
     "art_icon": "./art/JotSingh/icon.png",
@@ -321,6 +335,13 @@
     "art_icon": "./art/Kanwarbir02/icon.png",
     "author_name": "Kanwarbir Singh",
     "author_github_url": "https://github.com/Kanwarbir02"
+  },
+  {
+    "name": "Rotating Witch",
+    "page_link": "./art/KennyMcGeoch/index.html",
+    "art_icon": "./art/KennyMcGeoch/icon.png",
+    "author_name": "Kenny McGeoch",
+    "author_github_url": "https://github.com/KennyMcGeoch/"
   },
   {
     "name": "Adventure Time ",
@@ -361,6 +382,13 @@
     "art_icon": "./art/MohamedS98/icon.png",
     "author_name": "Mohamed Saleh",
     "author_github_url": "https://github.com/mohamedsaleh1984"
+  },
+  {
+    "name": "Simple Square Animation",
+    "page_link": "./art/Moso2006/index.html",
+    "art_icon": "./art/Moso2006/icon.png",
+    "author_name": "Moso",
+    "author_github_url": "https://github.com/Moso2006-gh"
   },
   {
     "name": "Microsoft Logo",
@@ -494,6 +522,13 @@
     "art_icon": "./art/ShyamNR/icon.png",
     "author_name": "Shyam NR",
     "author_github_url": "https://github.com/Shyam-NR/"
+  },
+  {
+    "name": "Favourite Brands/Logo",
+    "page_link": "./art/Sridarshan/index.html",
+    "art_icon": "./art/Sridarshan/icon.png",
+    "author_name": "Sridarshan",
+    "author_github_url": "https://github.com/sridarshan-webjava"
   },
   {
     "name": "Tokyo-Olympics",
@@ -846,6 +881,13 @@
     "author_github_url": "https://github.com/dewansh16"
   },
   {
+    "name": "drawingX",
+    "page_link": "./art/drawingX/index.html",
+    "art_icon": "./art/drawingX/icon.png",
+    "author_name": "chrisyang-git",
+    "author_github_url": "https://github.com/chrisyang-git"
+  },
+  {
     "name": "SimplePiano",
     "page_link": "./art/dylanb6/index.html",
     "art_icon": "./art/dylanb6/icon.png",
@@ -1152,6 +1194,13 @@
     "author_github_url": "https://github.com/or-yam/"
   },
   {
+    "name": "Pixel Art Maker",
+    "page_link": "./art/osHamad/index.html",
+    "art_icon": "./art/osHamad/icon.png",
+    "author_name": "osama",
+    "author_github_url": "https://github.com/osHamad/"
+  },
+  {
     "name": "Ascii Leaves",
     "page_link": "./art/patricceam2/index.html",
     "art_icon": "./art/patricceam2/icon.png",
@@ -1367,6 +1416,13 @@
     "art_icon": "./art/sammneto/icon.png",
     "author_name": "Samm",
     "author_github_url": "https://github.com/sammkodes96/"
+  },
+  {
+    "name": "HacktoberFox",
+    "page_link": "./art/sampsonorson/index.html",
+    "art_icon": "./art/sampsonorson/icon.png",
+    "author_name": "Sampson Orson Jackson",
+    "author_github_url": "https://github.com/dev-sampsonorson"
   },
   {
     "name": "Bouncing balls",

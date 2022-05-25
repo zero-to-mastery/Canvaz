@@ -1,0 +1,28 @@
+body {
+    background-color:#3c71a3;
+    color:white;
+    font-family:Arial;
+  }
+  .container{
+    display:flex;
+    height:100vh;
+    align-items:center;
+    justify-content:center;
+    flex-direction:row;
+    flex-wrap:wrap;
+    
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .bottom {
+    text-align: center;
+    text-size-adjust: 100px;
+    font-family:Trebuchet MS;
+    font-size: 50px;
+    padding: 1px;
+    color: rgb(14, 13, 13);
+  }

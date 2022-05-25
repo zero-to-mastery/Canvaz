@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Document</title>
+</head>
+<body>
+    <div id="container"></div>
+    <label for="color">Brush Color: </label>
+    <input type="color" name="color" id="color-select">
+    <br>
+    <label for="color">Brush Size: </label>
+    <input type="number" name="size" id="size-select" min="10" max="50" step="10" value="50">
+    <br>
+    <button id="clear-canvas">Clear</button>
+    <br>
+    <canvas id="pixel-canvas" width="500" height="500"></canvas>
+    <script src="script.js"></script>
+</body>
+</html>
