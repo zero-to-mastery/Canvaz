@@ -1,0 +1,7 @@
+body{
+       margin: 0;
+}
+#Canvas{
+       border-radius: 5px;
+       border-style: none;
+}
