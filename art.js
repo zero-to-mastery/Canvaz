@@ -92,6 +92,13 @@
     "author_github_url": "https://github.com/Aramantos"
   },
   {
+    "name": "Microsoft_Logo",
+    "page_link": "./art/Aryan/index.html",
+    "art_icon": "./art/Aryan/icon.png",
+    "author_name": "Aryan",
+    "author_github_url": "https://github.com/AryanCoder2010"
+  },
+  {
     "name": "Colorful Stars",
     "page_link": "./art/BeeBeeWeb/index.html",
     "art_icon": "./art/BeeBeeWeb/icon.png",
@@ -375,6 +382,13 @@
     "art_icon": "./art/MohamedS98/icon.png",
     "author_name": "Mohamed Saleh",
     "author_github_url": "https://github.com/mohamedsaleh1984"
+  },
+  {
+    "name": "Simple Square Animation",
+    "page_link": "./art/Moso2006/index.html",
+    "art_icon": "./art/Moso2006/icon.png",
+    "author_name": "Moso",
+    "author_github_url": "https://github.com/Moso2006-gh"
   },
   {
     "name": "Microsoft Logo",
@@ -865,6 +879,13 @@
     "art_icon": "./art/dewansh_Patle/icon.png",
     "author_name": "Dewansh",
     "author_github_url": "https://github.com/dewansh16"
+  },
+  {
+    "name": "drawingX",
+    "page_link": "./art/drawingX/index.html",
+    "art_icon": "./art/drawingX/icon.png",
+    "author_name": "chrisyang-git",
+    "author_github_url": "https://github.com/chrisyang-git"
   },
   {
     "name": "SimplePiano",
@@ -1395,6 +1416,13 @@
     "art_icon": "./art/sammneto/icon.png",
     "author_name": "Samm",
     "author_github_url": "https://github.com/sammkodes96/"
+  },
+  {
+    "name": "HacktoberFox",
+    "page_link": "./art/sampsonorson/index.html",
+    "art_icon": "./art/sampsonorson/icon.png",
+    "author_name": "Sampson Orson Jackson",
+    "author_github_url": "https://github.com/dev-sampsonorson"
   },
   {
     "name": "Bouncing balls",
