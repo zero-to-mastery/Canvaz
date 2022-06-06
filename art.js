@@ -1439,6 +1439,13 @@
     "author_github_url": "https://github.com/saurabh2836/"
   },
   {
+    "name": "Purple Rain",
+    "page_link": "./art/savday/index.html",
+    "art_icon": "./art/savday/icon.png",
+    "author_name": "savday",
+    "author_github_url": "https://github.com/savday/"
+  },
+  {
     "name": "Fibonacci Spiral",
     "page_link": "./art/sn2606/index.html",
     "art_icon": "./art/sn2606/icon.png",
